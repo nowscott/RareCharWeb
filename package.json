@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/lodash": "^4.17.18",
     "lodash": "^4.17.21",
-    "next": "15.3.4",
+    "next": "15.3.8",
     "pinyin": "^4.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
