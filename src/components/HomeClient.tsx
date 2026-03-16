@@ -19,15 +19,8 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
   const router = useRouter();
   const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
-  const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
-    // 标记客户端已挂载，避免hydration mismatch
-    // 使用 setTimeout 延迟设置状态，避免同步更新导致的问题
-    const timer = setTimeout(() => {
-      setIsClient(true);
-    }, 0);
-    
     // 初始化字体优化
     optimizeSymbolRendering();
     
@@ -35,9 +28,7 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
     waitForFontsLoad().catch((error) => {
       console.warn('Font loading failed:', error);
     });
-
-    return () => clearTimeout(timer);
-  }, [symbols]);
+  }, []);
 
   // 处理分类数据，添加"全部"分类
   const categories = useMemo(() => {
@@ -48,8 +39,8 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
 
   // 根据当前分类和搜索查询处理符号数据
   const displayedSymbols = useMemo(() => {
-    return processSymbols(symbols, activeCategory, searchQuery, isClient);
-  }, [symbols, activeCategory, searchQuery, isClient]);
+    return processSymbols(symbols, activeCategory, searchQuery);
+  }, [symbols, activeCategory, searchQuery]);
 
   const handleCategoryChange = (category: string) => {
     setActiveCategory(category);
@@ -72,7 +63,7 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
             </div>
             <div className="flex space-x-2 sm:space-x-4">
               <button 
-                onClick={() => router.push('/')}
+                onClick={() => router.push('/home')}
                 className={`px-3 py-2 sm:px-4 sm:py-2 ${pageTitle === "复制符" ? 'bg-blue-600' : 'bg-gray-400 hover:bg-gray-500'} text-white rounded-lg transition-colors flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95`}
               >
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -118,19 +109,10 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
           </div>
         ) : null}
 
-        {!isClient ? (
-          <div className="flex items-center justify-center py-12">
-            <div className="flex flex-col items-center space-y-4">
-              <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
-              <p className="text-gray-600 dark:text-gray-400">正在加载符号...</p>
-            </div>
-          </div>
-        ) : (
-          <SymbolList 
-            displayedSymbols={displayedSymbols}
-            searchQuery={searchQuery}
-          />
-        )}
+        <SymbolList 
+          displayedSymbols={displayedSymbols}
+          searchQuery={searchQuery}
+        />
       </div>
     </div>
   );

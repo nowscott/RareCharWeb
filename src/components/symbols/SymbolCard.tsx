@@ -12,21 +12,12 @@ interface SymbolCardProps {
 
 const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
   const symbolRef = useRef<HTMLDivElement>(null);
-  const [isClient, setIsClient] = useState(false);
   
-  useEffect(() => {
-    // 使用 setTimeout 延迟设置状态
-    const timer = setTimeout(() => {
-      setIsClient(true);
-    }, 0);
-    return () => clearTimeout(timer);
-  }, []);
-
   useEffect(() => {
     if (symbolRef.current) {
       applySymbolFont(symbolRef.current);
     }
-  }, [symbol.symbol, isClient]);
+  }, [symbol.symbol]);
   
   const [copySuccess, setCopySuccess] = useState(false);
 
@@ -62,7 +53,7 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
       </button>
       <div 
         ref={symbolRef}
-        className={`text-3xl sm:text-4xl mb-1 sm:mb-2 ${isClient ? getSymbolClassName('symbol-large symbol-center symbol-no-select') : 'symbol-display symbol-large symbol-center symbol-no-select'}`}
+        className={`text-3xl sm:text-4xl mb-1 sm:mb-2 ${getSymbolClassName('symbol-large symbol-center symbol-no-select')}`}
       >
         {symbol.symbol}
       </div>

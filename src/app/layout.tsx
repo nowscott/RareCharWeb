@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import React from 'react';
 import "./styles/globals.css";
-import AppInitializer from '@/components/AppInitializer';
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 import FontHealthChecker from '@/components/FontHealthChecker';
 
@@ -58,9 +57,7 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         <ServiceWorkerRegister />
-        <AppInitializer>
-          {children}
-        </AppInitializer>
+        {children}
         <FontHealthChecker />
       </body>
     </html>
