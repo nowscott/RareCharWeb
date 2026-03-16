@@ -74,6 +74,35 @@ export function filterSymbolsByCategory(symbols: SymbolData[], category: string)
 }
 
 /**
+ * 产生一个基于种子的随机数生成器 (简单的 LCG 算法)
+ * @param seed 种子数字
+ * @returns 随机数生成函数
+ */
+function createSeededRandom(seed: number) {
+  return function() {
+    seed = (seed * 1664525 + 1013904223) % 4294967296;
+    return seed / 4294967296;
+  };
+}
+
+/**
+ * 随机打乱数组 (使用可选种子保证确定性)
+ * @param array 原始数组
+ * @param seed 随机种子
+ * @returns 打乱后的新数组
+ */
+export function shuffleArray<T>(array: T[], seed?: number): T[] {
+  const newArray = [...array];
+  const random = seed !== undefined ? createSeededRandom(seed) : Math.random;
+  
+  for (let i = newArray.length - 1; i > 0; i--) {
+    const j = Math.floor(random() * (i + 1));
+    [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+  }
+  return newArray;
+}
+
+/**
  * 排序符号数据
  * @param symbols 符号数组
  * @param category 当前分类
@@ -87,7 +116,7 @@ export function sortSymbols(symbols: SymbolData[], category: string, hasSearchQu
   }
   
   if (category === 'all') {
-    return symbols;
+    return symbols; // "全部"分类保持服务端已打乱的顺序
   }
   return [...symbols].sort((a, b) => a.symbol.localeCompare(b.symbol));
 }
@@ -97,7 +126,6 @@ export function sortSymbols(symbols: SymbolData[], category: string, hasSearchQu
  * @param symbols 原始符号数组
  * @param category 当前分类
  * @param searchQuery 搜索查询
- * @param isClient 是否在客户端运行
  * @returns 处理后的符号数组
  */
 export function processSymbols(
@@ -113,7 +141,7 @@ export function processSymbols(
     filtered = searchSymbols(filtered, searchQuery);
   }
   
-  // 3. 排序
+  // 3. 排序 (非全部标签时按字母排序)
   const hasSearchQuery = searchQuery.trim().length > 0;
   filtered = sortSymbols(filtered, category, hasSearchQuery);
   
