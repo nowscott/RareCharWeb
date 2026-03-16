@@ -93,7 +93,7 @@ function createSeededRandom(seed: number) {
  */
 export function shuffleArray<T>(array: T[], seed?: number): T[] {
   const newArray = [...array];
-  const random = seed !== undefined ? createSeededRandom(seed) : Math.random;
+  const random = seed !== undefined ? createSeededRandom(seed) : () => Math.random();
   
   for (let i = newArray.length - 1; i > 0; i--) {
     const j = Math.floor(random() * (i + 1));
