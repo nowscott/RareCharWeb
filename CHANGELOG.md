@@ -1,3 +1,5 @@
+## [1.6.2](https://github.com/nowscott/RareCharWeb/compare/v1.6.1...v1.6.2) (2026-03-16)
+
 ## [1.6.1](https://github.com/nowscott/rarecharweb/compare/v1.6.0...v1.6.1) (2025-07-02)
 
 # [1.6.0](https://github.com/nowscott/rarecharweb/compare/v1.5.0...v1.6.0) (2025-07-01)
