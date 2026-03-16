@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useMemo, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 import { SymbolData, CategoryStat } from '@/lib/core/types';
 import { processSymbols } from '@/lib/core/symbolUtils';
 import { SearchBar, CategoryNav } from '@/components/navigation';
@@ -16,7 +16,6 @@ interface HomeClientProps {
 }
 
 export default function HomeClient({ symbols, categoryStats, pageTitle = "复制符", pageDescription = "快速查找特殊符号，一键复制" }: HomeClientProps) {
-  const router = useRouter();
   const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
 
@@ -62,31 +61,31 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
               <p className="text-sm sm:text-base text-gray-600 dark:text-gray-400">{pageDescription}</p>
             </div>
             <div className="flex space-x-2 sm:space-x-4">
-              <button 
-                onClick={() => router.push('/home')}
+              <Link 
+                href="/home"
                 className={`px-3 py-2 sm:px-4 sm:py-2 ${pageTitle === "复制符" ? 'bg-blue-600' : 'bg-gray-400 hover:bg-gray-500'} text-white rounded-lg transition-colors flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95`}
               >
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14" />
                 </svg>
                 <span className="hidden sm:inline sm:ml-2">符号</span>
-              </button>
-              <button 
-                onClick={() => router.push('/emoji')}
+              </Link>
+              <Link 
+                href="/emoji"
                 className={`px-3 py-2 sm:px-4 sm:py-2 ${pageTitle === "Emoji" ? 'bg-orange-600' : 'bg-gray-400 hover:bg-gray-500'} text-white rounded-lg transition-colors flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95`}
               >
                 <span className="text-lg">😀</span>
                 <span className="hidden sm:inline sm:ml-2">Emoji</span>
-              </button>
-              <button 
-                onClick={() => router.push('/about')}
+              </Link>
+              <Link 
+                href="/about"
                 className={`px-3 py-2 sm:px-4 sm:py-2 ${pageTitle === "关于" ? 'bg-purple-600' : 'bg-gray-400 hover:bg-gray-500'} text-white rounded-lg transition-colors flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95`}
               >
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
                 <span className="hidden sm:inline sm:ml-2">关于</span>
-              </button>
+              </Link>
             </div>
           </div>
         </nav>
