@@ -1,7 +1,6 @@
 // 符号搜索和排序工具函数
 import { pinyin } from 'pinyin';
 import { SymbolData } from './types';
-import { shuffle } from 'lodash';
 
 /**
  * 搜索符号数据
@@ -81,18 +80,16 @@ export function filterSymbolsByCategory(symbols: SymbolData[], category: string)
  * @param hasSearchQuery 是否有搜索查询
  * @returns 排序后的符号数组
  */
-export function sortSymbols(symbols: SymbolData[], category: string, hasSearchQuery: boolean, isClient: boolean = false): SymbolData[] {
+export function sortSymbols(symbols: SymbolData[], category: string, hasSearchQuery: boolean): SymbolData[] {
   // 如果有搜索查询，保持搜索结果的原始顺序
   if (hasSearchQuery) {
     return symbols;
   }
   
-  // 全部分类下：客户端随机排序，服务端保持原始顺序（避免hydration mismatch）
   if (category === 'all') {
-    return isClient ? shuffle([...symbols]) : symbols;
-  } else {
-    return [...symbols].sort((a, b) => a.symbol.localeCompare(b.symbol));
+    return symbols;
   }
+  return [...symbols].sort((a, b) => a.symbol.localeCompare(b.symbol));
 }
 
 /**
@@ -106,8 +103,7 @@ export function sortSymbols(symbols: SymbolData[], category: string, hasSearchQu
 export function processSymbols(
   symbols: SymbolData[], 
   category: string, 
-  searchQuery: string,
-  isClient: boolean = false
+  searchQuery: string
 ): SymbolData[] {
   // 1. 按分类过滤
   let filtered = filterSymbolsByCategory(symbols, category);
@@ -119,7 +115,7 @@ export function processSymbols(
   
   // 3. 排序
   const hasSearchQuery = searchQuery.trim().length > 0;
-  filtered = sortSymbols(filtered, category, hasSearchQuery, isClient);
+  filtered = sortSymbols(filtered, category, hasSearchQuery);
   
   return filtered;
 }

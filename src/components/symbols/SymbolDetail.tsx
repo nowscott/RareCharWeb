@@ -9,19 +9,10 @@ interface SymbolDetailProps {
 
 const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
   const [showCopySuccess, setShowCopySuccess] = useState(false);
-  const [isClient, setIsClient] = useState(false);
   const [showScrollGradient, setShowScrollGradient] = useState(false);
   const symbolRef = useRef<HTMLDivElement>(null);
   const notesContentRef = useRef<HTMLDivElement>(null);
   
-  useEffect(() => {
-    // 使用 setTimeout 延迟设置状态
-    const timer = setTimeout(() => {
-      setIsClient(true);
-    }, 0);
-    return () => clearTimeout(timer);
-  }, []);
-
   useEffect(() => {
     if (symbolRef.current && symbol) {
       applySymbolFont(symbolRef.current);
@@ -110,7 +101,7 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
           <div className="text-center mb-6">
             <div 
               ref={symbolRef}
-              className={`text-6xl mb-4 ${isClient ? getSymbolClassName('symbol-large symbol-center symbol-no-select') : 'symbol-display symbol-large symbol-center symbol-no-select'}`}
+              className={`text-6xl mb-4 ${getSymbolClassName('symbol-large symbol-center symbol-no-select')}`}
             >
               {symbol.symbol}
             </div>

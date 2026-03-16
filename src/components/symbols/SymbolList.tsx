@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { SymbolData } from '@/lib/core/types';
 import SymbolCard from './SymbolCard';
 import SymbolDetail from './SymbolDetail';
@@ -15,13 +15,44 @@ const SymbolList: React.FC<SymbolListProps> = ({
   searchQuery
 }) => {
   const [selectedSymbol, setSelectedSymbol] = useState<SymbolData | null>(null);
+  const [visibleCount, setVisibleCount] = useState(180);
+  const sentinelRef = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setVisibleCount(180);
+    }, 0);
+    return () => clearTimeout(timer);
+  }, [displayedSymbols, searchQuery]);
+
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
+    if (visibleCount >= displayedSymbols.length) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) {
+          setVisibleCount((prev) => Math.min(prev + 180, displayedSymbols.length));
+        }
+      },
+      { rootMargin: '800px 0px' }
+    );
+
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [displayedSymbols.length, visibleCount]);
+
+  const visibleSymbols = useMemo(() => {
+    return displayedSymbols.slice(0, visibleCount);
+  }, [displayedSymbols, visibleCount]);
 
   return (
     <>
       {displayedSymbols.length > 0 ? (
         <>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
-            {displayedSymbols.map((symbol, index) => (
+            {visibleSymbols.map((symbol, index) => (
               <SymbolCard 
                 key={`${symbol.symbol}-${index}`} 
                 symbol={symbol} 
@@ -29,6 +60,9 @@ const SymbolList: React.FC<SymbolListProps> = ({
               />
             ))}
           </div>
+          {visibleCount < displayedSymbols.length ? (
+            <div ref={sentinelRef} className="h-10" />
+          ) : null}
         </>
       ) : (
         <div className="text-center py-12">

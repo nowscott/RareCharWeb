@@ -256,21 +256,7 @@ export const checkFontHealth = (): Promise<{available: string[], unavailable: st
 // 获取符号字体CSS类名 - 避免 SSR 水合错误
 export const getSymbolClassName = (additionalClasses?: string): string => {
   const baseClass = 'symbol-display';
-  
-  // 在服务端渲染期间只返回基础类名
-  if (typeof window === 'undefined') {
-    return `${baseClass} ${additionalClasses || ''}`.trim();
-  }
-  
-  // 客户端渲染时添加设备特定类名
-  if (isIOS()) {
-    return `${baseClass} ios-symbol ${additionalClasses || ''}`.trim();
-  }
-  
-  if (isAndroid()) {
-    return `${baseClass} android-symbol ${additionalClasses || ''}`.trim();
-  }
-  
+
   return `${baseClass} ${additionalClasses || ''}`.trim();
 };
 

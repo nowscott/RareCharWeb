@@ -1,5 +1,3 @@
-import { useState, useRef, useEffect } from 'react';
-import { aboutConfig } from './aboutConfig';
 import { SymbolData } from '../core/types';
 
 // 类型定义
@@ -41,15 +39,6 @@ export function mergeCategoryStats(
     .sort((a, b) => b.count - a.count);
 }
 
-// 清除缓存并重新加载的工具函数
-export function clearCacheAndReload(): void {
-  if (typeof window !== 'undefined') {
-    localStorage.clear();
-    sessionStorage.clear();
-    window.location.reload();
-  }
-}
-
 // 格式化更新时间的工具函数
 export function formatUpdateTime(): string {
   return new Date()
@@ -61,50 +50,6 @@ export function formatUpdateTime(): string {
       minute: '2-digit'
     })
     .replace(/\//g, '-');
-}
-
-// 后门功能的自定义Hook
-export function useBackdoorClick(onTrigger: () => void) {
-  const [clickCount, setClickCount] = useState(0);
-  const clickTimerRef = useRef<NodeJS.Timeout | null>(null);
-    
-  // 避免ESLint警告
-  void clickCount;
-  
-  const handleClick = () => {
-    setClickCount(prev => {
-      const newCount = prev + 1;
-      
-      // 如果达到阈值，触发回调
-      if (newCount >= aboutConfig.backdoor.clickThreshold) {
-        onTrigger();
-        return 0;
-      }
-      
-      return newCount;
-    });
-    
-    // 清除之前的计时器
-    if (clickTimerRef.current) {
-      clearTimeout(clickTimerRef.current);
-    }
-    
-    // 设置新的计时器，超时后重置计数
-    clickTimerRef.current = setTimeout(() => {
-      setClickCount(0);
-    }, aboutConfig.backdoor.resetTimeout);
-  };
-
-  // 清理计时器
-  useEffect(() => {
-    return () => {
-      if (clickTimerRef.current) {
-        clearTimeout(clickTimerRef.current);
-      }
-    };
-  }, []);
-  
-  return handleClick;
 }
 
 // 生成统计数据的工具函数

@@ -7,4 +7,3 @@ export { VersionSection } from './VersionSection';
 export { ProjectsSection } from './ProjectsSection';
 export { ContactSection } from './ContactSection';
 export { FooterSection } from './FooterSection';
-export { LoadingState } from './LoadingState';

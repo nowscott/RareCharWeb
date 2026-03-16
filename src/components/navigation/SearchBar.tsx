@@ -8,7 +8,7 @@ interface SearchBarProps {
 
 const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
   const [query, setQuery] = useState('');
-  const inputId = useId();
+  const inputId = 'search-input'; // 使用固定 ID 避免 Hydration 错误
 
   // 实时搜索：当输入内容变化时立即触发搜索
   useEffect(() => {
