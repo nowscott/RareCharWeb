@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/nowscott/RareCharWeb/compare/v1.9.0...v1.9.1) (2026-03-16)
+
+
+### Bug Fixes
+
+* **nav:** 将按钮跳转改为 Link 组件以修复导航时的浏览器刷新样式 ([ed4cbe2](https://github.com/nowscott/RareCharWeb/commit/ed4cbe22dad92eb3c04535dc87648cde2777ed98))
+
 # [1.9.0](https://github.com/nowscott/RareCharWeb/compare/v1.8.0...v1.9.0) (2026-03-16)
 
 
