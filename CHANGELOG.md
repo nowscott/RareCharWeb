@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/nowscott/RareCharWeb/compare/v1.8.0...v1.9.0) (2026-03-16)
+
+
+### Features
+
+* **pages:** implement ISR for periodic symbol randomization ([93d4c39](https://github.com/nowscott/RareCharWeb/commit/93d4c397773465c48ea35aca741c64cab973e03f))
+
 # [1.8.0](https://github.com/nowscott/RareCharWeb/compare/v1.7.0...v1.8.0) (2026-03-16)
 
 
