@@ -1,3 +1,22 @@
+# [1.9.0](https://github.com/nowscott/RareCharWeb/compare/v1.8.0...v1.9.0) (2026-03-16)
+
+
+### Features
+
+* **pages:** implement ISR for periodic symbol randomization ([93d4c39](https://github.com/nowscott/RareCharWeb/commit/93d4c397773465c48ea35aca741c64cab973e03f))
+
+# [1.8.0](https://github.com/nowscott/RareCharWeb/compare/v1.7.0...v1.8.0) (2026-03-16)
+
+
+### Bug Fixes
+
+* **layout:** restore crossOrigin attribute for external font stylesheets ([01605db](https://github.com/nowscott/RareCharWeb/commit/01605db93d461fa7cc1e91028fe54cc0565567bf))
+
+
+### Features
+
+* **symbols:** 实现符号列表服务端随机打乱并修复水合闪烁问题 ([b02b27e](https://github.com/nowscott/RareCharWeb/commit/b02b27e3f489fbd062860f8ad89e4c51a3f3e2c8))
+
 # [1.7.0](https://github.com/nowscott/RareCharWeb/compare/v1.6.2...v1.7.0) (2026-03-16)
 
 
