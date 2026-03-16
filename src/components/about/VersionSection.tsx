@@ -1,5 +1,5 @@
 import { aboutConfig } from '@/lib/about/aboutConfig';
-import { AboutVersions, AboutStats, formatUpdateTime } from '@/lib/about/aboutUtils';
+import { AboutVersions, AboutStats } from '@/lib/about/aboutUtils';
 
 // 版本信息组件
 interface VersionSectionProps {
@@ -28,10 +28,6 @@ export function VersionSection({ versions, stats }: VersionSectionProps) {
               <span className="font-semibold text-xs sm:text-sm text-purple-600">{versions.emoji}</span>
             </div>
           </div>
-        </div>
-        <div className="flex justify-between items-center py-2 sm:py-3 border-b border-gray-200 dark:border-gray-700">
-          <span className="text-gray-600 dark:text-gray-400 text-sm sm:text-base">{labels.updateTime}</span>
-          <span className="font-semibold text-sm sm:text-base">{formatUpdateTime()}</span>
         </div>
         <div className="flex justify-between items-center py-2 sm:py-3 border-b border-gray-200 dark:border-gray-700">
           <span className="text-gray-600 dark:text-gray-400 text-sm sm:text-base">{labels.devStatus}</span>

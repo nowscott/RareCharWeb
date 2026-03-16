@@ -49,7 +49,6 @@ export const aboutConfig = {
     dataVersion: '数据版本',
     symbolData: '符号数据',
     emojiData: '表情数据',
-    updateTime: '更新时间',
     devStatus: '开发状态',
     devStatusValue: '开发中',
     totalSymbols: '符号总数'
@@ -61,7 +60,7 @@ export const aboutConfig = {
       name: 'IndWebIndex',
       description: '使用Next.js + Notion API + Tailwind CSS实现的简单部署的个人索引网站',
       englishDescription: 'A simple personal index website deployed using Next.js + Notion API',
-      url: 'https://nowscott.top/',
+      url: 'https://0211120.xyz/',
       tags: ['Next.js', 'Notion API', 'Tailwind CSS'],
       status: 'active',
       icon: 'globe'

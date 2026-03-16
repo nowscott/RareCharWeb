@@ -39,19 +39,6 @@ export function mergeCategoryStats(
     .sort((a, b) => b.count - a.count);
 }
 
-// 格式化更新时间的工具函数
-export function formatUpdateTime(): string {
-  return new Date()
-    .toLocaleString('zh-CN', {
-      year: 'numeric',
-      month: '2-digit',
-      day: '2-digit',
-      hour: '2-digit',
-      minute: '2-digit'
-    })
-    .replace(/\//g, '-');
-}
-
 // 生成统计数据的工具函数
 export function generateStats(
   symbolData: SymbolData[],

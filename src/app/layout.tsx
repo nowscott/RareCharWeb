@@ -20,30 +20,14 @@ export default function RootLayout({
   return (
     <html lang="zh-CN">
       <head>
-        {/* 字体预加载优化 - 使用preload提高缓存效率 */}
-        <link 
-          rel="preload" 
-          href="https://f.0211120.xyz/font/得意黑/result.css" 
-          as="style" 
-          crossOrigin="anonymous"
-        />
-        <link 
-          rel="preload" 
-          href="https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css" 
-          as="style" 
-          crossOrigin="anonymous"
-        />
-        
-        {/* 字体样式表 - 直接加载以避免React hydration错误 */}
+        {/* 字体样式表 - 直接加载 */}
         <link 
           rel="stylesheet" 
-          href="https://f.0211120.xyz/font/得意黑/result.css" 
-          crossOrigin="anonymous"
+          href="https://f.0211120.xyz/font/%E5%BE%97%E6%84%8F%E9%BB%91/result.css" 
         />
         <link 
           rel="stylesheet" 
           href="https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css" 
-          crossOrigin="anonymous"
         />
         
         {/* 移动端优化 */}
