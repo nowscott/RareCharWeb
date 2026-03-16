@@ -15,7 +15,14 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
   const notesContentRef = useRef<HTMLDivElement>(null);
   
   useEffect(() => {
-    setIsClient(true);
+    // 使用 setTimeout 延迟设置状态
+    const timer = setTimeout(() => {
+      setIsClient(true);
+    }, 0);
+    return () => clearTimeout(timer);
+  }, []);
+
+  useEffect(() => {
     if (symbolRef.current && symbol) {
       applySymbolFont(symbolRef.current);
     }
@@ -43,13 +50,15 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
       const hasOverflow = element.scrollHeight > element.clientHeight;
       
       if (hasOverflow) {
+        // 初始设置 - 使用 setTimeout 避免同步更新
+        setTimeout(() => {
+          setShowScrollGradient(true);
+        }, 0);
+
         const handleScroll = () => {
           const isAtBottom = element.scrollTop + element.clientHeight >= element.scrollHeight - 1;
           setShowScrollGradient(!isAtBottom);
         };
-        
-        // 初始设置
-        setShowScrollGradient(true);
         
         // 添加滚动事件监听器
         element.addEventListener('scroll', handleScroll);
@@ -59,10 +68,10 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
           element.removeEventListener('scroll', handleScroll);
         };
       } else {
-        setShowScrollGradient(false);
+        setTimeout(() => setShowScrollGradient(false), 0);
       }
     } else {
-      setShowScrollGradient(false);
+      setTimeout(() => setShowScrollGradient(false), 0);
     }
   }, [symbol?.notes]);
   
