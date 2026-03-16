@@ -15,11 +15,18 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
   const [isClient, setIsClient] = useState(false);
   
   useEffect(() => {
-    setIsClient(true);
+    // 使用 setTimeout 延迟设置状态
+    const timer = setTimeout(() => {
+      setIsClient(true);
+    }, 0);
+    return () => clearTimeout(timer);
+  }, []);
+
+  useEffect(() => {
     if (symbolRef.current) {
       applySymbolFont(symbolRef.current);
     }
-  }, [symbol.symbol]);
+  }, [symbol.symbol, isClient]);
   
   const [copySuccess, setCopySuccess] = useState(false);
 

@@ -1,7 +1,7 @@
 // Service Worker for font caching optimization
 // 字体缓存优化的Service Worker
 
-const CACHE_NAME = 'rarechar-fonts-v1';
+const CACHE_NAME = 'rarechar-fonts-v1'; // eslint-disable-line @typescript-eslint/no-unused-vars
 const FONT_CACHE_NAME = 'rarechar-fonts-cache';
 
 // 需要缓存的字体资源

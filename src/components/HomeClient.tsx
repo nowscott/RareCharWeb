@@ -23,7 +23,10 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
 
   useEffect(() => {
     // 标记客户端已挂载，避免hydration mismatch
-    setIsClient(true);
+    // 使用 setTimeout 延迟设置状态，避免同步更新导致的问题
+    const timer = setTimeout(() => {
+      setIsClient(true);
+    }, 0);
     
     // 初始化字体优化
     optimizeSymbolRendering();
@@ -32,6 +35,8 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
     waitForFontsLoad().catch((error) => {
       console.warn('Font loading failed:', error);
     });
+
+    return () => clearTimeout(timer);
   }, [symbols]);
 
   // 处理分类数据，添加"全部"分类
