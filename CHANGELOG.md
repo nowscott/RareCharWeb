@@ -1,33 +1,50 @@
+## [1.9.2](https://github.com/nowscott/RareCharWeb/compare/v1.9.1...v1.9.2) (2026-06-15)
+
+
+### 问题修复
+
+* **SymbolDetail:** 修复关闭按钮定位漂移 — 为模态框容器添加 relative 类 ([93cce5e](https://github.com/nowscott/RareCharWeb/commit/93cce5e))
+* **SymbolList:** 修复 IntersectionObserver 闭包捕获过时数据 — 改用 ref 存储最新长度 ([93cce5e](https://github.com/nowscott/RareCharWeb/commit/93cce5e))
+* **SymbolList:** 修复 visibleCount 重置时的竞态条件 — 移除 setTimeout 延迟 ([93cce5e](https://github.com/nowscott/RareCharWeb/commit/93cce5e))
+* **layout:** 添加 suppressHydrationWarning 消除浏览器扩展导致的 hydration 报错 ([93cce5e](https://github.com/nowscott/RareCharWeb/commit/93cce5e))
+
+
+### 性能优化
+
+* **localData:** 添加模块级内存缓存，消除 API 重复读盘、JSON 解析、emoji 映射和分类统计计算 ([93cce5e](https://github.com/nowscott/RareCharWeb/commit/93cce5e))
+* **symbolUtils:** 服务端预计算拼音搜索字段，客户端搜索零 pinyin() 调用 ([93cce5e](https://github.com/nowscott/RareCharWeb/commit/93cce5e))
+* **page:** ISR shuffle 使用按小时确定性种子，确保多节点部署结果一致 ([93cce5e](https://github.com/nowscott/RareCharWeb/commit/93cce5e))
+
 ## [1.9.1](https://github.com/nowscott/RareCharWeb/compare/v1.9.0...v1.9.1) (2026-03-16)
 
 
-### Bug Fixes
+### 问题修复
 
 * **nav:** 将按钮跳转改为 Link 组件以修复导航时的浏览器刷新样式 ([ed4cbe2](https://github.com/nowscott/RareCharWeb/commit/ed4cbe22dad92eb3c04535dc87648cde2777ed98))
 
 # [1.9.0](https://github.com/nowscott/RareCharWeb/compare/v1.8.0...v1.9.0) (2026-03-16)
 
 
-### Features
+### 新功能
 
 * **pages:** implement ISR for periodic symbol randomization ([93d4c39](https://github.com/nowscott/RareCharWeb/commit/93d4c397773465c48ea35aca741c64cab973e03f))
 
 # [1.8.0](https://github.com/nowscott/RareCharWeb/compare/v1.7.0...v1.8.0) (2026-03-16)
 
 
-### Bug Fixes
+### 问题修复
 
 * **layout:** restore crossOrigin attribute for external font stylesheets ([01605db](https://github.com/nowscott/RareCharWeb/commit/01605db93d461fa7cc1e91028fe54cc0565567bf))
 
 
-### Features
+### 新功能
 
 * **symbols:** 实现符号列表服务端随机打乱并修复水合闪烁问题 ([b02b27e](https://github.com/nowscott/RareCharWeb/commit/b02b27e3f489fbd062860f8ad89e4c51a3f3e2c8))
 
 # [1.7.0](https://github.com/nowscott/RareCharWeb/compare/v1.6.2...v1.7.0) (2026-03-16)
 
 
-### Features
+### 新功能
 
 * **ssr:** refactor to server components for direct local data loading and remove client-side caching ([0172c91](https://github.com/nowscott/RareCharWeb/commit/0172c91380c08d1974c7101cc951e6f031101494))
 
@@ -38,33 +55,33 @@
 # [1.6.0](https://github.com/nowscott/rarecharweb/compare/v1.5.0...v1.6.0) (2025-07-01)
 
 
-### Features
+### 新功能
 
 * **性能优化:** 实现字体缓存系统和Service Worker集成 ([2f68766](https://github.com/nowscott/rarecharweb/commit/2f687669b01931507aa1a1e8e266f168ad120173))
 
 # [1.5.0](https://github.com/nowscott/rarecharweb/compare/v1.4.0...v1.5.0) (2025-07-01)
 
 
-### Features
+### 新功能
 
 * **about:** 添加其他作品展示区块 ([cd5e15b](https://github.com/nowscott/rarecharweb/commit/cd5e15b42389eb5e8768314305afe6e8eb6af376))
 
 # [1.4.0](https://github.com/nowscott/rarecharweb/compare/v1.3.0...v1.4.0) (2025-06-27)
 
 
-### Features
+### 新功能
 
 * **组件:** 改进复制按钮的视觉反馈效果 ([c34596d](https://github.com/nowscott/rarecharweb/commit/c34596def2f1aa7f1bbb9a189163a96bed9f977d))
 
 # [1.3.0](https://github.com/nowscott/rarecharweb/compare/v1.2.0...v1.3.0) (2025-06-27)
 
 
-### Bug Fixes
+### 问题修复
 
 * **about:** 添加clickCount的void语句避免ESLint警告 ([40b3432](https://github.com/nowscott/rarecharweb/commit/40b3432a858d15fc99ffece39a1fb1e6be531567))
 
 
-### Features
+### 新功能
 
 * **about:** 优化分类统计合并逻辑并更新UI样式 ([5563da8](https://github.com/nowscott/rarecharweb/commit/5563da817f1dac2d504d1512efc43a70652d056a))
 * **about:** 实现关于页面功能模块化重构 ([bf257f7](https://github.com/nowscott/rarecharweb/commit/bf257f7f83bd4552979c2b923bae72b16e94b065))
@@ -73,7 +90,7 @@
 # [1.2.0](https://github.com/nowscott/rarecharweb/compare/v1.1.6...v1.2.0) (2025-06-27)
 
 
-### Features
+### 新功能
 
 * **SymbolDetail:** 为说明文本添加滚动提示和指示器 ([8f3ea64](https://github.com/nowscott/rarecharweb/commit/8f3ea64d7ef4f57d2c8ae38e61b57fbefaf8ff7c))
 * **SymbolDetail:** 添加说明内容滚动检测和渐变提示 ([1354e11](https://github.com/nowscott/rarecharweb/commit/1354e1146ad4844cec9fe1aefd6ceda266e7c6e3))
@@ -81,14 +98,14 @@
 ## [1.1.6](https://github.com/nowscott/rarecharweb/compare/v1.1.5...v1.1.6) (2025-06-27)
 
 
-### Bug Fixes
+### 问题修复
 
 * **SymbolDetail:** 修复符号详情弹出时页面滚动问题 ([50f15cc](https://github.com/nowscott/rarecharweb/commit/50f15cc5a8bddc8dd2d213b4a0e39d871d0d5290))
 
 ## [1.1.5](https://github.com/nowscott/rarecharweb/compare/v1.1.4...v1.1.5) (2025-06-26)
 
 
-### Bug Fixes
+### 问题修复
 
 * **SearchBar:** 禁用输入框自动完成功能以避免干扰搜索 ([afca43b](https://github.com/nowscott/rarecharweb/commit/afca43bdc7ffbc73cca76d7cfb20260500ca0f21))
 
@@ -97,48 +114,48 @@
 ## [1.1.3](https://github.com/nowscott/rarecharweb/compare/v1.1.2...v1.1.3) (2025-06-25)
 
 
-### Bug Fixes
+### 问题修复
 
 * **fonts:** 调整字体栈顺序并添加Segoe UI Symbol字体 ([95f0d6f](https://github.com/nowscott/rarecharweb/commit/95f0d6f46464bffbf788b50b36a1569ebd3399f1))
 
 ## [1.1.2](https://github.com/nowscott/rarecharweb/compare/v1.1.1...v1.1.2) (2025-06-25)
 
 
-### Bug Fixes
+### 问题修复
 
 * 更新符号数据URL从beta版本到正式版本 ([8f3f012](https://github.com/nowscott/rarecharweb/commit/8f3f012e15ff6f5733d4e5203a4b51a28f1c4765))
 
 ## [1.1.1](https://github.com/nowscott/rarecharweb/compare/v1.1.0...v1.1.1) (2025-06-25)
 
 
-### Bug Fixes
+### 问题修复
 
 * 移除本地Noto Sans Symbols 2字体依赖，仅使用CDN ([df95bd6](https://github.com/nowscott/rarecharweb/commit/df95bd6ef36d9e605affb93c942b80c7352c55a6))
 
 # [1.1.0](https://github.com/nowscott/rarecharweb/compare/v1.0.1...v1.1.0) (2025-06-25)
 
 
-### Bug Fixes
+### 问题修复
 
 * **SymbolDetail:** 修复多字符符号的Unicode显示问题 ([d69dc31](https://github.com/nowscott/rarecharweb/commit/d69dc3183869463cf9d24cb876acf0af624f4b0e))
 * **HomeClient:** 修正Emoji按钮激活状态判断条件 ([b887eb0](https://github.com/nowscott/rarecharweb/commit/b887eb04fac14ec85b630b036882d9fa7b6cdeb0))
 
 
-### Features
+### 新功能
 
 * **字体:** 添加Noto Sans Symbols 2字体支持象棋符号显示 ([ddc2b4e](https://github.com/nowscott/rarecharweb/commit/ddc2b4e7f4a527e6ef8402e9f82f1f16c2e55237))
 
 ## [1.0.1](https://github.com/nowscott/rarecharweb/compare/v1.0.0...v1.0.1) (2025-06-25)
 
 
-### Bug Fixes
+### 问题修复
 
 * **about:** 使用package.json中的版本号替换硬编码版本 ([ebd649a](https://github.com/nowscott/rarecharweb/commit/ebd649ad76a3223dc6d88834426c21eeea9e2b05))
 
 # 1.0.0 (2025-06-25)
 
 
-### Bug Fixes
+### 问题修复
 
 * **组件:** 修复SymbolDetail组件点击事件冒泡和样式问题 ([2ec6375](https://github.com/nowscott/rarecharweb/commit/2ec6375b96d558715c88c0dcaa9e3bed5b6ed1e7))
 * **symbolUtils:** 修复客户端和服务端排序不一致问题 ([3387709](https://github.com/nowscott/rarecharweb/commit/3387709567641713ec72fbfd37bad7da2f3cf1e8))
@@ -148,7 +165,7 @@
 * **HomeClient:** 添加客户端状态检查避免hydration不匹配 ([a4f8740](https://github.com/nowscott/rarecharweb/commit/a4f8740fde721a0ddd4c34d9987892a486abd762))
 
 
-### Features
+### 新功能
 
 * 为页面添加 ISR 并优化数据获取逻辑 ([7cce28b](https://github.com/nowscott/rarecharweb/commit/7cce28bc19e61aa1da2c42cabe8830af5ab7988d))
 * **about:** 从API获取并显示数据版本号 ([cbcaadb](https://github.com/nowscott/rarecharweb/commit/cbcaadbf35702fadf92934eb57be0b80dc4099ed))
