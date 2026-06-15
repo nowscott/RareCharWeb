@@ -17,12 +17,14 @@ const SymbolList: React.FC<SymbolListProps> = ({
   const [selectedSymbol, setSelectedSymbol] = useState<SymbolData | null>(null);
   const [visibleCount, setVisibleCount] = useState(180);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
+  const totalRef = useRef(displayedSymbols.length);
 
+  // 保持 totalRef 同步
+  totalRef.current = displayedSymbols.length;
+
+  // 搜索/筛选变化时重置可见数量
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setVisibleCount(180);
-    }, 0);
-    return () => clearTimeout(timer);
+    setVisibleCount(180);
   }, [displayedSymbols, searchQuery]);
 
   useEffect(() => {
@@ -33,7 +35,7 @@ const SymbolList: React.FC<SymbolListProps> = ({
     const observer = new IntersectionObserver(
       (entries) => {
         if (entries.some((entry) => entry.isIntersecting)) {
-          setVisibleCount((prev) => Math.min(prev + 180, displayedSymbols.length));
+          setVisibleCount((prev) => Math.min(prev + 180, totalRef.current));
         }
       },
       { rootMargin: '800px 0px' }

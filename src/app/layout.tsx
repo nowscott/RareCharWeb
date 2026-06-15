@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="zh-CN">
+    <html lang="zh-CN" suppressHydrationWarning>
       <head>
         {/* 字体样式表 - 直接加载，保留 crossOrigin 确保字体文件正确加载 */}
         <link 

@@ -80,7 +80,7 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
       onClick={onClose}
     >
       <div 
-        className="bg-white/95 dark:bg-gray-800/95 backdrop-blur-xl border border-white/20 dark:border-gray-700/50 rounded-3xl max-w-lg w-full shadow-2xl transform transition-all duration-300 scale-100"
+        className="relative bg-white/95 dark:bg-gray-800/95 backdrop-blur-xl border border-white/20 dark:border-gray-700/50 rounded-3xl max-w-lg w-full shadow-2xl transform transition-all duration-300 scale-100"
         onClick={(e) => e.stopPropagation()}
       >
         {/* 关闭按钮 */}
