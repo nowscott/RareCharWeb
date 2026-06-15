@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { CategoryStat } from '@/lib/core/types';
+import { CategoryStat, PaginatedSymbolResponse } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
 import { SymbolList } from '@/components/symbols';
 import { optimizeSymbolRendering, waitForFontsLoad } from '@/lib/font/fontUtils';
@@ -10,6 +10,8 @@ import { optimizeSymbolRendering, waitForFontsLoad } from '@/lib/font/fontUtils'
 interface HomeClientProps {
   apiEndpoint: string;
   categories: CategoryStat[];
+  initialData: PaginatedSymbolResponse;
+  initialSeed: number;
   pageTitle?: string;
   pageDescription?: string;
 }
@@ -17,6 +19,8 @@ interface HomeClientProps {
 export default function HomeClient({
   apiEndpoint,
   categories,
+  initialData,
+  initialSeed,
   pageTitle = "复制符",
   pageDescription = "快速查找特殊符号，一键复制"
 }: HomeClientProps) {
@@ -76,7 +80,7 @@ export default function HomeClient({
         </nav>
 
         <div className="mb-6">
-          <SearchBar onSearch={setSearchQuery} />
+          <SearchBar value={searchQuery} onSearch={setSearchQuery} />
         </div>
 
         <div className="mb-6">
@@ -91,6 +95,8 @@ export default function HomeClient({
           apiEndpoint={apiEndpoint}
           category={activeCategory}
           searchQuery={searchQuery}
+          initialData={initialData}
+          initialSeed={initialSeed}
         />
       </div>
     </div>

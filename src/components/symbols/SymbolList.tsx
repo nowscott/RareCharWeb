@@ -1,41 +1,46 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { SymbolData } from '@/lib/core/types';
+import { SYMBOL_PAGE_SIZE } from '@/lib/core/pagination';
+import { PaginatedSymbolResponse, SymbolData } from '@/lib/core/types';
 import SymbolCard from './SymbolCard';
 import SymbolDetail from './SymbolDetail';
-import SkeletonGrid from './SkeletonGrid';
 
 interface SymbolListProps {
   apiEndpoint: string;
   category: string;
   searchQuery: string;
+  initialData: PaginatedSymbolResponse;
+  initialSeed: number;
 }
 
-interface PaginatedAPIResponse {
-  symbols: SymbolData[];
-  page: number;
-  limit: number;
-  total: number;
-  hasMore: boolean;
+function buildRequestKey(apiEndpoint: string, category: string, searchQuery: string, retryCount: number) {
+  return JSON.stringify([apiEndpoint, category, searchQuery, retryCount]);
 }
 
-const PAGE_SIZE = 200;
-
-const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQuery }) => {
+const SymbolList: React.FC<SymbolListProps> = ({
+  apiEndpoint,
+  category,
+  searchQuery,
+  initialData,
+  initialSeed
+}) => {
+  const initialRequestKey = buildRequestKey(apiEndpoint, 'all', '', 0);
   const [selectedSymbol, setSelectedSymbol] = useState<SymbolData | null>(null);
-  const [allSymbols, setAllSymbols] = useState<SymbolData[]>([]);
-  const [currentPage, setCurrentPage] = useState(0);
-  const [hasMore, setHasMore] = useState(true);
+  const [allSymbols, setAllSymbols] = useState<SymbolData[]>(initialData.symbols);
+  const [currentPage, setCurrentPage] = useState(initialData.page);
+  const [hasMore, setHasMore] = useState(initialData.hasMore);
   const [loadingMore, setLoadingMore] = useState(false);
-  const [loadedRequestKey, setLoadedRequestKey] = useState<string | null>(null);
+  const [loadedRequestKey, setLoadedRequestKey] = useState<string | null>(initialRequestKey);
   const [failedRequestKey, setFailedRequestKey] = useState<string | null>(null);
   const [retryCount, setRetryCount] = useState(0);
 
+  const hasRequestedDynamicDataRef = useRef(false);
   const sentinelRef = useRef<HTMLDivElement>(null);
-  const seedRef = useRef(0);
+  const seedRef = useRef(initialSeed);
 
-  const requestKey = `${apiEndpoint}\0${category}\0${searchQuery}\0${retryCount}`;
+  const requestKey = buildRequestKey(apiEndpoint, category, searchQuery, retryCount);
+  const isInitialRequest = category === 'all' && searchQuery === '' && retryCount === 0;
   const loading = loadedRequestKey !== requestKey && failedRequestKey !== requestKey;
   const error = failedRequestKey === requestKey ? '加载失败，请重试' : null;
 
@@ -43,7 +48,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
   const buildUrl = useCallback((page: number) => {
     const params = new URLSearchParams();
     params.set('page', String(page));
-    params.set('limit', String(PAGE_SIZE));
+    params.set('limit', String(SYMBOL_PAGE_SIZE));
     params.set('seed', String(seedRef.current));
     if (category && category !== 'all') params.set('category', category);
     if (searchQuery.trim()) params.set('search', searchQuery.trim());
@@ -52,6 +57,13 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
 
   // category/search 变化时重置
   useEffect(() => {
+    if (isInitialRequest && !hasRequestedDynamicDataRef.current) {
+      return;
+    }
+
+    if (loadedRequestKey === requestKey) return;
+
+    hasRequestedDynamicDataRef.current = true;
     seedRef.current = Date.now();
 
     const controller = new AbortController();
@@ -60,7 +72,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();
       })
-      .then((data: PaginatedAPIResponse) => {
+      .then((data: PaginatedSymbolResponse) => {
         setAllSymbols(data.symbols);
         setCurrentPage(1);
         setHasMore(data.hasMore);
@@ -74,7 +86,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
       });
 
     return () => controller.abort();
-  }, [buildUrl, requestKey]);
+  }, [buildUrl, isInitialRequest, loadedRequestKey, requestKey]);
 
   // 加载下一页
   const loadMore = useCallback(() => {
@@ -87,7 +99,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();
       })
-      .then((data: PaginatedAPIResponse) => {
+      .then((data: PaginatedSymbolResponse) => {
         setAllSymbols(prev => [...prev, ...data.symbols]);
         setCurrentPage(nextPage);
         setHasMore(data.hasMore);
@@ -116,10 +128,6 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
     return () => observer.disconnect();
   }, [loading, loadingMore, hasMore, loadMore]);
 
-  if (loading) {
-    return <SkeletonGrid />;
-  }
-
   if (error) {
     return (
       <div className="text-center py-12">
@@ -134,7 +142,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
     );
   }
 
-  if (allSymbols.length === 0) {
+  if (allSymbols.length === 0 && !loading) {
     return (
       <div className="text-center py-12">
         <p className="text-gray-500 dark:text-gray-400">
@@ -146,6 +154,14 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
 
   return (
     <>
+      {loading && (
+        <div
+          role="status"
+          className="fixed bottom-4 left-1/2 z-40 -translate-x-1/2 rounded-full bg-gray-900/90 px-3 py-1.5 text-xs text-white shadow-lg backdrop-blur dark:bg-white/90 dark:text-gray-900"
+        >
+          正在更新结果...
+        </div>
+      )}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
         {allSymbols.map((symbol, index) => (
           <SymbolCard

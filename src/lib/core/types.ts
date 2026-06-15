@@ -36,6 +36,14 @@ export interface SymbolDataResponse {
   };
 }
 
+export interface PaginatedSymbolResponse {
+  symbols: SymbolData[];
+  page: number;
+  limit: number;
+  total: number;
+  hasMore: boolean;
+}
+
 export interface EmojiDataResponse {
   version: string;
   emojis: EmojiData[];
