@@ -1,20 +1,25 @@
 import HomeClient from '@/components/HomeClient';
 import { getLocalEmojiDataResponse } from '@/lib/data/localData';
-import { shuffleArray } from '@/lib/core/symbolUtils';
+import { CategoryStat } from '@/lib/core/types';
 
-// 开启 ISR (增量静态再生)，每小时随机打乱一次页面符号顺序
+// 开启 ISR (增量静态再生)，每小时重新生成页面
 export const revalidate = 3600;
 
 export default async function EmojiPage() {
   const data = await getLocalEmojiDataResponse();
-  // 在服务端生成静态页面时进行随机打乱（按小时种子，多节点一致）
-  const hourSeed = Math.floor(Date.now() / 3600000);
-  const shuffledSymbols = shuffleArray(data.symbols, hourSeed);
-  
+  const stats = data.stats?.categoryStats ?? [];
+
+  // 在服务端预计算分类列表
+  const totalCount = data.stats?.totalSymbols ?? 0;
+  const categories: CategoryStat[] = [
+    { id: 'all', name: '全部', count: totalCount },
+    ...stats
+  ];
+
   return (
     <HomeClient
-      symbols={shuffledSymbols}
-      categoryStats={data.stats?.categoryStats || []}
+      apiEndpoint="/api/emoji"
+      categories={categories}
       pageTitle="Emoji"
       pageDescription="探索丰富的Emoji世界，找到完美的表达方式"
     />

@@ -3,6 +3,23 @@ import { join } from 'node:path';
 import { pinyin } from 'pinyin';
 import { calculateCategoryStats } from '@/lib/core/apiUtils';
 import { EmojiData, SymbolData, SymbolDataResponse } from '@/lib/core/types';
+import { filterSymbolsByCategory, searchSymbols, sortSymbols, shuffleArray } from '@/lib/core/symbolUtils';
+
+export interface PaginatedParams {
+  page: number;
+  limit: number;
+  seed?: number;
+  category?: string;
+  search?: string;
+}
+
+export interface PaginatedResponse {
+  symbols: SymbolData[];
+  page: number;
+  limit: number;
+  total: number;
+  hasMore: boolean;
+}
 
 // 内存缓存 — 数据文件仅部署时变更，缓存整个进程生命周期
 let _symbolsCache: SymbolDataResponse | null = null;
@@ -97,4 +114,54 @@ export async function getLocalEmojiDataResponse(): Promise<SymbolDataResponse> {
   };
 
   return _emojiCache;
+}
+
+/**
+ * 对已缓存的符号数据进行分页查询，支持分类筛选、搜索和随机打乱
+ */
+export async function getPaginatedSymbols(params: PaginatedParams): Promise<PaginatedResponse> {
+  const data = await getLocalSymbolDataResponse();
+  return paginateSymbols(data.symbols, params);
+}
+
+export async function getPaginatedEmoji(params: PaginatedParams): Promise<PaginatedResponse> {
+  const data = await getLocalEmojiDataResponse();
+  return paginateSymbols(data.symbols, params);
+}
+
+function paginateSymbols(allSymbols: SymbolData[], params: PaginatedParams): PaginatedResponse {
+  const { page, limit, seed, category, search } = params;
+  let symbols = allSymbols;
+
+  // 1. 随机打乱（仅在无搜索且分类为 all 时打乱）
+  if (!search?.trim() && (!category || category === 'all')) {
+    symbols = shuffleArray(symbols, seed);
+  }
+
+  // 2. 按分类过滤
+  if (category && category !== 'all') {
+    symbols = filterSymbolsByCategory(symbols, category);
+  }
+
+  // 3. 搜索过滤
+  if (search?.trim()) {
+    symbols = searchSymbols(symbols, search);
+  }
+
+  // 4. 排序（非全部 + 有搜索时保持搜索顺序）
+  const hasSearch = !!(search?.trim());
+  symbols = sortSymbols(symbols, category || 'all', hasSearch);
+
+  // 5. 分页
+  const total = symbols.length;
+  const start = (page - 1) * limit;
+  const paged = symbols.slice(start, start + limit);
+
+  return {
+    symbols: paged,
+    page,
+    limit,
+    total,
+    hasMore: start + limit < total
+  };
 }
