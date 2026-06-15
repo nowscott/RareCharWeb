@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { CategoryStat } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
@@ -9,14 +9,14 @@ import { optimizeSymbolRendering, waitForFontsLoad } from '@/lib/font/fontUtils'
 
 interface HomeClientProps {
   apiEndpoint: string;
-  categoryStats: CategoryStat[];
+  categories: CategoryStat[];
   pageTitle?: string;
   pageDescription?: string;
 }
 
 export default function HomeClient({
   apiEndpoint,
-  categoryStats,
+  categories,
   pageTitle = "复制符",
   pageDescription = "快速查找特殊符号，一键复制"
 }: HomeClientProps) {
@@ -29,13 +29,6 @@ export default function HomeClient({
       console.warn('Font loading failed:', error);
     });
   }, []);
-
-  // 处理分类数据，添加"全部"分类
-  const categories = useMemo(() => {
-    const totalCount = categoryStats.reduce((sum, c) => sum + c.count, 0);
-    const allCategory = { id: 'all', name: '全部', count: totalCount };
-    return [allCategory, ...categoryStats];
-  }, [categoryStats]);
 
   const handleCategoryChange = (category: string) => {
     setActiveCategory(category);
