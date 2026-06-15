@@ -2,28 +2,29 @@
 
 import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
-import { SymbolData, CategoryStat } from '@/lib/core/types';
-import { processSymbols } from '@/lib/core/symbolUtils';
+import { CategoryStat } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
 import { SymbolList } from '@/components/symbols';
 import { optimizeSymbolRendering, waitForFontsLoad } from '@/lib/font/fontUtils';
 
 interface HomeClientProps {
-  symbols: SymbolData[];
+  apiEndpoint: string;
   categoryStats: CategoryStat[];
   pageTitle?: string;
   pageDescription?: string;
 }
 
-export default function HomeClient({ symbols, categoryStats, pageTitle = "复制符", pageDescription = "快速查找特殊符号，一键复制" }: HomeClientProps) {
+export default function HomeClient({
+  apiEndpoint,
+  categoryStats,
+  pageTitle = "复制符",
+  pageDescription = "快速查找特殊符号，一键复制"
+}: HomeClientProps) {
   const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
-    // 初始化字体优化
     optimizeSymbolRendering();
-    
-    // 等待字体加载完成
     waitForFontsLoad().catch((error) => {
       console.warn('Font loading failed:', error);
     });
@@ -31,23 +32,14 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
 
   // 处理分类数据，添加"全部"分类
   const categories = useMemo(() => {
-    const totalCount = symbols.length;
+    const totalCount = categoryStats.reduce((sum, c) => sum + c.count, 0);
     const allCategory = { id: 'all', name: '全部', count: totalCount };
     return [allCategory, ...categoryStats];
-  }, [symbols.length, categoryStats]);
-
-  // 根据当前分类和搜索查询处理符号数据
-  const displayedSymbols = useMemo(() => {
-    return processSymbols(symbols, activeCategory, searchQuery);
-  }, [symbols, activeCategory, searchQuery]);
+  }, [categoryStats]);
 
   const handleCategoryChange = (category: string) => {
     setActiveCategory(category);
-    setSearchQuery(''); // 切换分类时清空搜索
-  };
-
-  const handleSearch = (query: string) => {
-    setSearchQuery(query);
+    setSearchQuery('');
   };
 
   return (
@@ -91,7 +83,7 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
         </nav>
 
         <div className="mb-6">
-          <SearchBar onSearch={handleSearch} />
+          <SearchBar onSearch={setSearchQuery} />
         </div>
 
         <div className="mb-6">
@@ -102,14 +94,9 @@ export default function HomeClient({ symbols, categoryStats, pageTitle = "复制
           />
         </div>
 
-        {searchQuery ? (
-          <div className="mb-4">
-            <h2 className="text-lg font-medium">搜索结果: {displayedSymbols.length} 个符号</h2>
-          </div>
-        ) : null}
-
         <SymbolList 
-          displayedSymbols={displayedSymbols}
+          apiEndpoint={apiEndpoint}
+          category={activeCategory}
           searchQuery={searchQuery}
         />
       </div>

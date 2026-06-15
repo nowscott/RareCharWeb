@@ -1,15 +1,16 @@
 import HomeClient from '@/components/HomeClient';
 import { getLocalSymbolDataResponse } from '@/lib/data/localData';
-import { shuffleArray } from '@/lib/core/symbolUtils';
 
-// 开启 ISR (增量静态再生)，每小时随机打乱一次页面符号顺序
+// 开启 ISR (增量静态再生)，每小时重新生成页面
 export const revalidate = 3600;
 
 export default async function Home() {
   const data = await getLocalSymbolDataResponse();
-  // 在服务端生成静态页面时进行随机打乱（按小时种子，多节点一致）
-  const hourSeed = Math.floor(Date.now() / 3600000);
-  const shuffledSymbols = shuffleArray(data.symbols, hourSeed);
-  
-  return <HomeClient symbols={shuffledSymbols} categoryStats={data.stats?.categoryStats || []} />;
+
+  return (
+    <HomeClient
+      apiEndpoint="/api/symbols"
+      categoryStats={data.stats?.categoryStats || []}
+    />
+  );
 }
