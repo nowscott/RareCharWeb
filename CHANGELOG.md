@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/nowscott/RareCharWeb/compare/v1.10.0...v1.10.1) (2026-06-15)
+
+
+### 问题修复
+
+* **骨架屏:** 按响应式列数显示四行占位卡片，大屏最多展示 24 张，避免首屏底部留白
+
 ## [1.10.0](https://github.com/nowscott/RareCharWeb/compare/v1.9.2...v1.10.0) (2026-06-15)
 
 

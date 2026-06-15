@@ -9,6 +9,13 @@ interface SkeletonGridProps {
 
 const SkeletonGrid: React.FC<SkeletonGridProps> = ({ count = 24 }) => {
   const nameWidths = ['w-14 sm:w-16', 'w-16 sm:w-20', 'w-20 sm:w-24'];
+  const getVisibilityClass = (index: number) => {
+    if (index < 8) return 'flex';
+    if (index < 12) return 'hidden sm:flex';
+    if (index < 16) return 'hidden md:flex';
+    if (index < 20) return 'hidden lg:flex';
+    return 'hidden xl:flex';
+  };
 
   return (
     <div role="status" aria-live="polite" aria-busy="true">
@@ -20,7 +27,7 @@ const SkeletonGrid: React.FC<SkeletonGridProps> = ({ count = 24 }) => {
         {Array.from({ length: count }).map((_, index) => (
           <div
             key={index}
-            className="relative isolate overflow-hidden bg-white dark:bg-gray-800 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700 p-3 sm:p-4 flex flex-col items-center justify-center h-28 sm:h-32"
+            className={`relative isolate overflow-hidden bg-white dark:bg-gray-800 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700 p-3 sm:p-4 flex-col items-center justify-center h-28 sm:h-32 ${getVisibilityClass(index)}`}
           >
             <div className="skeleton-shimmer absolute inset-0 z-0" />
             <div className="absolute z-10 top-1.5 right-1.5 sm:top-2 sm:right-2 w-6 h-6 rounded-md bg-gray-100 dark:bg-gray-700/80" />

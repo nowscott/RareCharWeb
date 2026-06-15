@@ -117,7 +117,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
   }, [loading, loadingMore, hasMore, loadMore]);
 
   if (loading) {
-    return <SkeletonGrid count={12} />;
+    return <SkeletonGrid />;
   }
 
   if (error) {
