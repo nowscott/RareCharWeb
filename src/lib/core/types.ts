@@ -7,6 +7,10 @@ export interface SymbolData {
   category: string[];
   searchTerms: string[];
   notes: string;
+  // 预计算字段 — 服务端填充，客户端搜索直接读取
+  _namePinyin?: string;
+  _notesPinyin?: string;
+  _searchTermsPinyin?: string[];
 }
 
 export interface CategoryStat {

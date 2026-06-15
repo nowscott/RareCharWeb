@@ -24,29 +24,36 @@ export function searchSymbols(symbols: SymbolData[], query: string): SymbolData[
       symbol.notes.toLowerCase().includes(lowerQuery) ||
       symbol.searchTerms.some((term: string) => term.toLowerCase().includes(lowerQuery));
     
-    // 拼音搜索逻辑
+    // 拼音搜索逻辑 — 优先使用服务端预计算字段，避免客户端重复调用 pinyin()
     const pinyinMatch = (() => {
       try {
-        // 将符号名称转换为拼音进行匹配
+        // 预计算字段可用时直接读取（O(1) 字符串匹配）
+        if (symbol._namePinyin !== undefined) {
+          return symbol._namePinyin.includes(lowerQuery) ||
+                 (symbol._notesPinyin ?? '').includes(lowerQuery) ||
+                 (symbol._searchTermsPinyin ?? []).some(termPinyin => termPinyin.includes(lowerQuery));
+        }
+
+        // 回退：实时计算（兼容未预计算的历史数据）
         const namePinyin = pinyin(symbol.name, {
           style: 'normal', // 不带声调
           heteronym: false // 不返回多音字的所有读音
         }).join('').toLowerCase();
-        
+
         // 将符号备注转换为拼音进行匹配
         const notesPinyin = pinyin(symbol.notes, {
           style: 'normal',
           heteronym: false
         }).join('').toLowerCase();
-        
+
         // 将搜索词转换为拼音进行匹配
-        const searchTermsPinyin = symbol.searchTerms.map(term => 
+        const searchTermsPinyin = symbol.searchTerms.map(term =>
           pinyin(term, {
             style: 'normal',
             heteronym: false
           }).join('').toLowerCase()
         );
-        
+
         return namePinyin.includes(lowerQuery) ||
                notesPinyin.includes(lowerQuery) ||
                searchTermsPinyin.some(termPinyin => termPinyin.includes(lowerQuery));

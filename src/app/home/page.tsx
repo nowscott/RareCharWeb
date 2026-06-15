@@ -7,8 +7,9 @@ export const revalidate = 3600;
 
 export default async function Home() {
   const data = await getLocalSymbolDataResponse();
-  // 在服务端生成静态页面时进行随机打乱
-  const shuffledSymbols = shuffleArray(data.symbols);
+  // 在服务端生成静态页面时进行随机打乱（按小时种子，多节点一致）
+  const hourSeed = Math.floor(Date.now() / 3600000);
+  const shuffledSymbols = shuffleArray(data.symbols, hourSeed);
   
   return <HomeClient symbols={shuffledSymbols} categoryStats={data.stats?.categoryStats || []} />;
 }
