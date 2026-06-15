@@ -10,7 +10,7 @@ export default async function EmojiPage() {
   const stats = data.stats?.categoryStats ?? [];
 
   // 在服务端预计算分类列表
-  const totalCount = stats.reduce((sum, c) => sum + c.count, 0);
+  const totalCount = data.stats?.totalSymbols ?? 0;
   const categories: CategoryStat[] = [
     { id: 'all', name: '全部', count: totalCount },
     ...stats

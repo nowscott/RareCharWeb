@@ -27,18 +27,17 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
   const [allSymbols, setAllSymbols] = useState<SymbolData[]>([]);
   const [currentPage, setCurrentPage] = useState(0);
   const [hasMore, setHasMore] = useState(true);
-  const [loading, setLoading] = useState(true);
   const [loadingMore, setLoadingMore] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-  const [mounted, setMounted] = useState(false);
+  const [loadedRequestKey, setLoadedRequestKey] = useState<string | null>(null);
+  const [failedRequestKey, setFailedRequestKey] = useState<string | null>(null);
+  const [retryCount, setRetryCount] = useState(0);
 
   const sentinelRef = useRef<HTMLDivElement>(null);
-  const seedRef = useRef(Date.now());
+  const seedRef = useRef(0);
 
-  // 标记客户端已挂载
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const requestKey = `${apiEndpoint}\0${category}\0${searchQuery}\0${retryCount}`;
+  const loading = loadedRequestKey !== requestKey && failedRequestKey !== requestKey;
+  const error = failedRequestKey === requestKey ? '加载失败，请重试' : null;
 
   // 构建 API URL
   const buildUrl = useCallback((page: number) => {
@@ -53,14 +52,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
 
   // category/search 变化时重置
   useEffect(() => {
-    if (!mounted) return;
-
     seedRef.current = Date.now();
-    setAllSymbols([]);
-    setCurrentPage(0);
-    setHasMore(true);
-    setLoading(true);
-    setError(null);
 
     const controller = new AbortController();
     fetch(buildUrl(1), { signal: controller.signal })
@@ -72,17 +64,17 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
         setAllSymbols(data.symbols);
         setCurrentPage(1);
         setHasMore(data.hasMore);
-        setLoading(false);
+        setFailedRequestKey(null);
+        setLoadedRequestKey(requestKey);
       })
       .catch(err => {
         if (err.name !== 'AbortError') {
-          setError('加载失败，请重试');
-          setLoading(false);
+          setFailedRequestKey(requestKey);
         }
       });
 
     return () => controller.abort();
-  }, [buildUrl, mounted]);
+  }, [buildUrl, requestKey]);
 
   // 加载下一页
   const loadMore = useCallback(() => {
@@ -106,7 +98,6 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
 
   // IntersectionObserver 滚动加载
   useEffect(() => {
-    if (!mounted) return;
     if (loading || loadingMore || !hasMore) return;
 
     const sentinel = sentinelRef.current;
@@ -123,12 +114,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
 
     observer.observe(sentinel);
     return () => observer.disconnect();
-  }, [loading, loadingMore, hasMore, loadMore, mounted]);
-
-  // 未挂载时返回空（避免 SSR 水合问题）
-  if (!mounted) {
-    return <SkeletonGrid count={12} />;
-  }
+  }, [loading, loadingMore, hasMore, loadMore]);
 
   if (loading) {
     return <SkeletonGrid count={12} />;
@@ -139,24 +125,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
       <div className="text-center py-12">
         <p className="text-red-500 dark:text-red-400 mb-4">{error}</p>
         <button
-          onClick={() => {
-            setError(null);
-            setLoading(true);
-            seedRef.current = Date.now();
-            setAllSymbols([]);
-            fetch(buildUrl(1))
-              .then(res => res.json())
-              .then((data: PaginatedAPIResponse) => {
-                setAllSymbols(data.symbols);
-                setCurrentPage(1);
-                setHasMore(data.hasMore);
-                setLoading(false);
-              })
-              .catch(() => {
-                setError('加载失败，请重试');
-                setLoading(false);
-              });
-          }}
+          onClick={() => setRetryCount(count => count + 1)}
           className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
         >
           重试
