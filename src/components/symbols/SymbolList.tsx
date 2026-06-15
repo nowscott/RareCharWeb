@@ -1,7 +1,6 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Grid } from 'react-window';
 import { SymbolData } from '@/lib/core/types';
 import SymbolCard from './SymbolCard';
 import SymbolDetail from './SymbolDetail';
@@ -22,49 +21,23 @@ interface PaginatedAPIResponse {
 }
 
 const PAGE_SIZE = 200;
-const CARD_HEIGHT = 144;
-const MOBILE_CARD_HEIGHT = 124;
-
-function getColumnCount(width: number): number {
-  if (width >= 1280) return 6;
-  if (width >= 1024) return 5;
-  if (width >= 768) return 4;
-  if (width >= 640) return 3;
-  return 2;
-}
 
 const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQuery }) => {
   const [selectedSymbol, setSelectedSymbol] = useState<SymbolData | null>(null);
   const [allSymbols, setAllSymbols] = useState<SymbolData[]>([]);
-  const [totalCount, setTotalCount] = useState(0);
   const [currentPage, setCurrentPage] = useState(0);
   const [hasMore, setHasMore] = useState(true);
   const [loading, setLoading] = useState(true);
   const [loadingMore, setLoadingMore] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [mounted, setMounted] = useState(false);
 
-  const containerRef = useRef<HTMLDivElement>(null);
-  const [dimensions, setDimensions] = useState({ width: 800, height: 600 });
+  const sentinelRef = useRef<HTMLDivElement>(null);
   const seedRef = useRef(Date.now());
 
-  // 监听容器尺寸
+  // 标记客户端已挂载
   useEffect(() => {
-    const el = containerRef.current;
-    if (!el) return;
-
-    const updateSize = () => {
-      const rect = el.getBoundingClientRect();
-      setDimensions({ width: rect.width, height: window.innerHeight - rect.top - 20 });
-    };
-
-    updateSize();
-    const ro = new ResizeObserver(updateSize);
-    ro.observe(el);
-    window.addEventListener('resize', updateSize);
-    return () => {
-      ro.disconnect();
-      window.removeEventListener('resize', updateSize);
-    };
+    setMounted(true);
   }, []);
 
   // 构建 API URL
@@ -80,9 +53,10 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
 
   // category/search 变化时重置
   useEffect(() => {
+    if (!mounted) return;
+
     seedRef.current = Date.now();
     setAllSymbols([]);
-    setTotalCount(0);
     setCurrentPage(0);
     setHasMore(true);
     setLoading(true);
@@ -96,7 +70,6 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
       })
       .then((data: PaginatedAPIResponse) => {
         setAllSymbols(data.symbols);
-        setTotalCount(data.total);
         setCurrentPage(1);
         setHasMore(data.hasMore);
         setLoading(false);
@@ -109,7 +82,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
       });
 
     return () => controller.abort();
-  }, [buildUrl]);
+  }, [buildUrl, mounted]);
 
   // 加载下一页
   const loadMore = useCallback(() => {
@@ -124,7 +97,6 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
       })
       .then((data: PaginatedAPIResponse) => {
         setAllSymbols(prev => [...prev, ...data.symbols]);
-        setTotalCount(data.total);
         setCurrentPage(nextPage);
         setHasMore(data.hasMore);
         setLoadingMore(false);
@@ -132,56 +104,34 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
       .catch(() => setLoadingMore(false));
   }, [currentPage, hasMore, loadingMore, buildUrl]);
 
-  const columnCount = getColumnCount(dimensions.width);
-  const isMobile = dimensions.width < 640;
-  const rowHeight = isMobile ? MOBILE_CARD_HEIGHT : CARD_HEIGHT;
-  const columnWidth = dimensions.width / columnCount;
-  const rowCount = Math.max(1, Math.ceil(totalCount / columnCount) + (hasMore ? 1 : 0));
+  // IntersectionObserver 滚动加载
+  useEffect(() => {
+    if (!mounted) return;
+    if (loading || loadingMore || !hasMore) return;
 
-  // 滚动到底部附近时加载更多
-  const handleCellsRendered = useCallback(
-    (visibleCells: { rowStopIndex: number }) => {
-      if (visibleCells.rowStopIndex >= rowCount - 3 && hasMore && !loadingMore) {
-        loadMore();
-      }
-    },
-    [rowCount, hasMore, loadingMore, loadMore]
-  );
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
 
-  // 单元格渲染组件
-  const CellRenderer = useCallback(
-    ({ columnIndex, rowIndex, style }: { columnIndex: number; rowIndex: number; style: React.CSSProperties }) => {
-      const index = rowIndex * columnCount + columnIndex;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) {
+          loadMore();
+        }
+      },
+      { rootMargin: '800px 0px' }
+    );
 
-      if (index >= allSymbols.length) {
-        return (
-          <div style={style} className="flex items-center justify-center p-1.5 sm:p-2">
-            <div className="w-full h-full bg-white dark:bg-gray-800 rounded-xl border border-gray-100 dark:border-gray-700 flex items-center justify-center animate-pulse">
-              <div className="w-8 h-8 bg-gray-200 dark:bg-gray-700 rounded-lg" />
-            </div>
-          </div>
-        );
-      }
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [loading, loadingMore, hasMore, loadMore, mounted]);
 
-      const symbol = allSymbols[index];
-      return (
-        <div style={style} className="p-1.5 sm:p-2">
-          <SymbolCard
-            symbol={symbol}
-            onClick={() => setSelectedSymbol(symbol)}
-          />
-        </div>
-      );
-    },
-    [allSymbols, columnCount]
-  );
+  // 未挂载时返回空（避免 SSR 水合问题）
+  if (!mounted) {
+    return <SkeletonGrid count={12} />;
+  }
 
   if (loading) {
-    return (
-      <div ref={containerRef}>
-        <SkeletonGrid count={columnCount * 3} />
-      </div>
-    );
+    return <SkeletonGrid count={12} />;
   }
 
   if (error) {
@@ -198,7 +148,6 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
               .then(res => res.json())
               .then((data: PaginatedAPIResponse) => {
                 setAllSymbols(data.symbols);
-                setTotalCount(data.total);
                 setCurrentPage(1);
                 setHasMore(data.hasMore);
                 setLoading(false);
@@ -227,24 +176,24 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
   }
 
   return (
-    <div ref={containerRef}>
-      <Grid
-        cellComponent={CellRenderer}
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        cellProps={{} as any}
-        columnCount={columnCount}
-        columnWidth={columnWidth}
-        defaultHeight={dimensions.height}
-        rowCount={rowCount}
-        rowHeight={rowHeight}
-        defaultWidth={dimensions.width}
-        onCellsRendered={handleCellsRendered}
-        overscanCount={2}
-      />
+    <>
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
+        {allSymbols.map((symbol, index) => (
+          <SymbolCard
+            key={`${symbol.symbol}-${index}`}
+            symbol={symbol}
+            onClick={() => setSelectedSymbol(symbol)}
+          />
+        ))}
+      </div>
 
-      {loadingMore && (
-        <div className="flex justify-center py-4">
-          <div className="w-6 h-6 border-2 border-blue-600 border-t-transparent rounded-full animate-spin" />
+      {hasMore && (
+        <div ref={sentinelRef} className="py-4 flex justify-center">
+          {loadingMore ? (
+            <div className="w-6 h-6 border-2 border-blue-600 border-t-transparent rounded-full animate-spin" />
+          ) : (
+            <div className="h-10" />
+          )}
         </div>
       )}
 
@@ -254,7 +203,7 @@ const SymbolList: React.FC<SymbolListProps> = ({ apiEndpoint, category, searchQu
           onClose={() => setSelectedSymbol(null)}
         />
       )}
-    </div>
+    </>
   );
 };
 
