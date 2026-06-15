@@ -27,14 +27,14 @@
 
 ### 新功能
 
-* **pages:** implement ISR for periodic symbol randomization ([93d4c39](https://github.com/nowscott/RareCharWeb/commit/93d4c397773465c48ea35aca741c64cab973e03f))
+* **pages:** 实现 ISR 定期随机打乱符号 ([93d4c39](https://github.com/nowscott/RareCharWeb/commit/93d4c397773465c48ea35aca741c64cab973e03f))
 
 # [1.8.0](https://github.com/nowscott/RareCharWeb/compare/v1.7.0...v1.8.0) (2026-03-16)
 
 
 ### 问题修复
 
-* **layout:** restore crossOrigin attribute for external font stylesheets ([01605db](https://github.com/nowscott/RareCharWeb/commit/01605db93d461fa7cc1e91028fe54cc0565567bf))
+* **layout:** 恢复外部字体样式表的 crossOrigin 属性 ([01605db](https://github.com/nowscott/RareCharWeb/commit/01605db93d461fa7cc1e91028fe54cc0565567bf))
 
 
 ### 新功能
@@ -46,11 +46,35 @@
 
 ### 新功能
 
-* **ssr:** refactor to server components for direct local data loading and remove client-side caching ([0172c91](https://github.com/nowscott/RareCharWeb/commit/0172c91380c08d1974c7101cc951e6f031101494))
+* **ssr:** 重构为服务端组件以直接加载本地数据，移除客户端缓存 ([0172c91](https://github.com/nowscott/RareCharWeb/commit/0172c91380c08d1974c7101cc951e6f031101494))
 
 ## [1.6.2](https://github.com/nowscott/RareCharWeb/compare/v1.6.1...v1.6.2) (2026-03-16)
 
+
+### 问题修复
+
+* 修复 React Server Components CVE 安全漏洞 ([7fdd754](https://github.com/nowscott/RareCharWeb/commit/7fdd754))
+
+
+### 重构
+
+* 重构数据获取逻辑并优化客户端渲染 ([bcf386d](https://github.com/nowscott/RareCharWeb/commit/bcf386d))
+
+
+### 构建系统
+
+* 将 Next.js 脚本迁移至 Webpack 构建器 ([07eaad0](https://github.com/nowscott/RareCharWeb/commit/07eaad0))
+
 ## [1.6.1](https://github.com/nowscott/rarecharweb/compare/v1.6.0...v1.6.1) (2025-07-02)
+
+
+### 重构
+
+* **components:** 重构组件目录结构，将导航和UI组件分组 ([cd1ca44](https://github.com/nowscott/rarecharweb/commit/cd1ca44))
+* **components:** 将符号相关组件移动到 symbols 子目录 ([a5f4459](https://github.com/nowscott/rarecharweb/commit/a5f4459))
+* **core:** 重构项目目录结构，将核心模块移动到 lib/core 目录下 ([6f5d29c](https://github.com/nowscott/rarecharweb/commit/6f5d29c))
+* **app:** 重构项目结构和路由配置 ([9b400ea](https://github.com/nowscott/rarecharweb/commit/9b400ea))
+* **components:** 重构关于页面组件结构，将组件拆分到独立文件并统一导出 ([08e2f8e](https://github.com/nowscott/rarecharweb/commit/08e2f8e))
 
 # [1.6.0](https://github.com/nowscott/rarecharweb/compare/v1.5.0...v1.6.0) (2025-07-01)
 
@@ -110,6 +134,11 @@
 * **SearchBar:** 禁用输入框自动完成功能以避免干扰搜索 ([afca43b](https://github.com/nowscott/rarecharweb/commit/afca43bdc7ffbc73cca76d7cfb20260500ca0f21))
 
 ## [1.1.4](https://github.com/nowscott/rarecharweb/compare/v1.1.3...v1.1.4) (2025-06-25)
+
+
+### 样式
+
+* **font:** 调整字体栈顺序并统一字体粗细为 500 ([0555d9f](https://github.com/nowscott/rarecharweb/commit/0555d9f))
 
 ## [1.1.3](https://github.com/nowscott/rarecharweb/compare/v1.1.2...v1.1.3) (2025-06-25)
 
