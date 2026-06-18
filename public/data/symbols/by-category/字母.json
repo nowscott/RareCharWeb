@@ -1,42 +1,656 @@
 {
   "category": "字母",
   "total": 36,
-  "ids": [
-    "symbol-2133-216",
-    "symbol-1d400-784",
-    "symbol-1d401-785",
-    "symbol-1d4b6-786",
-    "symbol-1d4b7-787",
-    "symbol-1d4b8-788",
-    "symbol-1d4b9-789",
-    "symbol-1d4bb-790",
-    "symbol-1d4ea-791",
-    "symbol-1d4ee-792",
-    "symbol-1d51e-793",
-    "symbol-1d552-794",
-    "symbol-1d402-1012",
-    "symbol-1d403-1013",
-    "symbol-1d404-1014",
-    "symbol-1d405-1015",
-    "symbol-1d406-1016",
-    "symbol-1d407-1017",
-    "symbol-1d408-1018",
-    "symbol-1d409-1019",
-    "symbol-1d40a-1020",
-    "symbol-1d40b-1021",
-    "symbol-1d40c-1022",
-    "symbol-1d40d-1023",
-    "symbol-1d40e-1024",
-    "symbol-1d40f-1025",
-    "symbol-1d410-1026",
-    "symbol-1d411-1027",
-    "symbol-1d412-1028",
-    "symbol-1d413-1029",
-    "symbol-1d414-1030",
-    "symbol-1d415-1031",
-    "symbol-1d416-1032",
-    "symbol-1d417-1033",
-    "symbol-1d418-1034",
-    "symbol-1d419-1035"
+  "items": [
+    {
+      "id": "symbol-2133-216",
+      "symbol": "ℳ",
+      "name": "手写体M&马可",
+      "pronunciation": "",
+      "category": [
+        "货币",
+        "字母"
+      ],
+      "searchTerms": [
+        "手写体M&马可",
+        "货币",
+        "字母",
+        "2133",
+        "U+2133",
+        "Script Capital M",
+        "Letterlike Symbols"
+      ],
+      "notes": "ℳ 在不同语境中有多种含义：\n在货币领域，它可以表示德国旧货币单位“马克”（Mark）的符号；\n在数学中，它可能用作花体字母 M，表示某些数学对象或集合（如模、矩阵等）。"
+    },
+    {
+      "id": "symbol-1d400-784",
+      "symbol": "𝐀",
+      "name": "数学粗体大写字母A​",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母A​",
+        "字母",
+        "1D400",
+        "U+1D400",
+        "Mathematical Bold Capital A",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "专为数学公式设计，​粗体样式用于强调关键对象（如向量、矩阵、集合）。例如，矩阵 ​𝐀​ 在方程中可直观区别于标量变量 A。"
+    },
+    {
+      "id": "symbol-1d401-785",
+      "symbol": "𝐁",
+      "name": "数学粗体大写字母B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母B",
+        "字母",
+        "1D401",
+        "U+1D401",
+        "Mathematical Bold Capital B",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "专为数学公式设计，​粗体样式用于表示重要数学对象，如矩阵 ​𝐁、向量空间或特定集合，以区别于普通变量 B。"
+    },
+    {
+      "id": "symbol-1d4b6-786",
+      "symbol": "𝒶",
+      "name": "数学花体a",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学花体a",
+        "字母",
+        "1D4B6",
+        "U+1D4B6",
+        "Mathematical Script Small A",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写花体字母“a”，通常用于微积分、代数或其他数学表达式中，以区分普通字体变量。"
+    },
+    {
+      "id": "symbol-1d4b7-787",
+      "symbol": "𝒷",
+      "name": "数学花体b",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学花体b",
+        "字母",
+        "1D4B7",
+        "U+1D4B7",
+        "Mathematical Script Small B",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写花体字母“b”，通常用于代数、微积分或其他数学表达式中，用以区分普通字体变量。"
+    },
+    {
+      "id": "symbol-1d4b8-788",
+      "symbol": "𝒸",
+      "name": "数学花体c",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学花体c",
+        "字母",
+        "1D4B8",
+        "U+1D4B8",
+        "Mathematical Script Small C",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写花体字母“c”，用于代数、微积分或其他数学表达式中，区分普通字体变量。"
+    },
+    {
+      "id": "symbol-1d4b9-789",
+      "symbol": "𝒹",
+      "name": "数学花体d",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学花体d",
+        "字母",
+        "1D4B9",
+        "U+1D4B9",
+        "Mathematical Script Small D",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写花体字母“d”，常用于代数或几何中，用于区分普通变量，或表示微分运算符中的变量。"
+    },
+    {
+      "id": "symbol-1d4bb-790",
+      "symbol": "𝒻",
+      "name": "数学花体f",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学花体f",
+        "字母",
+        "1D4BB",
+        "U+1D4BB",
+        "Mathematical Script Small F",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写花体字母“f”，常见于函数符号，特别是在微积分中表示函数变量。"
+    },
+    {
+      "id": "symbol-1d4ea-791",
+      "symbol": "𝓪",
+      "name": "加粗花体a",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "加粗花体a",
+        "字母",
+        "1D4EA",
+        "U+1D4EA",
+        "Mathematical Bold Script Small A",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写花体字母“a”，通常用于微积分、代数或其他数学表达式中，以区分普通字体变量。"
+    },
+    {
+      "id": "symbol-1d4ee-792",
+      "symbol": "𝓮",
+      "name": "加粗花体e",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "加粗花体e",
+        "字母",
+        "1D4EE",
+        "U+1D4EE",
+        "Mathematical Bold Script Small E",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写花体字母“e”，用于代数、微积分或几何表达式中，通常作为变量或函数，增加公式的美观性和区分性。"
+    },
+    {
+      "id": "symbol-1d51e-793",
+      "symbol": "𝔞",
+      "name": "哥特体a",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "哥特体a",
+        "字母",
+        "1D51E",
+        "U+1D51E",
+        "Mathematical Fraktur Small A",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "示数学中常用的小写哥特体字母“a”，用于代数、逻辑学或集合论中，常见于特定数学表达式中以区分普通变量。哥特体具有独特的中世纪字体风格，在数学公式中常用于强调特定对象或变量。"
+    },
+    {
+      "id": "symbol-1d552-794",
+      "symbol": "𝕒",
+      "name": "黑板粗体a",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "黑板粗体a",
+        "字母",
+        "1D552",
+        "U+1D552",
+        "Mathematical Double-Struck Small A",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示数学中常用的小写黑板粗体字母“a”，通常用于表示集合、特殊函数或变量，特别是在代数或集合论中。黑板粗体风格常用于强调某些数学对象，如 ℝ（实数集）、ℕ（自然数集）等。"
+    },
+    {
+      "id": "symbol-1d402-1012",
+      "symbol": "𝐂",
+      "name": "数学粗体大写字母C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母C",
+        "字母",
+        "1D402",
+        "U+1D402",
+        "Mathematical Bold Capital C",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "在数学表达式中表示特定的常量、集合或矩阵\n常用于线性代数（如矩阵𝐂）、复数运算等高等数学领域\n与普通字母C形成视觉区分，突出其数学对象的特殊性"
+    },
+    {
+      "id": "symbol-1d403-1013",
+      "symbol": "𝐃",
+      "name": "数学粗体大写字母D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母D",
+        "字母",
+        "1D403",
+        "U+1D403",
+        "Mathematical Bold Capital D",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "用途​：表示数学中的张量、微分算子或特定常数，在物理方程中尤为常见。编码：UTF-8 F0 9D 90 83，LaTeX输入 \\mathbf{D}。"
+    },
+    {
+      "id": "symbol-1d404-1014",
+      "symbol": "𝐄",
+      "name": "数学粗体大写字母E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母E",
+        "字母",
+        "1D404",
+        "U+1D404",
+        "Mathematical Bold Capital E",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "常用于电磁学（电场强度）、统计学（期望值）等场景。需注意与自然对数底数e区分，UTF-16编码 D835 DC04。"
+    },
+    {
+      "id": "symbol-1d405-1015",
+      "symbol": "𝐅",
+      "name": "数学粗体大写字母F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母F",
+        "字母",
+        "1D405",
+        "U+1D405",
+        "Mathematical Bold Capital F",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "力学中表示力的标准符号，也是函数空间的常见标记。HTML实体 &#119813;，显示依赖STIX等专业字体。"
+    },
+    {
+      "id": "symbol-1d406-1016",
+      "symbol": "𝐆",
+      "name": "数学粗体大写字母G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母G",
+        "字母",
+        "1D406",
+        "U+1D406",
+        "Mathematical Bold Capital G",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "万有引力常数、李群等高等数学概念的核心符号。与斜体𝐺（U+1D43A）形成语义对比。"
+    },
+    {
+      "id": "symbol-1d407-1017",
+      "symbol": "𝐇",
+      "name": "数学粗体大写字母H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母H",
+        "字母",
+        "1D407",
+        "U+1D407",
+        "Mathematical Bold Capital H",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "量子力学中的哈密顿算符、磁场强度专用符号。可通过Windows快捷键 Win + ; 打开符号面板输入。"
+    },
+    {
+      "id": "symbol-1d408-1018",
+      "symbol": "𝐈",
+      "name": "数学粗体大写字母I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母I",
+        "字母",
+        "1D408",
+        "U+1D408",
+        "Mathematical Bold Capital I",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示单位矩阵、恒等变换或特定数学空间，在量子力学中尤为关键。编码：UTF-8 F0 9D 90 88，LaTeX输入 \\mathbf{I}。"
+    },
+    {
+      "id": "symbol-1d409-1019",
+      "symbol": "𝐉",
+      "name": "数学粗体大写字母J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母J",
+        "字母",
+        "1D409",
+        "U+1D409",
+        "Mathematical Bold Capital J",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "复数分析中的雅可比矩阵标准符号，也用于表示角动量。需与普通J区分，UTF-16代理对 D835 DC09。"
+    },
+    {
+      "id": "symbol-1d40a-1020",
+      "symbol": "𝐊",
+      "name": "数学粗体大写字母K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母K",
+        "字母",
+        "1D40A",
+        "U+1D40A",
+        "Mathematical Bold Capital K",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "卡尔曼滤波、代数K理论的核心符号。HTML实体 &#119818;，在TensorFlow等框架中常见此表示法。"
+    },
+    {
+      "id": "symbol-1d40b-1021",
+      "symbol": "𝐋",
+      "name": "数学粗体大写字母L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母L",
+        "字母",
+        "1D40B",
+        "U+1D40B",
+        "Mathematical Bold Capital L",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "拉普拉斯算子、角动量算符的规范表示。与手写体ℒ（U+2112）形成语义互补。"
+    },
+    {
+      "id": "symbol-1d40c-1022",
+      "symbol": "𝐌",
+      "name": "数学粗体大写字母M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母M",
+        "字母",
+        "1D40C",
+        "U+1D40C",
+        "Mathematical Bold Capital M",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "马尔可夫链、流形空间的标志性符号。MATLAB支持直接粘贴使用，显示需XITS Math字体支持。"
+    },
+    {
+      "id": "symbol-1d40d-1023",
+      "symbol": "𝐍",
+      "name": "数学粗体大写字母N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母N",
+        "字母",
+        "1D40D",
+        "U+1D40D",
+        "Mathematical Bold Capital N",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示自然数集、牛顿力学中的法向力。"
+    },
+    {
+      "id": "symbol-1d40e-1024",
+      "symbol": "𝐎",
+      "name": "数学粗体大写字母O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母O",
+        "字母",
+        "1D40E",
+        "U+1D40E",
+        "Mathematical Bold Capital O",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "正交群、大O记法的标准表示。需注意与数字0区分。"
+    },
+    {
+      "id": "symbol-1d40f-1025",
+      "symbol": "𝐏",
+      "name": "数学粗体大写字母P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母P",
+        "字母",
+        "1D40F",
+        "U+1D40F",
+        "Mathematical Bold Capital P",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "概率测度、投影矩阵的专用符号。在Wolfram Alpha中自动渲染为粗体。"
+    },
+    {
+      "id": "symbol-1d410-1026",
+      "symbol": "𝐐",
+      "name": "数学粗体大写字母Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母Q",
+        "字母",
+        "1D410",
+        "U+1D410",
+        "Mathematical Bold Capital Q",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "有理数集、QR分解的规范表示。Android系统输入需安装MathKeyboard应用，iOS支持原生显示。"
+    },
+    {
+      "id": "symbol-1d411-1027",
+      "symbol": "𝐑",
+      "name": "数学粗体大写字母R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母R",
+        "字母",
+        "1D411",
+        "U+1D411",
+        "Mathematical Bold Capital R",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "实数集、黎曼几何的基础符号。"
+    },
+    {
+      "id": "symbol-1d412-1028",
+      "symbol": "𝐒",
+      "name": "数学粗体大写字母S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母S",
+        "字母",
+        "1D412",
+        "U+1D412",
+        "Mathematical Bold Capital S",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "表示奇异值分解(SVD)中的奇异矩阵，熵(Entropy)的数学符号。"
+    },
+    {
+      "id": "symbol-1d413-1029",
+      "symbol": "𝐓",
+      "name": "数学粗体大写字母T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母T",
+        "字母",
+        "1D413",
+        "U+1D413",
+        "Mathematical Bold Capital T",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "张量分析的核心符号，转置矩阵的标准表示。"
+    },
+    {
+      "id": "symbol-1d414-1030",
+      "symbol": "𝐔",
+      "name": "数学粗体大写字母U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母U",
+        "字母",
+        "1D414",
+        "U+1D414",
+        "Mathematical Bold Capital U",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "酉矩阵、线性变换的标准符号。"
+    },
+    {
+      "id": "symbol-1d415-1031",
+      "symbol": "𝐕",
+      "name": "数学粗体大写字母V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母V",
+        "字母",
+        "1D415",
+        "U+1D415",
+        "Mathematical Bold Capital V",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "向量空间、势能函数的专用符号。"
+    },
+    {
+      "id": "symbol-1d416-1032",
+      "symbol": "𝐖",
+      "name": "数学粗体大写字母W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母W",
+        "字母",
+        "1D416",
+        "U+1D416",
+        "Mathematical Bold Capital W",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "权重矩阵、维纳过程的数学表示。"
+    },
+    {
+      "id": "symbol-1d417-1033",
+      "symbol": "𝐗",
+      "name": "数学粗体大写字母X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母X",
+        "字母",
+        "1D417",
+        "U+1D417",
+        "Mathematical Bold Capital X",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "随机变量、特征矩阵的标准符号。"
+    },
+    {
+      "id": "symbol-1d418-1034",
+      "symbol": "𝐘",
+      "name": "数学粗体大写字母Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母Y",
+        "字母",
+        "1D418",
+        "U+1D418",
+        "Mathematical Bold Capital Y",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "量子力学中的泡利Y矩阵符号。"
+    },
+    {
+      "id": "symbol-1d419-1035",
+      "symbol": "𝐙",
+      "name": "数学粗体大写字母Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "数学粗体大写字母Z",
+        "字母",
+        "1D419",
+        "U+1D419",
+        "Mathematical Bold Capital Z",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "整数集的规范表示，阻抗矩阵的专用符号。"
+    }
   ]
 }

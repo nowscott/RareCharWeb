@@ -1,70 +1,1158 @@
 {
   "category": "盲文",
   "total": 64,
-  "ids": [
-    "symbol-2800-447",
-    "symbol-2801-448",
-    "symbol-2802-449",
-    "symbol-2803-450",
-    "symbol-2804-451",
-    "symbol-2805-452",
-    "symbol-2806-453",
-    "symbol-2807-454",
-    "symbol-2808-455",
-    "symbol-2809-456",
-    "symbol-280a-457",
-    "symbol-280b-458",
-    "symbol-280c-459",
-    "symbol-280d-460",
-    "symbol-280e-461",
-    "symbol-280f-462",
-    "symbol-2810-463",
-    "symbol-2811-464",
-    "symbol-2812-465",
-    "symbol-2813-466",
-    "symbol-2814-467",
-    "symbol-2815-468",
-    "symbol-2816-469",
-    "symbol-2817-470",
-    "symbol-2818-471",
-    "symbol-2819-472",
-    "symbol-281a-473",
-    "symbol-281b-474",
-    "symbol-281c-475",
-    "symbol-281d-476",
-    "symbol-281e-477",
-    "symbol-281f-478",
-    "symbol-2820-479",
-    "symbol-2821-480",
-    "symbol-2822-481",
-    "symbol-2823-482",
-    "symbol-2824-483",
-    "symbol-2825-484",
-    "symbol-2826-485",
-    "symbol-2827-486",
-    "symbol-2828-487",
-    "symbol-2829-488",
-    "symbol-282a-489",
-    "symbol-282b-490",
-    "symbol-282c-491",
-    "symbol-282d-492",
-    "symbol-282e-493",
-    "symbol-282f-494",
-    "symbol-2830-495",
-    "symbol-2831-496",
-    "symbol-2832-497",
-    "symbol-2833-498",
-    "symbol-2834-499",
-    "symbol-2835-500",
-    "symbol-2836-501",
-    "symbol-2837-502",
-    "symbol-2838-503",
-    "symbol-2839-504",
-    "symbol-283a-505",
-    "symbol-283b-506",
-    "symbol-283c-507",
-    "symbol-283d-508",
-    "symbol-283e-509",
-    "symbol-283f-510"
+  "items": [
+    {
+      "id": "symbol-2800-447",
+      "symbol": "⠀",
+      "name": "盲文空白",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文空白",
+        "盲文",
+        "2800",
+        "U+2800",
+        "Braille Pattern Blank",
+        "Braille Patterns"
+      ],
+      "notes": "⠀（盲文空白）是盲文系统中的一个特殊符号，代表空白或无内容，具有独特的文化和历史意义，体现出盲文系统的包容性和多样性。\n\n作为盲文系统中的一个基本符号，⠀不仅仅是一个空白符号，也承载着无限的可能性和创造力，促进了盲人和视障人士的交流和参与，丰富了人类的文化遗产和多样性。"
+    },
+    {
+      "id": "symbol-2801-448",
+      "symbol": "⠁",
+      "name": "盲文点1",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1",
+        "盲文",
+        "2801",
+        "U+2801",
+        "Braille Pattern Dots-1",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点1（⠁）是盲文系统中的一个基本符号，代表开音节和数字1，体现了人类文明对信息无障碍传递的追求和创新精神。\n\n作为统一国际盲文中的一个重要组成部分，盲文点1不仅用于表示特定的音节和数字，也象征着无限的可能性和包容性，衍生到各类8位盲文系统和日语盲文中，展现出其在现代传播中的重要性和多样应用。"
+    },
+    {
+      "id": "symbol-2802-449",
+      "symbol": "⠂",
+      "name": "盲文点2",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点2",
+        "盲文",
+        "2802",
+        "U+2802",
+        "Braille Pattern Dots-2",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点2（⠂）是盲文系统中的一个基本符号，代表中间左侧点的6点盲文单元，用于表示逗号或其他非字母符号。其独特的设计和多样化的应用使其成为盲文交流中的重要组成部分，体现了盲文在现代生活中的价值和意义。\n\n在统一国际盲文中，盲文点2用于表示逗号或其他非字母符号或半字母，展现了盲文在不同文化和语言中的通用性和适应性。同时，其与8点盲文系统中的相关模式密切相关，例如Gardner-Salinas和卢森堡盲文，进一步丰富了盲文的表现力和多样性。"
+    },
+    {
+      "id": "symbol-2803-450",
+      "symbol": "⠃",
+      "name": "盲文点12",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点12",
+        "盲文",
+        "2803",
+        "U+2803",
+        "Braille Pattern Dots-12",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点12（⠃）是6点或8点盲文单元，顶部两个左点升起，代表Unicode码点U+2803，体现了盲文的精妙与包容，连接视觉与触觉世界。\n\n在统一国际盲文中，盲文点12用于表示有声双唇塞音/b/，并根据需要进行分配，展现了盲文在跨语言交流中的重要性，及其在数字时代的新应用与发展，衍生出更多点位的变体，丰富了盲文体系的多样性与适用性。"
+    },
+    {
+      "id": "symbol-2804-451",
+      "symbol": "⠄",
+      "name": "盲文点3",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点3",
+        "盲文",
+        "2804",
+        "U+2804",
+        "Braille Pattern Dots-3",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点3（⠄）是一种6点盲文单元，底部左侧点突起，代表Unicode代码点U+2804，在统一国际盲文中用于表示撇号、重音标记或其他标点符号。\n\n盲文点3在统一国际盲文中承担着标点符号的重要角色，与其他盲文模式一起为盲人阅读提供了丰富的信息和语境，展现出盲文系统的精妙和多样性。"
+    },
+    {
+      "id": "symbol-2805-452",
+      "symbol": "⠅",
+      "name": "盲文点13",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点13",
+        "盲文",
+        "2805",
+        "U+2805",
+        "Braille Pattern Dots-13",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点13（⠅）是6点盲文单元，顶部和底部左侧点被抬起，代表无声软腭塞音/k/，是盲文交流的重要组成部分，促进了视障人士的独立阅读和交流能力。\n\n在统一国际盲文中，盲文点13用于表示无声软腭塞音/k/，其Unicode编码为U+2805，在Braille ASCII中用'K'表示，体现了盲文系统的严谨性和普遍适用性，丰富了盲文的文化内涵和历史价值。"
+    },
+    {
+      "id": "symbol-2806-453",
+      "symbol": "⠆",
+      "name": "盲文点23",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点23",
+        "盲文",
+        "2806",
+        "U+2806",
+        "Braille Pattern Dots-23",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点23（⠆）是一种6点盲文单元，中间和底部左侧的点被抬起，代表发音为/b/或/ɓ/，是盲文中的基础符号\n\n在统一的国际盲文中，⠆被用来表示有声双唇辅音，在8点盲文系统中与点7和点8相关的模式扩展了其用途"
+    },
+    {
+      "id": "symbol-2807-454",
+      "symbol": "⠇",
+      "name": "盲文点123",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点123",
+        "盲文",
+        "2807",
+        "U+2807",
+        "Braille Pattern Dots-123",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点123（⠇）是一种6点盲文单元，代表着一种独特的辅助阅读体验，连接着视障人士与文字世界，促进了平等的沟通与理解。\n\n在统一的国际盲文中，盲文点123用于表示一个近似音，如/l/、/ʟ/或/ʎ/，其在不同文化和语言中的应用，展现出盲文的多样性和包容性，推动着无障碍沟通的进步与发展。"
+    },
+    {
+      "id": "symbol-2808-455",
+      "symbol": "⠈",
+      "name": "盲文点4",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点4",
+        "盲文",
+        "2808",
+        "U+2808",
+        "Braille Pattern Dots-4",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点4（⠈）是6点或8点盲文单元中右上点被抬起的符号，代表Unicode代码点U+2808，在Braille ASCII中用“@”符号表示，作为格式化指示器、重音标记或标点符号使用。\n\n在统一国际盲文中，盲文点4被用作格式化指示器、重音标记或标点符号，在8点盲文系统中还衍生出与其相关的模式，如47、48和478，展现了盲文在不同语言和系统中的多样化应用和演变。"
+    },
+    {
+      "id": "symbol-2809-456",
+      "symbol": "⠉",
+      "name": "盲文点14",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点14",
+        "盲文",
+        "2809",
+        "U+2809",
+        "Braille Pattern Dots-14",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点14（⠉）是6点或8点盲文单元中两个顶点升起的点，代表无声腭擦音或无声牙齿擦音，具有独特的文化价值和现代意义，象征着无障碍交流的重要性和创新精神。\n\n在统一国际盲文中，盲文点14用于表示无声腭擦音或无声牙齿擦音，如/ts/或/ç/，同时也用于表示数字3，展现了盲文在不同语言和文化中的灵活应用和深刻影响。"
+    },
+    {
+      "id": "symbol-280a-457",
+      "symbol": "⠊",
+      "name": "盲文点24",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点24",
+        "盲文",
+        "280A",
+        "U+280A",
+        "Braille Pattern Dots-24",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点24（⠊）是一种6点盲文单元，顶部右侧和中间左侧点被抬起，代表着独特的音值和数字。它在统一国际盲文中用于表示无圆唇、闭前元音，例如/i/、/ɪ/或/ɨ/，同时也是数字9的符号。\n\n盲文点24在不同盲文系统中有多种用途，如统一国际盲文、加德纳-萨利纳斯盲文和卢森堡盲文等，展现出其在文字表达和交流中的重要性和多样性。"
+    },
+    {
+      "id": "symbol-280b-458",
+      "symbol": "⠋",
+      "name": "盲文点124",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点124",
+        "盲文",
+        "280B",
+        "U+280B",
+        "Braille Pattern Dots-124",
+        "Braille Patterns"
+      ],
+      "notes": "⠋ 对应盲文字母表中的字母 f，点位为 1-2-4。"
+    },
+    {
+      "id": "symbol-280c-459",
+      "symbol": "⠌",
+      "name": "盲文点34",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点34",
+        "盲文",
+        "280C",
+        "U+280C",
+        "Braille Pattern Dots-34",
+        "Braille Patterns"
+      ],
+      "notes": "⠌ 是盲文中的斜杠符号，点位为 3-4。通常用于表示分隔符，例如日期中的「/」，或者作为数学表达式中的分数线。"
+    },
+    {
+      "id": "symbol-280d-460",
+      "symbol": "⠍",
+      "name": "盲文点134",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点134",
+        "盲文",
+        "280D",
+        "U+280D",
+        "Braille Pattern Dots-134",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点134（⠍）是一种6点盲文单元，顶部和底部左侧的点都被抬起。它由Unicode代码点U+280d表示，在盲文ASCII中用M表示。\n\n在统一国际盲文中，盲文点134用于表示双唇鼻音，即/m/。"
+    },
+    {
+      "id": "symbol-280e-461",
+      "symbol": "⠎",
+      "name": "盲文点234",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点234",
+        "盲文",
+        "280E",
+        "U+280E",
+        "Braille Pattern Dots-234",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点234，即⠎，是一种6点盲文单元，顶右和中下左点凸起。\n\n它代表一个无声齿龈摩擦音，即/s/，在统一国际盲文中使用。"
+    },
+    {
+      "id": "symbol-280f-462",
+      "symbol": "⠏",
+      "name": "盲文点1234",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1234",
+        "盲文",
+        "280F",
+        "U+280F",
+        "Braille Pattern Dots-1234",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点1234（⠏）是一种6点或8点盲文字符，由顶部和左侧所有点组成。它对应Unicode代码点U+280f。\n\n在统一国际盲文中，⠏代表无声双唇塞音/p/。在8点盲文系统中，相关模式包括12347、12348和123478。"
+    },
+    {
+      "id": "symbol-2810-463",
+      "symbol": "⠐",
+      "name": "盲文点5",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点5",
+        "盲文",
+        "2810",
+        "U+2810",
+        "Braille Pattern Dots-5",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点5符号为⠐，是盲文中的一个基本符号。\n\n它用于表示特定的音节或词汇，帮助盲人阅读和书写。\n\n在现代应用中，盲文点5广泛用于盲文材料的制作和传播。"
+    },
+    {
+      "id": "symbol-2811-464",
+      "symbol": "⠑",
+      "name": "盲文点15",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点15",
+        "盲文",
+        "2811",
+        "U+2811",
+        "Braille Pattern Dots-15",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点15，符号为⠑，是盲文系统中的一个基本符号。\n\n它主要用于表示特定的音节或词汇，帮助盲人阅读和书写。"
+    },
+    {
+      "id": "symbol-2812-465",
+      "symbol": "⠒",
+      "name": "盲文点25",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点25",
+        "盲文",
+        "2812",
+        "U+2812",
+        "Braille Pattern Dots-25",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点25，符号为⠒，是盲文中用于表示特定声音或字符的点之一。\n\n其主要用途是帮助盲人或视障人士阅读和书写，具有重要的文化和教育价值。"
+    },
+    {
+      "id": "symbol-2813-466",
+      "symbol": "⠓",
+      "name": "盲文点125",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点125",
+        "盲文",
+        "2813",
+        "U+2813",
+        "Braille Pattern Dots-125",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点125，符号为⠓，是盲文点字系统中的一个基本符号。\n\n它主要用于表示特定的音节或词语，帮助盲人阅读和书写。"
+    },
+    {
+      "id": "symbol-2814-467",
+      "symbol": "⠔",
+      "name": "盲文点35",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点35",
+        "盲文",
+        "2814",
+        "U+2814",
+        "Braille Pattern Dots-35",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点35，符号为⠔，是盲文点字中的一个特殊符号。\n\n它主要用于表示特定的音节或词组，帮助盲人阅读和书写。"
+    },
+    {
+      "id": "symbol-2815-468",
+      "symbol": "⠕",
+      "name": "盲文点135",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点135",
+        "盲文",
+        "2815",
+        "U+2815",
+        "Braille Pattern Dots-135",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点135，即符号⠕，是盲文系统中的一部分。\n\n它用于表示特定的音节或单词，帮助盲人阅读和书写。"
+    },
+    {
+      "id": "symbol-2816-469",
+      "symbol": "⠖",
+      "name": "盲文点235",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点235",
+        "盲文",
+        "2816",
+        "U+2816",
+        "Braille Pattern Dots-235",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点235（⠖）是盲文中的一个基本符号，用于表示特定的音节或词汇。\n\n它在盲文输入法中具有特定的用途，帮助盲人和视障人士阅读和书写。"
+    },
+    {
+      "id": "symbol-2817-470",
+      "symbol": "⠗",
+      "name": "盲文点1235",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1235",
+        "盲文",
+        "2817",
+        "U+2817",
+        "Braille Pattern Dots-1235",
+        "Braille Patterns"
+      ],
+      "notes": "符号⠗是盲文点1235，用于表示特定声音或字符。\n\n它是盲文系统的一部分，帮助视障人士阅读和书写。"
+    },
+    {
+      "id": "symbol-2818-471",
+      "symbol": "⠘",
+      "name": "盲文点45",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点45",
+        "盲文",
+        "2818",
+        "U+2818",
+        "Braille Pattern Dots-45",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点45（⠘）是盲文系统中的一个特殊符号，用于表示特定的音节或发音。\n\n它在盲文输入法和阅读中发挥着重要作用，帮助盲人或视力障碍者正确读写和理解文字。"
+    },
+    {
+      "id": "symbol-2819-472",
+      "symbol": "⠙",
+      "name": "盲文点145",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点145",
+        "盲文",
+        "2819",
+        "U+2819",
+        "Braille Pattern Dots-145",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点145，符号为⠙，是盲文中的一个特殊符号，用于辅助盲人阅读和书写。\n\n它在盲文系统中具有特定的含义和用途，帮助盲人理解和交流信息。"
+    },
+    {
+      "id": "symbol-281a-473",
+      "symbol": "⠚",
+      "name": "盲文点245",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点245",
+        "盲文",
+        "281A",
+        "U+281A",
+        "Braille Pattern Dots-245",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点245，符号为⠚，是盲文中的一个基本符号。\n\n它用于表示特定的音节或词汇，帮助盲人通过触觉阅读。"
+    },
+    {
+      "id": "symbol-281b-474",
+      "symbol": "⠛",
+      "name": "盲文点1245",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1245",
+        "盲文",
+        "281B",
+        "U+281B",
+        "Braille Pattern Dots-1245",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点1245，即符号 ⠛，是一种特殊的盲文字符，用于表示特定的音节或词汇。\n\n它在盲文系统中具有重要意义，帮助盲人和视障人士读写和交流。"
+    },
+    {
+      "id": "symbol-281c-475",
+      "symbol": "⠜",
+      "name": "盲文点345",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点345",
+        "盲文",
+        "281C",
+        "U+281C",
+        "Braille Pattern Dots-345",
+        "Braille Patterns"
+      ],
+      "notes": "盲文点345，符号为⠜，是盲文系统中的一个基本符号。\n\n它主要用于表示特定的音节或词汇，以帮助盲人阅读和书写。"
+    },
+    {
+      "id": "symbol-281d-476",
+      "symbol": "⠝",
+      "name": "盲文点1345",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1345",
+        "盲文",
+        "281D",
+        "U+281D",
+        "Braille Pattern Dots-1345",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-1345」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-281e-477",
+      "symbol": "⠞",
+      "name": "盲文点2345",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点2345",
+        "盲文",
+        "281E",
+        "U+281E",
+        "Braille Pattern Dots-2345",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-2345」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-281f-478",
+      "symbol": "⠟",
+      "name": "盲文点12345",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点12345",
+        "盲文",
+        "281F",
+        "U+281F",
+        "Braille Pattern Dots-12345",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-12345」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2820-479",
+      "symbol": "⠠",
+      "name": "盲文点6",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点6",
+        "盲文",
+        "2820",
+        "U+2820",
+        "Braille Pattern Dots-6",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-6」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2821-480",
+      "symbol": "⠡",
+      "name": "盲文点16",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点16",
+        "盲文",
+        "2821",
+        "U+2821",
+        "Braille Pattern Dots-16",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-16」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2822-481",
+      "symbol": "⠢",
+      "name": "盲文点26",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点26",
+        "盲文",
+        "2822",
+        "U+2822",
+        "Braille Pattern Dots-26",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-26」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2823-482",
+      "symbol": "⠣",
+      "name": "盲文点126",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点126",
+        "盲文",
+        "2823",
+        "U+2823",
+        "Braille Pattern Dots-126",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-126」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2824-483",
+      "symbol": "⠤",
+      "name": "盲文点36",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点36",
+        "盲文",
+        "2824",
+        "U+2824",
+        "Braille Pattern Dots-36",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-36」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2825-484",
+      "symbol": "⠥",
+      "name": "盲文点136",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点136",
+        "盲文",
+        "2825",
+        "U+2825",
+        "Braille Pattern Dots-136",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-136」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。\n"
+    },
+    {
+      "id": "symbol-2826-485",
+      "symbol": "⠦",
+      "name": "盲文点236",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点236",
+        "盲文",
+        "2826",
+        "U+2826",
+        "Braille Pattern Dots-236",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-236」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2827-486",
+      "symbol": "⠧",
+      "name": "盲文点1236",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1236",
+        "盲文",
+        "2827",
+        "U+2827",
+        "Braille Pattern Dots-1236",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-1236」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2828-487",
+      "symbol": "⠨",
+      "name": "盲文点46",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点46",
+        "盲文",
+        "2828",
+        "U+2828",
+        "Braille Pattern Dots-46",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-46」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2829-488",
+      "symbol": "⠩",
+      "name": "盲文点146",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点146",
+        "盲文",
+        "2829",
+        "U+2829",
+        "Braille Pattern Dots-146",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-146」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-282a-489",
+      "symbol": "⠪",
+      "name": "盲文点246",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点246",
+        "盲文",
+        "282A",
+        "U+282A",
+        "Braille Pattern Dots-246",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-246」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-282b-490",
+      "symbol": "⠫",
+      "name": "盲文点1246",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1246",
+        "盲文",
+        "282B",
+        "U+282B",
+        "Braille Pattern Dots-1246",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-1246」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-282c-491",
+      "symbol": "⠬",
+      "name": "盲文点346",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点346",
+        "盲文",
+        "282C",
+        "U+282C",
+        "Braille Pattern Dots-346",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-346」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-282d-492",
+      "symbol": "⠭",
+      "name": "盲文点1346",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1346",
+        "盲文",
+        "282D",
+        "U+282D",
+        "Braille Pattern Dots-1346",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-1346」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-282e-493",
+      "symbol": "⠮",
+      "name": "盲文点2346",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点2346",
+        "盲文",
+        "282E",
+        "U+282E",
+        "Braille Pattern Dots-2346",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-2346」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-282f-494",
+      "symbol": "⠯",
+      "name": "盲文点12346",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点12346",
+        "盲文",
+        "282F",
+        "U+282F",
+        "Braille Pattern Dots-12346",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-12346」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2830-495",
+      "symbol": "⠰",
+      "name": "盲文点56",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点56",
+        "盲文",
+        "2830",
+        "U+2830",
+        "Braille Pattern Dots-56",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-56」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。\n"
+    },
+    {
+      "id": "symbol-2831-496",
+      "symbol": "⠱",
+      "name": "盲文点156",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点156",
+        "盲文",
+        "2831",
+        "U+2831",
+        "Braille Pattern Dots-156",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-156」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2832-497",
+      "symbol": "⠲",
+      "name": "盲文点256",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点256",
+        "盲文",
+        "2832",
+        "U+2832",
+        "Braille Pattern Dots-256",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-256」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2833-498",
+      "symbol": "⠳",
+      "name": "盲文点1256",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1256",
+        "盲文",
+        "2833",
+        "U+2833",
+        "Braille Pattern Dots-1256",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-1256」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2834-499",
+      "symbol": "⠴",
+      "name": "盲文点356",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点356",
+        "盲文",
+        "2834",
+        "U+2834",
+        "Braille Pattern Dots-356",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-356」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2835-500",
+      "symbol": "⠵",
+      "name": "盲文点1356",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1356",
+        "盲文",
+        "2835",
+        "U+2835",
+        "Braille Pattern Dots-1356",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-1356」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2836-501",
+      "symbol": "⠶",
+      "name": "盲文点2356",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点2356",
+        "盲文",
+        "2836",
+        "U+2836",
+        "Braille Pattern Dots-2356",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-2356」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2837-502",
+      "symbol": "⠷",
+      "name": "盲文点12356",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点12356",
+        "盲文",
+        "2837",
+        "U+2837",
+        "Braille Pattern Dots-12356",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-12356」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2838-503",
+      "symbol": "⠸",
+      "name": "盲文点456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点456",
+        "盲文",
+        "2838",
+        "U+2838",
+        "Braille Pattern Dots-456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。\n"
+    },
+    {
+      "id": "symbol-2839-504",
+      "symbol": "⠹",
+      "name": "盲文点1456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点1456",
+        "盲文",
+        "2839",
+        "U+2839",
+        "Braille Pattern Dots-1456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-1456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-283a-505",
+      "symbol": "⠺",
+      "name": "盲文点2456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点2456",
+        "盲文",
+        "283A",
+        "U+283A",
+        "Braille Pattern Dots-2456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-2456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-283b-506",
+      "symbol": "⠻",
+      "name": "盲文点12456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点12456",
+        "盲文",
+        "283B",
+        "U+283B",
+        "Braille Pattern Dots-12456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-12456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-283c-507",
+      "symbol": "⠼",
+      "name": "盲文点3456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点3456",
+        "盲文",
+        "283C",
+        "U+283C",
+        "Braille Pattern Dots-3456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-3456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-283d-508",
+      "symbol": "⠽",
+      "name": "盲文点13456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点13456",
+        "盲文",
+        "283D",
+        "U+283D",
+        "Braille Pattern Dots-13456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-13456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-283e-509",
+      "symbol": "⠾",
+      "name": "盲文点23456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点23456",
+        "盲文",
+        "283E",
+        "U+283E",
+        "Braille Pattern Dots-23456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-23456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-283f-510",
+      "symbol": "⠿",
+      "name": "盲文点123456",
+      "pronunciation": "",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点123456",
+        "盲文",
+        "283F",
+        "U+283F",
+        "Braille Pattern Dots-123456",
+        "Braille Patterns"
+      ],
+      "notes": "符号 「盲文图案点-123456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    }
   ]
 }

@@ -1,90 +1,1353 @@
 {
   "category": "角标",
   "total": 84,
-  "ids": [
-    "symbol-b2-15",
-    "symbol-b3-16",
-    "symbol-b9-19",
-    "symbol-2b0-23",
-    "symbol-2b2-24",
-    "symbol-2b3-25",
-    "symbol-2b7-26",
-    "symbol-2b8-27",
-    "symbol-2e3-28",
-    "symbol-1d2c-83",
-    "symbol-1d2e-84",
-    "symbol-1d30-85",
-    "symbol-1d31-86",
-    "symbol-1d33-87",
-    "symbol-1d34-88",
-    "symbol-1d35-89",
-    "symbol-1d36-90",
-    "symbol-1d37-91",
-    "symbol-1d38-92",
-    "symbol-1d39-93",
-    "symbol-1d3a-94",
-    "symbol-1d3c-95",
-    "symbol-1d3e-96",
-    "symbol-1d3f-97",
-    "symbol-1d40-98",
-    "symbol-1d41-99",
-    "symbol-1d42-100",
-    "symbol-1d43-101",
-    "symbol-1d47-102",
-    "symbol-1d48-103",
-    "symbol-1d49-104",
-    "symbol-1d4d-105",
-    "symbol-1d4f-106",
-    "symbol-1d50-107",
-    "symbol-1d52-108",
-    "symbol-1d56-109",
-    "symbol-1d57-110",
-    "symbol-1d57-2b0-111",
-    "symbol-1d58-112",
-    "symbol-1d5b-113",
-    "symbol-1d9c-114",
-    "symbol-1da0-115",
-    "symbol-1dab-116",
-    "symbol-1dbb-117",
-    "symbol-2070-129",
-    "symbol-2071-130",
-    "symbol-2074-131",
-    "symbol-2075-132",
-    "symbol-2076-133",
-    "symbol-2077-134",
-    "symbol-2078-135",
-    "symbol-2079-136",
-    "symbol-207a-137",
-    "symbol-207b-138",
-    "symbol-207c-139",
-    "symbol-207d-140",
-    "symbol-207e-141",
-    "symbol-207f-142",
-    "symbol-2080-143",
-    "symbol-2081-144",
-    "symbol-2082-145",
-    "symbol-2083-146",
-    "symbol-2084-147",
-    "symbol-2085-148",
-    "symbol-2086-149",
-    "symbol-2087-150",
-    "symbol-2088-151",
-    "symbol-2089-152",
-    "symbol-208a-153",
-    "symbol-208b-154",
-    "symbol-208c-155",
-    "symbol-208d-156",
-    "symbol-208e-157",
-    "symbol-2090-158",
-    "symbol-2091-159",
-    "symbol-2092-160",
-    "symbol-2093-161",
-    "symbol-2095-162",
-    "symbol-2097-163",
-    "symbol-2098-164",
-    "symbol-2099-165",
-    "symbol-209a-166",
-    "symbol-209b-167",
-    "symbol-209c-168"
+  "items": [
+    {
+      "id": "symbol-b2-15",
+      "symbol": "²",
+      "name": "上标2",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标2",
+        "角标",
+        "00B2",
+        "U+00B2"
+      ],
+      "notes": "表示数字“2”的上标形式，常用于数学公式中的平方运算（如 x²）或标记次序。"
+    },
+    {
+      "id": "symbol-b3-16",
+      "symbol": "³",
+      "name": "上标3",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标3",
+        "角标",
+        "00B3",
+        "U+00B3"
+      ],
+      "notes": "表示数字“3”的上标形式，常用于数学公式中的立方运算（如 x³）。"
+    },
+    {
+      "id": "symbol-b9-19",
+      "symbol": "¹",
+      "name": "上标1",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标1",
+        "角标",
+        "00B9",
+        "U+00B9"
+      ],
+      "notes": "表示数字“1”的上标形式，常用于数学公式中的幂运算、指数标记（如 x¹）或序号表示（如第1）。"
+    },
+    {
+      "id": "symbol-2b0-23",
+      "symbol": "ʰ",
+      "name": "上标h",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标h",
+        "角标",
+        "02B0",
+        "U+02B0"
+      ],
+      "notes": "表示字母“h”的上标形式，常用于数学、物理公式或变量表示。"
+    },
+    {
+      "id": "symbol-2b2-24",
+      "symbol": "ʲ",
+      "name": "上标j",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标j",
+        "角标",
+        "02B2",
+        "U+02B2"
+      ],
+      "notes": "表示字母“j”的上标形式，常用于公式或表达式中表示变量或虚数部分。"
+    },
+    {
+      "id": "symbol-2b3-25",
+      "symbol": "ʳ",
+      "name": "上标r",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标r",
+        "角标",
+        "02B3",
+        "U+02B3"
+      ],
+      "notes": "表示字母“r”的上标形式，常见于物理公式或变量标记中。"
+    },
+    {
+      "id": "symbol-2b7-26",
+      "symbol": "ʷ",
+      "name": "上标w",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标w",
+        "角标",
+        "02B7",
+        "U+02B7"
+      ],
+      "notes": "表示字母“w”的上标形式，常见于变量表示或公式中。"
+    },
+    {
+      "id": "symbol-2b8-27",
+      "symbol": "ʸ",
+      "name": "上标y",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标y",
+        "角标",
+        "02B8",
+        "U+02B8"
+      ],
+      "notes": "表示字母“y”的上标形式，常见于数学或公式中表示变量标记。"
+    },
+    {
+      "id": "symbol-2e3-28",
+      "symbol": "ˣ",
+      "name": "上标x",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标x",
+        "角标",
+        "02E3",
+        "U+02E3"
+      ],
+      "notes": "表示字母“x”的上标形式，常用于数学表达中表示变量或次方。"
+    },
+    {
+      "id": "symbol-1d2c-83",
+      "symbol": "ᴬ",
+      "name": "上标A",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标A",
+        "角标",
+        "1D2C",
+        "U+1D2C"
+      ],
+      "notes": "表示字母“A”的上标形式，常用于数学公式、化学分子式或标注。"
+    },
+    {
+      "id": "symbol-1d2e-84",
+      "symbol": "ᴮ",
+      "name": "上标B",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标B",
+        "角标",
+        "1D2E",
+        "U+1D2E"
+      ],
+      "notes": "表示字母“B”的上标形式，常用于数学、物理或标注中表示特定变量或状态。"
+    },
+    {
+      "id": "symbol-1d30-85",
+      "symbol": "ᴰ",
+      "name": "上标D",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标D",
+        "角标",
+        "1D30",
+        "U+1D30"
+      ],
+      "notes": "表示字母“D”的上标形式，通常用于标记变量或数学公式中的特殊符号。"
+    },
+    {
+      "id": "symbol-1d31-86",
+      "symbol": "ᴱ",
+      "name": "上标E",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标E",
+        "角标",
+        "1D31",
+        "U+1D31"
+      ],
+      "notes": "表示字母“E”的上标形式，常用于指数或标注变量。"
+    },
+    {
+      "id": "symbol-1d33-87",
+      "symbol": "ᴳ",
+      "name": "上标G",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标G",
+        "角标",
+        "1D33",
+        "U+1D33"
+      ],
+      "notes": "表示字母“G”的上标形式，常用于标记特定物理量或变量。"
+    },
+    {
+      "id": "symbol-1d34-88",
+      "symbol": "ᴴ",
+      "name": "上标H",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标H",
+        "角标",
+        "1D34",
+        "U+1D34"
+      ],
+      "notes": "ᴴ符号，表示上标H，用于特殊语法或数学公式中，提供语义区分。\n\nᴴ源自拉丁字母H，用于表示变量或常数，体现数学和语法中的精确性。"
+    },
+    {
+      "id": "symbol-1d35-89",
+      "symbol": "ᴵ",
+      "name": "上标I",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标I",
+        "角标",
+        "1D35",
+        "U+1D35"
+      ],
+      "notes": "表示字母“I”的上标形式，常见于数学公式或变量标注中。"
+    },
+    {
+      "id": "symbol-1d36-90",
+      "symbol": "ᴶ",
+      "name": "上标J",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标J",
+        "角标",
+        "1D36",
+        "U+1D36"
+      ],
+      "notes": "表示字母“J”的上标形式，用于数学表达式或变量标记中。"
+    },
+    {
+      "id": "symbol-1d37-91",
+      "symbol": "ᴷ",
+      "name": "上标K",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标K",
+        "角标",
+        "1D37",
+        "U+1D37"
+      ],
+      "notes": "表示字母“K”的上标形式，常用于物理量或公式标注中。"
+    },
+    {
+      "id": "symbol-1d38-92",
+      "symbol": "ᴸ",
+      "name": "上标L",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标L",
+        "角标",
+        "1D38",
+        "U+1D38"
+      ],
+      "notes": "表示字母“L”的上标形式，通常用于数学或物理公式标注中。"
+    },
+    {
+      "id": "symbol-1d39-93",
+      "symbol": "ᴹ",
+      "name": "上标M",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标M",
+        "角标",
+        "1D39",
+        "U+1D39"
+      ],
+      "notes": "表示字母“M”的上标形式，常用于变量标记或特殊公式中。"
+    },
+    {
+      "id": "symbol-1d3a-94",
+      "symbol": "ᴺ",
+      "name": "上标N",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标N",
+        "角标",
+        "1D3A",
+        "U+1D3A"
+      ],
+      "notes": "表示字母“N”的上标形式，常用于数学或物理公式中的变量标注。"
+    },
+    {
+      "id": "symbol-1d3c-95",
+      "symbol": "ᴼ",
+      "name": "上标O",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标O",
+        "角标",
+        "1D3C",
+        "U+1D3C"
+      ],
+      "notes": "表示字母“O”的上标形式，通常用于特殊标记或公式中。"
+    },
+    {
+      "id": "symbol-1d3e-96",
+      "symbol": "ᴾ",
+      "name": "上标P",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标P",
+        "角标",
+        "1D3E",
+        "U+1D3E"
+      ],
+      "notes": "表示字母“P”的上标形式，常见于物理或数学公式中的变量标注。"
+    },
+    {
+      "id": "symbol-1d3f-97",
+      "symbol": "ᴿ",
+      "name": "上标R",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标R",
+        "角标",
+        "1D3F",
+        "U+1D3F"
+      ],
+      "notes": "表示字母“R”的上标形式，用于表示数学或物理中的特殊变量。"
+    },
+    {
+      "id": "symbol-1d40-98",
+      "symbol": "ᵀ",
+      "name": "上标T",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标T",
+        "角标",
+        "1D40",
+        "U+1D40"
+      ],
+      "notes": "表示字母“T”的上标形式，常用于矩阵转置或其他数学符号中。"
+    },
+    {
+      "id": "symbol-1d41-99",
+      "symbol": "ᵁ",
+      "name": "上标U",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标U",
+        "角标",
+        "1D41",
+        "U+1D41"
+      ],
+      "notes": "表示字母“U”的上标形式，常用于数学公式或变量标注中。"
+    },
+    {
+      "id": "symbol-1d42-100",
+      "symbol": "ᵂ",
+      "name": "上标W",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标W",
+        "角标",
+        "1D42",
+        "U+1D42"
+      ],
+      "notes": "表示字母“W”的上标形式，通常用于变量标注或公式中。"
+    },
+    {
+      "id": "symbol-1d43-101",
+      "symbol": "ᵃ",
+      "name": "上标a",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标a",
+        "角标",
+        "1D43",
+        "U+1D43"
+      ],
+      "notes": "表示字母“a”的上标形式，常用于数学公式或化学分子式中表示特定变量或符号。"
+    },
+    {
+      "id": "symbol-1d47-102",
+      "symbol": "ᵇ",
+      "name": "上标b",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标b",
+        "角标",
+        "1D47",
+        "U+1D47"
+      ],
+      "notes": "表示字母“b”的上标形式，常用于数学、物理公式或变量标注中。"
+    },
+    {
+      "id": "symbol-1d48-103",
+      "symbol": "ᵈ",
+      "name": "上标d",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标d",
+        "角标",
+        "1D48",
+        "U+1D48"
+      ],
+      "notes": "表示字母“d”的上标形式，通常用于变量标注或数学表达式中。"
+    },
+    {
+      "id": "symbol-1d49-104",
+      "symbol": "ᵉ",
+      "name": "上标e",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标e",
+        "角标",
+        "1D49",
+        "U+1D49"
+      ],
+      "notes": "表示字母“e”的上标形式，常用于数学公式或指数表达中。"
+    },
+    {
+      "id": "symbol-1d4d-105",
+      "symbol": "ᵍ",
+      "name": "上标g",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标g",
+        "角标",
+        "1D4D",
+        "U+1D4D"
+      ],
+      "notes": "表示字母“g”的上标形式，通常用于物理或数学表达中的变量标记。"
+    },
+    {
+      "id": "symbol-1d4f-106",
+      "symbol": "ᵏ",
+      "name": "上标k",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标k",
+        "角标",
+        "1D4F",
+        "U+1D4F"
+      ],
+      "notes": "上标k（ᵏ）符号，表示音标，用于语言学中。\n\n源自拉丁字母K，用于语音转录，体现音标精确。"
+    },
+    {
+      "id": "symbol-1d50-107",
+      "symbol": "ᵐ",
+      "name": "上标m",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标m",
+        "角标",
+        "1D50",
+        "U+1D50"
+      ],
+      "notes": "表示字母“m”的上标形式，常用于变量表示或指数表达中。"
+    },
+    {
+      "id": "symbol-1d52-108",
+      "symbol": "ᵒ",
+      "name": "上标o",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标o",
+        "角标",
+        "1D52",
+        "U+1D52"
+      ],
+      "notes": "表示字母“o”的上标形式，常用于公式或变量标注中。"
+    },
+    {
+      "id": "symbol-1d56-109",
+      "symbol": "ᵖ",
+      "name": "上标p",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标p",
+        "角标",
+        "1D56",
+        "U+1D56"
+      ],
+      "notes": "表示字母“p”的上标形式，常用于数学、物理或变量标注中。"
+    },
+    {
+      "id": "symbol-1d57-110",
+      "symbol": "ᵗ",
+      "name": "上标t",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标t",
+        "角标",
+        "1D57",
+        "U+1D57"
+      ],
+      "notes": "表示字母“t”的上标形式，常用于矩阵转置、时间变量等标注中。"
+    },
+    {
+      "id": "symbol-1d57-2b0-111",
+      "symbol": "ᵗʰ",
+      "name": "上标th",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标th",
+        "角标",
+        "1D57",
+        "02B0",
+        "U+1D57",
+        "U+02B0",
+        "U+1D57 U+02B0"
+      ],
+      "notes": "表示“th”的上标形式，常用于序数词（如 4ᵗʰ 表示 fourth），在英语书写中标记顺序。"
+    },
+    {
+      "id": "symbol-1d58-112",
+      "symbol": "ᵘ",
+      "name": "上标u",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标u",
+        "角标",
+        "1D58",
+        "U+1D58"
+      ],
+      "notes": "表示字母“u”的上标形式，常用于变量标注或公式中表示参数。"
+    },
+    {
+      "id": "symbol-1d5b-113",
+      "symbol": "ᵛ",
+      "name": "上标v",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标v",
+        "角标",
+        "1D5B",
+        "U+1D5B"
+      ],
+      "notes": "表示字母“v”的上标形式，用于表示变量或公式中的特定值。"
+    },
+    {
+      "id": "symbol-1d9c-114",
+      "symbol": "ᶜ",
+      "name": "上标c",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标c",
+        "角标",
+        "1D9C",
+        "U+1D9C"
+      ],
+      "notes": "表示字母“c”的上标形式，常用于数学公式中标记变量或特殊符号。"
+    },
+    {
+      "id": "symbol-1da0-115",
+      "symbol": "ᶠ",
+      "name": "上标f",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标f",
+        "角标",
+        "1DA0",
+        "U+1DA0"
+      ],
+      "notes": "表示字母“f”的上标形式，常见于公式标注或函数表达中。"
+    },
+    {
+      "id": "symbol-1dab-116",
+      "symbol": "ᶫ",
+      "name": "上标l",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标l",
+        "角标",
+        "1DAB",
+        "U+1DAB"
+      ],
+      "notes": "表示字母“l”的上标形式，通常用于标记数学或物理公式中的变量。"
+    },
+    {
+      "id": "symbol-1dbb-117",
+      "symbol": "ᶻ",
+      "name": "上标z",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标z",
+        "角标",
+        "1DBB",
+        "U+1DBB"
+      ],
+      "notes": "表示字母“z”的上标形式，常见于公式或数学变量标注中。"
+    },
+    {
+      "id": "symbol-2070-129",
+      "symbol": "⁰",
+      "name": "上标0",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标0",
+        "角标",
+        "2070",
+        "U+2070"
+      ],
+      "notes": "表示数字“0”的上标形式，常用于数学公式中表示幂运算（如 x⁰ = 1）或特殊标记。"
+    },
+    {
+      "id": "symbol-2071-130",
+      "symbol": "ⁱ",
+      "name": "上标i",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标i",
+        "角标",
+        "2071",
+        "U+2071"
+      ],
+      "notes": "表示字母“i”的上标形式，常用于数学或公式表示虚数单位或其他变量。"
+    },
+    {
+      "id": "symbol-2074-131",
+      "symbol": "⁴",
+      "name": "上标4",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标4",
+        "角标",
+        "2074",
+        "U+2074"
+      ],
+      "notes": "表示数字“4”的上标形式，常用于数学公式中表示幂运算或序号。"
+    },
+    {
+      "id": "symbol-2075-132",
+      "symbol": "⁵",
+      "name": "上标5",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标5",
+        "角标",
+        "2075",
+        "U+2075"
+      ],
+      "notes": "表示数字“5”的上标形式，常用于数学公式中表示幂运算或特殊标记。"
+    },
+    {
+      "id": "symbol-2076-133",
+      "symbol": "⁶",
+      "name": "上标6",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标6",
+        "角标",
+        "2076",
+        "U+2076"
+      ],
+      "notes": "表示数字“6”的上标形式，常用于数学公式中表示幂运算或指数标记。"
+    },
+    {
+      "id": "symbol-2077-134",
+      "symbol": "⁷",
+      "name": "上标7",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标7",
+        "角标",
+        "2077",
+        "U+2077"
+      ],
+      "notes": "表示数字“7”的上标形式，常用于数学公式中表示幂运算或序号。"
+    },
+    {
+      "id": "symbol-2078-135",
+      "symbol": "⁸",
+      "name": "上标8",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标8",
+        "角标",
+        "2078",
+        "U+2078"
+      ],
+      "notes": "表示数字“8”的上标形式，常用于数学公式中表示幂运算或特殊标记。"
+    },
+    {
+      "id": "symbol-2079-136",
+      "symbol": "⁹",
+      "name": "上标9",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标9",
+        "角标",
+        "2079",
+        "U+2079"
+      ],
+      "notes": "表示数字“9”的上标形式，常用于数学公式中表示幂运算或特殊标记。"
+    },
+    {
+      "id": "symbol-207a-137",
+      "symbol": "⁺",
+      "name": "上标加号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标加号",
+        "角标",
+        "207A",
+        "U+207A"
+      ],
+      "notes": "表示加号的上标形式，常用于数学公式中表示次方的符号或特定标记。"
+    },
+    {
+      "id": "symbol-207b-138",
+      "symbol": "⁻",
+      "name": "上标减号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标减号",
+        "角标",
+        "207B",
+        "U+207B"
+      ],
+      "notes": "表示减号的上标形式，常用于数学公式中表示负次方或特定标记。"
+    },
+    {
+      "id": "symbol-207c-139",
+      "symbol": "⁼",
+      "name": "上标等号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标等号",
+        "角标",
+        "207C",
+        "U+207C"
+      ],
+      "notes": "表示等号的上标形式，常用于特殊数学表达式或排版中表示等价关系。"
+    },
+    {
+      "id": "symbol-207d-140",
+      "symbol": "⁽",
+      "name": "上标左括号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标左括号",
+        "角标",
+        "207D",
+        "U+207D"
+      ],
+      "notes": "表示左括号的上标形式，常用于数学公式中组合表达式或分组符号。"
+    },
+    {
+      "id": "symbol-207e-141",
+      "symbol": "⁾",
+      "name": "上标右括号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标右括号",
+        "角标",
+        "207E",
+        "U+207E"
+      ],
+      "notes": "表示右括号的上标形式，常用于数学公式中组合表达式或分组符号。"
+    },
+    {
+      "id": "symbol-207f-142",
+      "symbol": "ⁿ",
+      "name": "上标n",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "上标n",
+        "角标",
+        "207F",
+        "U+207F"
+      ],
+      "notes": "表示字母“n”的上标形式，常见于数学公式中表示次方或变量。"
+    },
+    {
+      "id": "symbol-2080-143",
+      "symbol": "₀",
+      "name": "下标0",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标0",
+        "角标",
+        "2080",
+        "U+2080"
+      ],
+      "notes": "₀ 是数字「0」的下标形式，常用于数学、物理和化学中，例如表示变量或参数的特定状态（如  x₀  表示初始值，或  T₀  表示参考温度）。在科学和技术文献中，₀ 用于标注变量的特定属性或值。"
+    },
+    {
+      "id": "symbol-2081-144",
+      "symbol": "₁",
+      "name": "下标1",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标1",
+        "角标",
+        "2081",
+        "U+2081"
+      ],
+      "notes": "₁ 是数字「1」的下标形式，常用于数学公式、物理变量或化学标注中，例如  x₁  表示变量的第一个值。"
+    },
+    {
+      "id": "symbol-2082-145",
+      "symbol": "₂",
+      "name": "下标2",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标2",
+        "角标",
+        "2082",
+        "U+2082"
+      ],
+      "notes": "₂ 是数字「2」的下标形式，通常用于表示变量的第二个值，如  x₂ ，或化学式中表示分子中的原子数量，如  CO₂ 。"
+    },
+    {
+      "id": "symbol-2083-146",
+      "symbol": "₃",
+      "name": "下标3",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标3",
+        "角标",
+        "2083",
+        "U+2083"
+      ],
+      "notes": "₃ 是数字「3」的下标形式，广泛用于数学、化学公式，如  H₃PO₄  表示磷酸。"
+    },
+    {
+      "id": "symbol-2084-147",
+      "symbol": "₄",
+      "name": "下标4",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标4",
+        "角标",
+        "2084",
+        "U+2084"
+      ],
+      "notes": "₄ 是数字「4」的下标形式，用于表示变量的第四个值或化学分子式中原子数量，如  C₄H₁₀ 。"
+    },
+    {
+      "id": "symbol-2085-148",
+      "symbol": "₅",
+      "name": "下标5",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标5",
+        "角标",
+        "2085",
+        "U+2085"
+      ],
+      "notes": "₅ 是数字「5」的下标形式，常见于化学分子式或数学变量表示中，如  CH₅ 。"
+    },
+    {
+      "id": "symbol-2086-149",
+      "symbol": "₆",
+      "name": "下标6",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标6",
+        "角标",
+        "2086",
+        "U+2086"
+      ],
+      "notes": "₆ 是数字「6」的下标形式，用于表示变量的第六个值或分子式中的原子数，如  H₂SO₆ 。"
+    },
+    {
+      "id": "symbol-2087-150",
+      "symbol": "₇",
+      "name": "下标7",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标7",
+        "角标",
+        "2087",
+        "U+2087"
+      ],
+      "notes": "₇ 是数字「7」的下标形式，通常用于化学式或数学变量表示中，例如  NO₇ 。"
+    },
+    {
+      "id": "symbol-2088-151",
+      "symbol": "₈",
+      "name": "下标8",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标8",
+        "角标",
+        "2088",
+        "U+2088"
+      ],
+      "notes": "₈ 是数字「8」的下标形式，广泛用于表示分子式中原子数量或数学中的特定变量。"
+    },
+    {
+      "id": "symbol-2089-152",
+      "symbol": "₉",
+      "name": "下标9",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标9",
+        "角标",
+        "2089",
+        "U+2089"
+      ],
+      "notes": "₉ 是数字「9」的下标形式，通常用于数学或科学公式中，如  H₉C₄ 。"
+    },
+    {
+      "id": "symbol-208a-153",
+      "symbol": "₊",
+      "name": "下标加号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标加号",
+        "角标",
+        "208A",
+        "U+208A"
+      ],
+      "notes": "₊ 是加号的下标形式，用于表示特殊变量标记或数学操作，例如  x₊ 。"
+    },
+    {
+      "id": "symbol-208b-154",
+      "symbol": "₋",
+      "name": "下标减号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标减号",
+        "角标",
+        "208B",
+        "U+208B"
+      ],
+      "notes": "₋ 是减号的下标形式，常用于数学公式中表示负值或特定变量标注，如  y₋ 。"
+    },
+    {
+      "id": "symbol-208c-155",
+      "symbol": "₌",
+      "name": "下标等号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标等号",
+        "角标",
+        "208C",
+        "U+208C"
+      ],
+      "notes": "₌ 是等号的下标形式，用于科学或数学公式的特殊表达，通常很少使用。"
+    },
+    {
+      "id": "symbol-208d-156",
+      "symbol": "₍",
+      "name": "下标左括号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标左括号",
+        "角标",
+        "208D",
+        "U+208D"
+      ],
+      "notes": "₍ 是左括号的下标形式，用于标注数学表达式中的特定范围或分组，例如  f₍₀₎ 。"
+    },
+    {
+      "id": "symbol-208e-157",
+      "symbol": "₎",
+      "name": "下标右括号",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标右括号",
+        "角标",
+        "208E",
+        "U+208E"
+      ],
+      "notes": "₎ 是右括号的下标形式，与下标左括号 ₍ 配合使用，用于表示特定分组或范围。"
+    },
+    {
+      "id": "symbol-2090-158",
+      "symbol": "ₐ",
+      "name": "下标a",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标a",
+        "角标",
+        "2090",
+        "U+2090"
+      ],
+      "notes": "ₐ符号，表示下标a，在数学和化学公式中使用，表示特定含义。其主要功能是区分变量和常数，提供清晰的表达方式。\n\nₐ符号源自拉丁字母a，体现数学和化学公式的精确性，在Unicode字符集中占有特定位置，提供了方便的输入和表示方法，增强了公式的可读性和准确性。"
+    },
+    {
+      "id": "symbol-2091-159",
+      "symbol": "ₑ",
+      "name": "下标e",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标e",
+        "角标",
+        "2091",
+        "U+2091"
+      ],
+      "notes": "ₑ 表示字母「e」的下标形式，用于科学公式中表示电子或特定参数，例如  Fₑ  代表电子相关的力。"
+    },
+    {
+      "id": "symbol-2092-160",
+      "symbol": "ₒ",
+      "name": "下标o",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标o",
+        "角标",
+        "2092",
+        "U+2092"
+      ],
+      "notes": "ₒ 表示字母「o」的下标形式，用于科学公式中表示起始值或标准条件，如  Tₒ 。"
+    },
+    {
+      "id": "symbol-2093-161",
+      "symbol": "ₓ",
+      "name": "下标x",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标x",
+        "角标",
+        "2093",
+        "U+2093"
+      ],
+      "notes": "ₓ 表示字母「x」的下标形式，常用于数学和科学公式中，表示横坐标或其他与  x  相关的量，如  fₓ 。"
+    },
+    {
+      "id": "symbol-2095-162",
+      "symbol": "ₕ",
+      "name": "下标h",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标h",
+        "角标",
+        "2095",
+        "U+2095"
+      ],
+      "notes": "ₕ 表示字母「h」的下标形式，常用于物理公式中表示高度或普朗克常数的相关变量，如  Eₕ 。"
+    },
+    {
+      "id": "symbol-2097-163",
+      "symbol": "ₗ",
+      "name": "下标l",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标l",
+        "角标",
+        "2097",
+        "U+2097"
+      ],
+      "notes": "ₗ 表示字母「l」的下标形式，通常用于表示长度或线性相关的量，例如  Iₗ 。"
+    },
+    {
+      "id": "symbol-2098-164",
+      "symbol": "ₘ",
+      "name": "下标m",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标m",
+        "角标",
+        "2098",
+        "U+2098"
+      ],
+      "notes": "ₘ 表示字母「m」的下标形式，广泛用于表示质量或其他与  m  相关的参数，如  Pₘ 。"
+    },
+    {
+      "id": "symbol-2099-165",
+      "symbol": "ₙ",
+      "name": "下标n",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标n",
+        "角标",
+        "2099",
+        "U+2099"
+      ],
+      "notes": "ₙ 表示字母「n」的下标形式，常用于表示数量、分子或特定序列的编号，如  xₙ 。"
+    },
+    {
+      "id": "symbol-209a-166",
+      "symbol": "ₚ",
+      "name": "下标p",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标p",
+        "角标",
+        "209A",
+        "U+209A"
+      ],
+      "notes": "ₚ 表示字母「p」的下标形式，常用于物理和化学中表示压力或概率，如  Pₚ 。"
+    },
+    {
+      "id": "symbol-209b-167",
+      "symbol": "ₛ",
+      "name": "下标s",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标s",
+        "角标",
+        "209B",
+        "U+209B"
+      ],
+      "notes": "ₛ 表示字母「s」的下标形式，常用于表示子集、速度或时间相关的变量，如  vₛ 。"
+    },
+    {
+      "id": "symbol-209c-168",
+      "symbol": "ₜ",
+      "name": "下标t",
+      "pronunciation": "",
+      "category": [
+        "角标"
+      ],
+      "searchTerms": [
+        "下标t",
+        "角标",
+        "209C",
+        "U+209C"
+      ],
+      "notes": "ₜ 表示字母「t」的下标形式，常用于数学、物理和化学公式中。例如，在物理中，它可能表示时间（time），如  vₜ  表示时间相关的速度；在化学中，它可能表示温度（temperature），如  Tₜ  表示某一特定时间的温度。"
+    }
   ]
 }

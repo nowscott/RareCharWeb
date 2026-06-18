@@ -1,3 +1,14 @@
+## [1.11.2](https://github.com/nowscott/RareCharWeb/compare/v1.11.1...v1.11.2) (2026-06-18)
+
+
+### 数据
+
+* **分类分片:** 分类分片改为保存完整条目，`random-pool.json` 保持仅保存 ID
+* **ID 索引:** 为符号与 Emoji 生成轻量 `index.json`，记录 ID 到分类分片的定位信息
+* **Emoji:** 将待处理 Emoji 清理后入库，去除展示文案中的来源前缀和链接
+* **搜索词:** 补齐线上符号 `searchTerms`，并规范化 Emoji `keywords`
+
+
 ## [1.11.1](https://github.com/nowscott/RareCharWeb/compare/v1.11.0...v1.11.1) (2026-06-18)
 
 

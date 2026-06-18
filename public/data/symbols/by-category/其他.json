@@ -1,23 +1,304 @@
 {
   "category": "其他",
   "total": 17,
-  "ids": [
-    "symbol-a1-2",
-    "symbol-a9-7",
-    "symbol-ae-10",
-    "symbol-bf-21",
-    "symbol-2100-200",
-    "symbol-2101-201",
-    "symbol-2105-204",
-    "symbol-2106-205",
-    "symbol-2116-209",
-    "symbol-2117-210",
-    "symbol-2120-211",
-    "symbol-2121-212",
-    "symbol-2122-213",
-    "symbol-2693-428",
-    "symbol-2696-429",
-    "symbol-3004-512",
-    "symbol-3012-513"
+  "items": [
+    {
+      "id": "symbol-a1-2",
+      "symbol": "¡",
+      "name": "竖翻叹号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "竖翻叹号",
+        "其他",
+        "00A1",
+        "U+00A1"
+      ],
+      "notes": "竖翻叹号¡是西班牙语中的一个标点符号，用于表示强烈的情感或惊讶。\n\n它通常出现在句子的开头，表示句子的强调或惊讶。"
+    },
+    {
+      "id": "symbol-a9-7",
+      "symbol": "©",
+      "name": "版权",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "版权",
+        "其他",
+        "00A9",
+        "U+00A9"
+      ],
+      "notes": "© 是版权符号，用于表示作品的版权归属，通常出现在作品的发布或授权声明中。\n\n该符号由字母 C 和一个圆圈组成，代表 Copyright（版权）的缩写。它表示该作品受到版权法保护，未经授权不得复制、分发或修改该作品。\n\n© 版权符号广泛用于文学、音乐、艺术、软件等领域，旨在告知公众该作品的所有权和法律保护。\n\n该符号自1976年美国版权法修改后，成为国际上通用的版权标志。"
+    },
+    {
+      "id": "symbol-ae-10",
+      "symbol": "®",
+      "name": "注册商标",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "注册商标",
+        "其他",
+        "00AE",
+        "U+00AE"
+      ],
+      "notes": "®，即“注册商标”的符号，表示某个商标已经在特定国家或地区完成注册并受到法律保护。使用该符号的商标表明其所有者享有独占权，未经授权他人不得擅自使用。"
+    },
+    {
+      "id": "symbol-bf-21",
+      "symbol": "¿",
+      "name": "竖翻问号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "竖翻问号",
+        "其他",
+        "00BF",
+        "U+00BF"
+      ],
+      "notes": "竖翻问号¿是西班牙语和其他一些语言中的符号，用于表示疑问的开始。\n\n它通常与普通问号？一起使用，置于句子的开头和结尾，表明疑问的语气。"
+    },
+    {
+      "id": "symbol-2100-200",
+      "symbol": "℀",
+      "name": "账号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "账号",
+        "其他",
+        "2100",
+        "U+2100",
+        "Account Of",
+        "Letterlike Symbols"
+      ],
+      "notes": "℀ 表示“账号标志”，是“Account”的缩写，常用于商业或金融文件中，表示账户或账号相关的信息。"
+    },
+    {
+      "id": "symbol-2101-201",
+      "symbol": "℁",
+      "name": "地址",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "地址",
+        "其他",
+        "2101",
+        "U+2101",
+        "Addressed To the Subject",
+        "Letterlike Symbols"
+      ],
+      "notes": "℁ 表示“地址标志”，是“Address”的缩写，常用于标注地址信息，尤其在商业或邮政通信中。"
+    },
+    {
+      "id": "symbol-2105-204",
+      "symbol": "℅",
+      "name": "代收",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "代收",
+        "其他",
+        "2105",
+        "U+2105",
+        "Care Of",
+        "Letterlike Symbols"
+      ],
+      "notes": "℅ 表示“代收”或“经由”，是“Care of”的缩写，常用于邮件或包裹的地址中，指明该信件或物品是通过某人或某机构转交给最终收件人。"
+    },
+    {
+      "id": "symbol-2106-205",
+      "symbol": "℆",
+      "name": "代理商",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "代理商",
+        "其他",
+        "2106",
+        "U+2106",
+        "Cada Una",
+        "Letterlike Symbols"
+      ],
+      "notes": "℆ 表示“代理商标志”，是“Certified Mail”或“Commercial Agent”的缩写，主要用于商业通信中，指代邮件由特定代理商或认证服务处理。"
+    },
+    {
+      "id": "symbol-2116-209",
+      "symbol": "№",
+      "name": "编号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "编号",
+        "其他",
+        "2116",
+        "U+2116",
+        "Numero Sign",
+        "Letterlike Symbols"
+      ],
+      "notes": "№ 是编号符号，用于表示某一编号或数字的缩写，常见于序号、编号或列表中。\n\n该符号起源于拉丁语单词“numero”，意思是“数字”或“编号”。它用于强调某一项目或物品的编号，尤其在正式文件、出版物、注册和目录中常见。\n\n№ 用于表示如“第N号”或“编号N”的意思，通常出现在地址、法令、条款等文献中。\n\n该符号在俄罗斯和其他一些国家的文化中被广泛使用，常见于历史文献或传统文件中。"
+    },
+    {
+      "id": "symbol-2117-210",
+      "symbol": "℗",
+      "name": "录音制品版权",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "录音制品版权",
+        "其他",
+        "2117",
+        "U+2117",
+        "Sound Recording Copyright",
+        "Letterlike Symbols"
+      ],
+      "notes": "℗表示“录音制品版权”，全称是“Phonogram Copyright”。该符号通常用于标注录音制品（如音乐专辑或音频内容）的版权，表明其录音制品的内容受法律保护，未经授权不得复制或传播。"
+    },
+    {
+      "id": "symbol-2120-211",
+      "symbol": "℠",
+      "name": "服务",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "服务",
+        "其他",
+        "2120",
+        "U+2120",
+        "Service Mark",
+        "Letterlike Symbols"
+      ],
+      "notes": "℠ 表示“服务标志”（Service Mark），用于标识某项服务来源的符号，与商标类似，但专门用于服务行业，表明其服务受到法律保护。"
+    },
+    {
+      "id": "symbol-2121-212",
+      "symbol": "℡",
+      "name": "电话",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "电话",
+        "其他",
+        "2121",
+        "U+2121",
+        "Telephone Sign",
+        "Letterlike Symbols"
+      ],
+      "notes": "℡ 表示“电话标志”，是“Telephone”的缩写，常用于标注电话号码或联系信息的符号，尤其是在正式文件或企业宣传资料中。"
+    },
+    {
+      "id": "symbol-2122-213",
+      "symbol": "™",
+      "name": "商标",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "商标",
+        "其他",
+        "2122",
+        "U+2122",
+        "Trade Mark",
+        "Letterlike Symbols"
+      ],
+      "notes": "™ 是商标符号，表示某个标志、名称或符号被用于表示商业品牌，并且该标志已在使用中，但可能尚未正式注册。\n\n该符号常用于产品、品牌或服务名称旁，表明该名称是商标，通常用于表示该商标正在被使用或正在申请注册。\n\n与 ® （注册商标符号）不同，™ 表示商标尚未正式注册，仍然处于使用阶段。\n\n该符号广泛用于商业领域，尤其是在品牌保护和知识产权相关的法律事务中。"
+    },
+    {
+      "id": "symbol-2693-428",
+      "symbol": "⚓",
+      "name": "锚标",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "锚标",
+        "其他",
+        "2693",
+        "U+2693",
+        "Anchor",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚓ 是锚的符号，通常用于表示航海、稳定或坚固。\n\n在航海中，⚓ 是船只停泊和固定的标志，象征着船只的安全和稳定，常出现在船只的标志、港口标识或航海工具中。\n\n⚓ 也在文化中代表坚韧不拔和坚持，常用作象征性的图案，出现在纹身、饰品和标志设计中，表达稳固和不动摇的信念。\n\n在历史上，⚓ 作为海军和航海的标志，具有深厚的文化和历史背景，广泛被应用于军事和海洋相关的领域。\n\n作为一个具有象征意义的符号，⚓ 的使用需要结合上下文，理解其稳定和安全的象征含义。"
+    },
+    {
+      "id": "symbol-2696-429",
+      "symbol": "⚖",
+      "name": "天平",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "天平",
+        "其他",
+        "2696",
+        "U+2696",
+        "Balance Scale",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚖ 是天平符号，广泛用于象征公正、法律和平衡。\n\n在法律和司法领域，⚖ 代表着公正无私的判断和法律的平等应用。天平的两端象征着权利与义务、罪与罚的平衡。\n\n这一符号通常出现在法院标志、法律文献以及与司法相关的象征中，是正义和公平的象征。\n\n⚖ 也常用于文化和艺术作品中，象征平衡与公正的理想，尤其在民间和现代社会中被广泛认知。\n\n使用这个符号时，通常强调权利、责任和道德标准，传递法律体系中的平衡与公正理念。"
+    },
+    {
+      "id": "symbol-3004-512",
+      "symbol": "〄",
+      "name": "日本工业标准",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "日本工业标准",
+        "其他",
+        "3004",
+        "U+3004",
+        "Japanese Industrial Standard Symbol",
+        "CJK Symbols and Punctuation"
+      ],
+      "notes": "〄 是日本工业标准（JIS）的标志，表示产品符合日本工业标准的规定。它曾被用作官方认证标志，表明产品的质量和规格达到标准要求。现如今，该标志已被更现代化的认证体系取代，但仍具有历史意义。"
+    },
+    {
+      "id": "symbol-3012-513",
+      "symbol": "〒",
+      "name": "邮政",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "邮政",
+        "其他",
+        "3012",
+        "U+3012",
+        "Postal Mark",
+        "CJK Symbols and Punctuation"
+      ],
+      "notes": "〒 是邮政符号，主要用于表示日本的邮政系统或与邮政相关的内容。\n\n该符号最常见于日本，用于表示地址栏中的邮政编码或邮政服务。它起源于日本的邮政管理，常见于邮政相关文档、邮寄标签和邮递服务标志中。\n\n〒 符号还可以在其他地方用于象征与邮件、通信和邮政系统相关的事务。\n\n这个符号特别与日本的邮政业务紧密相关，成为其标志之一。"
+    }
   ]
 }

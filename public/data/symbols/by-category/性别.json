@@ -1,20 +1,262 @@
 {
   "category": "性别",
   "total": 14,
-  "ids": [
-    "symbol-2640-364",
-    "symbol-2642-366",
-    "symbol-26a2-432",
-    "symbol-26a3-433",
-    "symbol-26a4-434",
-    "symbol-26a5-435",
-    "symbol-26a6-436",
-    "symbol-26a7-437",
-    "symbol-26a8-438",
-    "symbol-26a9-439",
-    "symbol-26ad-441",
-    "symbol-26ae-442",
-    "symbol-26af-443",
-    "symbol-26b2-444"
+  "items": [
+    {
+      "id": "symbol-2640-364",
+      "symbol": "♀",
+      "name": "金星&女性",
+      "pronunciation": "",
+      "category": [
+        "天文",
+        "性别"
+      ],
+      "searchTerms": [
+        "金星&女性",
+        "天文",
+        "性别",
+        "2640",
+        "U+2640",
+        "Female Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♀ 是女性符号，广泛用于表示女性性别、生物学符号以及与女性相关的主题。\n\n在生物学中，♀ 起源于古代罗马神话中爱与美之神维纳斯的象征，符号形状由一个圆和下方的十字组成，代表镜子，象征美丽和女性特质。\n\n在性别标示中，♀ 用于标注女性群体，例如在人口统计、医学研究或公共设施（如洗手间）中常见。\n\n此外，♀ 也常用于天文学中，表示与金星相关的事物，因其与维纳斯有着神话上的关联。\n\n这一符号具有普遍性和多样化的应用，常用于科学、社会和文化场景，需结合语境正确解读。"
+    },
+    {
+      "id": "symbol-2642-366",
+      "symbol": "♂",
+      "name": "火星&男性",
+      "pronunciation": "",
+      "category": [
+        "天文",
+        "性别"
+      ],
+      "searchTerms": [
+        "火星&男性",
+        "天文",
+        "性别",
+        "2642",
+        "U+2642",
+        "Male Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♂ 是男性符号，广泛用于生物学、天文学、性别标识等领域，象征男性或雄性。\n\n在生物学中，♂ 用于表示雄性生物，与女性符号（♀）对应。例如，在动物分类中，♂ 标示个体为雄性。\n\n在天文学中，♂ 代表火星，同时象征罗马神话中的战神玛尔斯，因此也与力量、战斗和勇气相关。\n\n在日常生活中，♂ 常用于标示男性专用的设施或区域，如男厕标志。\n\n该符号的设计源于古代炼金术，象征铁，同时与男性的力量和勇气联系紧密，具有多重文化和科学意义。"
+    },
+    {
+      "id": "symbol-26a2-432",
+      "symbol": "⚢",
+      "name": "女同性恋",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "女同性恋",
+        "性别",
+        "26A2",
+        "U+26A2",
+        "Doubled Female Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚢ 是由两个女性符号（♀）叠加而成，通常用于表示女性同性恋关系或女同性恋者。该符号在 LGBTQ+ 社区中广泛使用，象征女性之间的爱情和亲密关系。在相关讨论、文化作品和社交媒体中，⚢ 符号常用于表达对女同性恋者的支持与认同。"
+    },
+    {
+      "id": "symbol-26a3-433",
+      "symbol": "⚣",
+      "name": "男同性恋",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "男同性恋",
+        "性别",
+        "26A3",
+        "U+26A3",
+        "Doubled Male Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚣ 是由两个男性符号（♂）叠加而成，通常用于表示男性同性恋关系或男同性恋者。该符号在 LGBTQ+ 社区中广泛使用，象征男性之间的爱情和亲密关系。在相关讨论、文化作品和社交媒体中，⚣ 符号常用于表达对男同性恋者的支持与认同。"
+    },
+    {
+      "id": "symbol-26a4-434",
+      "symbol": "⚤",
+      "name": "异性恋",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "异性恋",
+        "性别",
+        "26A4",
+        "U+26A4",
+        "Interlocked Female and Male Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚤ 是由男性符号（♂）和女性符号（♀）相互连接而成，通常用于表示异性恋关系或异性恋者。该符号在性别研究和社会讨论中，象征男性与女性之间的爱情和亲密关系。在相关文献、文化作品和社交媒体中，⚤ 符号常用于表达对异性恋关系的描述或讨论。"
+    },
+    {
+      "id": "symbol-26a5-435",
+      "symbol": "⚥",
+      "name": "雌雄同体",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "雌雄同体",
+        "性别",
+        "26A5",
+        "U+26A5",
+        "Male and Female Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚥ 是一个结合了传统的男性符号（♂）和女性符号（♀）的符号，通常用于表示雌雄同体或双性。\n\n在生物学中，该符号代表具有雌性和雄性生殖器官的生物体。在性别研究和社会领域，⚥ 也被用来表示双性人或跨性别者，象征着多样化的性别身份和表达。\n\n⚥ 符号在性别研究、平等讨论和 LGBTQ+ 社区中广泛使用，代表性别流动性或超越传统性别界限的概念。"
+    },
+    {
+      "id": "symbol-26a6-436",
+      "symbol": "⚦",
+      "name": "删除线男",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "删除线男",
+        "性别",
+        "26A6",
+        "U+26A6",
+        "Male with Stroke Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚦ 是一个带删除线的男性符号，通常用于表示性别中立或性别多元的概念。该符号由传统的男性符号（♂）添加一条斜线或删除线，表示对传统性别分类的质疑或超越。在性别研究和 LGBTQ+ 社区中，⚦ 符号用于表达对性别二元论的挑战，强调性别身份的多样性和流动性。"
+    },
+    {
+      "id": "symbol-26a7-437",
+      "symbol": "⚧",
+      "name": "跨性别",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "跨性别",
+        "性别",
+        "26A7",
+        "U+26A7",
+        "Transgender Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚧ 是一个结合了男性符号（♂）和女性符号（♀）的元素，旨在表示跨性别者或性别多元化的身份。该符号在 LGBTQ+ 社区中广泛使用，象征对传统性别二元论的挑战，强调性别身份的多样性和包容性。在相关讨论、文化作品和社交媒体中，⚧ 符号常用于表达对跨性别者的支持与认同。"
+    },
+    {
+      "id": "symbol-26a8-438",
+      "symbol": "⚨",
+      "name": "双性人",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "双性人",
+        "性别",
+        "26A8",
+        "U+26A8",
+        "Vertical Male with Stroke Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "雌雄同体、双性人或其他性别符号。由女性（金星）和男性（火星）符号组成。可以指出其他方向，但其含义尚未达成一致。也是硫酸铁的炼金符号。"
+    },
+    {
+      "id": "symbol-26a9-439",
+      "symbol": "⚩",
+      "name": "水平删除线男",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "水平删除线男",
+        "性别",
+        "26A9",
+        "U+26A9",
+        "Horizontal Male with Stroke Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚩ 是一个带水平删除线的男性符号，通常用于表示与男性相关的概念被否定或不适用。该符号由传统的男性符号（♂）添加一条水平删除线，可能用于表达对传统性别角色的质疑或批判。在性别研究和社会讨论中，⚩ 符号有时用于象征对男性性别角色的反思或拒绝。"
+    },
+    {
+      "id": "symbol-26ad-441",
+      "symbol": "⚭",
+      "name": "婚姻",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "婚姻",
+        "性别",
+        "26AD",
+        "U+26AD",
+        "Marriage Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚭ 是一个表示婚姻的符号，通常用于指代婚姻关系或婚礼。该符号在家谱学中用于表示婚姻连接，表示两个人的结合。"
+    },
+    {
+      "id": "symbol-26ae-442",
+      "symbol": "⚮",
+      "name": "离婚",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "离婚",
+        "性别",
+        "26AE",
+        "U+26AE",
+        "Divorce Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚮ 是一个表示离婚的符号，通常用于指代婚姻关系的解除或离婚状态。该符号在某些文化或文献中用于表示婚姻的终止。"
+    },
+    {
+      "id": "symbol-26af-443",
+      "symbol": "⚯",
+      "name": "未婚关系",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "未婚关系",
+        "性别",
+        "26AF",
+        "U+26AF",
+        "Unmarried Partnership Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚯ 是一个表示未婚伙伴关系的符号，通常用于指代未婚伴侣之间的关系。该符号在家谱学中用于表示未婚伴侣的连接，表示两个人的结合但未正式结婚。"
+    },
+    {
+      "id": "symbol-26b2-444",
+      "symbol": "⚲",
+      "name": "中性",
+      "pronunciation": "",
+      "category": [
+        "性别"
+      ],
+      "searchTerms": [
+        "中性",
+        "性别",
+        "26B2",
+        "U+26B2",
+        "Neuter",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚲ 是一个圆圈符号，通常用于表示无性别或中性。在性别研究和性别认同领域，该符号用于表示那些不认同传统性别二元论的人。"
+    }
   ]
 }

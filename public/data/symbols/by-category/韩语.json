@@ -1,61 +1,886 @@
 {
   "category": "韩语",
   "total": 55,
-  "ids": [
-    "symbol-3131-703",
-    "symbol-3132-704",
-    "symbol-3133-705",
-    "symbol-3134-706",
-    "symbol-3135-707",
-    "symbol-3136-708",
-    "symbol-3137-709",
-    "symbol-3138-710",
-    "symbol-3139-711",
-    "symbol-313a-712",
-    "symbol-313b-713",
-    "symbol-313c-714",
-    "symbol-313d-715",
-    "symbol-313e-716",
-    "symbol-313f-717",
-    "symbol-3140-718",
-    "symbol-3141-719",
-    "symbol-3142-720",
-    "symbol-3143-721",
-    "symbol-3144-722",
-    "symbol-3145-723",
-    "symbol-3146-724",
-    "symbol-3147-725",
-    "symbol-3148-726",
-    "symbol-3149-727",
-    "symbol-314a-728",
-    "symbol-314b-729",
-    "symbol-314c-730",
-    "symbol-314d-731",
-    "symbol-314e-732",
-    "symbol-314f-733",
-    "symbol-3150-734",
-    "symbol-3151-735",
-    "symbol-3152-736",
-    "symbol-3153-737",
-    "symbol-3154-738",
-    "symbol-3155-739",
-    "symbol-3156-740",
-    "symbol-3157-741",
-    "symbol-3158-742",
-    "symbol-3159-743",
-    "symbol-315a-744",
-    "symbol-315b-745",
-    "symbol-315c-746",
-    "symbol-315d-747",
-    "symbol-315e-748",
-    "symbol-315f-749",
-    "symbol-3160-750",
-    "symbol-3161-751",
-    "symbol-3162-752",
-    "symbol-3163-753",
-    "symbol-3164-754",
-    "symbol-3165-755",
-    "symbol-3166-756",
-    "symbol-3167-757"
+  "items": [
+    {
+      "id": "symbol-3131-703",
+      "symbol": "ㄱ",
+      "name": "朝鲜文Kiyeok",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Kiyeok",
+        "韩语",
+        "3131",
+        "U+3131"
+      ],
+      "notes": "韩语中的基本辅音，发音类似于英语的清音“k”或浊音“g”，具体发音根据位置变化。"
+    },
+    {
+      "id": "symbol-3132-704",
+      "symbol": "ㄲ",
+      "name": "朝鲜文Ssangkiyeok",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ssangkiyeok",
+        "韩语",
+        "3132",
+        "U+3132"
+      ],
+      "notes": "韩语中的紧辅音，由两个“ㄱ”组成，发音比“ㄱ”更紧、更重，类似于汉语拼音的“g”，但需施加更大的气流控制。"
+    },
+    {
+      "id": "symbol-3133-705",
+      "symbol": "ㄳ",
+      "name": "朝鲜文Kiyeok-Sios",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Kiyeok-Sios",
+        "韩语",
+        "3133",
+        "U+3133"
+      ],
+      "notes": "「ㄳ」是韩语中的复合辅音，属于谚文字母的一部分，表示复合收尾音 /gs/。它通常用在音节的收尾位置，例如在单词「읽다」（读，发音为 [ik̚.ta]）中，/ㄳ/ 被读作 /k̚/。这种复合辅音多见于韩语书写和发音规则中，但实际发音可能会因语境而有所变化。"
+    },
+    {
+      "id": "symbol-3134-706",
+      "symbol": "ㄴ",
+      "name": "朝鲜文Nieun",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Nieun",
+        "韩语",
+        "3134",
+        "U+3134"
+      ],
+      "notes": "韩语中的基础鼻音，发音类似于汉语拼音的“n”，是发音时鼻腔通畅的辅音。"
+    },
+    {
+      "id": "symbol-3135-707",
+      "symbol": "ㄵ",
+      "name": "朝鲜文Nieun-Cieuc",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Nieun-Cieuc",
+        "韩语",
+        "3135",
+        "U+3135"
+      ],
+      "notes": "「ㄵ」是韩语中的复合辅音，属于谚文字母的一部分，表示复合收尾音 /nj/。它通常用在音节的收尾位置，例如在单词「앉다」（坐下，发音为 [ant̚.ta]）中，/ㄵ/ 被读作 /n/。这种复合辅音在韩语中用于标记特定发音规则，实际发音可能因语境而有所不同。"
+    },
+    {
+      "id": "symbol-3136-708",
+      "symbol": "ㄶ",
+      "name": "朝鲜文Nieun-Hieuh",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Nieun-Hieuh",
+        "韩语",
+        "3136",
+        "U+3136"
+      ],
+      "notes": "「ㄶ」是韩语中的复合辅音，属于谚文字母的一部分，表示复合收尾音 /nh/。它通常用在音节的收尾位置，例如在单词「많다」（多，发音为 [man̚.ta]）中，/ㄶ/ 中的 /ㅎ/ 不发音，仅 /ㄴ/ 发音为 /n/。这种复合辅音主要在韩语中用于标记音节收尾的特定发音规则。"
+    },
+    {
+      "id": "symbol-3137-709",
+      "symbol": "ㄷ",
+      "name": "朝鲜文Tikeut",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Tikeut",
+        "韩语",
+        "3137",
+        "U+3137"
+      ],
+      "notes": "韩语中的基本辅音，发音类似于英语的清音“t”或浊音“d”，具体发音根据位置变化。"
+    },
+    {
+      "id": "symbol-3138-710",
+      "symbol": "ㄸ",
+      "name": "朝鲜文Ssangtikeut",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ssangtikeut",
+        "韩语",
+        "3138",
+        "U+3138"
+      ],
+      "notes": "韩语中的紧辅音，由两个“ㄷ”组成，发音比“ㄷ”更紧、更重，类似于汉语拼音的“d”，但需更加强调。"
+    },
+    {
+      "id": "symbol-3139-711",
+      "symbol": "ㄹ",
+      "name": "朝鲜文Rieul",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul",
+        "韩语",
+        "3139",
+        "U+3139"
+      ],
+      "notes": "韩语中的流音，发音介于汉语拼音的“l”和“r”之间，根据位置和语境可能表现为轻弹的“r”或侧音“l”。"
+    },
+    {
+      "id": "symbol-313a-712",
+      "symbol": "ㄺ",
+      "name": "朝鲜文Rieul-Kiyeok",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul-Kiyeok",
+        "韩语",
+        "313A",
+        "U+313A"
+      ],
+      "notes": "「ㄺ」是韩语中的复合辅音，属于谚文字母的一部分，表示复合收尾音 /lk/。它通常用在音节的收尾位置，例如在单词「읽다」（读，发音为 [ik̚.ta]）中，/ㄺ/ 被读作 /k̚/。在其他情况下，根据语境，「ㄺ」中的 /ㄹ/ 可能发音，/ㄺ/ 的实际发音取决于后续音节的影响。"
+    },
+    {
+      "id": "symbol-313b-713",
+      "symbol": "ㄻ",
+      "name": "朝鲜文Rieul-Mieum",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul-Mieum",
+        "韩语",
+        "313B",
+        "U+313B"
+      ],
+      "notes": "ㄻ 是韩语的辅音合成体，由「ㄹ」（rieul）和「ㅁ」（mieum）组合而成。该符号在现代韩语中较少使用，主要出现在中古韩语或特定方言的拼写中，用于表示某些复辅音。"
+    },
+    {
+      "id": "symbol-313c-714",
+      "symbol": "ㄼ",
+      "name": "朝鲜文Rieul-Pieup",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul-Pieup",
+        "韩语",
+        "313C",
+        "U+313C"
+      ],
+      "notes": "ㄼ 是韩语的辅音合成体，由「ㄹ」（rieul）和「ㅂ」（bieup）组合而成。在中古韩语中，这种复辅音符号用于表示「ㄹ」和「ㅂ」的连读发音。在现代韩语中，这种合成体较少使用，但可能在某些方言或特殊的语音环境中出现。"
+    },
+    {
+      "id": "symbol-313d-715",
+      "symbol": "ㄽ",
+      "name": "朝鲜文Rieul-Sios",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul-Sios",
+        "韩语",
+        "313D",
+        "U+313D"
+      ],
+      "notes": "ㄽ 是韩语中的辅音合成体，由「ㄹ」（rieul）和「ㅅ」（siot）组合而成。该符号主要用于中古韩语，用来表示「ㄹ」与「ㅅ」连读发音。在现代韩语中，这种符号已不再使用，仅在研究古代韩语文献或语言学中出现。"
+    },
+    {
+      "id": "symbol-313e-716",
+      "symbol": "ㄾ",
+      "name": "朝鲜文Rieul-Thieuth",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul-Thieuth",
+        "韩语",
+        "313E",
+        "U+313E"
+      ],
+      "notes": "ㄾ 是韩语中的辅音合成体，由「ㄹ」（rieul）和「ㅌ」（tikeut）组合而成。它在中古韩语中使用，用于表示「ㄹ」与「ㅌ」连读的发音。这种复辅音符号在现代韩语中已不再使用，但在研究韩语的历史语言学和中古韩语文献时仍有重要意义。"
+    },
+    {
+      "id": "symbol-313f-717",
+      "symbol": "ㄿ",
+      "name": "朝鲜文Rieul-Phieuph",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul-Phieuph",
+        "韩语",
+        "313F",
+        "U+313F"
+      ],
+      "notes": "ㄿ 是韩语中的辅音合成体, 由「ㄹ」（rieul）和「ㅍ」（pieup）组合而成。这种符号主要在中古韩语中使用, 表示「ㄹ」与「ㅍ」的连读发音。在现代韩语中, 这种复辅音已被淘汰, 通常不会在标准韩语中出现, 但可能会在特定的历史文献或语言学研究中看到。"
+    },
+    {
+      "id": "symbol-3140-718",
+      "symbol": "ㅀ",
+      "name": "朝鲜文Rieul-Hieuh",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Rieul-Hieuh",
+        "韩语",
+        "3140",
+        "U+3140"
+      ],
+      "notes": "ㅀ 是韩语中的辅音合成体，由「ㄹ」（rieul）和「ㅎ」（hieuh）组合而成。在中古韩语中，ㅀ 表示「ㄹ」与「ㅎ」的连读发音，通常出现在词尾，发音时「ㅎ」可能弱化或消失。在现代韩语中，虽然这种合成体仍存在，但主要用于某些固定的语法形式和词汇中，如表示敬语或过去式的变化。"
+    },
+    {
+      "id": "symbol-3141-719",
+      "symbol": "ㅁ",
+      "name": "朝鲜文Mieum",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Mieum",
+        "韩语",
+        "3141",
+        "U+3141"
+      ],
+      "notes": "韩语中的基础鼻音，发音类似于汉语拼音的“m”，是发音时双唇闭合后打开的辅音。"
+    },
+    {
+      "id": "symbol-3142-720",
+      "symbol": "ㅂ",
+      "name": "朝鲜文Pieup",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Pieup",
+        "韩语",
+        "3142",
+        "U+3142"
+      ],
+      "notes": "韩语中的基本辅音，发音类似于英语的清音“p”或浊音“b”，具体发音根据位置变化。"
+    },
+    {
+      "id": "symbol-3143-721",
+      "symbol": "ㅃ",
+      "name": "朝鲜文Ssangpieup",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ssangpieup",
+        "韩语",
+        "3143",
+        "U+3143"
+      ],
+      "notes": "韩语中的紧辅音，由两个“ㅂ”组成，发音比“ㅂ”更紧、更重，类似于汉语拼音的“b”，但需施加更大的力度。"
+    },
+    {
+      "id": "symbol-3144-722",
+      "symbol": "ㅄ",
+      "name": "朝鲜文Pieup-Sios",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Pieup-Sios",
+        "韩语",
+        "3144",
+        "U+3144"
+      ],
+      "notes": "ㅄ 是韩语中的辅音合成体，由「ㅂ」（bieup）和「ㅅ」（siot）组合而成。它通常用作收尾音（batchim），在某些单词中会出现。其发音规则视语境而定：当接元音时，「ㅅ」的发音可能显现出来，而接辅音时「ㅂ」发音为主。"
+    },
+    {
+      "id": "symbol-3145-723",
+      "symbol": "ㅅ",
+      "name": "朝鲜文Sios",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Sios",
+        "韩语",
+        "3145",
+        "U+3145"
+      ],
+      "notes": "韩语中的基本辅音，发音类似于英语的清音“s”，在某些情况下也可发成类似“sh”的音。"
+    },
+    {
+      "id": "symbol-3146-724",
+      "symbol": "ㅆ",
+      "name": "朝鲜文字母Ssangsios",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文字母Ssangsios",
+        "韩语",
+        "3146",
+        "U+3146"
+      ],
+      "notes": "韩语中的紧辅音，由两个“ㅅ”组成，发音比“ㅅ”更紧、更清晰，类似于汉语拼音的“s”，但需更用力。"
+    },
+    {
+      "id": "symbol-3147-725",
+      "symbol": "ㅇ",
+      "name": "朝鲜文Ieung",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ieung",
+        "韩语",
+        "3147",
+        "U+3147"
+      ],
+      "notes": "韩语中的多功能辅音，在音节开头时不发音（零音符号），在音节结尾时发音为鼻音，类似于汉语拼音的“ng”。"
+    },
+    {
+      "id": "symbol-3148-726",
+      "symbol": "ㅈ",
+      "name": "朝鲜文Cieuc",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Cieuc",
+        "韩语",
+        "3148",
+        "U+3148"
+      ],
+      "notes": "韩语中的基本辅音，发音类似于英语的“j”音，但较轻，有时接近于“ch”的音。"
+    },
+    {
+      "id": "symbol-3149-727",
+      "symbol": "ㅉ",
+      "name": "朝鲜文Ssangcieuc",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ssangcieuc",
+        "韩语",
+        "3149",
+        "U+3149"
+      ],
+      "notes": "韩语中的紧辅音，由两个“ㅈ”组成，发音比“ㅈ”更紧、更重，类似于汉语拼音的“j”，但需施加更多的气流控制。"
+    },
+    {
+      "id": "symbol-314a-728",
+      "symbol": "ㅊ",
+      "name": "朝鲜文Khieukh",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Khieukh",
+        "韩语",
+        "314A",
+        "U+314A"
+      ],
+      "notes": "韩语中的送气辅音，由“ㅈ”加送气形成，发音类似于汉语拼音的“ch”，带明显的气流音。"
+    },
+    {
+      "id": "symbol-314b-729",
+      "symbol": "ㅋ",
+      "name": "朝鲜文Khieukh",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Khieukh",
+        "韩语",
+        "314B",
+        "U+314B"
+      ],
+      "notes": "韩语中的送气辅音，由“ㄱ”加送气形成，发音类似于汉语拼音的“k”，带明显的气流音。"
+    },
+    {
+      "id": "symbol-314c-730",
+      "symbol": "ㅌ",
+      "name": "朝鲜文Thieuth",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Thieuth",
+        "韩语",
+        "314C",
+        "U+314C"
+      ],
+      "notes": "韩语中的送气辅音，由“ㄷ”加送气形成，发音类似于汉语拼音的“t”，带明显的气流音。"
+    },
+    {
+      "id": "symbol-314d-731",
+      "symbol": "ㅍ",
+      "name": "朝鲜文Phieuph",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Phieuph",
+        "韩语",
+        "314D",
+        "U+314D"
+      ],
+      "notes": "韩语中的送气辅音，由“ㅂ”加送气形成，发音类似于汉语拼音的“p”，带明显的气流音。"
+    },
+    {
+      "id": "symbol-314e-732",
+      "symbol": "ㅎ",
+      "name": "朝鲜文Hieuh",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Hieuh",
+        "韩语",
+        "314E",
+        "U+314E"
+      ],
+      "notes": "韩语中的喉音，发音类似于汉语拼音的“h”，是由气流通过喉部发出的辅音。"
+    },
+    {
+      "id": "symbol-314f-733",
+      "symbol": "ㅏ",
+      "name": "朝鲜文A",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文A",
+        "韩语",
+        "314F",
+        "U+314F"
+      ],
+      "notes": "韩语中的基础母音，发音类似于汉语拼音的“a”，表示张嘴发出中性音。"
+    },
+    {
+      "id": "symbol-3150-734",
+      "symbol": "ㅐ",
+      "name": "朝鲜文Ae",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ae",
+        "韩语",
+        "3150",
+        "U+3150"
+      ],
+      "notes": "韩语中的复合母音，发音介于汉语拼音的“a”和“e”之间，嘴稍微张开。"
+    },
+    {
+      "id": "symbol-3151-735",
+      "symbol": "ㅑ",
+      "name": "朝鲜文Ya",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ya",
+        "韩语",
+        "3151",
+        "U+3151"
+      ],
+      "notes": "韩语中的复合母音，由“ㅏ”加上“ㅣ”形成，发音类似于汉语拼音的“ya”。"
+    },
+    {
+      "id": "symbol-3152-736",
+      "symbol": "ㅒ",
+      "name": "朝鲜文Yae",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Yae",
+        "韩语",
+        "3152",
+        "U+3152"
+      ],
+      "notes": "韩语中的复合母音，由“ㅐ”加上“ㅣ”形成，发音类似于汉语拼音的“yae”。"
+    },
+    {
+      "id": "symbol-3153-737",
+      "symbol": "ㅓ",
+      "name": "朝鲜文Eo",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Eo",
+        "韩语",
+        "3153",
+        "U+3153"
+      ],
+      "notes": "韩语中的基础母音，发音介于汉语拼音的“e”和“o”之间，嘴稍微放松后发音。"
+    },
+    {
+      "id": "symbol-3154-738",
+      "symbol": "ㅔ",
+      "name": "朝鲜文E",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文E",
+        "韩语",
+        "3154",
+        "U+3154"
+      ],
+      "notes": "韩语中的复合母音，发音类似于汉语拼音的“e”，但略微靠前，嘴稍微张开。"
+    },
+    {
+      "id": "symbol-3155-739",
+      "symbol": "ㅕ",
+      "name": "朝鲜文Yeo",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Yeo",
+        "韩语",
+        "3155",
+        "U+3155"
+      ],
+      "notes": "韩语中的复合母音，由“ㅓ”加上“ㅣ”形成，发音类似于汉语拼音的“yeo”。"
+    },
+    {
+      "id": "symbol-3156-740",
+      "symbol": "ㅖ",
+      "name": "朝鲜文Ye",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ye",
+        "韩语",
+        "3156",
+        "U+3156"
+      ],
+      "notes": "韩语中的复合母音，由“ㅔ”加上“ㅣ”形成，发音类似于汉语拼音的“ye”。"
+    },
+    {
+      "id": "symbol-3157-741",
+      "symbol": "ㅗ",
+      "name": "朝鲜文O",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文O",
+        "韩语",
+        "3157",
+        "U+3157"
+      ],
+      "notes": "韩语中的基础母音，发音类似于汉语拼音的“o”，唇部稍微圆润发音"
+    },
+    {
+      "id": "symbol-3158-742",
+      "symbol": "ㅘ",
+      "name": "朝鲜文Wa",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Wa",
+        "韩语",
+        "3158",
+        "U+3158"
+      ],
+      "notes": "韩语中的复合母音，由“ㅗ”加“ㅏ”形成，发音类似于汉语拼音的“wa”。"
+    },
+    {
+      "id": "symbol-3159-743",
+      "symbol": "ㅙ",
+      "name": "朝鲜文Wae",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Wae",
+        "韩语",
+        "3159",
+        "U+3159"
+      ],
+      "notes": "韩语中的复合母音，由“ㅗ”加“ㅐ”形成，发音类似于汉语拼音的“wai”。"
+    },
+    {
+      "id": "symbol-315a-744",
+      "symbol": "ㅚ",
+      "name": "朝鲜文Oe",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Oe",
+        "韩语",
+        "315A",
+        "U+315A"
+      ],
+      "notes": "韩语中的复合母音，由“ㅗ”加“ㅣ”形成，发音类似于汉语拼音的“wei”。"
+    },
+    {
+      "id": "symbol-315b-745",
+      "symbol": "ㅛ",
+      "name": "朝鲜文Yo",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Yo",
+        "韩语",
+        "315B",
+        "U+315B"
+      ],
+      "notes": "韩语中的复合母音，由“ㅗ”加上“ㅣ”形成，发音类似于汉语拼音的“yo”。"
+    },
+    {
+      "id": "symbol-315c-746",
+      "symbol": "ㅜ",
+      "name": "朝鲜文U",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文U",
+        "韩语",
+        "315C",
+        "U+315C"
+      ],
+      "notes": "韩语中的基础母音，发音类似于汉语拼音的“u”，唇部圆润发音。"
+    },
+    {
+      "id": "symbol-315d-747",
+      "symbol": "ㅝ",
+      "name": "朝鲜文Weo",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Weo",
+        "韩语",
+        "315D",
+        "U+315D"
+      ],
+      "notes": "韩语中的复合母音，由“ㅜ”加“ㅓ”形成，发音类似于汉语拼音的“wo”。"
+    },
+    {
+      "id": "symbol-315e-748",
+      "symbol": "ㅞ",
+      "name": "朝鲜文We",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文We",
+        "韩语",
+        "315E",
+        "U+315E"
+      ],
+      "notes": "韩语中的复合母音，由“ㅜ”加“ㅔ”形成，发音类似于汉语拼音的“we”。"
+    },
+    {
+      "id": "symbol-315f-749",
+      "symbol": "ㅟ",
+      "name": "朝鲜文Wi",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Wi",
+        "韩语",
+        "315F",
+        "U+315F"
+      ],
+      "notes": "韩语中的复合母音，由“ㅜ”加“ㅣ”形成，发音类似于汉语拼音的“wi”。"
+    },
+    {
+      "id": "symbol-3160-750",
+      "symbol": "ㅠ",
+      "name": "朝鲜文Yu",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Yu",
+        "韩语",
+        "3160",
+        "U+3160"
+      ],
+      "notes": "韩语中的复合母音，由“ㅜ”加上“ㅣ”形成，发音类似于汉语拼音的“yu”。"
+    },
+    {
+      "id": "symbol-3161-751",
+      "symbol": "ㅡ",
+      "name": "朝鲜文Eu",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Eu",
+        "韩语",
+        "3161",
+        "U+3161"
+      ],
+      "notes": "韩语中的基础母音，发音类似于汉语拼音的“e”，但发音位置更靠后，嘴唇拉平。"
+    },
+    {
+      "id": "symbol-3162-752",
+      "symbol": "ㅢ",
+      "name": "朝鲜文Yi",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Yi",
+        "韩语",
+        "3162",
+        "U+3162"
+      ],
+      "notes": "韩语中的复合母音，由“ㅡ”加上“ㅣ”形成，发音结合“eu”和“i”的音。"
+    },
+    {
+      "id": "symbol-3163-753",
+      "symbol": "ㅣ",
+      "name": "朝鲜文I",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文I",
+        "韩语",
+        "3163",
+        "U+3163"
+      ],
+      "notes": "韩语中的基础母音，发音类似于汉语拼音的“i”，表示前高元音。"
+    },
+    {
+      "id": "symbol-3164-754",
+      "symbol": "ㅤ",
+      "name": "朝鲜文填充符",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文填充符",
+        "韩语",
+        "3164",
+        "U+3164"
+      ],
+      "notes": "待补充完整"
+    },
+    {
+      "id": "symbol-3165-755",
+      "symbol": "ㅥ",
+      "name": "朝鲜文Ssangnieun",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Ssangnieun",
+        "韩语",
+        "3165",
+        "U+3165"
+      ],
+      "notes": "ㅥ 是韩语中的一个特殊符号，由「ㄴ」（nieun）的双辅音形式构成，被称为 Ssangnieun。它在现代韩语中并不使用，但在研究古代韩语或特定语言学文献时可能出现。该符号属于历史性文字，用于表示某些特殊的音韵现象。"
+    },
+    {
+      "id": "symbol-3166-756",
+      "symbol": "ㅦ",
+      "name": "朝鲜文Nieun-Tikeut",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Nieun-Tikeut",
+        "韩语",
+        "3166",
+        "U+3166"
+      ],
+      "notes": "ㅦ 是韩语中的历史性符号，由「ㄴ」（Nieun）和「ㄷ」（Tikeut）组合而成，表示「ㄴ」和「ㄷ」的连读音。在现代韩语中，这种合成体符号已不再使用，主要出现在中古韩语或《训民正音》的早期文献中，用于表示特定的音韵现象或发音规则。"
+    },
+    {
+      "id": "symbol-3167-757",
+      "symbol": "ㅧ",
+      "name": "朝鲜文Nieun-Sios",
+      "pronunciation": "",
+      "category": [
+        "韩语"
+      ],
+      "searchTerms": [
+        "朝鲜文Nieun-Sios",
+        "韩语",
+        "3167",
+        "U+3167"
+      ],
+      "notes": "ㅧ 是韩语中的历史性辅音符号，由「ㄴ」（Nieun）和「ㅅ」（Sios）组合而成，用于表示「ㄴ」与「ㅅ」的连读音。在现代韩语中，这种合成辅音符号已经不再使用，但在研究古代韩语或《训民正音》的文献中，可能会看到它的使用。"
+    }
   ]
 }

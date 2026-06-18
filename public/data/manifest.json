@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T10:50:28.146Z",
+  "generatedAt": "2026-06-18T11:10:40.457Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
@@ -9,14 +9,15 @@
     },
     "emojis": {
       "version": "v1.2.3",
-      "online": 375,
-      "pending": 277,
-      "total": 652
+      "online": 1948,
+      "pending": 0,
+      "total": 1948
     }
   },
   "outputs": {
     "symbols": {
       "items": "symbols/items.json",
+      "index": "symbols/index.json",
       "randomPool": "symbols/random-pool.json",
       "byCategory": [
         {
@@ -155,6 +156,7 @@
     },
     "emojis": {
       "items": "emojis/items.json",
+      "index": "emojis/index.json",
       "randomPool": "emojis/random-pool.json",
       "byCategory": [
         {
@@ -172,19 +174,25 @@
         {
           "id": "地理",
           "name": "地理",
-          "count": 16,
+          "count": 139,
           "file": "emojis/by-category/地理.json"
         },
         {
           "id": "动物",
           "name": "动物",
-          "count": 36,
+          "count": 117,
           "file": "emojis/by-category/动物.json"
+        },
+        {
+          "id": "符号",
+          "name": "符号",
+          "count": 260,
+          "file": "emojis/by-category/符号.json"
         },
         {
           "id": "活动",
           "name": "活动",
-          "count": 21,
+          "count": 75,
           "file": "emojis/by-category/活动.json"
         },
         {
@@ -196,13 +204,13 @@
         {
           "id": "旗帜",
           "name": "旗帜",
-          "count": 115,
+          "count": 269,
           "file": "emojis/by-category/旗帜.json"
         },
         {
           "id": "人物",
           "name": "人物",
-          "count": 6,
+          "count": 392,
           "file": "emojis/by-category/人物.json"
         },
         {
@@ -210,6 +218,12 @@
           "name": "身体",
           "count": 42,
           "file": "emojis/by-category/身体.json"
+        },
+        {
+          "id": "食物",
+          "name": "食物",
+          "count": 129,
+          "file": "emojis/by-category/食物.json"
         },
         {
           "id": "水果",
@@ -226,13 +240,13 @@
         {
           "id": "物品",
           "name": "物品",
-          "count": 3,
+          "count": 298,
           "file": "emojis/by-category/物品.json"
         },
         {
           "id": "笑脸",
           "name": "笑脸",
-          "count": 40,
+          "count": 131,
           "file": "emojis/by-category/笑脸.json"
         },
         {

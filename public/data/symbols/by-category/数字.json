@@ -1,70 +1,1159 @@
 {
   "category": "数字",
   "total": 64,
-  "ids": [
-    "symbol-2150-217",
-    "symbol-2151-218",
-    "symbol-2152-219",
-    "symbol-2153-220",
-    "symbol-2154-221",
-    "symbol-2155-222",
-    "symbol-2156-223",
-    "symbol-2157-224",
-    "symbol-2158-225",
-    "symbol-2159-226",
-    "symbol-215a-227",
-    "symbol-215b-228",
-    "symbol-215c-229",
-    "symbol-215d-230",
-    "symbol-215e-231",
-    "symbol-215f-232",
-    "symbol-2160-233",
-    "symbol-2161-234",
-    "symbol-2162-235",
-    "symbol-2163-236",
-    "symbol-2164-237",
-    "symbol-2165-238",
-    "symbol-2166-239",
-    "symbol-2167-240",
-    "symbol-2168-241",
-    "symbol-2169-242",
-    "symbol-216a-243",
-    "symbol-216b-244",
-    "symbol-216c-245",
-    "symbol-216d-246",
-    "symbol-216e-247",
-    "symbol-216f-248",
-    "symbol-2170-249",
-    "symbol-2171-250",
-    "symbol-2172-251",
-    "symbol-2173-252",
-    "symbol-2174-253",
-    "symbol-2175-254",
-    "symbol-2176-255",
-    "symbol-2177-256",
-    "symbol-2178-257",
-    "symbol-2179-258",
-    "symbol-217a-259",
-    "symbol-217b-260",
-    "symbol-217c-261",
-    "symbol-217d-262",
-    "symbol-217e-263",
-    "symbol-217f-264",
-    "symbol-2180-265",
-    "symbol-2181-266",
-    "symbol-2182-267",
-    "symbol-2183-268",
-    "symbol-2184-269",
-    "symbol-2189-270",
-    "symbol-1d7ce-1036",
-    "symbol-1d7cf-200b-1037",
-    "symbol-1d7d0-1038",
-    "symbol-1d7d1-1039",
-    "symbol-1d7d2-1040",
-    "symbol-1d7d3-1041",
-    "symbol-1d7d4-1042",
-    "symbol-1d7d5-1043",
-    "symbol-1d7d6-1044",
-    "symbol-1d7d7-1045"
+  "items": [
+    {
+      "id": "symbol-2150-217",
+      "symbol": "⅐",
+      "name": "七分之一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "七分之一",
+        "数字",
+        "2150",
+        "U+2150",
+        "Vulgar Fraction One Seventh",
+        "Number Forms"
+      ],
+      "notes": "表示分数七分之一"
+    },
+    {
+      "id": "symbol-2151-218",
+      "symbol": "⅑",
+      "name": "九分之一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "九分之一",
+        "数字",
+        "2151",
+        "U+2151",
+        "Vulgar Fraction One Ninth",
+        "Number Forms"
+      ],
+      "notes": "表示分数九分之一"
+    },
+    {
+      "id": "symbol-2152-219",
+      "symbol": "⅒",
+      "name": "十分之一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "十分之一",
+        "数字",
+        "2152",
+        "U+2152",
+        "Vulgar Fraction One Tenth",
+        "Number Forms"
+      ],
+      "notes": "表示分数十分之一"
+    },
+    {
+      "id": "symbol-2153-220",
+      "symbol": "⅓",
+      "name": "三分之一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "三分之一",
+        "数字",
+        "2153",
+        "U+2153",
+        "Vulgar Fraction One Third",
+        "Number Forms"
+      ],
+      "notes": "表示分数三分之一"
+    },
+    {
+      "id": "symbol-2154-221",
+      "symbol": "⅔",
+      "name": "三分之二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "三分之二",
+        "数字",
+        "2154",
+        "U+2154",
+        "Vulgar Fraction Two Thirds",
+        "Number Forms"
+      ],
+      "notes": "表示分数三分之二"
+    },
+    {
+      "id": "symbol-2155-222",
+      "symbol": "⅕",
+      "name": "五分之一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "五分之一",
+        "数字",
+        "2155",
+        "U+2155",
+        "Vulgar Fraction One Fifth",
+        "Number Forms"
+      ],
+      "notes": "表示分数五分之一"
+    },
+    {
+      "id": "symbol-2156-223",
+      "symbol": "⅖",
+      "name": "五分之二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "五分之二",
+        "数字",
+        "2156",
+        "U+2156",
+        "Vulgar Fraction Two Fifths",
+        "Number Forms"
+      ],
+      "notes": "表示分数五分之二"
+    },
+    {
+      "id": "symbol-2157-224",
+      "symbol": "⅗",
+      "name": "五分之三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "五分之三",
+        "数字",
+        "2157",
+        "U+2157",
+        "Vulgar Fraction Three Fifths",
+        "Number Forms"
+      ],
+      "notes": "表示分数五分之三"
+    },
+    {
+      "id": "symbol-2158-225",
+      "symbol": "⅘",
+      "name": "五分之四",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "五分之四",
+        "数字",
+        "2158",
+        "U+2158",
+        "Vulgar Fraction Four Fifths",
+        "Number Forms"
+      ],
+      "notes": "表示分数五分之四"
+    },
+    {
+      "id": "symbol-2159-226",
+      "symbol": "⅙",
+      "name": "六分之一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "六分之一",
+        "数字",
+        "2159",
+        "U+2159",
+        "Vulgar Fraction One Sixth",
+        "Number Forms"
+      ],
+      "notes": "表示分数六分之一"
+    },
+    {
+      "id": "symbol-215a-227",
+      "symbol": "⅚",
+      "name": "六分之五",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "六分之五",
+        "数字",
+        "215A",
+        "U+215A",
+        "Vulgar Fraction Five Sixths",
+        "Number Forms"
+      ],
+      "notes": "表示分数六分之五"
+    },
+    {
+      "id": "symbol-215b-228",
+      "symbol": "⅛",
+      "name": "八分之一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "八分之一",
+        "数字",
+        "215B",
+        "U+215B",
+        "Vulgar Fraction One Eighth",
+        "Number Forms"
+      ],
+      "notes": "表示分数八分之一"
+    },
+    {
+      "id": "symbol-215c-229",
+      "symbol": "⅜",
+      "name": "八分之三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "八分之三",
+        "数字",
+        "215C",
+        "U+215C",
+        "Vulgar Fraction Three Eighths",
+        "Number Forms"
+      ],
+      "notes": "表示分数八分之三"
+    },
+    {
+      "id": "symbol-215d-230",
+      "symbol": "⅝",
+      "name": "八分之五",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "八分之五",
+        "数字",
+        "215D",
+        "U+215D",
+        "Vulgar Fraction Five Eighths",
+        "Number Forms"
+      ],
+      "notes": "表示分数八分之五"
+    },
+    {
+      "id": "symbol-215e-231",
+      "symbol": "⅞",
+      "name": "八分之七",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "八分之七",
+        "数字",
+        "215E",
+        "U+215E",
+        "Vulgar Fraction Seven Eighths",
+        "Number Forms"
+      ],
+      "notes": "表示分数八分之七"
+    },
+    {
+      "id": "symbol-215f-232",
+      "symbol": "⅟",
+      "name": "分数分子一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "分数分子一",
+        "数字",
+        "215F",
+        "U+215F",
+        "Fraction Numerator One",
+        "Number Forms"
+      ],
+      "notes": "表示分数的分子是 1"
+    },
+    {
+      "id": "symbol-2160-233",
+      "symbol": "Ⅰ",
+      "name": "罗马数字一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字一",
+        "数字",
+        "2160",
+        "U+2160",
+        "Roman Numeral One",
+        "Number Forms"
+      ],
+      "notes": "Ⅰ 表示罗马数字中的“1”，在多种场合中使用，如表示编号、顺序、世纪、等级等。例如，用于表示第一章、一级或公元1世纪等。"
+    },
+    {
+      "id": "symbol-2161-234",
+      "symbol": "Ⅱ",
+      "name": "罗马数字二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字二",
+        "数字",
+        "2161",
+        "U+2161",
+        "Roman Numeral Two",
+        "Number Forms"
+      ],
+      "notes": "表示罗马数字中的“2”，在多种场合中使用，如表示编号、顺序、等级等。例如，用于表示第二章、二级或公元2世纪等。"
+    },
+    {
+      "id": "symbol-2162-235",
+      "symbol": "Ⅲ",
+      "name": "罗马数字三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字三",
+        "数字",
+        "2162",
+        "U+2162",
+        "Roman Numeral Three",
+        "Number Forms"
+      ],
+      "notes": "Ⅲ 是罗马数字中的「3」，由三个连续的竖线「I」组成，表示数值 3。罗马数字常用于编号、标题、序列和历史年代表示，例如「第Ⅲ章」、「路易十六世（Louis XVI）」等。"
+    },
+    {
+      "id": "symbol-2163-236",
+      "symbol": "Ⅳ",
+      "name": "罗马数字四",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字四",
+        "数字",
+        "2163",
+        "U+2163",
+        "Roman Numeral Four",
+        "Number Forms"
+      ],
+      "notes": "Ⅳ 是罗马数字中的「4」，由「I」（1）和「V」（5）组合而成，表示「5 减去 1」的数值 4。罗马数字常用于章节编号、序列表示以及历史年代，例如「第Ⅳ章」或「亨利四世（Henry IV）」。"
+    },
+    {
+      "id": "symbol-2164-237",
+      "symbol": "Ⅴ",
+      "name": "罗马数字五",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字五",
+        "数字",
+        "2164",
+        "U+2164",
+        "Roman Numeral Five",
+        "Number Forms"
+      ],
+      "notes": "Ⅴ 是罗马数字中的「5」，由单个字符「V」表示。在罗马数字系统中，「V」用于表示五个单位的数值，常用于章节编号、序列表示以及历史年代等，例如「第Ⅴ章」或「亨利五世（Henry V）」。"
+    },
+    {
+      "id": "symbol-2165-238",
+      "symbol": "Ⅵ",
+      "name": "罗马数字六",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字六",
+        "数字",
+        "2165",
+        "U+2165",
+        "Roman Numeral Six",
+        "Number Forms"
+      ],
+      "notes": "Ⅵ 是罗马数字中的「6」，由「V」（5）和「I」（1）组合而成，表示「5 加 1」的数值 6。罗马数字常用于表示章节编号、序列和历史年代，例如「第Ⅵ章」或「保罗六世（Pope Paul VI）」。"
+    },
+    {
+      "id": "symbol-2166-239",
+      "symbol": "Ⅶ",
+      "name": "罗马数字七",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字七",
+        "数字",
+        "2166",
+        "U+2166",
+        "Roman Numeral Seven",
+        "Number Forms"
+      ],
+      "notes": "Ⅶ 是罗马数字中的「7」，由「V」（5）和「II」（2）组合而成，表示「5 加 2」的数值 7。罗马数字通常用于章节编号、序列表示以及历史称谓中，例如「第Ⅶ章」或「亨利七世（Henry VII）」。"
+    },
+    {
+      "id": "symbol-2167-240",
+      "symbol": "Ⅷ",
+      "name": "罗马数字八",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字八",
+        "数字",
+        "2167",
+        "U+2167",
+        "Roman Numeral Eight",
+        "Number Forms"
+      ],
+      "notes": "Ⅷ 是罗马数字中的「8」，由「V」（5）和「III」（3）组合而成，表示「5 加 3」的数值 8。罗马数字常用于章节编号、序列表示和历史称谓中，例如「第Ⅷ章」或「亨利八世（Henry VIII）」。"
+    },
+    {
+      "id": "symbol-2168-241",
+      "symbol": "Ⅸ",
+      "name": "罗马数字九",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字九",
+        "数字",
+        "2168",
+        "U+2168",
+        "Roman Numeral Nine",
+        "Number Forms"
+      ],
+      "notes": "Ⅸ 是罗马数字中的「9」，由「I」（1）和「X」（10）组合而成，表示「10 减去 1」的数值 9。罗马数字常用于章节编号、序列表示和历史称谓中，例如「第Ⅸ章」或「教皇庇护九世（Pope Pius IX）」。"
+    },
+    {
+      "id": "symbol-2169-242",
+      "symbol": "Ⅹ",
+      "name": "罗马数字十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字十",
+        "数字",
+        "2169",
+        "U+2169",
+        "Roman Numeral Ten",
+        "Number Forms"
+      ],
+      "notes": "Ⅹ 是罗马数字中的「10」，表示整数量的 10。罗马数字广泛用于章节编号、序列标识以及历史称谓中，例如「第Ⅹ章」或「教皇庇护十世（Pope Pius X）」。"
+    },
+    {
+      "id": "symbol-216a-243",
+      "symbol": "Ⅺ",
+      "name": "罗马数字十一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字十一",
+        "数字",
+        "216A",
+        "U+216A",
+        "Roman Numeral Eleven",
+        "Number Forms"
+      ],
+      "notes": "Ⅺ 是罗马数字中的「11」，由「X」（10）和「I」（1）组合而成，表示「10 加 1」的数值 11。罗马数字常用于章节编号、条款序列以及历史称谓，例如「第Ⅺ章」或「教皇庇护十一世（Pope Pius XI）」。"
+    },
+    {
+      "id": "symbol-216b-244",
+      "symbol": "Ⅻ",
+      "name": "罗马数字十二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字十二",
+        "数字",
+        "216B",
+        "U+216B",
+        "Roman Numeral Twelve",
+        "Number Forms"
+      ],
+      "notes": "Ⅻ 是罗马数字中的「12」，由「X」（10）和「II」（2）组合而成，表示「10 加 2」的数值 12。罗马数字常用于章节编号、条款序列以及历史称谓，例如「第Ⅻ章」或「教皇庇护十二世（Pope Pius XII）」。"
+    },
+    {
+      "id": "symbol-216c-245",
+      "symbol": "Ⅼ",
+      "name": "罗马数字五十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字五十",
+        "数字",
+        "216C",
+        "U+216C",
+        "Roman Numeral Fifty",
+        "Number Forms"
+      ],
+      "notes": "Ⅼ 是罗马数字中的「50」，表示整数量的 50。罗马数字常用于历史年份、章节编号以及条款序列，例如「第Ⅼ章」。"
+    },
+    {
+      "id": "symbol-216d-246",
+      "symbol": "Ⅽ",
+      "name": "罗马数字一百",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字一百",
+        "数字",
+        "216D",
+        "U+216D",
+        "Roman Numeral One Hundred",
+        "Number Forms"
+      ],
+      "notes": "Ⅽ 是罗马数字中的「100」，表示整数量的 100。罗马数字广泛用于表示年份、章节编号以及条款序列，例如「第Ⅽ章」。"
+    },
+    {
+      "id": "symbol-216e-247",
+      "symbol": "Ⅾ",
+      "name": "罗马数字伍佰",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字伍佰",
+        "数字",
+        "216E",
+        "U+216E",
+        "Roman Numeral Five Hundred",
+        "Number Forms"
+      ],
+      "notes": "Ⅾ 是罗马数字中的「500」，表示整数量的 500。罗马数字常用于历史年份、章节编号以及条款序列，例如「第Ⅾ章」。"
+    },
+    {
+      "id": "symbol-216f-248",
+      "symbol": "Ⅿ",
+      "name": "罗马数字一千",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字一千",
+        "数字",
+        "216F",
+        "U+216F",
+        "Roman Numeral One Thousand",
+        "Number Forms"
+      ],
+      "notes": "Ⅿ 是罗马数字中的「1000」，表示整数量的 1000。罗马数字广泛用于表示年份、章节编号以及条款序列，例如「第Ⅿ章」。"
+    },
+    {
+      "id": "symbol-2170-249",
+      "symbol": "ⅰ",
+      "name": "小写罗马数字一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字一",
+        "数字",
+        "2170",
+        "U+2170",
+        "Small Roman Numeral One",
+        "Number Forms"
+      ],
+      "notes": "ⅰ 是小写形式的罗马数字「1」，常用于编号、列表或分条表示，尤其是在结构化文档中，例如「第ⅰ条」。"
+    },
+    {
+      "id": "symbol-2171-250",
+      "symbol": "ⅱ",
+      "name": "小写罗马数字二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字二",
+        "数字",
+        "2171",
+        "U+2171",
+        "Small Roman Numeral Two",
+        "Number Forms"
+      ],
+      "notes": "ⅱ 是小写形式的罗马数字「2」，常用于分条列表、章节编号或结构化文档中，例如「第ⅱ条」。"
+    },
+    {
+      "id": "symbol-2172-251",
+      "symbol": "ⅲ",
+      "name": "小写罗马数字三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字三",
+        "数字",
+        "2172",
+        "U+2172",
+        "Small Roman Numeral Three",
+        "Number Forms"
+      ],
+      "notes": "ⅲ 是小写形式的罗马数字「3」，常用于分条列表或章节编号，例如「第ⅲ条」。"
+    },
+    {
+      "id": "symbol-2173-252",
+      "symbol": "ⅳ",
+      "name": "小写罗马数字四",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字四",
+        "数字",
+        "2173",
+        "U+2173",
+        "Small Roman Numeral Four",
+        "Number Forms"
+      ],
+      "notes": "ⅳ 是小写形式的罗马数字「4」，由「i」和「v」组合而成，常用于编号或条款表示，例如「第ⅳ条」。"
+    },
+    {
+      "id": "symbol-2174-253",
+      "symbol": "ⅴ",
+      "name": "小写罗马数字五",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字五",
+        "数字",
+        "2174",
+        "U+2174",
+        "Small Roman Numeral Five",
+        "Number Forms"
+      ],
+      "notes": "ⅴ 是小写形式的罗马数字「5」，常用于分条、列表或章节编号，例如「第ⅴ条」。"
+    },
+    {
+      "id": "symbol-2175-254",
+      "symbol": "ⅵ",
+      "name": "小写罗马数字六",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字六",
+        "数字",
+        "2175",
+        "U+2175",
+        "Small Roman Numeral Six",
+        "Number Forms"
+      ],
+      "notes": "ⅵ 是小写形式的罗马数字「6」，由「v」和「i」组合而成，常用于编号或条款表示，例如「第ⅵ条」。"
+    },
+    {
+      "id": "symbol-2176-255",
+      "symbol": "ⅶ",
+      "name": "小写罗马数字七",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字七",
+        "数字",
+        "2176",
+        "U+2176",
+        "Small Roman Numeral Seven",
+        "Number Forms"
+      ],
+      "notes": "ⅶ 是小写形式的罗马数字「7」，由「v」和「ii」组合而成，常用于分条或序列编号，例如「第ⅶ条」。"
+    },
+    {
+      "id": "symbol-2177-256",
+      "symbol": "ⅷ",
+      "name": "小写罗马数字八",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字八",
+        "数字",
+        "2177",
+        "U+2177",
+        "Small Roman Numeral Eight",
+        "Number Forms"
+      ],
+      "notes": "ⅷ 是小写形式的罗马数字「8」，由「v」和「iii」组合而成，常用于条款或列表编号，例如「第ⅷ条」。"
+    },
+    {
+      "id": "symbol-2178-257",
+      "symbol": "ⅸ",
+      "name": "小写罗马数字九",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字九",
+        "数字",
+        "2178",
+        "U+2178",
+        "Small Roman Numeral Nine",
+        "Number Forms"
+      ],
+      "notes": "ⅸ 是小写形式的罗马数字「9」，由「i」和「x」组合而成，常用于章节或条款编号，例如「第ⅸ条」。"
+    },
+    {
+      "id": "symbol-2179-258",
+      "symbol": "ⅹ",
+      "name": "小写罗马数字十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字十",
+        "数字",
+        "2179",
+        "U+2179",
+        "Small Roman Numeral Ten",
+        "Number Forms"
+      ],
+      "notes": "ⅹ 是小写形式的罗马数字「10」，用于表示章节、条款或列表中的编号，例如「第ⅹ条」。"
+    },
+    {
+      "id": "symbol-217a-259",
+      "symbol": "ⅺ",
+      "name": "小写罗马数字十一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字十一",
+        "数字",
+        "217A",
+        "U+217A",
+        "Small Roman Numeral Eleven",
+        "Number Forms"
+      ],
+      "notes": "ⅺ 是小写形式的罗马数字「11」，由「x」（10）和「i」（1）组合而成，常用于条款或章节编号，例如「第ⅺ条」。"
+    },
+    {
+      "id": "symbol-217b-260",
+      "symbol": "ⅻ",
+      "name": "小写罗马数字十二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字十二",
+        "数字",
+        "217B",
+        "U+217B",
+        "Small Roman Numeral Twelve",
+        "Number Forms"
+      ],
+      "notes": "ⅻ 是小写形式的罗马数字「12」，由「x」（10）和「ii」（2）组合而成，常用于分条或序列编号，例如「第ⅻ条」。"
+    },
+    {
+      "id": "symbol-217c-261",
+      "symbol": "ⅼ",
+      "name": "小写罗马数字五十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字五十",
+        "数字",
+        "217C",
+        "U+217C",
+        "Small Roman Numeral Fifty",
+        "Number Forms"
+      ],
+      "notes": "ⅼ 是小写形式的罗马数字「50」，常用于表示序列编号或章节编号，例如「第ⅼ章」。"
+    },
+    {
+      "id": "symbol-217d-262",
+      "symbol": "ⅽ",
+      "name": "小写罗马数字一百",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字一百",
+        "数字",
+        "217D",
+        "U+217D",
+        "Small Roman Numeral One Hundred",
+        "Number Forms"
+      ],
+      "notes": "ⅽ 是小写形式的罗马数字「100」，用于表示章节编号或序列，例如「第ⅽ条」。"
+    },
+    {
+      "id": "symbol-217e-263",
+      "symbol": "ⅾ",
+      "name": "小写罗马数字五百",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字五百",
+        "数字",
+        "217E",
+        "U+217E",
+        "Small Roman Numeral Five Hundred",
+        "Number Forms"
+      ],
+      "notes": "ⅾ 是小写形式的罗马数字「500」，常用于表示历史文献中的序列编号或章节，例如「第ⅾ章」。"
+    },
+    {
+      "id": "symbol-217f-264",
+      "symbol": "ⅿ",
+      "name": "小写罗马数字一千",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "小写罗马数字一千",
+        "数字",
+        "217F",
+        "U+217F",
+        "Small Roman Numeral One Thousand",
+        "Number Forms"
+      ],
+      "notes": "ⅿ 是小写形式的罗马数字「1000」，用于表示序列编号、年份或章节，例如「第ⅿ章」。"
+    },
+    {
+      "id": "symbol-2180-265",
+      "symbol": "ↀ",
+      "name": "罗马数字一千",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字一千",
+        "数字",
+        "2180",
+        "U+2180",
+        "Roman Numeral One Thousand C D",
+        "Number Forms"
+      ],
+      "notes": "ↀ 是一种表示罗马数字「1000」的符号，类似于「Ⅿ」，在古代手稿中使用较多。"
+    },
+    {
+      "id": "symbol-2181-266",
+      "symbol": "ↁ",
+      "name": "罗马数字五千",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字五千",
+        "数字",
+        "2181",
+        "U+2181",
+        "Roman Numeral Five Thousand",
+        "Number Forms"
+      ],
+      "notes": "ↁ 表示罗马数字「5000」，用作扩展的罗马数字，用于表示更大的数值。"
+    },
+    {
+      "id": "symbol-2182-267",
+      "symbol": "ↂ",
+      "name": "罗马数字一万",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字一万",
+        "数字",
+        "2182",
+        "U+2182",
+        "Roman Numeral Ten Thousand",
+        "Number Forms"
+      ],
+      "notes": "ↂ 表示罗马数字「10000」，是较大数值的罗马数字扩展形式。"
+    },
+    {
+      "id": "symbol-2183-268",
+      "symbol": "Ↄ",
+      "name": "反向C",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "反向C",
+        "数字",
+        "2183",
+        "U+2183",
+        "Roman Numeral Reversed One Hundred",
+        "Number Forms"
+      ],
+      "notes": "Ↄ 是一种反向的罗马数字「C」，最初用作古代罗马数字系统中的一种变体。它通常表示 100，或与其他符号组合以形成更大的数值。在古代手稿和铭文中，这个符号有时被用作计数和装饰的双重用途。"
+    },
+    {
+      "id": "symbol-2184-269",
+      "symbol": "ↄ",
+      "name": "反向C",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "反向C",
+        "数字",
+        "2184",
+        "U+2184",
+        "Latin Small Letter Reversed C",
+        "Number Forms"
+      ],
+      "notes": "ↄ 是一个反向的罗马数字「C」（100），用于特定的古代计数法或装饰性场景。"
+    },
+    {
+      "id": "symbol-2189-270",
+      "symbol": "↉",
+      "name": "三分之零",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "三分之零",
+        "数字",
+        "2189",
+        "U+2189",
+        "Vulgar Fraction Zero Thirds",
+        "Number Forms"
+      ],
+      "notes": "↉ 表示「0/3」，是一个古代符号，用于特殊的分数表示法。这种符号可能起源于早期的手稿或计数系统，表示零的三分之一部分，实际上等于零。它不属于罗马数字体系，而是特定情况下的历史性分数符号。"
+    },
+    {
+      "id": "symbol-1d7ce-1036",
+      "symbol": "𝟎",
+      "name": "数学粗体数字0",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字0",
+        "数字",
+        "1D7CE",
+        "U+1D7CE",
+        "Mathematical Bold Digit Zero",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "零向量、空矩阵的数学表示。"
+    },
+    {
+      "id": "symbol-1d7cf-200b-1037",
+      "symbol": "𝟏​",
+      "name": "数学粗体数字1",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字1",
+        "数字",
+        "1D7CF",
+        "200B",
+        "U+1D7CF",
+        "U+200B",
+        "U+1D7CF U+200B"
+      ],
+      "notes": "单位矩阵、概率论中的指示函数。"
+    },
+    {
+      "id": "symbol-1d7d0-1038",
+      "symbol": "𝟐",
+      "name": "数学粗体数字2",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字2",
+        "数字",
+        "1D7D0",
+        "U+1D7D0",
+        "Mathematical Bold Digit Two",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "向量空间中的基向量标记。"
+    },
+    {
+      "id": "symbol-1d7d1-1039",
+      "symbol": "𝟑",
+      "name": "数学粗体数字3",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字3",
+        "数字",
+        "1D7D1",
+        "U+1D7D1",
+        "Mathematical Bold Digit Three",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "三维空间坐标或张量运算。"
+    },
+    {
+      "id": "symbol-1d7d2-1040",
+      "symbol": "𝟒",
+      "name": "数学粗体数字4",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字4",
+        "数字",
+        "1D7D2",
+        "U+1D7D2",
+        "Mathematical Bold Digit Four",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "四阶矩阵 ​A₄ₓ₄​ 中的下标。"
+    },
+    {
+      "id": "symbol-1d7d3-1041",
+      "symbol": "𝟓",
+      "name": "数学粗体数字5",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字5",
+        "数字",
+        "1D7D3",
+        "U+1D7D3",
+        "Mathematical Bold Digit Five",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "统计学中的五维数据标记。"
+    },
+    {
+      "id": "symbol-1d7d4-1042",
+      "symbol": "𝟔",
+      "name": "数学粗体数字6",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字6",
+        "数字",
+        "1D7D4",
+        "U+1D7D4",
+        "Mathematical Bold Digit Six",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "六边形晶格参数或群论中的阶数。"
+    },
+    {
+      "id": "symbol-1d7d5-1043",
+      "symbol": "𝟕",
+      "name": "数学粗体数字7",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字7",
+        "数字",
+        "1D7D5",
+        "U+1D7D5",
+        "Mathematical Bold Digit Seven",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "常与粗体字母（如 ​𝐯）组合表示向量。"
+    },
+    {
+      "id": "symbol-1d7d6-1044",
+      "symbol": "𝟖",
+      "name": "数学粗体数字8",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字8",
+        "数字",
+        "1D7D6",
+        "U+1D7D6",
+        "Mathematical Bold Digit Eight",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "八元数运算中的常量。"
+    },
+    {
+      "id": "symbol-1d7d7-1045",
+      "symbol": "𝟗",
+      "name": "数学粗体数字9",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "数学粗体数字9",
+        "数字",
+        "1D7D7",
+        "U+1D7D7",
+        "Mathematical Bold Digit Nine",
+        "Mathematical Alphanumeric Symbols"
+      ],
+      "notes": "九宫格矩阵或离散数学中的集合标记。"
+    }
   ]
 }

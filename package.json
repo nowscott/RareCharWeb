@@ -1,6 +1,6 @@
 {
   "name": "rarecharweb",
-  "version": "1.11.1",
+  "version": "1.11.2",
   "private": true,
   "license": "AGPL-3.0",
   "scripts": {
@@ -9,6 +9,8 @@
     "start": "next start",
     "lint": "eslint .",
     "data:build": "node scripts/build-data.mjs",
+    "data:promote-emojis": "node scripts/promote-pending-emojis.mjs",
+    "data:enrich-symbols": "node scripts/enrich-symbol-search-terms.mjs",
     "data:update": "node scripts/update-data.mjs",
     "data:update:dry": "node scripts/update-data.mjs --dry-run"
   },

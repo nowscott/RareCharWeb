@@ -23,6 +23,24 @@ interface DataManifest {
     symbols?: { version?: unknown };
     emojis?: { version?: unknown };
   };
+  outputs?: {
+    symbols?: {
+      items?: string;
+      byCategory?: CategoryShardManifest[];
+    };
+    emojis?: {
+      items?: string;
+      byCategory?: CategoryShardManifest[];
+    };
+  };
+}
+
+interface CategoryShardManifest {
+  file?: unknown;
+}
+
+interface CategoryShard<T> {
+  items?: T[];
 }
 
 function getPublicDataPath(...segments: string[]) {
@@ -30,13 +48,18 @@ function getPublicDataPath(...segments: string[]) {
 }
 
 async function getDataVersion(type: 'symbols' | 'emojis'): Promise<string> {
+  const manifest = await getManifest();
+  const version = manifest.datasets?.[type]?.version;
+  return typeof version === 'string' ? version : 'v1.0.0';
+}
+
+async function getManifest(): Promise<DataManifest> {
   if (!_manifestCache) {
     const raw = await readFile(getPublicDataPath('manifest.json'), 'utf8');
     _manifestCache = JSON.parse(raw) as DataManifest;
   }
 
-  const version = _manifestCache.datasets?.[type]?.version;
-  return typeof version === 'string' ? version : 'v1.0.0';
+  return _manifestCache;
 }
 
 /**
@@ -63,14 +86,7 @@ function precomputePinyin(symbols: SymbolData[]): void {
 export async function getLocalSymbolDataResponse(): Promise<SymbolDataResponse> {
   if (_symbolsCache) return _symbolsCache;
 
-  const raw = await readFile(getPublicDataPath('symbols', 'items.json'), 'utf8');
-  const data = JSON.parse(raw) as { items?: unknown };
-
-  if (!Array.isArray(data.items)) {
-    throw new Error('Invalid symbols data');
-  }
-
-  const symbols = data.items as SymbolData[];
+  const symbols = await loadSymbolsFromCategoryShards();
   precomputePinyin(symbols);
 
   const categoryStats = calculateCategoryStats(symbols);
@@ -91,15 +107,8 @@ export async function getLocalSymbolDataResponse(): Promise<SymbolDataResponse> 
 export async function getLocalEmojiDataResponse(): Promise<SymbolDataResponse> {
   if (_emojiCache) return _emojiCache;
 
-  const raw = await readFile(getPublicDataPath('emojis', 'items.json'), 'utf8');
-  const data = JSON.parse(raw) as { items?: unknown };
-
-  if (!Array.isArray(data.items)) {
-    throw new Error('Invalid emoji data');
-  }
-
   const version = await getDataVersion('emojis');
-  const emojis = data.items as EmojiData[];
+  const emojis = await loadEmojisFromCategoryShards();
 
   const symbols: SymbolData[] = emojis.map((emoji) => ({
     symbol: emoji.emoji,
@@ -124,6 +133,86 @@ export async function getLocalEmojiDataResponse(): Promise<SymbolDataResponse> {
   };
 
   return _emojiCache;
+}
+
+async function loadSymbolsFromCategoryShards(): Promise<SymbolData[]> {
+  const manifest = await getManifest();
+  const shardFiles = getShardFiles(manifest.outputs?.symbols?.byCategory);
+
+  if (shardFiles.length === 0) {
+    const data = await readItemsFile<SymbolData>(manifest.outputs?.symbols?.items ?? 'symbols/items.json', 'symbols data');
+    return data;
+  }
+
+  const shards = await Promise.all(
+    shardFiles.map((file) => readJsonData<CategoryShard<SymbolData>>(file))
+  );
+
+  return dedupeRecords(
+    shards.flatMap((shard) => validateShardItems(shard, 'symbols category shard')),
+    (item) => item.id ?? item.symbol
+  );
+}
+
+async function loadEmojisFromCategoryShards(): Promise<EmojiData[]> {
+  const manifest = await getManifest();
+  const shardFiles = getShardFiles(manifest.outputs?.emojis?.byCategory);
+
+  if (shardFiles.length === 0) {
+    const data = await readItemsFile<EmojiData>(manifest.outputs?.emojis?.items ?? 'emojis/items.json', 'emoji data');
+    return data;
+  }
+
+  const shards = await Promise.all(
+    shardFiles.map((file) => readJsonData<CategoryShard<EmojiData>>(file))
+  );
+
+  return dedupeRecords(
+    shards.flatMap((shard) => validateShardItems(shard, 'emoji category shard')),
+    (item) => item.id ?? item.emoji
+  );
+}
+
+function getShardFiles(shards: CategoryShardManifest[] | undefined): string[] {
+  return (shards ?? [])
+    .map((shard) => shard.file)
+    .filter((file): file is string => typeof file === 'string' && file.length > 0);
+}
+
+function validateShardItems<T>(shard: CategoryShard<T>, name: string): T[] {
+  if (!Array.isArray(shard.items)) {
+    throw new Error(`Invalid ${name}`);
+  }
+
+  return shard.items;
+}
+
+async function readItemsFile<T>(file: string, name: string): Promise<T[]> {
+  const data = await readJsonData<{ items?: T[] }>(file);
+  if (!Array.isArray(data.items)) {
+    throw new Error(`Invalid ${name}`);
+  }
+
+  return data.items;
+}
+
+async function readJsonData<T>(file: string): Promise<T> {
+  const raw = await readFile(getPublicDataPath(...file.split('/')), 'utf8');
+  return JSON.parse(raw) as T;
+}
+
+function dedupeRecords<T>(records: T[], getKey: (record: T) => string): T[] {
+  const seen = new Set<string>();
+  const result: T[] = [];
+
+  for (const record of records) {
+    const key = getKey(record);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    result.push(record);
+  }
+
+  return result;
 }
 
 /**

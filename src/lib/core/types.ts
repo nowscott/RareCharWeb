@@ -1,6 +1,7 @@
 // 应用核心数据类型定义
 
 export interface SymbolData {
+  id?: string;
   symbol: string;
   name: string;
   pronunciation: string;
@@ -20,6 +21,7 @@ export interface CategoryStat {
 }
 
 export interface EmojiData {
+  id?: string;
   emoji: string;
   name: string;
   category: string;

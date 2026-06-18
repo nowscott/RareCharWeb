@@ -216,14 +216,7 @@ async function fetchEmojipediaCategory(category) {
   const url = `https://emojipedia.org/zh/${encodeURIComponent(category.slug)}`;
   const html = await fetchText(url);
   const payload = extractNextPayload(html);
-  const marker = `{"slug":"${category.slug}"`;
-  const start = payload.indexOf(marker);
-
-  if (start === -1) {
-    throw new Error(`Could not find Emojipedia category payload: ${category.slug}`);
-  }
-
-  const categoryData = JSON.parse(extractJsonObjectAt(payload, start));
+  const categoryData = findEmojipediaCategoryPayload(payload, category.slug);
   const items = [];
 
   for (const subCategory of categoryData.subCategories ?? []) {
@@ -235,12 +228,31 @@ async function fetchEmojipediaCategory(category) {
         name,
         category: category.category,
         keywords: uniqueCompact([name, emoji.title, subCategory.title, category.category]),
-        text: `来自 Emojipedia「${category.category}」分类（${subCategory.title || category.category}）。可用于表达「${name}」相关含义。来源：https://emojipedia.org/zh/${encodeURIComponent(emoji.slug || category.slug)}`
+        text: `可用于表达「${name}」相关含义。`
       });
     }
   }
 
   return { url, items };
+}
+
+function findEmojipediaCategoryPayload(payload, slug) {
+  const marker = `{"slug":"${slug}"`;
+  let searchFrom = 0;
+
+  while (searchFrom < payload.length) {
+    const start = payload.indexOf(marker, searchFrom);
+    if (start === -1) break;
+
+    const candidate = JSON.parse(extractJsonObjectAt(payload, start));
+    if (Array.isArray(candidate.subCategories)) {
+      return candidate;
+    }
+
+    searchFrom = start + marker.length;
+  }
+
+  throw new Error(`Could not find Emojipedia category payload: ${slug}`);
 }
 
 async function fetchSymblBlock(block) {

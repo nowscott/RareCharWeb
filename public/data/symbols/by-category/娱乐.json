@@ -1,249 +1,3946 @@
 {
   "category": "娱乐",
   "total": 243,
-  "ids": [
-    "symbol-2654-383",
-    "symbol-2655-384",
-    "symbol-2656-385",
-    "symbol-2657-386",
-    "symbol-2658-387",
-    "symbol-2659-388",
-    "symbol-265a-389",
-    "symbol-265b-390",
-    "symbol-265c-391",
-    "symbol-265d-392",
-    "symbol-265e-393",
-    "symbol-265f-394",
-    "symbol-2660-395",
-    "symbol-2661-396",
-    "symbol-2662-397",
-    "symbol-2663-398",
-    "symbol-2664-399",
-    "symbol-2665-400",
-    "symbol-2666-401",
-    "symbol-2667-402",
-    "symbol-2680-422",
-    "symbol-2681-423",
-    "symbol-2682-424",
-    "symbol-2683-425",
-    "symbol-2684-426",
-    "symbol-2685-427",
-    "symbol-1f000-795",
-    "symbol-1f001-796",
-    "symbol-1f002-797",
-    "symbol-1f003-798",
-    "symbol-1f004-799",
-    "symbol-1f005-800",
-    "symbol-1f006-801",
-    "symbol-1f007-802",
-    "symbol-1f008-803",
-    "symbol-1f009-804",
-    "symbol-1f00a-805",
-    "symbol-1f00b-806",
-    "symbol-1f00c-807",
-    "symbol-1f00d-808",
-    "symbol-1f00e-809",
-    "symbol-1f00f-810",
-    "symbol-1f010-811",
-    "symbol-1f011-812",
-    "symbol-1f012-813",
-    "symbol-1f013-814",
-    "symbol-1f014-815",
-    "symbol-1f015-816",
-    "symbol-1f016-817",
-    "symbol-1f017-818",
-    "symbol-1f018-819",
-    "symbol-1f019-820",
-    "symbol-1f01a-821",
-    "symbol-1f01b-822",
-    "symbol-1f01c-823",
-    "symbol-1f01d-824",
-    "symbol-1f01e-825",
-    "symbol-1f01f-826",
-    "symbol-1f020-827",
-    "symbol-1f021-828",
-    "symbol-1f022-829",
-    "symbol-1f023-830",
-    "symbol-1f024-831",
-    "symbol-1f025-832",
-    "symbol-1f026-833",
-    "symbol-1f027-834",
-    "symbol-1f028-835",
-    "symbol-1f029-836",
-    "symbol-1f02a-837",
-    "symbol-1f02b-838",
-    "symbol-1f030-839",
-    "symbol-1f031-840",
-    "symbol-1f032-841",
-    "symbol-1f033-842",
-    "symbol-1f034-843",
-    "symbol-1f035-844",
-    "symbol-1f036-845",
-    "symbol-1f037-846",
-    "symbol-1f038-847",
-    "symbol-1f039-848",
-    "symbol-1f03a-849",
-    "symbol-1f03b-850",
-    "symbol-1f03c-851",
-    "symbol-1f03d-852",
-    "symbol-1f03e-853",
-    "symbol-1f03f-854",
-    "symbol-1f040-855",
-    "symbol-1f041-856",
-    "symbol-1f042-857",
-    "symbol-1f043-858",
-    "symbol-1f044-859",
-    "symbol-1f045-860",
-    "symbol-1f046-861",
-    "symbol-1f047-862",
-    "symbol-1f048-863",
-    "symbol-1f049-864",
-    "symbol-1f04a-865",
-    "symbol-1f04b-866",
-    "symbol-1f04c-867",
-    "symbol-1f04d-868",
-    "symbol-1f04e-869",
-    "symbol-1f04f-870",
-    "symbol-1f050-871",
-    "symbol-1f051-872",
-    "symbol-1f052-873",
-    "symbol-1f053-874",
-    "symbol-1f054-875",
-    "symbol-1f055-876",
-    "symbol-1f056-877",
-    "symbol-1f057-878",
-    "symbol-1f058-879",
-    "symbol-1f059-880",
-    "symbol-1f05a-881",
-    "symbol-1f05b-882",
-    "symbol-1f05c-883",
-    "symbol-1f05d-884",
-    "symbol-1f05e-885",
-    "symbol-1f05f-886",
-    "symbol-1f060-887",
-    "symbol-1f061-888",
-    "symbol-1f062-889",
-    "symbol-1f063-890",
-    "symbol-1f064-891",
-    "symbol-1f065-892",
-    "symbol-1f066-893",
-    "symbol-1f067-894",
-    "symbol-1f068-895",
-    "symbol-1f069-896",
-    "symbol-1f06a-897",
-    "symbol-1f06b-898",
-    "symbol-1f06c-899",
-    "symbol-1f06d-900",
-    "symbol-1f06e-901",
-    "symbol-1f06f-902",
-    "symbol-1f070-903",
-    "symbol-1f071-904",
-    "symbol-1f072-905",
-    "symbol-1f073-906",
-    "symbol-1f074-907",
-    "symbol-1f075-908",
-    "symbol-1f076-909",
-    "symbol-1f077-910",
-    "symbol-1f078-911",
-    "symbol-1f079-912",
-    "symbol-1f07a-913",
-    "symbol-1f07b-914",
-    "symbol-1f07c-915",
-    "symbol-1f07d-916",
-    "symbol-1f07e-917",
-    "symbol-1f07f-918",
-    "symbol-1f080-919",
-    "symbol-1f081-920",
-    "symbol-1f082-921",
-    "symbol-1f083-922",
-    "symbol-1f084-923",
-    "symbol-1f085-924",
-    "symbol-1f086-925",
-    "symbol-1f087-926",
-    "symbol-1f088-927",
-    "symbol-1f089-928",
-    "symbol-1f08a-929",
-    "symbol-1f08b-930",
-    "symbol-1f08c-931",
-    "symbol-1f08d-932",
-    "symbol-1f08e-933",
-    "symbol-1f08f-934",
-    "symbol-1f090-935",
-    "symbol-1f091-936",
-    "symbol-1f092-937",
-    "symbol-1f093-938",
-    "symbol-1f0a0-939",
-    "symbol-1f0a1-940",
-    "symbol-1f0a2-941",
-    "symbol-1f0a3-942",
-    "symbol-1f0a4-943",
-    "symbol-1f0a5-944",
-    "symbol-1f0a6-945",
-    "symbol-1f0a7-946",
-    "symbol-1f0a8-947",
-    "symbol-1f0a9-948",
-    "symbol-1f0aa-949",
-    "symbol-1f0ab-950",
-    "symbol-1f0ac-951",
-    "symbol-1f0ad-952",
-    "symbol-1f0ae-953",
-    "symbol-1f0b1-954",
-    "symbol-1f0b2-955",
-    "symbol-1f0b3-956",
-    "symbol-1f0b4-957",
-    "symbol-1f0b5-958",
-    "symbol-1f0b6-959",
-    "symbol-1f0b7-960",
-    "symbol-1f0b8-961",
-    "symbol-1f0b9-962",
-    "symbol-1f0ba-963",
-    "symbol-1f0bb-964",
-    "symbol-1f0bc-965",
-    "symbol-1f0bd-966",
-    "symbol-1f0be-967",
-    "symbol-1f0c1-968",
-    "symbol-1f0c2-969",
-    "symbol-1f0c3-970",
-    "symbol-1f0c4-971",
-    "symbol-1f0c5-972",
-    "symbol-1f0c6-973",
-    "symbol-1f0c7-974",
-    "symbol-1f0c8-975",
-    "symbol-1f0c9-976",
-    "symbol-1f0ca-977",
-    "symbol-1f0cb-978",
-    "symbol-1f0cc-979",
-    "symbol-1f0cd-980",
-    "symbol-1f0ce-981",
-    "symbol-1f0cf-982",
-    "symbol-1f0d1-983",
-    "symbol-1f0d2-984",
-    "symbol-1f0d3-985",
-    "symbol-1f0d4-986",
-    "symbol-1f0d5-987",
-    "symbol-1f0d6-988",
-    "symbol-1f0d7-989",
-    "symbol-1f0d8-990",
-    "symbol-1f0d9-991",
-    "symbol-1f0da-992",
-    "symbol-1f0db-993",
-    "symbol-1f0dc-994",
-    "symbol-1f0dd-995",
-    "symbol-1f0de-996",
-    "symbol-1f0df-997",
-    "symbol-1fa60-998",
-    "symbol-1fa61-999",
-    "symbol-1fa62-1000",
-    "symbol-1fa63-1001",
-    "symbol-1fa64-1002",
-    "symbol-1fa65-1003",
-    "symbol-1fa66-1004",
-    "symbol-1fa67-1005",
-    "symbol-1fa68-1006",
-    "symbol-1fa69-1007",
-    "symbol-1fa6a-1008",
-    "symbol-1fa6b-1009",
-    "symbol-1fa6c-1010",
-    "symbol-1fa6d-1011"
+  "items": [
+    {
+      "id": "symbol-2654-383",
+      "symbol": "♔",
+      "name": "国王",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "国王",
+        "娱乐",
+        "2654",
+        "U+2654",
+        "White Chess King",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♔ 是国际象棋中的国王符号，用于表示棋盘上的国王角色。\n\n在国际象棋中，国王是最重要的棋子，目标是保护国王不被将死。♔ 代表白色国王，通常用于表示白方的国王。\n\n该符号通常用于国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-2655-384",
+      "symbol": "♕",
+      "name": "皇后",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "皇后",
+        "娱乐",
+        "2655",
+        "U+2655",
+        "White Chess Queen",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♕ 是国际象棋中的皇后符号，用于表示棋盘上的皇后角色。\n\n在国际象棋中，皇后是最强大的棋子，能够在任意方向上移动。♕ 代表白色皇后，通常用于表示白方的皇后。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-2656-385",
+      "symbol": "♖",
+      "name": "车",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "车",
+        "娱乐",
+        "2656",
+        "U+2656",
+        "White Chess Rook",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♖ 是国际象棋中的车符号，用于表示棋盘上的车角色。\n\n在国际象棋中，车是非常强大的棋子，可以在直线上自由移动。♖ 代表白色车，通常用于表示白方的车。\n\n该符号通常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-2657-386",
+      "symbol": "♗",
+      "name": "主教",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "主教",
+        "娱乐",
+        "2657",
+        "U+2657",
+        "White Chess Bishop",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♗ 是国际象棋中的主教符号，用于表示棋盘上的主教角色。\n\n在国际象棋中，主教只能在对角线上移动。♗ 代表白色主教，通常用于表示白方的主教。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-2658-387",
+      "symbol": "♘",
+      "name": "马",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "马",
+        "娱乐",
+        "2658",
+        "U+2658",
+        "White Chess Knight",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♘ 是国际象棋中的马符号，用于表示棋盘上的马角色。\n\n在国际象棋中，马的走法是独特的，它走字形。♘ 代表白色马，通常用于表示白方的马。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-2659-388",
+      "symbol": "♙",
+      "name": "兵",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "兵",
+        "娱乐",
+        "2659",
+        "U+2659",
+        "White Chess Pawn",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♙ 是国际象棋中的兵符号，用于表示棋盘上的兵角色。\n\n在国际象棋中，兵是最基础的棋子，通常只能向前一步移动。♙ 代表白色兵，通常用于表示白方的兵。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-265a-389",
+      "symbol": "♚",
+      "name": "黑国王",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑国王",
+        "娱乐",
+        "265A",
+        "U+265A",
+        "Black Chess King",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♚ 是国际象棋中的黑国王符号，用于表示棋盘上的黑国王角色。\n\n在国际象棋中，黑国王与白国王相对，目标同样是保护黑国王不被将死。♚ 代表黑色国王，通常用于表示黑方的国王。\n\n该符号通常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-265b-390",
+      "symbol": "♛",
+      "name": "黑皇后",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑皇后",
+        "娱乐",
+        "265B",
+        "U+265B",
+        "Black Chess Queen",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♛ 是国际象棋中的黑皇后符号，用于表示棋盘上的黑皇后角色。\n\n在国际象棋中，黑皇后与白皇后功能相同，是最强大的棋子，能够在任意方向上自由移动。♛ 代表黑色皇后，通常用于表示黑方的皇后。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-265c-391",
+      "symbol": "♜",
+      "name": "黑车",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑车",
+        "娱乐",
+        "265C",
+        "U+265C",
+        "Black Chess Rook",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♜ 是国际象棋中的黑车符号，用于表示棋盘上的黑车角色。\n\n在国际象棋中，黑车与白车功能相同，可以在直线上自由移动。♜ 代表黑色车，通常用于表示黑方的车。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-265d-392",
+      "symbol": "♝",
+      "name": "黑主教",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑主教",
+        "娱乐",
+        "265D",
+        "U+265D",
+        "Black Chess Bishop",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♝ 是国际象棋中的黑主教符号，用于表示棋盘上的黑主教角色。\n\n在国际象棋中，黑主教与白主教功能相同，仅在对角线上移动。♝ 代表黑色主教，通常用于表示黑方的主教。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-265e-393",
+      "symbol": "♞",
+      "name": "黑马",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑马",
+        "娱乐",
+        "265E",
+        "U+265E",
+        "Black Chess Knight",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♞ 是国际象棋中的黑马符号，用于表示棋盘上的黑马角色。\n\n在国际象棋中，黑马与白马功能相同，走字形。♞ 代表黑色马，通常用于表示黑方的马。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-265f-394",
+      "symbol": "♟",
+      "name": "黑兵",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑兵",
+        "娱乐",
+        "265F",
+        "U+265F",
+        "Chess Pawn",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♟ 是国际象棋中的黑兵符号，用于表示棋盘上的黑兵角色。\n\n在国际象棋中，黑兵与白兵功能相同，通常只能向前一步移动。♟ 代表黑色兵，通常用于表示黑方的兵。\n\n该符号常出现在国际象棋比赛、棋盘、棋谱和相关内容中。"
+    },
+    {
+      "id": "symbol-2660-395",
+      "symbol": "♠",
+      "name": "实心黑桃",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "实心黑桃",
+        "娱乐",
+        "2660",
+        "U+2660",
+        "Spade Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♠ 是黑桃符号的另一种表示方式，常用于扑克牌和其他纸牌游戏中。\n\n该符号与♤相似，也是代表扑克牌中的黑桃花色，通常用于表示较强的手牌或高牌。"
+    },
+    {
+      "id": "symbol-2661-396",
+      "symbol": "♡",
+      "name": "空心红心",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "空心红心",
+        "娱乐",
+        "2661",
+        "U+2661",
+        "White Heart Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♡ 是红心符号，通常用于扑克牌游戏中，表示红心花色。\n\n该符号是扑克牌中的四种花色之一，红心通常代表爱情、感情和情感，常见于纸牌游戏如桥牌、德州扑克等。\n\n♡ 也广泛用于文化和艺术中，象征爱情、浪漫和情感。"
+    },
+    {
+      "id": "symbol-2662-397",
+      "symbol": "♢",
+      "name": "空心方块",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "空心方块",
+        "娱乐",
+        "2662",
+        "U+2662",
+        "White Diamond Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♢ 是方块符号，通常用于扑克牌游戏中，表示方块花色。\n\n该符号是扑克牌中的四种花色之一，方块通常代表财富、金钱和事业，常见于纸牌游戏如桥牌、德州扑克等。\n\n♢ 在一些文化中，也被用来象征稳定和物质的财富。"
+    },
+    {
+      "id": "symbol-2663-398",
+      "symbol": "♣",
+      "name": "实心梅花",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "实心梅花",
+        "娱乐",
+        "2663",
+        "U+2663",
+        "Club Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♣ 是梅花符号的另一种表示方式，常用于扑克牌和其他纸牌游戏中。\n\n该符号与♧相似，也是代表扑克牌中的梅花花色，通常用于表示幸运、成长和生长。"
+    },
+    {
+      "id": "symbol-2664-399",
+      "symbol": "♤",
+      "name": "空心黑桃",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "空心黑桃",
+        "娱乐",
+        "2664",
+        "U+2664",
+        "White Spade Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♤ 是黑桃符号，通常用于扑克牌游戏中，表示黑桃花色。\n\n该符号是扑克牌中的四种花色之一，黑桃是最高的花色之一，常见于纸牌游戏如桥牌、德州扑克等。\n\n♤ 在卡片游戏中，通常代表力量和胜利，有时也用来象征勇气和决心。"
+    },
+    {
+      "id": "symbol-2665-400",
+      "symbol": "♥",
+      "name": "实心红心",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "实心红心",
+        "娱乐",
+        "2665",
+        "U+2665",
+        "Heart Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♥ 是红心符号的另一种表示方式，常用于扑克牌和其他纸牌游戏中。\n\n该符号与♡相似，也是代表扑克牌中的红心花色，通常用于表示感情、爱情和情感。"
+    },
+    {
+      "id": "symbol-2666-401",
+      "symbol": "♦",
+      "name": "实心方块",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "实心方块",
+        "娱乐",
+        "2666",
+        "U+2666",
+        "Diamond Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♦ 是方块符号的另一种表示方式，常用于扑克牌和其他纸牌游戏中。\n\n该符号与♢相似，也是代表扑克牌中的方块花色，通常用于表示财富、金钱和事业。"
+    },
+    {
+      "id": "symbol-2667-402",
+      "symbol": "♧",
+      "name": "空心梅花",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "空心梅花",
+        "娱乐",
+        "2667",
+        "U+2667",
+        "White Club Suit",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♧ 是梅花符号，通常用于扑克牌游戏中，表示梅花花色。\n\n该符号是扑克牌中的四种花色之一，梅花通常代表希望、幸运和生长，常见于纸牌游戏如桥牌、德州扑克等。\n\n♧ 也常用来象征自然、成长和繁荣。"
+    },
+    {
+      "id": "symbol-2680-422",
+      "symbol": "⚀",
+      "name": "点数1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "点数1",
+        "娱乐",
+        "2680",
+        "U+2680",
+        "Die Face-1",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚀ 是骰子点数 1 的符号，表示骰子上的一个点。\n\n该符号通常用于骰子游戏或其他需要掷骰子的场合，表示投掷结果为 1 点。"
+    },
+    {
+      "id": "symbol-2681-423",
+      "symbol": "⚁",
+      "name": "点数2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "点数2",
+        "娱乐",
+        "2681",
+        "U+2681",
+        "Die Face-2",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚁ 是骰子点数 2 的符号，表示骰子上的两个点。\n\n该符号用于表示骰子投掷的结果为 2 点。"
+    },
+    {
+      "id": "symbol-2682-424",
+      "symbol": "⚂",
+      "name": "点数3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "点数3",
+        "娱乐",
+        "2682",
+        "U+2682",
+        "Die Face-3",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚂ 是骰子点数 3 的符号，表示骰子上的三个点。\n\n该符号表示骰子投掷的结果为 3 点。"
+    },
+    {
+      "id": "symbol-2683-425",
+      "symbol": "⚃",
+      "name": "点数4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "点数4",
+        "娱乐",
+        "2683",
+        "U+2683",
+        "Die Face-4",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚃ 是骰子点数 4 的符号，表示骰子上的四个点。\n\n该符号用于表示骰子投掷的结果为 4 点。"
+    },
+    {
+      "id": "symbol-2684-426",
+      "symbol": "⚄",
+      "name": "点数5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "点数5",
+        "娱乐",
+        "2684",
+        "U+2684",
+        "Die Face-5",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚄ 是骰子点数 5 的符号，表示骰子上的五个点。\n\n该符号表示骰子投掷的结果为 5 点。"
+    },
+    {
+      "id": "symbol-2685-427",
+      "symbol": "⚅",
+      "name": "点数6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "点数6",
+        "娱乐",
+        "2685",
+        "U+2685",
+        "Die Face-6",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "⚅ 是骰子点数 6 的符号，表示骰子上的六个点。\n\n该符号用于表示骰子投掷的结果为 6 点。"
+    },
+    {
+      "id": "symbol-1f000-795",
+      "symbol": "🀀",
+      "name": "东风",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "东风",
+        "娱乐",
+        "1F000",
+        "U+1F000"
+      ],
+      "notes": "🀀是麻将牌中的「东风」牌符号，表示东风牌，属于风牌的一部分。「东风」在麻将游戏中常被用作番种的一部分，例如“自风刻”或“圈风刻”，并且在某些麻将规则中有特殊的计分或策略意义。"
+    },
+    {
+      "id": "symbol-1f001-796",
+      "symbol": "🀁",
+      "name": "南风",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "南风",
+        "娱乐",
+        "1F001",
+        "U+1F001"
+      ],
+      "notes": "🀁是麻将牌中的「南风」牌符号，表示南风牌，属于风牌的一部分。在麻将规则中，南风牌可用于组成刻子、顺子或对子，也与番种相关，例如“圈风刻”或“自风刻”，当当前圈风或玩家自风为南时，可增加番数。"
+    },
+    {
+      "id": "symbol-1f002-797",
+      "symbol": "🀂",
+      "name": "西风",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "西风",
+        "娱乐",
+        "1F002",
+        "U+1F002"
+      ],
+      "notes": "🀂是麻将牌中的「西风」牌符号，表示西风牌，属于风牌的一部分。在麻将规则中，西风牌可用于组成刻子、顺子或对子，同时与番种相关，例如“圈风刻”或“自风刻”，当当前圈风或玩家自风为西时，可增加番数。"
+    },
+    {
+      "id": "symbol-1f003-798",
+      "symbol": "🀃",
+      "name": "北风",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "北风",
+        "娱乐",
+        "1F003",
+        "U+1F003"
+      ],
+      "notes": "🀃 是麻将牌中的「北风」牌符号，表示北风牌，属于风牌的一部分。在麻将规则中，北风牌可用于组成刻子、顺子或对子，并与番种相关，例如“圈风刻”或“自风刻”，当当前圈风或玩家自风为北时，可以增加番数。"
+    },
+    {
+      "id": "symbol-1f004-799",
+      "symbol": "🀄",
+      "name": "红中",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红中",
+        "娱乐",
+        "1F004",
+        "U+1F004"
+      ],
+      "notes": "🀄 是麻将牌中的「红中」牌符号，属于三元牌的一部分。红中在麻将规则中是一张非常重要的牌，可以用于组成刻子或对子，通常被视为百搭牌（万能牌）的一种，在某些规则中可以直接增加番数。红中与白板（🀆）和发财（🀅）共同组成三元牌，具有特殊的计分意义。"
+    },
+    {
+      "id": "symbol-1f005-800",
+      "symbol": "🀅",
+      "name": "發財",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "發財",
+        "娱乐",
+        "1F005",
+        "U+1F005"
+      ],
+      "notes": "🀅 是麻将牌中的「发财」牌符号，属于三元牌的一部分。发财在麻将规则中是一张重要的牌，可以用于组成刻子或对子，同时与番种相关，例如“三元牌”的番种或其他计分规则。发财与红中（🀄）和白板（🀆）共同组成三元牌，在某些麻将规则中具有额外的计分价值或特殊用途。"
+    },
+    {
+      "id": "symbol-1f006-801",
+      "symbol": "🀆",
+      "name": "白板",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "白板",
+        "娱乐",
+        "1F006",
+        "U+1F006"
+      ],
+      "notes": "🀆 是麻将牌中的「白板」符号，属于三元牌的一部分。「白板」是一张白色空白的麻将牌，与红中（🀄）和发财（🀅）一起构成三元牌。在麻将规则中，白板可以用于组成刻子或对子，或者作为百搭牌（视规则而定）。白板在计分和策略上具有重要作用，尤其是在某些规则中可以直接增加番数。"
+    },
+    {
+      "id": "symbol-1f007-802",
+      "symbol": "🀇",
+      "name": "一萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "一萬",
+        "娱乐",
+        "1F007",
+        "U+1F007"
+      ],
+      "notes": "「🀇」是麻将牌中的「一万」，属于万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f008-803",
+      "symbol": "🀈",
+      "name": "二萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "二萬",
+        "娱乐",
+        "1F008",
+        "U+1F008"
+      ],
+      "notes": "表示麻将牌中的「二万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f009-804",
+      "symbol": "🀉",
+      "name": "三萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "三萬",
+        "娱乐",
+        "1F009",
+        "U+1F009"
+      ],
+      "notes": "表示麻将牌中的「三万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f00a-805",
+      "symbol": "🀊",
+      "name": "四萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "四萬",
+        "娱乐",
+        "1F00A",
+        "U+1F00A"
+      ],
+      "notes": "表示麻将牌中的「四万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f00b-806",
+      "symbol": "🀋",
+      "name": "伍萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "伍萬",
+        "娱乐",
+        "1F00B",
+        "U+1F00B"
+      ],
+      "notes": "表示麻将牌中的「五万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f00c-807",
+      "symbol": "🀌",
+      "name": "六萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "六萬",
+        "娱乐",
+        "1F00C",
+        "U+1F00C"
+      ],
+      "notes": "表示麻将牌中的「六万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f00d-808",
+      "symbol": "🀍",
+      "name": "七萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "七萬",
+        "娱乐",
+        "1F00D",
+        "U+1F00D"
+      ],
+      "notes": "表示麻将牌中的「七万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f00e-809",
+      "symbol": "🀎",
+      "name": "八萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "八萬",
+        "娱乐",
+        "1F00E",
+        "U+1F00E"
+      ],
+      "notes": "表示麻将牌中的「八万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f00f-810",
+      "symbol": "🀏",
+      "name": "九萬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "九萬",
+        "娱乐",
+        "1F00F",
+        "U+1F00F"
+      ],
+      "notes": "表示麻将牌中的「九万」，用于组成顺子、刻子或对子，是万字牌的一部分。"
+    },
+    {
+      "id": "symbol-1f010-811",
+      "symbol": "🀐",
+      "name": "一条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "一条",
+        "娱乐",
+        "1F010",
+        "U+1F010"
+      ],
+      "notes": "表示麻将牌中的「一条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f011-812",
+      "symbol": "🀑",
+      "name": "二条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "二条",
+        "娱乐",
+        "1F011",
+        "U+1F011"
+      ],
+      "notes": "表示麻将牌中的「二条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f012-813",
+      "symbol": "🀒",
+      "name": "三条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "三条",
+        "娱乐",
+        "1F012",
+        "U+1F012"
+      ],
+      "notes": "表示麻将牌中的「三条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f013-814",
+      "symbol": "🀓",
+      "name": "四条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "四条",
+        "娱乐",
+        "1F013",
+        "U+1F013"
+      ],
+      "notes": "表示麻将牌中的「四条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f014-815",
+      "symbol": "🀔",
+      "name": "五条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "五条",
+        "娱乐",
+        "1F014",
+        "U+1F014"
+      ],
+      "notes": "表示麻将牌中的「五条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f015-816",
+      "symbol": "🀕",
+      "name": "六条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "六条",
+        "娱乐",
+        "1F015",
+        "U+1F015"
+      ],
+      "notes": "表示麻将牌中的「六条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f016-817",
+      "symbol": "🀖",
+      "name": "七条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "七条",
+        "娱乐",
+        "1F016",
+        "U+1F016"
+      ],
+      "notes": "表示麻将牌中的「七条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f017-818",
+      "symbol": "🀗",
+      "name": "八条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "八条",
+        "娱乐",
+        "1F017",
+        "U+1F017"
+      ],
+      "notes": "表示麻将牌中的「八条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f018-819",
+      "symbol": "🀘",
+      "name": "九条",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "九条",
+        "娱乐",
+        "1F018",
+        "U+1F018"
+      ],
+      "notes": "表示麻将牌中的「九条」，属于条子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f019-820",
+      "symbol": "🀙",
+      "name": "一筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "一筒",
+        "娱乐",
+        "1F019",
+        "U+1F019"
+      ],
+      "notes": "表示麻将牌中的「一筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f01a-821",
+      "symbol": "🀚",
+      "name": "二筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "二筒",
+        "娱乐",
+        "1F01A",
+        "U+1F01A"
+      ],
+      "notes": "表示麻将牌中的「二筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f01b-822",
+      "symbol": "🀛",
+      "name": "三筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "三筒",
+        "娱乐",
+        "1F01B",
+        "U+1F01B"
+      ],
+      "notes": "表示麻将牌中的「三筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f01c-823",
+      "symbol": "🀜",
+      "name": "四筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "四筒",
+        "娱乐",
+        "1F01C",
+        "U+1F01C"
+      ],
+      "notes": "表示麻将牌中的「四筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f01d-824",
+      "symbol": "🀝",
+      "name": "五筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "五筒",
+        "娱乐",
+        "1F01D",
+        "U+1F01D"
+      ],
+      "notes": "表示麻将牌中的「五筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f01e-825",
+      "symbol": "🀞",
+      "name": "六筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "六筒",
+        "娱乐",
+        "1F01E",
+        "U+1F01E"
+      ],
+      "notes": "表示麻将牌中的「六筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f01f-826",
+      "symbol": "🀟",
+      "name": "七筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "七筒",
+        "娱乐",
+        "1F01F",
+        "U+1F01F"
+      ],
+      "notes": "表示麻将牌中的「七筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f020-827",
+      "symbol": "🀠",
+      "name": "八筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "八筒",
+        "娱乐",
+        "1F020",
+        "U+1F020"
+      ],
+      "notes": "表示麻将牌中的「八筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f021-828",
+      "symbol": "🀡",
+      "name": "九筒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "九筒",
+        "娱乐",
+        "1F021",
+        "U+1F021"
+      ],
+      "notes": "表示麻将牌中的「九筒」，属于筒子牌的一部分，用于组成顺子、刻子或对子。"
+    },
+    {
+      "id": "symbol-1f022-829",
+      "symbol": "🀢",
+      "name": "梅",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅",
+        "娱乐",
+        "1F022",
+        "U+1F022"
+      ],
+      "notes": "🀢 是麻将牌中的「梅花」牌符号，属于花牌的一部分。在麻将中，花牌如梅花、兰花、竹花和菊花通常作为附加牌，不参与正常的牌组组合，但可以用于增加番数（通常称为“补花”）。梅花的象征意义是优雅和坚韧，是花牌中的重要组成部分。"
+    },
+    {
+      "id": "symbol-1f023-830",
+      "symbol": "🀣",
+      "name": "蘭",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "蘭",
+        "娱乐",
+        "1F023",
+        "U+1F023"
+      ],
+      "notes": "🀣 是麻将牌中的「兰花」牌符号，属于花牌的一部分。在麻将中，花牌（如梅花、兰花、竹花和菊花）作为附加牌，不直接参与普通牌组的组合，但可以用于补花，为玩家增加番数或得分。兰花象征优雅与清新，是花牌的组成之一。"
+    },
+    {
+      "id": "symbol-1f024-831",
+      "symbol": "🀤",
+      "name": "竹",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "竹",
+        "娱乐",
+        "1F024",
+        "U+1F024"
+      ],
+      "notes": "🀤 是麻将牌中的「竹花」牌符号，属于花牌的一部分。在麻将规则中，竹花与其他花牌（梅花、兰花、菊花）一起被称为“花牌”。花牌通常不参与普通牌组的组合，但可以用于补花，增加番数或得分。竹花象征坚韧与高洁，是花牌的重要组成之一。"
+    },
+    {
+      "id": "symbol-1f025-832",
+      "symbol": "🀥",
+      "name": "菊",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "菊",
+        "娱乐",
+        "1F025",
+        "U+1F025"
+      ],
+      "notes": "🀥 是麻将牌中的「菊花」牌符号，属于花牌的一部分。在麻将规则中，菊花与其他花牌（梅花、兰花、竹花）共同构成“花牌”，这些牌通常不参与普通牌组的组合，而是用于补花，增加番数或得分。菊花象征长寿与吉祥，是麻将花牌的重要组成部分。"
+    },
+    {
+      "id": "symbol-1f026-833",
+      "symbol": "🀦",
+      "name": "春",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "春",
+        "娱乐",
+        "1F026",
+        "U+1F026"
+      ],
+      "notes": "🀦 是麻将牌中的「春」牌符号，属于花牌的一部分。在麻将中，「春」与其他季节花牌（夏、秋、冬）一起构成四季花牌。花牌不参与普通牌组的组合，但可以用于补花，为玩家增加番数或得分。「春」象征春天的生机与希望，是麻将花牌的重要组成之一。"
+    },
+    {
+      "id": "symbol-1f027-834",
+      "symbol": "🀧",
+      "name": "夏",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "夏",
+        "娱乐",
+        "1F027",
+        "U+1F027"
+      ],
+      "notes": "🀧 是麻将牌中的「夏」牌符号，属于花牌的一部分。「夏」与其他季节花牌（春、秋、冬）一起构成麻将中的四季花牌。花牌不参与普通牌组的组合，但可以用于补花，为玩家增加番数或得分。「夏」象征着热情与活力，是麻将花牌的重要组成之一。"
+    },
+    {
+      "id": "symbol-1f028-835",
+      "symbol": "🀨",
+      "name": "秋",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "秋",
+        "娱乐",
+        "1F028",
+        "U+1F028"
+      ],
+      "notes": "🀨 是麻将牌中的「秋」牌符号，属于花牌的一部分。「秋」与其他季节花牌（春、夏、冬）共同组成麻将中的四季花牌。花牌不参与普通牌组的组合，但可以用于补花，从而增加番数或得分。「秋」象征丰收与成熟，是麻将花牌的重要组成之一。"
+    },
+    {
+      "id": "symbol-1f029-836",
+      "symbol": "🀩",
+      "name": "冬",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "冬",
+        "娱乐",
+        "1F029",
+        "U+1F029"
+      ],
+      "notes": "🀩 是麻将牌中的「冬」牌符号，属于花牌的一部分。「冬」与其他季节花牌（春、夏、秋）共同组成麻将中的四季花牌。花牌不参与普通牌组的组合，但可以用于补花，从而为玩家增加番数或得分。「冬」象征着安宁与收获后的休息，是麻将花牌的重要组成之一。"
+    },
+    {
+      "id": "symbol-1f02a-837",
+      "symbol": "🀪",
+      "name": "百搭",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "百搭",
+        "娱乐",
+        "1F02A",
+        "U+1F02A"
+      ],
+      "notes": "🀪 这一符号在标准麻将牌组中并不存在。在不同地区或特殊麻将变体中，可能会引入自定义的百搭牌，但这取决于具体的游戏规则和约定。因此，🀪 是否被视为百搭牌，需根据所参与的麻将游戏的具体规则来确定。"
+    },
+    {
+      "id": "symbol-1f02b-838",
+      "symbol": "🀫",
+      "name": "回",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "回",
+        "娱乐",
+        "1F02B",
+        "U+1F02B"
+      ],
+      "notes": "🀫 是麻将牌中的「回」牌符号，属于杂项牌的一部分。然而，在实际的麻将游戏中，并不存在「回」牌，这可能是 Unicode 为了完整性或其他原因而添加的符号。"
+    },
+    {
+      "id": "symbol-1f030-839",
+      "symbol": "🀰",
+      "name": "多米诺骨牌背面",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌背面",
+        "娱乐",
+        "1F030",
+        "U+1F030"
+      ],
+      "notes": "🀰 表示多米诺骨牌的背面，用于数字化的多米诺游戏中，表示未揭示或隐藏的骨牌状态。类似于扑克牌的背面符号。"
+    },
+    {
+      "id": "symbol-1f031-840",
+      "symbol": "🀱",
+      "name": "多米诺骨牌0-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-0",
+        "娱乐",
+        "1F031",
+        "U+1F031"
+      ],
+      "notes": "🀱 表示多米诺骨牌中点数为「0-0」的骨牌，是所有骨牌中点数最小的一个。此牌没有任何点子，用于多米诺游戏的基本规则和组合中。"
+    },
+    {
+      "id": "symbol-1f032-841",
+      "symbol": "🀲",
+      "name": "多米诺骨牌0-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-1",
+        "娱乐",
+        "1F032",
+        "U+1F032"
+      ],
+      "notes": "🀲 表示多米诺骨牌中点数为「0-1」的骨牌，一侧为 0 点，另一侧为 1 点。这是多米诺游戏中的基础骨牌之一，用于组成点数的组合或连接其他骨牌。"
+    },
+    {
+      "id": "symbol-1f033-842",
+      "symbol": "🀳",
+      "name": "多米诺骨牌0-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-2",
+        "娱乐",
+        "1F033",
+        "U+1F033"
+      ],
+      "notes": "🀳 表示多米诺骨牌中点数为「0-2」的骨牌，一侧为 0 点，另一侧为 2 点。是多米诺游戏中的基础骨牌之一，用于连接其他点数组合。"
+    },
+    {
+      "id": "symbol-1f034-843",
+      "symbol": "🀴",
+      "name": "多米诺骨牌0-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-3",
+        "娱乐",
+        "1F034",
+        "U+1F034"
+      ],
+      "notes": "🀴 表示多米诺骨牌中点数为「0-3」的骨牌，一侧为 0 点，另一侧为 3 点。常用于游戏中的点数组合和策略连接。"
+    },
+    {
+      "id": "symbol-1f035-844",
+      "symbol": "🀵",
+      "name": "多米诺骨牌0-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-4",
+        "娱乐",
+        "1F035",
+        "U+1F035"
+      ],
+      "notes": "🀵 表示多米诺骨牌中点数为「0-4」的骨牌，一侧为 0 点，另一侧为 4 点。这张牌扩大了点数范围，可用于形成更多组合。"
+    },
+    {
+      "id": "symbol-1f036-845",
+      "symbol": "🀶",
+      "name": "多米诺骨牌0-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-5",
+        "娱乐",
+        "1F036",
+        "U+1F036"
+      ],
+      "notes": "🀶 表示多米诺骨牌中点数为「0-5」的骨牌，一侧为 0 点，另一侧为 5 点。是一张高点数骨牌，用于特定游戏策略。"
+    },
+    {
+      "id": "symbol-1f037-846",
+      "symbol": "🀷",
+      "name": "多米诺骨牌0-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-6",
+        "娱乐",
+        "1F037",
+        "U+1F037"
+      ],
+      "notes": "🀷 表示多米诺骨牌中点数为「0-6」的骨牌，一侧为 0 点，另一侧为 6 点。这是「0」系中点数最高的一张骨牌，用于游戏中的高级组合。"
+    },
+    {
+      "id": "symbol-1f038-847",
+      "symbol": "🀸",
+      "name": "多米诺骨牌1-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-0",
+        "娱乐",
+        "1F038",
+        "U+1F038"
+      ],
+      "notes": "🀸 表示多米诺骨牌中点数为「1-0」的骨牌，一侧为 1 点，另一侧为 0 点，是多米诺基础牌之一。"
+    },
+    {
+      "id": "symbol-1f039-848",
+      "symbol": "🀹",
+      "name": "多米诺骨牌1-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-1",
+        "娱乐",
+        "1F039",
+        "U+1F039"
+      ],
+      "notes": "🀹 表示多米诺骨牌中点数为「1-1」的骨牌，两侧均为 1 点，是点数相同的对子牌之一。"
+    },
+    {
+      "id": "symbol-1f03a-849",
+      "symbol": "🀺",
+      "name": "多米诺骨牌1-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-2",
+        "娱乐",
+        "1F03A",
+        "U+1F03A"
+      ],
+      "notes": "🀺 表示多米诺骨牌中点数为「1-2」的骨牌，一侧为 1 点，另一侧为 2 点，是常见的点数组合牌。"
+    },
+    {
+      "id": "symbol-1f03b-850",
+      "symbol": "🀻",
+      "name": "多米诺骨牌1-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-3",
+        "娱乐",
+        "1F03B",
+        "U+1F03B"
+      ],
+      "notes": "🀻 表示多米诺骨牌中点数为「1-3」的骨牌，一侧为 1 点，另一侧为 3 点，用于连接与组合。"
+    },
+    {
+      "id": "symbol-1f03c-851",
+      "symbol": "🀼",
+      "name": "多米诺骨牌1-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-4",
+        "娱乐",
+        "1F03C",
+        "U+1F03C"
+      ],
+      "notes": "🀼 表示多米诺骨牌中点数为「1-4」的骨牌，一侧为 1 点，另一侧为 4 点，是基础组合牌之一。"
+    },
+    {
+      "id": "symbol-1f03d-852",
+      "symbol": "🀽",
+      "name": "多米诺骨牌1-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-5",
+        "娱乐",
+        "1F03D",
+        "U+1F03D"
+      ],
+      "notes": "🀽 表示多米诺骨牌中点数为「1-5」的骨牌，一侧为 1 点，另一侧为 5 点，增加了点数范围和组合可能。"
+    },
+    {
+      "id": "symbol-1f03e-853",
+      "symbol": "🀾",
+      "name": "多米诺骨牌1-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-6",
+        "娱乐",
+        "1F03E",
+        "U+1F03E"
+      ],
+      "notes": "🀾 表示多米诺骨牌中点数为「1-6」的骨牌，一侧为 1 点，另一侧为 6 点，是 1 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f03f-854",
+      "symbol": "🀿",
+      "name": "多米诺骨牌2-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-0",
+        "娱乐",
+        "1F03F",
+        "U+1F03F"
+      ],
+      "notes": "🀿 表示多米诺骨牌中点数为「2-0」的骨牌，一侧为 2 点，另一侧为 0 点，是多米诺游戏的基础牌之一。"
+    },
+    {
+      "id": "symbol-1f040-855",
+      "symbol": "🁀",
+      "name": "多米诺骨牌2-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-1",
+        "娱乐",
+        "1F040",
+        "U+1F040"
+      ],
+      "notes": "🁀 表示多米诺骨牌中点数为「2-1」的骨牌，一侧为 2 点，另一侧为 1 点，用于点数组合和策略连接。"
+    },
+    {
+      "id": "symbol-1f041-856",
+      "symbol": "🁁",
+      "name": "多米诺骨牌2-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-2",
+        "娱乐",
+        "1F041",
+        "U+1F041"
+      ],
+      "notes": "🁁 表示多米诺骨牌中点数为「2-2」的骨牌，两侧均为 2 点，是点数相同的对子牌。"
+    },
+    {
+      "id": "symbol-1f042-857",
+      "symbol": "🁂",
+      "name": "多米诺骨牌2-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-3",
+        "娱乐",
+        "1F042",
+        "U+1F042"
+      ],
+      "notes": "🁂 表示多米诺骨牌中点数为「2-3」的骨牌，一侧为 2 点，另一侧为 3 点，是常见的点数组合牌。"
+    },
+    {
+      "id": "symbol-1f043-858",
+      "symbol": "🁃",
+      "name": "多米诺骨牌2-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-4",
+        "娱乐",
+        "1F043",
+        "U+1F043"
+      ],
+      "notes": "🁃 表示多米诺骨牌中点数为「2-4」的骨牌，一侧为 2 点，另一侧为 4 点，可用于游戏中的策略组合。"
+    },
+    {
+      "id": "symbol-1f044-859",
+      "symbol": "🁄",
+      "name": "多米诺骨牌2-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-5",
+        "娱乐",
+        "1F044",
+        "U+1F044"
+      ],
+      "notes": "🁄 表示多米诺骨牌中点数为「2-5」的骨牌，一侧为 2 点，另一侧为 5 点，扩展了点数组合的范围。"
+    },
+    {
+      "id": "symbol-1f045-860",
+      "symbol": "🁅",
+      "name": "多米诺骨牌2-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-6",
+        "娱乐",
+        "1F045",
+        "U+1F045"
+      ],
+      "notes": "🁅 表示多米诺骨牌中点数为「2-6」的骨牌，一侧为 2 点，另一侧为 6 点，是 2 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f046-861",
+      "symbol": "🁆",
+      "name": "多米诺骨牌3-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-0",
+        "娱乐",
+        "1F046",
+        "U+1F046"
+      ],
+      "notes": "🁆 表示多米诺骨牌中点数为「3-0」的骨牌，一侧为 3 点，另一侧为 0 点，是点数较低的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f047-862",
+      "symbol": "🁇",
+      "name": "多米诺骨牌3-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-1",
+        "娱乐",
+        "1F047",
+        "U+1F047"
+      ],
+      "notes": "🁇 表示多米诺骨牌中点数为「3-1」的骨牌，一侧为 3 点，另一侧为 1 点，用于点数组合和策略连接。"
+    },
+    {
+      "id": "symbol-1f048-863",
+      "symbol": "🁈",
+      "name": "多米诺骨牌3-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-2",
+        "娱乐",
+        "1F048",
+        "U+1F048"
+      ],
+      "notes": "🁈 表示多米诺骨牌中点数为「3-2」的骨牌，一侧为 3 点，另一侧为 2 点，是常见的点数组合牌。"
+    },
+    {
+      "id": "symbol-1f049-864",
+      "symbol": "🁉",
+      "name": "多米诺骨牌3-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-3",
+        "娱乐",
+        "1F049",
+        "U+1F049"
+      ],
+      "notes": "🁉 表示多米诺骨牌中点数为「3-3」的骨牌，两侧均为 3 点，是点数相同的对子牌。"
+    },
+    {
+      "id": "symbol-1f04a-865",
+      "symbol": "🁊",
+      "name": "多米诺骨牌3-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-4",
+        "娱乐",
+        "1F04A",
+        "U+1F04A"
+      ],
+      "notes": "🁊 表示多米诺骨牌中点数为「3-4」的骨牌，一侧为 3 点，另一侧为 4 点，用于扩大点数范围和组合。"
+    },
+    {
+      "id": "symbol-1f04b-866",
+      "symbol": "🁋",
+      "name": "多米诺骨牌3-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-5",
+        "娱乐",
+        "1F04B",
+        "U+1F04B"
+      ],
+      "notes": "🁋 表示多米诺骨牌中点数为「3-5」的骨牌，一侧为 3 点，另一侧为 5 点，是点数较高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f04c-867",
+      "symbol": "🁌",
+      "name": "多米诺骨牌3-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-6",
+        "娱乐",
+        "1F04C",
+        "U+1F04C"
+      ],
+      "notes": "🁌 表示多米诺骨牌中点数为「3-6」的骨牌，一侧为 3 点，另一侧为 6 点，是 3 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f04d-868",
+      "symbol": "🁍",
+      "name": "多米诺骨牌4-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-0",
+        "娱乐",
+        "1F04D",
+        "U+1F04D"
+      ],
+      "notes": "🁍 表示多米诺骨牌中点数为「4-0」的骨牌，一侧为 4 点，另一侧为 0 点，是基础点数组合之一。"
+    },
+    {
+      "id": "symbol-1f04e-869",
+      "symbol": "🁎",
+      "name": "多米诺骨牌4-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-1",
+        "娱乐",
+        "1F04E",
+        "U+1F04E"
+      ],
+      "notes": "🁎 表示多米诺骨牌中点数为「4-1」的骨牌，一侧为 4 点，另一侧为 1 点，用于点数组合和连接。"
+    },
+    {
+      "id": "symbol-1f04f-870",
+      "symbol": "🁏",
+      "name": "多米诺骨牌4-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-2",
+        "娱乐",
+        "1F04F",
+        "U+1F04F"
+      ],
+      "notes": "🁏 表示多米诺骨牌中点数为「4-2」的骨牌，一侧为 4 点，另一侧为 2 点，是常见的点数组合牌。"
+    },
+    {
+      "id": "symbol-1f050-871",
+      "symbol": "🁐",
+      "name": "多米诺骨牌4-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-3",
+        "娱乐",
+        "1F050",
+        "U+1F050"
+      ],
+      "notes": "🁐 表示多米诺骨牌中点数为「4-3」的骨牌，一侧为 4 点，另一侧为 3 点，用于扩大点数范围和组合。"
+    },
+    {
+      "id": "symbol-1f051-872",
+      "symbol": "🁑",
+      "name": "多米诺骨牌4-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-4",
+        "娱乐",
+        "1F051",
+        "U+1F051"
+      ],
+      "notes": "🁑 表示多米诺骨牌中点数为「4-4」的骨牌，两侧均为 4 点，是点数相同的对子牌。"
+    },
+    {
+      "id": "symbol-1f052-873",
+      "symbol": "🁒",
+      "name": "多米诺骨牌4-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-5",
+        "娱乐",
+        "1F052",
+        "U+1F052"
+      ],
+      "notes": "🁒 表示多米诺骨牌中点数为「4-5」的骨牌，一侧为 4 点，另一侧为 5 点，是点数较高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f053-874",
+      "symbol": "🁓",
+      "name": "多米诺骨牌4-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-6",
+        "娱乐",
+        "1F053",
+        "U+1F053"
+      ],
+      "notes": "🁓 表示多米诺骨牌中点数为「4-6」的骨牌，一侧为 4 点，另一侧为 6 点，是 4 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f054-875",
+      "symbol": "🁔",
+      "name": "多米诺骨牌5-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-0",
+        "娱乐",
+        "1F054",
+        "U+1F054"
+      ],
+      "notes": "🁔 表示多米诺骨牌中点数为「5-0」的骨牌，一侧为 5 点，另一侧为 0 点，是基础点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f055-876",
+      "symbol": "🁕",
+      "name": "多米诺骨牌5-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-1",
+        "娱乐",
+        "1F055",
+        "U+1F055"
+      ],
+      "notes": "🁕 表示多米诺骨牌中点数为「5-1」的骨牌，一侧为 5 点，另一侧为 1 点，用于点数组合与策略连接。"
+    },
+    {
+      "id": "symbol-1f056-877",
+      "symbol": "🁖",
+      "name": "多米诺骨牌5-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-2",
+        "娱乐",
+        "1F056",
+        "U+1F056"
+      ],
+      "notes": "🁖 表示多米诺骨牌中点数为「5-2」的骨牌，一侧为 5 点，另一侧为 2 点，是常见的点数组合牌。"
+    },
+    {
+      "id": "symbol-1f057-878",
+      "symbol": "🁗",
+      "name": "多米诺骨牌5-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-3",
+        "娱乐",
+        "1F057",
+        "U+1F057"
+      ],
+      "notes": "🁗 表示多米诺骨牌中点数为「5-3」的骨牌，一侧为 5 点，另一侧为 3 点，用于扩大点数范围和组合。"
+    },
+    {
+      "id": "symbol-1f058-879",
+      "symbol": "🁘",
+      "name": "多米诺骨牌5-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-4",
+        "娱乐",
+        "1F058",
+        "U+1F058"
+      ],
+      "notes": "🁘 表示多米诺骨牌中点数为「5-4」的骨牌，一侧为 5 点，另一侧为 4 点，是游戏中的高级组合牌之一。"
+    },
+    {
+      "id": "symbol-1f059-880",
+      "symbol": "🁙",
+      "name": "多米诺骨牌5-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-5",
+        "娱乐",
+        "1F059",
+        "U+1F059"
+      ],
+      "notes": "🁙 表示多米诺骨牌中点数为「5-5」的骨牌，两侧均为 5 点，是点数相同的对子牌。"
+    },
+    {
+      "id": "symbol-1f05a-881",
+      "symbol": "🁚",
+      "name": "多米诺骨牌5-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-6",
+        "娱乐",
+        "1F05A",
+        "U+1F05A"
+      ],
+      "notes": "🁚 表示多米诺骨牌中点数为「5-6」的骨牌，一侧为 5 点，另一侧为 6 点，是 5 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f05b-882",
+      "symbol": "🁛",
+      "name": "多米诺骨牌6-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-0",
+        "娱乐",
+        "1F05B",
+        "U+1F05B"
+      ],
+      "notes": "🁛 表示多米诺骨牌中点数为「6-0」的骨牌，一侧为 6 点，另一侧为 0 点，是 6 系列中点数较低的基础牌之一。"
+    },
+    {
+      "id": "symbol-1f05c-883",
+      "symbol": "🁜",
+      "name": "多米诺骨牌6-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-1",
+        "娱乐",
+        "1F05C",
+        "U+1F05C"
+      ],
+      "notes": "🁜 表示多米诺骨牌中点数为「6-1」的骨牌，一侧为 6 点，另一侧为 1 点，用于点数组合与策略连接。"
+    },
+    {
+      "id": "symbol-1f05d-884",
+      "symbol": "🁝",
+      "name": "多米诺骨牌6-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-2",
+        "娱乐",
+        "1F05D",
+        "U+1F05D"
+      ],
+      "notes": "🁝 表示多米诺骨牌中点数为「6-2」的骨牌，一侧为 6 点，另一侧为 2 点，是常见的点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f05e-885",
+      "symbol": "🁞",
+      "name": "多米诺骨牌6-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-3",
+        "娱乐",
+        "1F05E",
+        "U+1F05E"
+      ],
+      "notes": "🁞 表示多米诺骨牌中点数为「6-3」的骨牌，一侧为 6 点，另一侧为 3 点，用于扩大点数范围和策略组合。"
+    },
+    {
+      "id": "symbol-1f05f-886",
+      "symbol": "🁟",
+      "name": "多米诺骨牌6-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-4",
+        "娱乐",
+        "1F05F",
+        "U+1F05F"
+      ],
+      "notes": "🁟 表示多米诺骨牌中点数为「6-4」的骨牌，一侧为 6 点，另一侧为 4 点，是游戏中常见的高级组合牌。"
+    },
+    {
+      "id": "symbol-1f060-887",
+      "symbol": "🁠",
+      "name": "多米诺骨牌6-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-5",
+        "娱乐",
+        "1F060",
+        "U+1F060"
+      ],
+      "notes": "🁠 表示多米诺骨牌中点数为「6-5」的骨牌，一侧为 6 点，另一侧为 5 点，是 6 系列中的高点数组合牌。"
+    },
+    {
+      "id": "symbol-1f061-888",
+      "symbol": "🁡",
+      "name": "多米诺骨牌6-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-6",
+        "娱乐",
+        "1F061",
+        "U+1F061"
+      ],
+      "notes": "🁡 表示多米诺骨牌中点数为「6-6」的骨牌，两侧均为 6 点，是点数相同的对子牌，也是整个多米诺牌组中点数最高的牌。"
+    },
+    {
+      "id": "symbol-1f062-889",
+      "symbol": "🁢",
+      "name": "多米诺骨牌背面",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌背面",
+        "娱乐",
+        "1F062",
+        "U+1F062"
+      ],
+      "notes": "🁢 是多米诺骨牌的背面符号，表示未翻开的骨牌或隐藏状态。在数字化的多米诺游戏中常用此符号来代表玩家尚未展示的骨牌。"
+    },
+    {
+      "id": "symbol-1f063-890",
+      "symbol": "🁣",
+      "name": "多米诺骨牌0-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-0",
+        "娱乐",
+        "1F063",
+        "U+1F063"
+      ],
+      "notes": "🁣 表示多米诺骨牌中点数为「0-0」，两侧均为 0 点，是所有牌中点数最小的一个，称为“空牌”。"
+    },
+    {
+      "id": "symbol-1f064-891",
+      "symbol": "🁤",
+      "name": "多米诺骨牌0-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-1",
+        "娱乐",
+        "1F064",
+        "U+1F064"
+      ],
+      "notes": "🁤 表示多米诺骨牌中点数为「0-1」，一侧为 0 点，另一侧为 1 点，是基础组合牌之一。"
+    },
+    {
+      "id": "symbol-1f065-892",
+      "symbol": "🁥",
+      "name": "多米诺骨牌0-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-2",
+        "娱乐",
+        "1F065",
+        "U+1F065"
+      ],
+      "notes": "🁥 表示多米诺骨牌中点数为「0-2」，一侧为 0 点，另一侧为 2 点，常用于简单的连接。"
+    },
+    {
+      "id": "symbol-1f066-893",
+      "symbol": "🁦",
+      "name": "多米诺骨牌0-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-3",
+        "娱乐",
+        "1F066",
+        "U+1F066"
+      ],
+      "notes": "🁦 表示多米诺骨牌中点数为「0-3」，一侧为 0 点，另一侧为 3 点，用于扩展点数组合。"
+    },
+    {
+      "id": "symbol-1f067-894",
+      "symbol": "🁧",
+      "name": "多米诺骨牌0-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-4",
+        "娱乐",
+        "1F067",
+        "U+1F067"
+      ],
+      "notes": "🁧 表示多米诺骨牌中点数为「0-4」，一侧为 0 点，另一侧为 4 点，是常见的连接牌之一。"
+    },
+    {
+      "id": "symbol-1f068-895",
+      "symbol": "🁨",
+      "name": "多米诺骨牌0-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-5",
+        "娱乐",
+        "1F068",
+        "U+1F068"
+      ],
+      "notes": "🁨 表示多米诺骨牌中点数为「0-5」，一侧为 0 点，另一侧为 5 点，用于高点数组合。"
+    },
+    {
+      "id": "symbol-1f069-896",
+      "symbol": "🁩",
+      "name": "多米诺骨牌0-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌0-6",
+        "娱乐",
+        "1F069",
+        "U+1F069"
+      ],
+      "notes": "🁩 表示多米诺骨牌中点数为「0-6」，一侧为 0 点，另一侧为 6 点，是 0 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f06a-897",
+      "symbol": "🁪",
+      "name": "多米诺骨牌1-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-0",
+        "娱乐",
+        "1F06A",
+        "U+1F06A"
+      ],
+      "notes": "🁪 表示多米诺骨牌中点数为「1-0」，一侧为 1 点，另一侧为 0 点，是点数较小的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f06b-898",
+      "symbol": "🁫",
+      "name": "多米诺骨牌1-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-1",
+        "娱乐",
+        "1F06B",
+        "U+1F06B"
+      ],
+      "notes": "🁫 表示多米诺骨牌中点数为「1-1」，两侧均为 1 点，是点数相同的对子牌之一。"
+    },
+    {
+      "id": "symbol-1f06c-899",
+      "symbol": "🁬",
+      "name": "多米诺骨牌1-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-2",
+        "娱乐",
+        "1F06C",
+        "U+1F06C"
+      ],
+      "notes": "🁬 表示多米诺骨牌中点数为「1-2」，一侧为 1 点，另一侧为 2 点，用于点数组合和策略连接。"
+    },
+    {
+      "id": "symbol-1f06d-900",
+      "symbol": "🁭",
+      "name": "多米诺骨牌1-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-3",
+        "娱乐",
+        "1F06D",
+        "U+1F06D"
+      ],
+      "notes": "🁭 表示多米诺骨牌中点数为「1-3」，一侧为 1 点，另一侧为 3 点，是常见的点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f06e-901",
+      "symbol": "🁮",
+      "name": "多米诺骨牌1-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-4",
+        "娱乐",
+        "1F06E",
+        "U+1F06E"
+      ],
+      "notes": "🁮 表示多米诺骨牌中点数为「1-4」，一侧为 1 点，另一侧为 4 点，用于扩展点数范围。"
+    },
+    {
+      "id": "symbol-1f06f-902",
+      "symbol": "🁯",
+      "name": "多米诺骨牌1-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-5",
+        "娱乐",
+        "1F06F",
+        "U+1F06F"
+      ],
+      "notes": "🁯 表示多米诺骨牌中点数为「1-5」，一侧为 1 点，另一侧为 5 点，用于高级点数组合。"
+    },
+    {
+      "id": "symbol-1f070-903",
+      "symbol": "🁰",
+      "name": "多米诺骨牌1-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌1-6",
+        "娱乐",
+        "1F070",
+        "U+1F070"
+      ],
+      "notes": "🁰 表示多米诺骨牌中点数为「1-6」，一侧为 1 点，另一侧为 6 点，是 1 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f071-904",
+      "symbol": "🁱",
+      "name": "多米诺骨牌2-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-0",
+        "娱乐",
+        "1F071",
+        "U+1F071"
+      ],
+      "notes": "🁱 表示多米诺骨牌中点数为「2-0」，一侧为 2 点，另一侧为 0 点，是基础点数组合之一。"
+    },
+    {
+      "id": "symbol-1f072-905",
+      "symbol": "🁲",
+      "name": "多米诺骨牌2-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-1",
+        "娱乐",
+        "1F072",
+        "U+1F072"
+      ],
+      "notes": "🁲 表示多米诺骨牌中点数为「2-1」，一侧为 2 点，另一侧为 1 点，用于点数组合与策略连接。"
+    },
+    {
+      "id": "symbol-1f073-906",
+      "symbol": "🁳",
+      "name": "多米诺骨牌2-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-2",
+        "娱乐",
+        "1F073",
+        "U+1F073"
+      ],
+      "notes": "🁳 表示多米诺骨牌中点数为「2-2」，两侧均为 2 点，是点数相同的对子牌之一。"
+    },
+    {
+      "id": "symbol-1f074-907",
+      "symbol": "🁴",
+      "name": "多米诺骨牌2-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-3",
+        "娱乐",
+        "1F074",
+        "U+1F074"
+      ],
+      "notes": "🁴 表示多米诺骨牌中点数为「2-3」，一侧为 2 点，另一侧为 3 点，是常见的点数组合牌。"
+    },
+    {
+      "id": "symbol-1f075-908",
+      "symbol": "🁵",
+      "name": "多米诺骨牌2-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-4",
+        "娱乐",
+        "1F075",
+        "U+1F075"
+      ],
+      "notes": "🁵 表示多米诺骨牌中点数为「2-4」，一侧为 2 点，另一侧为 4 点，用于扩展点数范围和组合。"
+    },
+    {
+      "id": "symbol-1f076-909",
+      "symbol": "🁶",
+      "name": "多米诺骨牌2-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-5",
+        "娱乐",
+        "1F076",
+        "U+1F076"
+      ],
+      "notes": "🁶 表示多米诺骨牌中点数为「2-5」，一侧为 2 点，另一侧为 5 点，用于高级点数组合。"
+    },
+    {
+      "id": "symbol-1f077-910",
+      "symbol": "🁷",
+      "name": "多米诺骨牌2-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌2-6",
+        "娱乐",
+        "1F077",
+        "U+1F077"
+      ],
+      "notes": "🁷 表示多米诺骨牌中点数为「2-6」，一侧为 2 点，另一侧为 6 点，是 2 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f078-911",
+      "symbol": "🁸",
+      "name": "多米诺骨牌3-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-0",
+        "娱乐",
+        "1F078",
+        "U+1F078"
+      ],
+      "notes": "🁸 表示多米诺骨牌中点数为「3-0」，一侧为 3 点，另一侧为 0 点，是点数较低的基础组合牌之一。"
+    },
+    {
+      "id": "symbol-1f079-912",
+      "symbol": "🁹",
+      "name": "多米诺骨牌3-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-1",
+        "娱乐",
+        "1F079",
+        "U+1F079"
+      ],
+      "notes": "🁹 表示多米诺骨牌中点数为「3-1」，一侧为 3 点，另一侧为 1 点，常用于连接与点数组合。"
+    },
+    {
+      "id": "symbol-1f07a-913",
+      "symbol": "🁺",
+      "name": "多米诺骨牌3-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-2",
+        "娱乐",
+        "1F07A",
+        "U+1F07A"
+      ],
+      "notes": "🁺 表示多米诺骨牌中点数为「3-2」，一侧为 3 点，另一侧为 2 点，是常见的点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f07b-914",
+      "symbol": "🁻",
+      "name": "多米诺骨牌3-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-3",
+        "娱乐",
+        "1F07B",
+        "U+1F07B"
+      ],
+      "notes": "🁻 表示多米诺骨牌中点数为「3-3」，两侧均为 3 点，是点数相同的对子牌。"
+    },
+    {
+      "id": "symbol-1f07c-915",
+      "symbol": "🁼",
+      "name": "多米诺骨牌3-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-4",
+        "娱乐",
+        "1F07C",
+        "U+1F07C"
+      ],
+      "notes": "🁼 表示多米诺骨牌中点数为「3-4」，一侧为 3 点，另一侧为 4 点，用于扩展点数组合的可能性。"
+    },
+    {
+      "id": "symbol-1f07d-916",
+      "symbol": "🁽",
+      "name": "多米诺骨牌3-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-5",
+        "娱乐",
+        "1F07D",
+        "U+1F07D"
+      ],
+      "notes": "🁽 表示多米诺骨牌中点数为「3-5」，一侧为 3 点，另一侧为 5 点，是游戏中的高级点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f07e-917",
+      "symbol": "🁾",
+      "name": "多米诺骨牌3-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌3-6",
+        "娱乐",
+        "1F07E",
+        "U+1F07E"
+      ],
+      "notes": "🁾 表示多米诺骨牌中点数为「3-6」，一侧为 3 点，另一侧为 6 点，是 3 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f07f-918",
+      "symbol": "🁿",
+      "name": "多米诺骨牌4-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-0",
+        "娱乐",
+        "1F07F",
+        "U+1F07F"
+      ],
+      "notes": "🁿 表示多米诺骨牌中点数为「4-0」，一侧为 4 点，另一侧为 0 点，是点数较低的基础组合牌之一。"
+    },
+    {
+      "id": "symbol-1f080-919",
+      "symbol": "🂀",
+      "name": "多米诺骨牌4-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-1",
+        "娱乐",
+        "1F080",
+        "U+1F080"
+      ],
+      "notes": "🂀 表示多米诺骨牌中点数为「4-1」，一侧为 4 点，另一侧为 1 点，常用于连接与点数组合。"
+    },
+    {
+      "id": "symbol-1f081-920",
+      "symbol": "🂁",
+      "name": "多米诺骨牌4-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-2",
+        "娱乐",
+        "1F081",
+        "U+1F081"
+      ],
+      "notes": "🂁 表示多米诺骨牌中点数为「4-2」，一侧为 4 点，另一侧为 2 点，是常见的点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f082-921",
+      "symbol": "🂂",
+      "name": "多米诺骨牌4-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-3",
+        "娱乐",
+        "1F082",
+        "U+1F082"
+      ],
+      "notes": "🂂 表示多米诺骨牌中点数为「4-3」，一侧为 4 点，另一侧为 3 点，用于扩展点数组合的可能性。"
+    },
+    {
+      "id": "symbol-1f083-922",
+      "symbol": "🂃",
+      "name": "多米诺骨牌4-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-4",
+        "娱乐",
+        "1F083",
+        "U+1F083"
+      ],
+      "notes": "🂃 表示多米诺骨牌中点数为「4-4」，两侧均为 4 点，是点数相同的对子牌。"
+    },
+    {
+      "id": "symbol-1f084-923",
+      "symbol": "🂄",
+      "name": "多米诺骨牌4-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-5",
+        "娱乐",
+        "1F084",
+        "U+1F084"
+      ],
+      "notes": "🂄 表示多米诺骨牌中点数为「4-5」，一侧为 4 点，另一侧为 5 点，是游戏中的高级点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f085-924",
+      "symbol": "🂅",
+      "name": "多米诺骨牌4-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌4-6",
+        "娱乐",
+        "1F085",
+        "U+1F085"
+      ],
+      "notes": "🂅 表示多米诺骨牌中点数为「4-6」，一侧为 4 点，另一侧为 6 点，是 4 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f086-925",
+      "symbol": "🂆",
+      "name": "多米诺骨牌5-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-0",
+        "娱乐",
+        "1F086",
+        "U+1F086"
+      ],
+      "notes": "🂆 表示多米诺骨牌中点数为「5-0」，一侧为 5 点，另一侧为 0 点，是点数较低的基础组合牌之一。"
+    },
+    {
+      "id": "symbol-1f087-926",
+      "symbol": "🂇",
+      "name": "多米诺骨牌5-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-1",
+        "娱乐",
+        "1F087",
+        "U+1F087"
+      ],
+      "notes": "🂇 表示多米诺骨牌中点数为「5-1」，一侧为 5 点，另一侧为 1 点，常用于连接与点数组合。"
+    },
+    {
+      "id": "symbol-1f088-927",
+      "symbol": "🂈",
+      "name": "多米诺骨牌5-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-2",
+        "娱乐",
+        "1F088",
+        "U+1F088"
+      ],
+      "notes": "🂈 表示多米诺骨牌中点数为「5-2」，一侧为 5 点，另一侧为 2 点，是常见的点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f089-928",
+      "symbol": "🂉",
+      "name": "多米诺骨牌5-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-3",
+        "娱乐",
+        "1F089",
+        "U+1F089"
+      ],
+      "notes": "🂉 表示多米诺骨牌中点数为「5-3」，一侧为 5 点，另一侧为 3 点，用于扩展点数组合的可能性。"
+    },
+    {
+      "id": "symbol-1f08a-929",
+      "symbol": "🂊",
+      "name": "多米诺骨牌5-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-4",
+        "娱乐",
+        "1F08A",
+        "U+1F08A"
+      ],
+      "notes": "🂊 表示多米诺骨牌中点数为「5-4」，一侧为 5 点，另一侧为 4 点，是游戏中的高级点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f08b-930",
+      "symbol": "🂋",
+      "name": "多米诺骨牌5-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-5",
+        "娱乐",
+        "1F08B",
+        "U+1F08B"
+      ],
+      "notes": "🂋 表示多米诺骨牌中点数为「5-5」，两侧均为 5 点，是点数相同的对子牌。"
+    },
+    {
+      "id": "symbol-1f08c-931",
+      "symbol": "🂌",
+      "name": "多米诺骨牌5-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌5-6",
+        "娱乐",
+        "1F08C",
+        "U+1F08C"
+      ],
+      "notes": "🂌 表示多米诺骨牌中点数为「5-6」，一侧为 5 点，另一侧为 6 点，是 5 系列中点数最高的组合牌之一。"
+    },
+    {
+      "id": "symbol-1f08d-932",
+      "symbol": "🂍",
+      "name": "多米诺骨牌6-0",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-0",
+        "娱乐",
+        "1F08D",
+        "U+1F08D"
+      ],
+      "notes": "🂍 表示多米诺骨牌中点数为「6-0」，一侧为 6 点，另一侧为 0 点，是点数较低的基础组合牌之一。"
+    },
+    {
+      "id": "symbol-1f08e-933",
+      "symbol": "🂎",
+      "name": "多米诺骨牌6-1",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-1",
+        "娱乐",
+        "1F08E",
+        "U+1F08E"
+      ],
+      "notes": "🂎 表示多米诺骨牌中点数为「6-1」，一侧为 6 点，另一侧为 1 点，用于点数组合与策略连接。"
+    },
+    {
+      "id": "symbol-1f08f-934",
+      "symbol": "🂏",
+      "name": "多米诺骨牌6-2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-2",
+        "娱乐",
+        "1F08F",
+        "U+1F08F"
+      ],
+      "notes": "🂏 表示多米诺骨牌中点数为「6-2」，一侧为 6 点，另一侧为 2 点，是常见的点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f090-935",
+      "symbol": "🂐",
+      "name": "多米诺骨牌6-3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-3",
+        "娱乐",
+        "1F090",
+        "U+1F090"
+      ],
+      "notes": "🂐 表示多米诺骨牌中点数为「6-3」，一侧为 6 点，另一侧为 3 点，用于扩展点数组合的可能性。"
+    },
+    {
+      "id": "symbol-1f091-936",
+      "symbol": "🂑",
+      "name": "多米诺骨牌6-4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-4",
+        "娱乐",
+        "1F091",
+        "U+1F091"
+      ],
+      "notes": "🂑 表示多米诺骨牌中点数为「6-4」，一侧为 6 点，另一侧为 4 点，是游戏中的高级点数组合牌之一。"
+    },
+    {
+      "id": "symbol-1f092-937",
+      "symbol": "🂒",
+      "name": "多米诺骨牌6-5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-5",
+        "娱乐",
+        "1F092",
+        "U+1F092"
+      ],
+      "notes": "🂒 表示多米诺骨牌中点数为「6-5」，一侧为 6 点，另一侧为 5 点，是 6 系列中较高点数组合牌。"
+    },
+    {
+      "id": "symbol-1f093-938",
+      "symbol": "🂓",
+      "name": "多米诺骨牌6-6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "多米诺骨牌6-6",
+        "娱乐",
+        "1F093",
+        "U+1F093"
+      ],
+      "notes": "🂓 表示多米诺骨牌中点数为「6-6」，两侧均为 6 点，是点数相同的对子牌，也是整个多米诺牌组中点数最高的牌。"
+    },
+    {
+      "id": "symbol-1f0a0-939",
+      "symbol": "🂠",
+      "name": "扑克牌背面",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "扑克牌背面",
+        "娱乐",
+        "1F0A0",
+        "U+1F0A0"
+      ],
+      "notes": "🂠 是扑克牌的背面符号，用于表示未翻开的扑克牌或隐藏状态下的牌。在实际游戏中，该符号常用于显示未知的扑克牌，直至其被揭示或翻开。此符号广泛用于数字化扑克游戏的图标表示。"
+    },
+    {
+      "id": "symbol-1f0a1-940",
+      "symbol": "🂡",
+      "name": "黑桃A",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃A",
+        "娱乐",
+        "1F0A1",
+        "U+1F0A1"
+      ],
+      "notes": "🂡 是扑克牌中的「黑桃 A」，属于黑桃花色的牌，是扑克牌中最有标志性和价值的牌之一，通常在许多纸牌游戏中具有特殊意义，例如大老二或桥牌中最强的单张牌。黑桃 A 的图案设计在各地可能略有不同，常用于数字化扑克游戏中。"
+    },
+    {
+      "id": "symbol-1f0a2-941",
+      "symbol": "🂢",
+      "name": "黑桃2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃2",
+        "娱乐",
+        "1F0A2",
+        "U+1F0A2"
+      ],
+      "notes": "🂢 是扑克牌中的「黑桃 2」，属于黑桃花色的牌，数字为 2。在扑克牌游戏中，黑桃 2 的作用因游戏规则而异，可能是普通的低点数牌，也可能在某些游戏（如大老二）中具有特殊意义。"
+    },
+    {
+      "id": "symbol-1f0a3-942",
+      "symbol": "🂣",
+      "name": "黑桃3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃3",
+        "娱乐",
+        "1F0A3",
+        "U+1F0A3"
+      ],
+      "notes": "🂣 是扑克牌中的「黑桃 3」，属于黑桃花色的牌，数字为 3。在扑克牌游戏中，黑桃 3 的作用因游戏规则不同而有所变化，通常是较低点数的普通牌，但在某些游戏中可能有特殊用途。"
+    },
+    {
+      "id": "symbol-1f0a4-943",
+      "symbol": "🂤",
+      "name": "黑桃4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃4",
+        "娱乐",
+        "1F0A4",
+        "U+1F0A4"
+      ],
+      "notes": "🂤 是扑克牌中的「黑桃 4」，属于黑桃花色的牌，数字为 4。在扑克牌游戏中，黑桃 4 是普通的低点数牌，通常用于组成牌型或特定的牌组，作用根据游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0a5-944",
+      "symbol": "🂥",
+      "name": "黑桃5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃5",
+        "娱乐",
+        "1F0A5",
+        "U+1F0A5"
+      ],
+      "notes": "🂥 是扑克牌中的「黑桃 5」，属于黑桃花色的牌，数字为 5。在扑克牌游戏中，黑桃 5 是普通的点数牌，通常用于组成顺子、对子或其他牌型，具体作用取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0a6-945",
+      "symbol": "🂦",
+      "name": "黑桃6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃6",
+        "娱乐",
+        "1F0A6",
+        "U+1F0A6"
+      ],
+      "notes": "🂦 是扑克牌中的「黑桃 6」，属于黑桃花色的牌，数字为 6。在扑克牌游戏中，黑桃 6 是普通的点数牌，通常用于组成顺子、对子或其他牌型，其具体作用因游戏规则而异。"
+    },
+    {
+      "id": "symbol-1f0a7-946",
+      "symbol": "🂧",
+      "name": "黑桃7",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃7",
+        "娱乐",
+        "1F0A7",
+        "U+1F0A7"
+      ],
+      "notes": "🂧 是扑克牌中的「黑桃 7」，属于黑桃花色的牌，数字为 7。在扑克牌游戏中，黑桃 7 是普通的点数牌，常用于组成顺子、对子或其他牌型，具体功能取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0a8-947",
+      "symbol": "🂨",
+      "name": "黑桃8",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃8",
+        "娱乐",
+        "1F0A8",
+        "U+1F0A8"
+      ],
+      "notes": "🂨 是扑克牌中的「黑桃 8」，属于黑桃花色的牌，数字为 8。黑桃 8 在扑克牌游戏中是普通点数牌，可用于组成顺子、对子等牌型，其具体功能取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0a9-948",
+      "symbol": "🂩",
+      "name": "黑桃9",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃9",
+        "娱乐",
+        "1F0A9",
+        "U+1F0A9"
+      ],
+      "notes": "🂩 是扑克牌中的「黑桃 9」，属于黑桃花色的牌，数字为 9。黑桃 9 在扑克牌游戏中通常是普通的点数牌，具体作用因游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0aa-949",
+      "symbol": "🂪",
+      "name": "黑桃10",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃10",
+        "娱乐",
+        "1F0AA",
+        "U+1F0AA"
+      ],
+      "notes": "🂪 是扑克牌中的「黑桃 10」，属于黑桃花色的牌，数字为 10。在扑克牌游戏中，黑桃 10 可用于组成特定牌型或组合，具体功能根据规则而定。"
+    },
+    {
+      "id": "symbol-1f0ab-950",
+      "symbol": "🂫",
+      "name": "黑桃J",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃J",
+        "娱乐",
+        "1F0AB",
+        "U+1F0AB"
+      ],
+      "notes": "🂫 是扑克牌中的「黑桃 J」，属于黑桃花色的人头牌（面牌）。黑桃 J 在扑克牌游戏中具有较高的牌值，常用于高级牌型的组成，例如顺子或同花顺。"
+    },
+    {
+      "id": "symbol-1f0ac-951",
+      "symbol": "🂬",
+      "name": "黑桃骑士",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃骑士",
+        "娱乐",
+        "1F0AC",
+        "U+1F0AC"
+      ],
+      "notes": "🂬 是扑克牌中的「黑桃骑士」，在某些扑克牌版本中，骑士（Knight）位于侍从（Jack）和皇后（Queen）之间，主要出现在塔罗牌或特定的欧洲扑克牌组中。在标准的52张扑克牌中，通常没有骑士这一角色。"
+    },
+    {
+      "id": "symbol-1f0ad-952",
+      "symbol": "🂭",
+      "name": "黑桃Q",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃Q",
+        "娱乐",
+        "1F0AD",
+        "U+1F0AD"
+      ],
+      "notes": "🂭 是扑克牌中的「黑桃 Q」，属于黑桃花色的面牌（人头牌）。黑桃 Q 是一张高点数牌，在许多扑克牌游戏中被用来组成高级牌型，如顺子或同花顺。其图案设计在不同地区和卡牌版本中可能略有不同。"
+    },
+    {
+      "id": "symbol-1f0ae-953",
+      "symbol": "🂮",
+      "name": "黑桃K",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑桃K",
+        "娱乐",
+        "1F0AE",
+        "U+1F0AE"
+      ],
+      "notes": "🂮 是扑克牌中的「黑桃 K」，属于黑桃花色的面牌（人头牌）。黑桃 K 是扑克牌中最高等级的面牌之一，常用于高级牌型的组合，例如同花顺或皇家同花顺。黑桃 K 的设计在不同地区和卡牌版本中可能有所不同。"
+    },
+    {
+      "id": "symbol-1f0b1-954",
+      "symbol": "🂱",
+      "name": "红桃A",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃A",
+        "娱乐",
+        "1F0B1",
+        "U+1F0B1"
+      ],
+      "notes": "🂱 是扑克牌中的「红桃 A」，属于红桃花色的牌。在许多扑克牌游戏中，红桃 A 通常被视为点数最高的牌之一，具有特殊的象征意义或功能，具体作用取决于游戏规则。红桃 A 的设计可能会因不同地区或卡牌版本而有所不同。"
+    },
+    {
+      "id": "symbol-1f0b2-955",
+      "symbol": "🂲",
+      "name": "红桃2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃2",
+        "娱乐",
+        "1F0B2",
+        "U+1F0B2"
+      ],
+      "notes": "🂲 是扑克牌中的「红桃 2」，属于红桃花色的牌，数字为 2。红桃 2 是普通点数牌，具体作用取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0b3-956",
+      "symbol": "🂳",
+      "name": "红桃3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃3",
+        "娱乐",
+        "1F0B3",
+        "U+1F0B3"
+      ],
+      "notes": "🂳 是扑克牌中的「红桃 3」，属于红桃花色的牌，数字为 3。红桃 3 是普通点数牌，可用于组成特定牌型，具体用途因规则而异。"
+    },
+    {
+      "id": "symbol-1f0b4-957",
+      "symbol": "🂴",
+      "name": "红桃4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃4",
+        "娱乐",
+        "1F0B4",
+        "U+1F0B4"
+      ],
+      "notes": "🂴 是扑克牌中的「红桃 4」，属于红桃花色的牌，数字为 4。红桃 4 是普通点数牌，通常用于顺子或对子组合。"
+    },
+    {
+      "id": "symbol-1f0b5-958",
+      "symbol": "🂵",
+      "name": "红桃5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃5",
+        "娱乐",
+        "1F0B5",
+        "U+1F0B5"
+      ],
+      "notes": "🂵 是扑克牌中的「红桃 5」，属于红桃花色的牌，数字为 5。在扑克牌游戏中，红桃 5 是普通的点数牌，具体用途依赖于规则。"
+    },
+    {
+      "id": "symbol-1f0b6-959",
+      "symbol": "🂶",
+      "name": "红桃6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃6",
+        "娱乐",
+        "1F0B6",
+        "U+1F0B6"
+      ],
+      "notes": "🂶 是扑克牌中的「红桃 6」，属于红桃花色的牌，数字为 6。红桃 6 在扑克牌游戏中常用于顺子或其他组合牌型。"
+    },
+    {
+      "id": "symbol-1f0b7-960",
+      "symbol": "🂷",
+      "name": "红桃7",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃7",
+        "娱乐",
+        "1F0B7",
+        "U+1F0B7"
+      ],
+      "notes": "🂷 是扑克牌中的「红桃 7」，属于红桃花色的牌，数字为 7。红桃 7 是普通点数牌，可用于组成顺子、对子等牌型。"
+    },
+    {
+      "id": "symbol-1f0b8-961",
+      "symbol": "🂸",
+      "name": "红桃8",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃8",
+        "娱乐",
+        "1F0B8",
+        "U+1F0B8"
+      ],
+      "notes": "🂸 是扑克牌中的「红桃 8」，属于红桃花色的牌，数字为 8。在扑克牌游戏中，红桃 8 是普通的点数牌，可用于特定组合。"
+    },
+    {
+      "id": "symbol-1f0b9-962",
+      "symbol": "🂹",
+      "name": "红桃9",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃9",
+        "娱乐",
+        "1F0B9",
+        "U+1F0B9"
+      ],
+      "notes": "🂹 是扑克牌中的「红桃 9」，属于红桃花色的牌，数字为 9。红桃 9 在扑克牌游戏中是普通点数牌，具体用途取决于规则。"
+    },
+    {
+      "id": "symbol-1f0ba-963",
+      "symbol": "🂺",
+      "name": "红桃10",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃10",
+        "娱乐",
+        "1F0BA",
+        "U+1F0BA"
+      ],
+      "notes": "🂺 是扑克牌中的「红桃 10」，属于红桃花色的牌，数字为 10。在扑克牌游戏中，红桃 10 是普通点数牌，常用于顺子、对子或高级牌型的组合，其具体作用取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0bb-964",
+      "symbol": "🂻",
+      "name": "红桃J",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃J",
+        "娱乐",
+        "1F0BB",
+        "U+1F0BB"
+      ],
+      "notes": "🂻 是扑克牌中的「红桃 J」，属于红桃花色的人头牌（面牌）。红桃 J 是一张高点数牌，通常在游戏中具有较高的价值，用于组成高级牌型，如顺子、同花顺等。"
+    },
+    {
+      "id": "symbol-1f0bc-965",
+      "symbol": "🂼",
+      "name": "红桃骑士",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃骑士",
+        "娱乐",
+        "1F0BC",
+        "U+1F0BC"
+      ],
+      "notes": "🂼 是扑克牌中的「红桃骑士」，在某些扑克牌版本中，骑士（Knight）位于侍从（Jack）和皇后（Queen）之间，主要出现在塔罗牌或特定的欧洲扑克牌组中。在标准的52张扑克牌中，通常没有骑士这一角色。"
+    },
+    {
+      "id": "symbol-1f0bd-966",
+      "symbol": "🂽",
+      "name": "红桃Q",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃Q",
+        "娱乐",
+        "1F0BD",
+        "U+1F0BD"
+      ],
+      "notes": "🂽 是扑克牌中的「红桃 Q」，属于红桃花色的面牌（人头牌）。红桃 Q 通常是一张高点数牌，在扑克牌游戏中常用于高级牌型的组合，例如顺子、同花顺等。"
+    },
+    {
+      "id": "symbol-1f0be-967",
+      "symbol": "🂾",
+      "name": "红桃K",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红桃K",
+        "娱乐",
+        "1F0BE",
+        "U+1F0BE"
+      ],
+      "notes": "🂾 是扑克牌中的「红桃 K」，属于红桃花色的面牌（人头牌）。红桃 K 是扑克牌中的高级牌之一，经常用于高级组合牌型，例如同花顺或皇家同花顺，具体作用因游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0c1-968",
+      "symbol": "🃁",
+      "name": "方块A",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块A",
+        "娱乐",
+        "1F0C1",
+        "U+1F0C1"
+      ],
+      "notes": "🃁 是扑克牌中的「方块 A」，属于方块花色的牌。方块 A 是一张高点数牌，通常在扑克牌游戏中具有特殊作用，具体功能视游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0c2-969",
+      "symbol": "🃂",
+      "name": "方块2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块2",
+        "娱乐",
+        "1F0C2",
+        "U+1F0C2"
+      ],
+      "notes": "🃂 是扑克牌中的「方块 2」，属于方块花色的牌，数字为 2。方块 2 是普通点数牌，常用于顺子、对子等组合牌型。"
+    },
+    {
+      "id": "symbol-1f0c3-970",
+      "symbol": "🃃",
+      "name": "方块3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块3",
+        "娱乐",
+        "1F0C3",
+        "U+1F0C3"
+      ],
+      "notes": "🃃 是扑克牌中的「方块 3」，属于方块花色的牌，数字为 3。方块 3 是普通点数牌，具体作用依游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0c4-971",
+      "symbol": "🃄",
+      "name": "方块4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块4",
+        "娱乐",
+        "1F0C4",
+        "U+1F0C4"
+      ],
+      "notes": "🃄 是扑克牌中的「方块 4」，属于方块花色的牌，数字为 4。方块 4 是普通点数牌，通常用于顺子或对子组合。"
+    },
+    {
+      "id": "symbol-1f0c5-972",
+      "symbol": "🃅",
+      "name": "方块5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块5",
+        "娱乐",
+        "1F0C5",
+        "U+1F0C5"
+      ],
+      "notes": "🃅 是扑克牌中的「方块 5」，属于方块花色的牌，数字为 5。方块 5 是普通点数牌，具体作用依游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0c6-973",
+      "symbol": "🃆",
+      "name": "方块6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块6",
+        "娱乐",
+        "1F0C6",
+        "U+1F0C6"
+      ],
+      "notes": "🃆 是扑克牌中的「方块 6」，属于方块花色的牌，数字为 6。方块 6 常用于顺子或其他组合牌型。"
+    },
+    {
+      "id": "symbol-1f0c7-974",
+      "symbol": "🃇",
+      "name": "方块7",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块7",
+        "娱乐",
+        "1F0C7",
+        "U+1F0C7"
+      ],
+      "notes": "🃇 是扑克牌中的「方块 7」，属于方块花色的牌，数字为 7。方块 7 是普通点数牌，用于各种牌型组合。"
+    },
+    {
+      "id": "symbol-1f0c8-975",
+      "symbol": "🃈",
+      "name": "方块8",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块8",
+        "娱乐",
+        "1F0C8",
+        "U+1F0C8"
+      ],
+      "notes": "🃈 是扑克牌中的「方块 8」，属于方块花色的牌，数字为 8。方块 8 是普通点数牌，常用于顺子或对子组合。"
+    },
+    {
+      "id": "symbol-1f0c9-976",
+      "symbol": "🃉",
+      "name": "方块9",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块9",
+        "娱乐",
+        "1F0C9",
+        "U+1F0C9"
+      ],
+      "notes": "方块9（🃉）是扑克牌中的一张特殊牌，具有“苏格兰的诅咒”之称，象征着权力、战争和历史变革的复杂性。\n\n方块9的历史背景和文化内涵丰富，涉及苏格兰的历史事件和人物，如雅各布派起义和坎伯兰公爵，反映了人类社会中权力斗争和历史记忆的深刻影响。"
+    },
+    {
+      "id": "symbol-1f0ca-977",
+      "symbol": "🃊",
+      "name": "方块10",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块10",
+        "娱乐",
+        "1F0CA",
+        "U+1F0CA"
+      ],
+      "notes": "🃊 是扑克牌中的「方块 10」，属于方块花色的牌，数字为 10。方块 10 是普通点数牌，常用于顺子、对子或其他组合牌型。"
+    },
+    {
+      "id": "symbol-1f0cb-978",
+      "symbol": "🃋",
+      "name": "方块J",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块J",
+        "娱乐",
+        "1F0CB",
+        "U+1F0CB"
+      ],
+      "notes": " 是扑克牌中的「方块 J」，属于方块花色的人头牌（面牌）。方块 J 通常在扑克牌游戏中具有较高的价值，可用于高级牌型的组合，例如顺子、同花顺等，具体功能依游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0cc-979",
+      "symbol": "🃌",
+      "name": "方块骑士",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块骑士",
+        "娱乐",
+        "1F0CC",
+        "U+1F0CC"
+      ],
+      "notes": "🃌 是扑克牌中的「方块骑士」，属于方块花色的牌。在某些扑克牌版本（如塔罗牌或特定欧洲扑克牌组）中，骑士（Knight）作为面牌，位于侍从（Jack）与皇后（Queen）之间。在标准的 52 张扑克牌中，通常没有骑士角色。"
+    },
+    {
+      "id": "symbol-1f0cd-980",
+      "symbol": "🃍",
+      "name": "方块Q",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块Q",
+        "娱乐",
+        "1F0CD",
+        "U+1F0CD"
+      ],
+      "notes": "🃍 是扑克牌中的「方块 Q」，属于方块花色的面牌（人头牌）。方块 Q 是高点数牌，常用于组成高级牌型，如顺子、同花顺等，具体功能取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0ce-981",
+      "symbol": "🃎",
+      "name": "方块K",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "方块K",
+        "娱乐",
+        "1F0CE",
+        "U+1F0CE"
+      ],
+      "notes": "🃎 是扑克牌中的「方块 K」，属于方块花色的面牌（人头牌）。方块 K 是扑克牌中的高点数牌之一，常见于高级牌型的组合，如同花顺或皇家同花顺。"
+    },
+    {
+      "id": "symbol-1f0cf-982",
+      "symbol": "🃏",
+      "name": "小丑",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "小丑",
+        "娱乐",
+        "1F0CF",
+        "U+1F0CF"
+      ],
+      "notes": "🃏 是扑克牌中的小丑牌（Joker），通常是标准扑克牌组中的附加牌之一。小丑牌的用途因游戏规则而异，可能作为万能牌、特殊牌或单独计分牌。在许多游戏中，小丑牌被视为最高或最灵活的牌。"
+    },
+    {
+      "id": "symbol-1f0d1-983",
+      "symbol": "🃑",
+      "name": "梅花A",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花A",
+        "娱乐",
+        "1F0D1",
+        "U+1F0D1"
+      ],
+      "notes": "🃑 是扑克牌中的「梅花 A」，属于梅花花色的牌。在许多扑克牌游戏中，梅花 A 通常是高点数牌之一，用于组成高级牌型，如同花顺或皇家同花顺，其具体作用取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0d2-984",
+      "symbol": "🃒",
+      "name": "梅花2",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花2",
+        "娱乐",
+        "1F0D2",
+        "U+1F0D2"
+      ],
+      "notes": "🃒 是扑克牌中的「梅花 2」，属于梅花花色的牌，数字为 2。在扑克牌游戏中是普通点数牌，用于组成顺子、对子等牌型。"
+    },
+    {
+      "id": "symbol-1f0d3-985",
+      "symbol": "🃓",
+      "name": "梅花3",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花3",
+        "娱乐",
+        "1F0D3",
+        "U+1F0D3"
+      ],
+      "notes": "🃓 是扑克牌中的「梅花 3」，属于梅花花色的牌，数字为 3。梅花 3 是普通点数牌，常用于顺子或对子组合。"
+    },
+    {
+      "id": "symbol-1f0d4-986",
+      "symbol": "🃔",
+      "name": "梅花4",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花4",
+        "娱乐",
+        "1F0D4",
+        "U+1F0D4"
+      ],
+      "notes": "🃔 是扑克牌中的「梅花 4」，属于梅花花色的牌，数字为 4。梅花 4 是普通点数牌，可用于组成特定牌型。"
+    },
+    {
+      "id": "symbol-1f0d5-987",
+      "symbol": "🃕",
+      "name": "梅花5",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花5",
+        "娱乐",
+        "1F0D5",
+        "U+1F0D5"
+      ],
+      "notes": "🃕 是扑克牌中的「梅花 5」，属于梅花花色的牌，数字为 5。梅花 5 是普通点数牌，作用因游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0d6-988",
+      "symbol": "🃖",
+      "name": "梅花6",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花6",
+        "娱乐",
+        "1F0D6",
+        "U+1F0D6"
+      ],
+      "notes": "🃖 是扑克牌中的「梅花 6」，属于梅花花色的牌，数字为 6。梅花 6 通常用于组成顺子或其他组合牌型。"
+    },
+    {
+      "id": "symbol-1f0d7-989",
+      "symbol": "🃗",
+      "name": "梅花7",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花7",
+        "娱乐",
+        "1F0D7",
+        "U+1F0D7"
+      ],
+      "notes": "🃗 是扑克牌中的「梅花 7」，属于梅花花色的牌，数字为 7。梅花 7 是普通点数牌，用于组成顺子或对子等牌型。"
+    },
+    {
+      "id": "symbol-1f0d8-990",
+      "symbol": "🃘",
+      "name": "梅花8",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花8",
+        "娱乐",
+        "1F0D8",
+        "U+1F0D8"
+      ],
+      "notes": "🃘 是扑克牌中的「梅花 8」，属于梅花花色的牌，数字为 8。梅花 8 是普通点数牌，用于顺子或其他牌型组合。"
+    },
+    {
+      "id": "symbol-1f0d9-991",
+      "symbol": "🃙",
+      "name": "梅花9",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花9",
+        "娱乐",
+        "1F0D9",
+        "U+1F0D9"
+      ],
+      "notes": "🃙 是扑克牌中的「梅花 9」，属于梅花花色的牌，数字为 9。梅花 9 是普通点数牌，具体用途因游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0da-992",
+      "symbol": "🃚",
+      "name": "梅花10",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花10",
+        "娱乐",
+        "1F0DA",
+        "U+1F0DA"
+      ],
+      "notes": "🃚 是扑克牌中的「梅花 10」，属于梅花花色的牌，数字为 10。梅花 10 是普通点数牌，用于组成顺子、对子或其他组合牌型。"
+    },
+    {
+      "id": "symbol-1f0db-993",
+      "symbol": "🃛",
+      "name": "梅花J",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花J",
+        "娱乐",
+        "1F0DB",
+        "U+1F0DB"
+      ],
+      "notes": "🃛 是扑克牌中的「梅花 J」，属于梅花花色的人头牌（面牌）。梅花 J 是较高点数的牌之一，常用于组成高级牌型，如顺子、同花顺等，具体用途视游戏规则而定。"
+    },
+    {
+      "id": "symbol-1f0dc-994",
+      "symbol": "🃜",
+      "name": "梅花骑士",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花骑士",
+        "娱乐",
+        "1F0DC",
+        "U+1F0DC"
+      ],
+      "notes": "🃜 是扑克牌中的「梅花骑士」，属于梅花花色的牌。在某些扑克牌版本（如塔罗牌或特定欧洲牌组）中，骑士（Knight）作为面牌，位于侍从（Jack）和皇后（Queen）之间。此牌在标准的52张扑克牌中并不常见，但在特定卡牌版本中可能被用于独特的规则或牌型组合。"
+    },
+    {
+      "id": "symbol-1f0dd-995",
+      "symbol": "🃝",
+      "name": "梅花Q",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花Q",
+        "娱乐",
+        "1F0DD",
+        "U+1F0DD"
+      ],
+      "notes": "🃝 是扑克牌中的「梅花 Q」，属于梅花花色的人头牌（面牌）。梅花 Q 是高点数牌之一，在扑克牌游戏中常用于组成高级牌型，例如顺子、同花顺等，具体用途取决于游戏规则。"
+    },
+    {
+      "id": "symbol-1f0de-996",
+      "symbol": "🃞",
+      "name": "梅花K",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "梅花K",
+        "娱乐",
+        "1F0DE",
+        "U+1F0DE"
+      ],
+      "notes": "🃞 是扑克牌中的「梅花 K」，属于梅花花色的人头牌（面牌）。梅花 K 是扑克牌中的高点数牌之一，通常在游戏中用于组成高级牌型，例如同花顺或皇家同花顺。"
+    },
+    {
+      "id": "symbol-1f0df-997",
+      "symbol": "🃟",
+      "name": "黑白小丑",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑白小丑",
+        "娱乐",
+        "1F0DF",
+        "U+1F0DF"
+      ],
+      "notes": "🃟 是扑克牌中的「黑白小丑」，也称为黑色小丑（Black Joker）。在扑克牌游戏中，小丑牌（Joker）通常是附加牌，黑白小丑与彩色小丑（Red Joker）一起出现。小丑牌的具体作用因游戏规则而异，可能作为万能牌、特殊牌或计分牌。在某些规则下，黑白小丑可能具有比彩色小丑更高的优先级或独特功能。"
+    },
+    {
+      "id": "symbol-1fa60-998",
+      "symbol": "🩠",
+      "name": "红帅",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红帅",
+        "娱乐",
+        "1FA60",
+        "U+1FA60"
+      ],
+      "notes": "在中国象棋中，红方的“将军”是指对黑方的“将”发起直接攻击，迫使对方必须立即应对。当红方的棋子（如车、马、炮等）威胁在下一步吃掉黑方的“将”时，就称为“将军”。\n\n被将军的一方必须采取措施解除威胁，这称为“应将”。常见的应将方法包括移动将（避将）、用其他棋子阻挡攻击路径（垫将）、或吃掉攻击的棋子（消将）。\n如果无法应将，导致“将”在下一步被吃掉，则称为被“将死”，对局结束。"
+    },
+    {
+      "id": "symbol-1fa61-999",
+      "symbol": "🩡",
+      "name": "红仕",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红仕",
+        "娱乐",
+        "1FA61",
+        "U+1FA61"
+      ],
+      "notes": "在中国象棋中，红方的“仕”是保护帅（将）的贴身侍卫。仕的活动范围仅限于九宫内的斜线，每次只能沿斜线移动一格，不能走出九宫或进行水平移动。\n\n仕的主要职责是防守，保护帅的安全。在某些情况下，仕也可作为炮的“炮架”，协助进攻。"
+    },
+    {
+      "id": "symbol-1fa62-1000",
+      "symbol": "🩢",
+      "name": "红相",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红相",
+        "娱乐",
+        "1FA62",
+        "U+1FA62"
+      ],
+      "notes": "相是中国象棋中的红方棋子，负责防守和保护帅，其走法为沿对角线走“田”字，每次两格，且不能越过楚河汉界。\n\n如果行走路径被其他棋子阻挡，即为“塞象眼”，无法完成移动。相在防守中起关键作用，同时也可在残局中辅助进攻。"
+    },
+    {
+      "id": "symbol-1fa63-1001",
+      "symbol": "🩣",
+      "name": "红马",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红马",
+        "娱乐",
+        "1FA63",
+        "U+1FA63"
+      ],
+      "notes": "马是中国象棋中的红方棋子，主要作用是攻守兼备，其走法为“日”字形，即先沿直线走一格，再向旁边斜走一格。\n\n如果马的直线前方有其他棋子阻挡，称为“蹩马腿”，则无法完成移动。红马常用于灵活进攻、牵制对方棋子或参与防守，是棋盘上最具机动性的棋子之一。"
+    },
+    {
+      "id": "symbol-1fa64-1002",
+      "symbol": "🩤",
+      "name": "红车",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红车",
+        "娱乐",
+        "1FA64",
+        "U+1FA64"
+      ],
+      "notes": "车是中国象棋中的红方棋子，被称为“棋盘之王”，因其攻守能力强、移动灵活，是最具威胁的棋子之一。车的走法为横竖直线任意格数行走，无距离限制，只要路径没有其他棋子阻挡即可。\n\n红车常用于进攻敌方阵地、配合其他棋子将军或牵制对方重要棋子，同时也在防守时保护己方棋子和帅，具有举足轻重的作用。"
+    },
+    {
+      "id": "symbol-1fa65-1003",
+      "symbol": "🩥",
+      "name": "红炮",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红炮",
+        "娱乐",
+        "1FA65",
+        "U+1FA65"
+      ],
+      "notes": "炮是中国象棋中的红方棋子，以独特的“隔子打子”走法著称。炮的基本走法为横竖直线任意格移动，但攻击时必须隔着一个棋子（称为“炮架”）才能吃掉目标棋子。\n\n炮在进攻中极具威胁，尤其在残局阶段，灵活的炮可以迅速形成攻势，同时也可在防守中配合其他棋子形成强有力的屏障。炮的巧妙运用对整个棋局的胜负起到关键作用。"
+    },
+    {
+      "id": "symbol-1fa66-1004",
+      "symbol": "🩦",
+      "name": "红兵",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "红兵",
+        "娱乐",
+        "1FA66",
+        "U+1FA66"
+      ],
+      "notes": "兵是中国象棋中的红方棋子，主要作用是进攻和牵制敌方棋子。兵的走法为：未过“楚河汉界”时，只能向前直走一格；过河后，除了向前直走，还可以左右横走一格，但不能后退。\n\n兵一旦深入敌方阵地，特别是靠近帅的位置，威胁性会大大增加。虽然兵在初期力量较弱，但多个兵协同作战或在残局阶段常能发挥决定性作用。"
+    },
+    {
+      "id": "symbol-1fa67-1005",
+      "symbol": "🩧",
+      "name": "黑将",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑将",
+        "娱乐",
+        "1FA67",
+        "U+1FA67"
+      ],
+      "notes": "黑将是中国象棋中的黑方主帅，位于棋盘的九宫格内，是棋局胜负的关键。黑将的走法为九宫格内的横向或纵向移动一格，不能走出九宫，也不能直接面对红方的帅（即“照面”规则）。\n\n将的主要作用是保护自己不被将死，同时配合己方棋子实施防守或辅助反击。由于将的特殊地位，一旦被将死，棋局立即结束，因此其安全至关重要。"
+    },
+    {
+      "id": "symbol-1fa68-1006",
+      "symbol": "🩨",
+      "name": "黑士",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑士",
+        "娱乐",
+        "1FA68",
+        "U+1FA68"
+      ],
+      "notes": "黑士是中国象棋中的黑方棋子，主要作用是保护将，活动范围限定在九宫内。士的走法为沿九宫的对角线每次移动一格，不能走出九宫范围。\n\n黑士通常用于防守，是将的贴身保护者，防止对方棋子直接进攻。虽然士的活动范围有限，但在关键时刻能有效抵御敌方的进攻，为将提供重要的防守屏障。"
+    },
+    {
+      "id": "symbol-1fa69-1007",
+      "symbol": "🩩",
+      "name": "黑象",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑象",
+        "娱乐",
+        "1FA69",
+        "U+1FA69"
+      ],
+      "notes": "黑象是中国象棋中的黑方棋子，主要作用是保护将并防守己方阵地。象的走法为“田”字形，每次沿棋盘对角线移动两格，但如果路径中间有其他棋子阻挡（称为“塞象眼”），则无法完成移动。\n\n黑象的活动范围仅限于己方半场，不能越过楚河汉界。虽然象无法直接参与进攻，但在防守和协助其他棋子布局时起到重要作用，特别是在残局中，其位置对防守的稳固性尤为关键。"
+    },
+    {
+      "id": "symbol-1fa6a-1008",
+      "symbol": "🩪",
+      "name": "黑马",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑马",
+        "娱乐",
+        "1FA6A",
+        "U+1FA6A"
+      ],
+      "notes": "黑马是中国象棋中的黑方棋子，攻守兼备，具有极高的机动性。\n\n马的走法为“日”字形，即先沿直线走一格，再向斜方向走一格。如果马的直线前方有棋子阻挡（称为“蹩马腿”），则无法完成该步移动。\n\n黑马在棋局中可用于进攻敌方阵地、牵制对方重要棋子，或协助防守，是灵活性和威胁性兼具的重要棋子，尤其在残局阶段常发挥关键作用。"
+    },
+    {
+      "id": "symbol-1fa6b-1009",
+      "symbol": "🩫",
+      "name": "黑车",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑车",
+        "娱乐",
+        "1FA6B",
+        "U+1FA6B"
+      ],
+      "notes": "黑车是中国象棋中的黑方棋子，被称为最强大的棋子之一，因其攻守兼备且行动范围广泛。车的走法为横竖直线任意格数移动，只要路径没有被其他棋子阻挡即可。\n黑车在棋局中承担着进攻、控制局面和保护己方阵地的重要任务，既可以直接威胁对方将帅，也可以牵制或吃掉对方重要棋子。在残局中，车的灵活性和强大的控制力常常成为决定胜负的关键。"
+    },
+    {
+      "id": "symbol-1fa6c-1010",
+      "symbol": "🩬",
+      "name": "黑炮",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑炮",
+        "娱乐",
+        "1FA6C",
+        "U+1FA6C"
+      ],
+      "notes": "黑炮是中国象棋中的黑方棋子，以独特的“隔子打子”规则著称。炮的基本走法为横竖直线任意格移动，在没有吃子时与车的走法相同；但在吃子时，必须隔着一个棋子（称为“炮架”）才能打击目标棋子。\n\n黑炮在棋局中多用于进攻，擅长长距离威胁对方的重要棋子或将帅，同时也可以在防守中形成屏障，阻止对方的进攻路线。炮的灵活运用能快速扭转局势，在开局、中局和残局阶段都能发挥重要作用。"
+    },
+    {
+      "id": "symbol-1fa6d-1011",
+      "symbol": "🩭",
+      "name": "黑卒",
+      "pronunciation": "",
+      "category": [
+        "娱乐"
+      ],
+      "searchTerms": [
+        "黑卒",
+        "娱乐",
+        "1FA6D",
+        "U+1FA6D"
+      ],
+      "notes": "黑卒是中国象棋中的黑方棋子，主要作用是进攻和牵制敌方棋子。卒的走法为：未过“楚河汉界”时，只能向前直走一格；过河后，除了向前直走，还可以左右横走一格，但不能后退。\n\n虽然卒在初期作用有限，但一旦深入敌方阵地，尤其靠近帅的位置，其威胁性会显著增加。卒的配合使用常能在残局中发挥决定性作用，是攻防兼备的重要棋子。"
+    }
   ]
 }

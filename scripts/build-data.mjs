@@ -36,6 +36,8 @@ async function main() {
   await Promise.all([
     rm(join(dataDir, 'symbols', 'by-category'), { recursive: true, force: true }),
     rm(join(dataDir, 'emojis', 'by-category'), { recursive: true, force: true }),
+    rm(join(dataDir, 'symbols', 'index.json'), { force: true }),
+    rm(join(dataDir, 'emojis', 'index.json'), { force: true }),
     rm(join(dataDir, 'symbols', 'random-pool.json'), { force: true }),
     rm(join(dataDir, 'emojis', 'random-pool.json'), { force: true })
   ]);
@@ -63,6 +65,22 @@ async function main() {
       total: emojis.length,
       items: emojis
     }),
+    writeJson(join(dataDir, 'symbols', 'index.json'), createRecordIndex({
+      type: 'symbols',
+      records: symbols,
+      categoryFiles: symbolCategoryFiles,
+      getCategories: (item) => item.category,
+      getValue: (item) => item.symbol,
+      getSearchTerms: (item) => item.searchTerms
+    })),
+    writeJson(join(dataDir, 'emojis', 'index.json'), createRecordIndex({
+      type: 'emojis',
+      records: emojis,
+      categoryFiles: emojiCategoryFiles,
+      getCategories: (item) => [item.category],
+      getValue: (item) => item.emoji,
+      getSearchTerms: (item) => item.keywords ?? []
+    })),
     writeJson(join(dataDir, 'symbols', 'random-pool.json'), {
       total: symbols.length,
       ids: symbols.map((item) => item.id)
@@ -102,11 +120,13 @@ async function main() {
     outputs: {
       symbols: {
         items: 'symbols/items.json',
+        index: 'symbols/index.json',
         randomPool: 'symbols/random-pool.json',
         byCategory: symbolCategoryFiles
       },
       emojis: {
         items: 'emojis/items.json',
+        index: 'emojis/index.json',
         randomPool: 'emojis/random-pool.json',
         byCategory: emojiCategoryFiles
       },
@@ -159,7 +179,7 @@ async function writeCategoryShards({ type, records, categoryOf, categoryDir }) {
       name: category,
       count: items.length,
       file: `${type}/by-category/${toFileName(category)}.json`,
-      ids: items.map((item) => item.id)
+      items
     }));
 
   await Promise.all(
@@ -167,12 +187,40 @@ async function writeCategoryShards({ type, records, categoryOf, categoryDir }) {
       writeJson(join(categoryDir, `${categoryFile.id}.json`), {
         category: categoryFile.name,
         total: categoryFile.count,
-        ids: categoryFile.ids
+        items: categoryFile.items
       })
     )
   );
 
   return categoryFiles.map(({ id, name, count, file }) => ({ id, name, count, file }));
+}
+
+function createRecordIndex({ type, records, categoryFiles, getCategories, getValue, getSearchTerms }) {
+  const fileByCategory = new Map(categoryFiles.map((categoryFile) => [categoryFile.name, categoryFile.file]));
+  const items = {};
+
+  for (const record of records) {
+    const id = String(record.id ?? '').trim();
+    if (!id) continue;
+
+    const categories = getCategories(record).map((category) => String(category ?? '').trim() || '其他');
+    const primaryCategory = categories[0] ?? '其他';
+    items[id] = {
+      id,
+      value: getValue(record),
+      name: record.name,
+      categories,
+      primaryCategory,
+      files: categories.map((category) => fileByCategory.get(category)).filter(Boolean),
+      searchTerms: getSearchTerms(record)
+    };
+  }
+
+  return {
+    type,
+    total: Object.keys(items).length,
+    items
+  };
 }
 
 function toFileName(value) {

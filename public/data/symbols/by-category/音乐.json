@@ -1,14 +1,146 @@
 {
   "category": "音乐",
   "total": 8,
-  "ids": [
-    "symbol-a7-6",
-    "symbol-b6-17",
-    "symbol-2669-404",
-    "symbol-266a-405",
-    "symbol-266b-406",
-    "symbol-266c-407",
-    "symbol-266d-408",
-    "symbol-266f-409"
+  "items": [
+    {
+      "id": "symbol-a7-6",
+      "symbol": "§",
+      "name": "章节",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "章节",
+        "音乐",
+        "00A7",
+        "U+00A7"
+      ],
+      "notes": "符号§是用于引用文档中个别编号的章节的，通常用于引用法律代码中的章节。\n\n§符号也称为章节符号、章节标记，常与¶符号一起使用，指向文档中特定章节的段落。"
+    },
+    {
+      "id": "symbol-b6-17",
+      "symbol": "¶",
+      "name": "段落标记",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "段落标记",
+        "音乐",
+        "00B6",
+        "U+00B6"
+      ],
+      "notes": "¶ 表示“段落标记”，通常用于标注文档中的段落起始位置，也用于表示段落分隔符或编辑过程中提示段落结构的符号。"
+    },
+    {
+      "id": "symbol-2669-404",
+      "symbol": "♩",
+      "name": "四分音符",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "四分音符",
+        "音乐",
+        "2669",
+        "U+2669",
+        "Quarter Note",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♩ 表示音乐中的四分音符，是一种基本的音符时值记号。在常规节拍中，它的时值等于一个全音符的四分之一。"
+    },
+    {
+      "id": "symbol-266a-405",
+      "symbol": "♪",
+      "name": "八分音符",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "八分音符",
+        "音乐",
+        "266A",
+        "U+266A",
+        "Eighth Note",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♪ 表示音乐中的八分音符，是一种时值为全音符八分之一的音符记号，常用于表示较短的音符时值。"
+    },
+    {
+      "id": "symbol-266b-406",
+      "symbol": "♫",
+      "name": "连线八分音符",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "连线八分音符",
+        "音乐",
+        "266B",
+        "U+266B",
+        "Beamed Eighth Notes",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♫ 表示一对连在一起的八分音符，通常用于乐谱中表示连续的短音符时值组合，增强音乐的连贯性与流动感。"
+    },
+    {
+      "id": "symbol-266c-407",
+      "symbol": "♬",
+      "name": "双连线八分音符",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "双连线八分音符",
+        "音乐",
+        "266C",
+        "U+266C",
+        "Beamed Sixteenth Notes",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♬ 表示两对连线的八分音符，通常用于乐谱中表现节奏感较强的短音符组，进一步增强旋律的连续性和流动性。"
+    },
+    {
+      "id": "symbol-266d-408",
+      "symbol": "♭",
+      "name": "降号",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "降号",
+        "音乐",
+        "266D",
+        "U+266D",
+        "Music Flat Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♭ 表示“降号”，用于乐谱中，指将音符降低半音。它常用于调号或临时改变音高的记号。"
+    },
+    {
+      "id": "symbol-266f-409",
+      "symbol": "♯",
+      "name": "升号",
+      "pronunciation": "",
+      "category": [
+        "音乐"
+      ],
+      "searchTerms": [
+        "升号",
+        "音乐",
+        "266F",
+        "U+266F",
+        "Music Sharp Sign",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♯ 表示“升号”，用于乐谱中，指将音符升高半音。它通常用于调号或临时改变音高的记号。"
+    }
   ]
 }

@@ -163,7 +163,7 @@ npm run data:build
 - `--delay-ms=N`：来源页面之间的请求间隔，默认 `1200`
 - `--dry-run`：只统计，不写入数据文件
 
-`npm run data:build` 会读取当前线上条目 `public/data/symbols/items.json` 与 `public/data/emojis/items.json`，重建 `manifest.json`、分类分片和 `random-pool.json`。分类分片与 `random-pool.json` 只保存 ID 列表，避免正式展示数据重复存储；爬取得到、仍需分类归并和文案整理的条目保留在 `public/data/pending/`。
+`npm run data:build` 会读取当前线上条目 `public/data/symbols/items.json` 与 `public/data/emojis/items.json`，重建 `manifest.json`、分类分片、ID 索引和 `random-pool.json`。分类分片写入当前分类的完整条目，方便按需加载；`index.json` 保存 ID 到分类分片的轻量定位信息；`random-pool.json` 只保存 ID 列表，用于轻量随机抽样。爬取得到、仍需分类归并和文案整理的条目保留在 `public/data/pending/`。
 
 ## 🧹 后续数据整理工作流
 

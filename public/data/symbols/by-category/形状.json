@@ -1,44 +1,690 @@
 {
   "category": "形状",
   "total": 38,
-  "ids": [
-    "symbol-25a0-299",
-    "symbol-25a1-300",
-    "symbol-25a2-301",
-    "symbol-25a3-302",
-    "symbol-25a4-303",
-    "symbol-25a5-304",
-    "symbol-25a6-305",
-    "symbol-25a7-306",
-    "symbol-25a8-307",
-    "symbol-25a9-308",
-    "symbol-25aa-309",
-    "symbol-25ab-310",
-    "symbol-25ac-311",
-    "symbol-25ad-312",
-    "symbol-25ae-313",
-    "symbol-25af-314",
-    "symbol-25b0-315",
-    "symbol-25b1-316",
-    "symbol-25b2-317",
-    "symbol-25b3-318",
-    "symbol-25b4-319",
-    "symbol-25b5-320",
-    "symbol-25b6-321",
-    "symbol-25b7-322",
-    "symbol-25b8-323",
-    "symbol-25b9-324",
-    "symbol-25ba-325",
-    "symbol-25bb-326",
-    "symbol-25bc-327",
-    "symbol-25bd-328",
-    "symbol-25be-329",
-    "symbol-25bf-330",
-    "symbol-25c0-331",
-    "symbol-25c1-332",
-    "symbol-25c2-333",
-    "symbol-25c3-334",
-    "symbol-25c4-335",
-    "symbol-25c5-336"
+  "items": [
+    {
+      "id": "symbol-25a0-299",
+      "symbol": "■",
+      "name": "实心方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心方块",
+        "形状",
+        "25A0",
+        "U+25A0",
+        "Black Square",
+        "Geometric Shapes"
+      ],
+      "notes": "■ 是一个实心的方块，常用于表示选中状态、强调、进度条的填充部分，或作为图形设计中的基础元素。"
+    },
+    {
+      "id": "symbol-25a1-300",
+      "symbol": "□",
+      "name": "空心方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心方块",
+        "形状",
+        "25A1",
+        "U+25A1",
+        "White Square",
+        "Geometric Shapes"
+      ],
+      "notes": "□ 是一个空心的白色方块，常用于表示未选中状态、框框占位符或设计中的装饰元素。"
+    },
+    {
+      "id": "symbol-25a2-301",
+      "symbol": "▢",
+      "name": "圆角空心方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆角空心方块",
+        "形状",
+        "25A2",
+        "U+25A2",
+        "White Square with Rounded Corners",
+        "Geometric Shapes"
+      ],
+      "notes": "▢ 是一个带圆角的空心方块，介于普通矩形和圆形之间的形状。常用于界面设计、图形表示或突出显示某些信息。"
+    },
+    {
+      "id": "symbol-25a3-302",
+      "symbol": "▣",
+      "name": "实心方块中空白方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心方块中空白方形",
+        "形状",
+        "25A3",
+        "U+25A3",
+        "White Square Containing Black Small Square",
+        "Geometric Shapes"
+      ],
+      "notes": "▣ 是一个实心方块，内部包含一个空心方形。该符号常用于图形设计、界面元素或表示特定状态。"
+    },
+    {
+      "id": "symbol-25a4-303",
+      "symbol": "▤",
+      "name": "水平条纹方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "水平条纹方块",
+        "形状",
+        "25A4",
+        "U+25A4",
+        "Square with Horizontal Fill",
+        "Geometric Shapes"
+      ],
+      "notes": "▤ 是一个带有水平条纹的方块，条纹均匀分布在矩形内部。该符号常用于装饰性设计、图表标注或特殊图形表示。"
+    },
+    {
+      "id": "symbol-25a5-304",
+      "symbol": "▥",
+      "name": "垂直条纹方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "垂直条纹方块",
+        "形状",
+        "25A5",
+        "U+25A5",
+        "Square with Vertical Fill",
+        "Geometric Shapes"
+      ],
+      "notes": "▥ 是一个带有垂直条纹的方块，条纹均匀分布在矩形内部。该符号常用于装饰性设计、图表标注或用于视觉上的区分。"
+    },
+    {
+      "id": "symbol-25a6-305",
+      "symbol": "▦",
+      "name": "网格条纹方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "网格条纹方块",
+        "形状",
+        "25A6",
+        "U+25A6",
+        "Square with Orthogonal Crosshatch Fill",
+        "Geometric Shapes"
+      ],
+      "notes": "▦ 是一个带有网格条纹的方块，内部的条纹呈水平和垂直交叉分布，形成网格状图案。该符号常用于装饰性设计、图表标注，或表示某种特殊状态。"
+    },
+    {
+      "id": "symbol-25a7-306",
+      "symbol": "▧",
+      "name": "左斜线条纹方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左斜线条纹方块",
+        "形状",
+        "25A7",
+        "U+25A7",
+        "Square with Upper Left To Lower Right Fill",
+        "Geometric Shapes"
+      ],
+      "notes": "▧ 是一个内部带有左斜线条纹的方块，斜线从左上角向右下角延伸。常用于装饰性设计或图表标注。"
+    },
+    {
+      "id": "symbol-25a8-307",
+      "symbol": "▨",
+      "name": "右斜线条纹方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "右斜线条纹方块",
+        "形状",
+        "25A8",
+        "U+25A8",
+        "Square with Upper Right To Lower Left Fill",
+        "Geometric Shapes"
+      ],
+      "notes": "▨ 是一个内部带有右斜线条纹的方块，斜线从右上角向左下角延伸。可用于装饰性设计或特殊状态表示。"
+    },
+    {
+      "id": "symbol-25a9-308",
+      "symbol": "▩",
+      "name": "十字条纹方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "十字条纹方块",
+        "形状",
+        "25A9",
+        "U+25A9",
+        "Square with Diagonal Crosshatch Fill",
+        "Geometric Shapes"
+      ],
+      "notes": "▩ 是一个内部带有交叉条纹（水平、垂直及对角线条纹）的方块，形成十字形图案。用于表示特殊状态或作为装饰性符号。"
+    },
+    {
+      "id": "symbol-25aa-309",
+      "symbol": "▪",
+      "name": "小实心方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小实心方块",
+        "形状",
+        "25AA",
+        "U+25AA",
+        "Black Small Square",
+        "Geometric Shapes"
+      ],
+      "notes": "▪ 是一个较小的黑色实心方块，常用于项目符号、列表标记或作为强调符号。"
+    },
+    {
+      "id": "symbol-25ab-310",
+      "symbol": "▫",
+      "name": "小空心方块",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小空心方块",
+        "形状",
+        "25AB",
+        "U+25AB",
+        "White Small Square",
+        "Geometric Shapes"
+      ],
+      "notes": "▫ 是一个较小的白色空心方块，常用于项目符号、列表标记或装饰性用途。"
+    },
+    {
+      "id": "symbol-25ac-311",
+      "symbol": "▬",
+      "name": "实心矩形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心矩形",
+        "形状",
+        "25AC",
+        "U+25AC",
+        "Black Rectangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▬ 是一个实心矩形，用于装饰、分隔内容或表示进度条的填充部分。"
+    },
+    {
+      "id": "symbol-25ad-312",
+      "symbol": "▭",
+      "name": "空心矩形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心矩形",
+        "形状",
+        "25AD",
+        "U+25AD",
+        "White Rectangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▭ 是一个空心矩形，常用于装饰、框架设计或图形分隔。"
+    },
+    {
+      "id": "symbol-25ae-313",
+      "symbol": "▮",
+      "name": "实心竖矩形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心竖矩形",
+        "形状",
+        "25AE",
+        "U+25AE",
+        "Black Vertical Rectangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▮ 是一个实心竖矩形，用于装饰、内容分隔或进度条表示。"
+    },
+    {
+      "id": "symbol-25af-314",
+      "symbol": "▯",
+      "name": "空心竖矩形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心竖矩形",
+        "形状",
+        "25AF",
+        "U+25AF",
+        "White Vertical Rectangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▯ 是一个空心竖矩形，用于装饰、框架设计或图形分隔。"
+    },
+    {
+      "id": "symbol-25b0-315",
+      "symbol": "▰",
+      "name": "实心平行四边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心平行四边形",
+        "形状",
+        "25B0",
+        "U+25B0",
+        "Black Parallelogram",
+        "Geometric Shapes"
+      ],
+      "notes": "▰ 是一个实心平行四边形，用于图形设计或标记。"
+    },
+    {
+      "id": "symbol-25b1-316",
+      "symbol": "▱",
+      "name": "空心平行四边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心平行四边形",
+        "形状",
+        "25B1",
+        "U+25B1",
+        "White Parallelogram",
+        "Geometric Shapes"
+      ],
+      "notes": "▰ 是一个空心平行四边形，用于图形设计或标记。"
+    },
+    {
+      "id": "symbol-25b2-317",
+      "symbol": "▲",
+      "name": "实心上三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心上三角",
+        "形状",
+        "25B2",
+        "U+25B2",
+        "Black Up-Pointing Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▲ 是一个实心的上三角形，常用于表示方向、上升趋势或菜单指示"
+    },
+    {
+      "id": "symbol-25b3-318",
+      "symbol": "△",
+      "name": "空心上三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心上三角",
+        "形状",
+        "25B3",
+        "U+25B3",
+        "White Up-Pointing Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "△ 是一个空心的上三角形，常用于图标、指示方向或装饰设计。"
+    },
+    {
+      "id": "symbol-25b4-319",
+      "symbol": "▴",
+      "name": "小实心上三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小实心上三角",
+        "形状",
+        "25B4",
+        "U+25B4",
+        "Black Up-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▴ 是一个较小的黑色实心上三角形，常用于表示上升趋势或箭头指示。"
+    },
+    {
+      "id": "symbol-25b5-320",
+      "symbol": "▵",
+      "name": "小空心上三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小空心上三角",
+        "形状",
+        "25B5",
+        "U+25B5",
+        "White Up-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▵ 是一个较小的空心上三角形，通常用于装饰或图形标记。"
+    },
+    {
+      "id": "symbol-25b6-321",
+      "symbol": "▶",
+      "name": "实心右三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心右三角",
+        "形状",
+        "25B6",
+        "U+25B6",
+        "Play Button",
+        "Geometric Shapes"
+      ],
+      "notes": "▶ 是一个实心右三角形，常用于播放按钮、指示方向或表示前进。"
+    },
+    {
+      "id": "symbol-25b7-322",
+      "symbol": "▷",
+      "name": "空心右三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心右三角",
+        "形状",
+        "25B7",
+        "U+25B7",
+        "White Right-Pointing Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▷ 是一个空心右三角形，用于装饰性设计或方向指示。"
+    },
+    {
+      "id": "symbol-25b8-323",
+      "symbol": "▸",
+      "name": "小实心右三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小实心右三角",
+        "形状",
+        "25B8",
+        "U+25B8",
+        "Black Right-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▸ 是一个较小的实心右三角形，通常用于列表符号或箭头指示。"
+    },
+    {
+      "id": "symbol-25b9-324",
+      "symbol": "▹",
+      "name": "小空心右三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小空心右三角",
+        "形状",
+        "25B9",
+        "U+25B9",
+        "White Right-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▹ 是一个较小的空心右三角形，用于装饰或图形标记。"
+    },
+    {
+      "id": "symbol-25ba-325",
+      "symbol": "►",
+      "name": "实心右指针",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心右指针",
+        "形状",
+        "25BA",
+        "U+25BA",
+        "Black Right-Pointing Pointer",
+        "Geometric Shapes"
+      ],
+      "notes": "待补充完整"
+    },
+    {
+      "id": "symbol-25bb-326",
+      "symbol": "▻",
+      "name": "空心右指针",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心右指针",
+        "形状",
+        "25BB",
+        "U+25BB",
+        "White Right-Pointing Pointer",
+        "Geometric Shapes"
+      ],
+      "notes": "待补充完整"
+    },
+    {
+      "id": "symbol-25bc-327",
+      "symbol": "▼",
+      "name": "实心下三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心下三角",
+        "形状",
+        "25BC",
+        "U+25BC",
+        "Black Down-Pointing Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▼ 是一个实心的下三角形，用于表示下拉菜单、下降趋势或方向指示。"
+    },
+    {
+      "id": "symbol-25bd-328",
+      "symbol": "▽",
+      "name": "空心下三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心下三角",
+        "形状",
+        "25BD",
+        "U+25BD",
+        "White Down-Pointing Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▽ 是一个空心的下三角形，用于装饰、方向指示或菜单指示。"
+    },
+    {
+      "id": "symbol-25be-329",
+      "symbol": "▾",
+      "name": "小实心下三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小实心下三角",
+        "形状",
+        "25BE",
+        "U+25BE",
+        "Black Down-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▾ 是一个较小的实心下三角形，常用于菜单箭头或方向指示。"
+    },
+    {
+      "id": "symbol-25bf-330",
+      "symbol": "▿",
+      "name": "小空心下三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小空心下三角",
+        "形状",
+        "25BF",
+        "U+25BF",
+        "White Down-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "▿ 是一个较小的空心下三角形，用于装饰或图形标记。"
+    },
+    {
+      "id": "symbol-25c0-331",
+      "symbol": "◀",
+      "name": "实心左三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心左三角",
+        "形状",
+        "25C0",
+        "U+25C0",
+        "Reverse Button",
+        "Geometric Shapes"
+      ],
+      "notes": "◀ 是一个实心左三角形，常用于播放按钮、方向指示或返回的标志。"
+    },
+    {
+      "id": "symbol-25c1-332",
+      "symbol": "◁",
+      "name": "空心左三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心左三角",
+        "形状",
+        "25C1",
+        "U+25C1",
+        "White Left-Pointing Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "◁ 是一个空心左三角形，用于装饰设计或表示向左的指示。"
+    },
+    {
+      "id": "symbol-25c2-333",
+      "symbol": "◂",
+      "name": "小实心左三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小实心左三角",
+        "形状",
+        "25C2",
+        "U+25C2",
+        "Black Left-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "◂ 是一个较小的实心左三角形，通常用于方向指示、导航或列表标记。"
+    },
+    {
+      "id": "symbol-25c3-334",
+      "symbol": "◃",
+      "name": "小空心左三角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "小空心左三角",
+        "形状",
+        "25C3",
+        "U+25C3",
+        "White Left-Pointing Small Triangle",
+        "Geometric Shapes"
+      ],
+      "notes": "◃ 是一个较小的空心左三角形，用于图标或装饰性设计。"
+    },
+    {
+      "id": "symbol-25c4-335",
+      "symbol": "◄",
+      "name": "实心左指针",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "实心左指针",
+        "形状",
+        "25C4",
+        "U+25C4",
+        "Black Left-Pointing Pointer",
+        "Geometric Shapes"
+      ],
+      "notes": "待补充完整"
+    },
+    {
+      "id": "symbol-25c5-336",
+      "symbol": "◅",
+      "name": "空心左指针",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心左指针",
+        "形状",
+        "25C5",
+        "U+25C5",
+        "White Left-Pointing Pointer",
+        "Geometric Shapes"
+      ],
+      "notes": "待补充完整"
+    }
   ]
 }

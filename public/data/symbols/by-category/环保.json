@@ -1,18 +1,222 @@
 {
   "category": "环保",
   "total": 12,
-  "ids": [
-    "symbol-2672-410",
-    "symbol-2673-411",
-    "symbol-2674-412",
-    "symbol-2675-413",
-    "symbol-2676-414",
-    "symbol-2677-415",
-    "symbol-2678-416",
-    "symbol-2679-417",
-    "symbol-267a-418",
-    "symbol-267b-419",
-    "symbol-267c-420",
-    "symbol-267d-421"
+  "items": [
+    {
+      "id": "symbol-2672-410",
+      "symbol": "♲",
+      "name": "可循环利用",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "可循环利用",
+        "环保",
+        "2672",
+        "U+2672",
+        "Universal Recycling Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♲ 表示“可循环利用”或“可回收材料”的标志，通常出现在包装、塑料制品或容器上，表明该物品可以被回收处理，用于支持环保和资源循环利用。"
+    },
+    {
+      "id": "symbol-2673-411",
+      "symbol": "♳",
+      "name": "PET&PETE",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "PET&PETE",
+        "环保",
+        "2673",
+        "U+2673",
+        "Recycling Symbol for Type-1 Plastics",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♳ 表示“塑料回收标志”中的第1类，代表聚对苯二甲酸乙二醇酯（PET或PETE）。这种塑料通常用于制造饮料瓶、食品容器等，易于回收再利用，是最常见的可回收塑料之一。"
+    },
+    {
+      "id": "symbol-2674-412",
+      "symbol": "♴",
+      "name": "HDPE",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "HDPE",
+        "环保",
+        "2674",
+        "U+2674",
+        "Recycling Symbol for Type-2 Plastics",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♴ 表示“塑料回收标志”中的第2类，代表高密度聚乙烯（HDPE）。这种塑料通常用于制造牛奶罐、洗涤剂瓶、塑料袋等，具有较高的强度和耐化学性，易于回收并广泛用于再生产品的生产。"
+    },
+    {
+      "id": "symbol-2675-413",
+      "symbol": "♵",
+      "name": "PVC",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "PVC",
+        "环保",
+        "2675",
+        "U+2675",
+        "Recycling Symbol for Type-3 Plastics",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♵ 表示“塑料回收标志”中的第3类，代表聚氯乙烯（PVC）。这种塑料常用于制造管道、窗框、食品包装等，因其含有氯化物，回收处理时需注意可能释放的有害物质。"
+    },
+    {
+      "id": "symbol-2676-414",
+      "symbol": "♶",
+      "name": "LDPE",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "LDPE",
+        "环保",
+        "2676",
+        "U+2676",
+        "Recycling Symbol for Type-4 Plastics",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♶ 表示“塑料回收标志”中的第4类，代表低密度聚乙烯（LDPE）。这种塑料通常用于制造塑料袋、薄膜、食品包装等，具有柔韧性，但回收利用率相对较低。"
+    },
+    {
+      "id": "symbol-2677-415",
+      "symbol": "♷",
+      "name": "PP",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "PP",
+        "环保",
+        "2677",
+        "U+2677",
+        "Recycling Symbol for Type-5 Plastics",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♷ 表示“塑料回收标志”中的第5类，代表聚丙烯（PP）。这种塑料常用于制造食品容器、瓶盖、吸管等，具有较高的耐热性和耐化学性，是一种可回收利用的材料。"
+    },
+    {
+      "id": "symbol-2678-416",
+      "symbol": "♸",
+      "name": "PS",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "PS",
+        "环保",
+        "2678",
+        "U+2678",
+        "Recycling Symbol for Type-6 Plastics",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♸ 表示“塑料回收标志”中的第6类，代表聚苯乙烯（PS）。这种塑料常用于制造一次性餐具、泡沫板等，回收利用较少，处理不当可能对环境造成污染。"
+    },
+    {
+      "id": "symbol-2679-417",
+      "symbol": "♹",
+      "name": "PC",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "PC",
+        "环保",
+        "2679",
+        "U+2679",
+        "Recycling Symbol for Type-7 Plastics",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♹ 表示“塑料回收标志”中的第7类，代表其他类型的塑料，通常包括聚碳酸酯（PC）或混合塑料。这一类材料的组成较复杂，回收难度较大，需采用特殊的处理方式。"
+    },
+    {
+      "id": "symbol-267a-418",
+      "symbol": "♺",
+      "name": "塑料回收",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "塑料回收",
+        "环保",
+        "267A",
+        "U+267A",
+        "Recycling Symbol for Generic Materials",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♺ 表示“塑料回收标志”，用于指示塑料制品是可回收的。这一标志通常伴随数字或缩写（如PET、HDPE等），用于进一步说明塑料的种类和回收特性，有助于分类回收和循环利用。"
+    },
+    {
+      "id": "symbol-267b-419",
+      "symbol": "♻",
+      "name": "回收",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "回收",
+        "环保",
+        "267B",
+        "U+267B",
+        "Recycling Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♻ 表示“循环利用”或“回收标志”，常用于提示某物品由可回收材料制成，或该物品可进行回收处理。它是全球通用的环保标志，象征资源的可持续循环利用。"
+    },
+    {
+      "id": "symbol-267c-420",
+      "symbol": "♼",
+      "name": "国际废弃物",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "国际废弃物",
+        "环保",
+        "267C",
+        "U+267C",
+        "Recycled Paper Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♼ 是“国际废弃物标志”，通常用于表示产品或包装属于废弃物，需要妥善处理或分类处理。它强调废弃物管理的重要性，常见于环保相关的标识系统中。"
+    },
+    {
+      "id": "symbol-267d-421",
+      "symbol": "♽",
+      "name": "部分回收",
+      "pronunciation": "",
+      "category": [
+        "环保"
+      ],
+      "searchTerms": [
+        "部分回收",
+        "环保",
+        "267D",
+        "U+267D",
+        "Partially-Recycled Paper Symbol",
+        "Miscellaneous Symbols"
+      ],
+      "notes": "♽ 表示“部分回收标志”，通常用于说明产品或包装中含有部分回收材料，或者仅特定部分可以回收处理。这个符号强调部分环保特性，但不代表整体都可循环利用。"
+    }
   ]
 }

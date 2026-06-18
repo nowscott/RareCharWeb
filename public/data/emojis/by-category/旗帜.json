@@ -1,121 +1,3119 @@
 {
   "category": "旗帜",
-  "total": 115,
-  "ids": [
-    "emoji-1f1e8-1f1f3-57",
-    "emoji-1f1fa-1f1f3-58",
-    "emoji-1f38c-59",
-    "emoji-1f3c1-60",
-    "emoji-1f3f3-fe0f-61",
-    "emoji-1f3f3-fe0f-200d-26a7-fe0f-62",
-    "emoji-1f3f3-fe0f-200d-1f308-63",
-    "emoji-1f3f4-64",
-    "emoji-1f3f4-200d-2620-fe0f-65",
-    "emoji-1f6a9-66",
-    "emoji-1f1e6-1f1ea-113",
-    "emoji-1f1e6-1f1eb-114",
-    "emoji-1f1e6-1f1ff-115",
-    "emoji-1f1e7-1f1e9-116",
-    "emoji-1f1e7-1f1ed-117",
-    "emoji-1f1e7-1f1f3-118",
-    "emoji-1f1e7-1f1f9-119",
-    "emoji-1f1ed-1f1f0-120",
-    "emoji-1f1ee-1f1e9-121",
-    "emoji-1f1ee-1f1f1-122",
-    "emoji-1f1ee-1f1f3-123",
-    "emoji-1f1ee-1f1f6-124",
-    "emoji-1f1ee-1f1f7-125",
-    "emoji-1f1ef-1f1f4-126",
-    "emoji-1f1ef-1f1f5-127",
-    "emoji-1f1f0-1f1ec-128",
-    "emoji-1f1f0-1f1ed-129",
-    "emoji-1f1f0-1f1f5-130",
-    "emoji-1f1f0-1f1f7-131",
-    "emoji-1f1f0-1f1fc-132",
-    "emoji-1f1f0-1f1ff-133",
-    "emoji-1f1f1-1f1e6-134",
-    "emoji-1f1f1-1f1e7-135",
-    "emoji-1f1f1-1f1f0-136",
-    "emoji-1f1f2-1f1f2-137",
-    "emoji-1f1f2-1f1f3-138",
-    "emoji-1f1f2-1f1f4-139",
-    "emoji-1f1f2-1f1fb-140",
-    "emoji-1f1f2-1f1fe-141",
-    "emoji-1f1f3-1f1f5-142",
-    "emoji-1f1f4-1f1f2-143",
-    "emoji-1f1f5-1f1ed-144",
-    "emoji-1f1f5-1f1f0-145",
-    "emoji-1f1f5-1f1f8-146",
-    "emoji-1f1f6-1f1e6-147",
-    "emoji-1f1f7-1f1fa-148",
-    "emoji-1f1f8-1f1e6-149",
-    "emoji-1f1f8-1f1ec-150",
-    "emoji-1f1f8-1f1fe-151",
-    "emoji-1f1f9-1f1ed-152",
-    "emoji-1f1f9-1f1ef-153",
-    "emoji-1f1f9-1f1f1-154",
-    "emoji-1f1f9-1f1f2-155",
-    "emoji-1f1f9-1f1f7-156",
-    "emoji-1f1f9-1f1fc-157",
-    "emoji-1f1fa-1f1ff-158",
-    "emoji-1f1fb-1f1f3-159",
-    "emoji-1f1fe-1f1ea-160",
-    "emoji-1f1e6-1f1e9-183",
-    "emoji-1f1e6-1f1f1-184",
-    "emoji-1f1e6-1f1f2-185",
-    "emoji-1f1e6-1f1f9-186",
-    "emoji-1f1e7-1f1e6-187",
-    "emoji-1f1e7-1f1ea-188",
-    "emoji-1f1e7-1f1ec-189",
-    "emoji-1f1e7-1f1fe-190",
-    "emoji-1f1e8-1f1ed-191",
-    "emoji-1f1e8-1f1f6-192",
-    "emoji-1f1e8-1f1fe-193",
-    "emoji-1f1e8-1f1ff-194",
-    "emoji-1f1e9-1f1ea-195",
-    "emoji-1f1e9-1f1f0-196",
-    "emoji-1f1ea-1f1e6-197",
-    "emoji-1f1ea-1f1ea-198",
-    "emoji-1f1ea-1f1f8-199",
-    "emoji-1f1ea-1f1fa-200",
-    "emoji-1f1eb-1f1ee-201",
-    "emoji-1f1eb-1f1f7-202",
-    "emoji-1f1ec-1f1e7-203",
-    "emoji-1f1ec-1f1ea-204",
-    "emoji-1f1ec-1f1ec-205",
-    "emoji-1f1ec-1f1ee-206",
-    "emoji-1f1ec-1f1f7-207",
-    "emoji-1f1ed-1f1f7-208",
-    "emoji-1f1ed-1f1fa-209",
-    "emoji-1f1ee-1f1ea-210",
-    "emoji-1f1ee-1f1f2-211",
-    "emoji-1f1ee-1f1f8-212",
-    "emoji-1f1ee-1f1f9-213",
-    "emoji-1f1ef-1f1ea-214",
-    "emoji-1f1f1-1f1ee-215",
-    "emoji-1f1f1-1f1f9-216",
-    "emoji-1f1f1-1f1fa-217",
-    "emoji-1f1f1-1f1fb-218",
-    "emoji-1f1f2-1f1e8-219",
-    "emoji-1f1f2-1f1e9-220",
-    "emoji-1f1f2-1f1ea-221",
-    "emoji-1f1f2-1f1f0-222",
-    "emoji-1f1f2-1f1f9-223",
-    "emoji-1f1f3-1f1f1-224",
-    "emoji-1f1f3-1f1f4-225",
-    "emoji-1f1f5-1f1f1-226",
-    "emoji-1f1f5-1f1f9-227",
-    "emoji-1f1f7-1f1f4-228",
-    "emoji-1f1f7-1f1f8-229",
-    "emoji-1f1f8-1f1ea-230",
-    "emoji-1f1f8-1f1ee-231",
-    "emoji-1f1f8-1f1f0-232",
-    "emoji-1f1f8-1f1f2-233",
-    "emoji-1f1fa-1f1e6-234",
-    "emoji-1f1fb-1f1e6-235",
-    "emoji-1f1fd-1f1f0-236",
-    "emoji-1f3f4-e0067-e0062-e0065-e006e-e0067-e007f-237",
-    "emoji-1f3f4-e0067-e0062-e0073-e0063-e0074-e007f-238",
-    "emoji-1f3f4-e0067-e0062-e0077-e006c-e0073-e007f-239"
+  "total": 269,
+  "items": [
+    {
+      "id": "emoji-1f1e8-1f1f3-57",
+      "emoji": "🇨🇳",
+      "name": "旗:中国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:中国",
+        "旗帜"
+      ],
+      "text": "中国的国旗，在某些平台上可能显示为字母 CN 。\n\n旗: 中国表情符号是一个flag sequence结合🇨 Regional Indicator Symbol Letter C and 🇳 Regional Indicator Symbol Letter N的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 中国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1fa-1f1f3-58",
+      "emoji": "🇺🇳",
+      "name": "旗:联合国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:联合国",
+        "旗帜"
+      ],
+      "text": "联合国旗帜。可能显示为 UN 字母。这两个字母的区域指示符组合是 ISO 3166 中的一项特殊保留。\n\n旗: 联合国表情符号是一个flag sequence结合🇺 Regional Indicator Symbol Letter U and 🇳 Regional Indicator Symbol Letter N的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 联合国 在 2016 被添加到 Emoji 4.0 中."
+    },
+    {
+      "id": "emoji-1f38c-59",
+      "emoji": "🎌",
+      "name": "交叉旗",
+      "category": "旗帜",
+      "keywords": [
+        "交叉旗",
+        "旗帜"
+      ],
+      "text": "两面日本国旗在底部交叉。不过，一些老款三星设备此前曾显示过两面韩国国旗 ，而最近的华为设备则显示两面韩国国旗均为纯白色 。\n\n交叉旗 在 2010 被批准为 统一码6.0 的一部分，并在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f3c1-60",
+      "emoji": "🏁",
+      "name": "黑白方格旗",
+      "category": "旗帜",
+      "keywords": [
+        "黑白方格旗",
+        "旗帜"
+      ],
+      "text": "黑白方格旗，呈棋盘格图案。用于表示赛车比赛的开始或结束，但最常用于表示比赛中第一辆车已冲过终点线。\n\n黑白方格旗 在 2010 被批准为 \"终点旗\" 名称下的 统一码6.0 的一部分，并在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f3f3-fe0f-61",
+      "emoji": "🏳️",
+      "name": "白旗",
+      "category": "旗帜",
+      "keywords": [
+        "白旗",
+        "旗帜"
+      ],
+      "text": "一面白旗，通常悬挂在柱子上。传统上，这面旗帜象征着投降，但作为表情符号，其含义并不十分明确。\n\n白旗 在 2014 被批准为 \"举白旗\" 名称下的 统一码7.0 的一部分，并在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f3f3-fe0f-200d-26a7-fe0f-62",
+      "emoji": "🏳️‍⚧️",
+      "name": "跨性别旗",
+      "category": "旗帜",
+      "keywords": [
+        "跨性别旗",
+        "旗帜"
+      ],
+      "text": "一面带有水平淡蓝色和淡粉色条纹的旗帜，中间有一条白色条纹，用作跨性别者或跨性别骄傲旗帜，在骄傲活动中很常见。\n\n跨性别旗表情符号是一个ZWJ sequence结合🏳️ 白旗, Zero Width Joiner and ⚧️ 跨性别符号的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n跨性别旗 在 2020 被添加到 Emoji 13.0 中."
+    },
+    {
+      "id": "emoji-1f3f3-fe0f-200d-1f308-63",
+      "emoji": "🏳️‍🌈",
+      "name": "彩虹旗",
+      "category": "旗帜",
+      "keywords": [
+        "彩虹旗",
+        "旗帜"
+      ],
+      "text": "彩虹六色旗，通常包括红、橙、黄、绿、蓝、紫。LGBT 运动通常将其用作同志骄傲旗 ，或简称为骄傲旗 ，并在骄傲游行活动中可见。\n\n2019 年 2 月，关于一个所谓 “反 LGBT 表情符号”的错误信息四处传播，该表情符号可以通过组合字符创建，例如在彩虹旗上方显示黑白字符🚫。在受支持的平台上， 任何表情符号都可以实现此功能，就像键帽组合字符一样。\n\n彩虹旗表情符号是一个ZWJ sequence结合🏳️ 白旗, Zero Width Joiner and 🌈 彩虹的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n彩虹旗 在 2016 被添加到 Emoji 4.0 中."
+    },
+    {
+      "id": "emoji-1f3f4-64",
+      "emoji": "🏴",
+      "name": "黑旗",
+      "category": "旗帜",
+      "keywords": [
+        "黑旗",
+        "旗帜"
+      ],
+      "text": "一面黑色的旗帜在柱子上飘扬。\n\n黑旗 在 2014 被批准为 \"举黑旗\" 名称下的 统一码7.0 的一部分，并在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f3f4-200d-2620-fe0f-65",
+      "emoji": "🏴‍☠️",
+      "name": "海盗旗",
+      "category": "旗帜",
+      "keywords": [
+        "海盗旗",
+        "旗帜"
+      ],
+      "text": "海盗船上使用的黑旗上绘有骷髅和交叉骨头 ，也称为骷髅旗 。\n\n海盗旗表情符号是一个ZWJ sequence结合🏴 黑旗, Zero Width Joiner and ☠️ 骷髅的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n海盗旗 在 2018 被添加到 Emoji 11.0 中."
+    },
+    {
+      "id": "emoji-1f6a9-66",
+      "emoji": "🚩",
+      "name": "三角旗",
+      "category": "旗帜",
+      "keywords": [
+        "三角旗",
+        "旗帜"
+      ],
+      "text": "一根杆子上挂着的三角形红旗。通常与高尔夫相关，如在球洞中的旗子表情符号中所示。也可用来表示红旗这一术语，暗示问题或警告。\n\n三角旗 在 2010 被批准为 统一码6.0 的一部分，并在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e6-1f1ea-113",
+      "emoji": "🇦🇪",
+      "name": "旗:阿拉伯联合酋长国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:阿拉伯联合酋长国",
+        "旗帜"
+      ],
+      "text": "阿拉伯联合酋长国的旗帜，在某些平台上可能显示为字母 AE 。\n\n旗: 阿拉伯联合酋长国表情符号是一个flag sequence结合🇦 Regional Indicator Symbol Letter A and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 阿拉伯联合酋长国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e6-1f1eb-114",
+      "emoji": "🇦🇫",
+      "name": "旗:阿富汗",
+      "category": "旗帜",
+      "keywords": [
+        "旗:阿富汗",
+        "旗帜"
+      ],
+      "text": "阿富汗的国旗，在某些平台上可能显示为字母 AF 。\n\n自 2021 年 8 月起，该旗帜将改为阿富汗伊斯兰共和国的黑、红、绿三色国旗。未来可能会改为塔利班国旗 ，代表阿富汗伊斯兰酋长国 。\n\n🚩 注意：设计未来可能会有所变更，请谨慎使用。\n\n旗: 阿富汗表情符号是一个flag sequence结合🇦 Regional Indicator Symbol Letter A and 🇫 Regional Indicator Symbol Letter F的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 阿富汗 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e6-1f1ff-115",
+      "emoji": "🇦🇿",
+      "name": "旗:阿塞拜疆",
+      "category": "旗帜",
+      "keywords": [
+        "旗:阿塞拜疆",
+        "旗帜"
+      ],
+      "text": "阿塞拜疆的国旗，在某些平台上可能显示为字母 AZ 。\n\n旗: 阿塞拜疆表情符号是一个flag sequence结合🇦 Regional Indicator Symbol Letter A and 🇿 Regional Indicator Symbol Letter Z的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 阿塞拜疆 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1e9-116",
+      "emoji": "🇧🇩",
+      "name": "旗:孟加拉国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:孟加拉国",
+        "旗帜"
+      ],
+      "text": "孟加拉国的国旗，在某些平台上可能显示为字母 BD 。\n\n旗: 孟加拉国表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇩 Regional Indicator Symbol Letter D的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 孟加拉国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1ed-117",
+      "emoji": "🇧🇭",
+      "name": "旗:巴林",
+      "category": "旗帜",
+      "keywords": [
+        "旗:巴林",
+        "旗帜"
+      ],
+      "text": "巴林国旗，在某些平台上可能显示为字母 BH 。\n\n旗: 巴林表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇭 Regional Indicator Symbol Letter H的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 巴林 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1f3-118",
+      "emoji": "🇧🇳",
+      "name": "旗:文莱",
+      "category": "旗帜",
+      "keywords": [
+        "旗:文莱",
+        "旗帜"
+      ],
+      "text": "文莱达鲁萨兰国的国旗，在某些平台上可能显示为字母 BN 。\n\n旗: 文莱表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇳 Regional Indicator Symbol Letter N的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 文莱 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1f9-119",
+      "emoji": "🇧🇹",
+      "name": "旗:不丹",
+      "category": "旗帜",
+      "keywords": [
+        "旗:不丹",
+        "旗帜"
+      ],
+      "text": "不丹的国旗，在某些平台上可能显示为字母 BT 。\n\n旗: 不丹表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇹 Regional Indicator Symbol Letter T的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 不丹 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ed-1f1f0-120",
+      "emoji": "🇭🇰",
+      "name": "旗:中国香港特别行政区",
+      "category": "旗帜",
+      "keywords": [
+        "旗:中国香港特别行政区",
+        "旗帜"
+      ],
+      "text": "香港的旗帜，在某些平台上可能显示为字母 HK 。\n\n旗: 中国香港特别行政区表情符号是一个flag sequence结合🇭 Regional Indicator Symbol Letter H and 🇰 Regional Indicator Symbol Letter K的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 中国香港特别行政区 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1e9-121",
+      "emoji": "🇮🇩",
+      "name": "旗:印度尼西亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:印度尼西亚",
+        "旗帜"
+      ],
+      "text": "印度尼西亚的国旗，在某些平台上可能显示为字母 ID 。\n\n旗: 印度尼西亚表情符号是一个flag sequence结合🇮 Regional Indicator Symbol Letter I and 🇩 Regional Indicator Symbol Letter D的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 印度尼西亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1f1-122",
+      "emoji": "🇮🇱",
+      "name": "旗:以色列",
+      "category": "旗帜",
+      "keywords": [
+        "旗:以色列",
+        "旗帜"
+      ],
+      "text": "以色列的国旗，在某些平台上可能显示为字母 IL 。\n\n旗: 以色列表情符号是一个flag sequence结合🇮 Regional Indicator Symbol Letter I and 🇱 Regional Indicator Symbol Letter L的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 以色列 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1f3-123",
+      "emoji": "🇮🇳",
+      "name": "旗:印度",
+      "category": "旗帜",
+      "keywords": [
+        "旗:印度",
+        "旗帜"
+      ],
+      "text": "印度的国旗，在某些平台上可能显示为字母 IN 。\n\n旗: 印度表情符号是一个flag sequence结合🇮 Regional Indicator Symbol Letter I and 🇳 Regional Indicator Symbol Letter N的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 印度 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1f6-124",
+      "emoji": "🇮🇶",
+      "name": "旗:伊拉克",
+      "category": "旗帜",
+      "keywords": [
+        "旗:伊拉克",
+        "旗帜"
+      ],
+      "text": "伊拉克国旗，在某些平台上可能显示为字母 IQ 。\n\n旗: 伊拉克表情符号是一个flag sequence结合🇮 Regional Indicator Symbol Letter I and 🇶 Regional Indicator Symbol Letter Q的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 伊拉克 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1f7-125",
+      "emoji": "🇮🇷",
+      "name": "旗:伊朗",
+      "category": "旗帜",
+      "keywords": [
+        "旗:伊朗",
+        "旗帜"
+      ],
+      "text": "伊朗的国旗，在某些平台上可能显示为字母 IR 。\n\n旗: 伊朗表情符号是一个flag sequence结合🇮 Regional Indicator Symbol Letter I and 🇷 Regional Indicator Symbol Letter R的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 伊朗 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ef-1f1f4-126",
+      "emoji": "🇯🇴",
+      "name": "旗:约旦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:约旦",
+        "旗帜"
+      ],
+      "text": "约旦的旗帜，在某些平台上可能显示为字母 JO 。\n\n旗: 约旦表情符号是一个flag sequence结合🇯 Regional Indicator Symbol Letter J and 🇴 Regional Indicator Symbol Letter O的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 约旦 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ef-1f1f5-127",
+      "emoji": "🇯🇵",
+      "name": "旗:日本",
+      "category": "旗帜",
+      "keywords": [
+        "旗:日本",
+        "旗帜"
+      ],
+      "text": "日本的国旗，在某些平台上可能显示为字母 JP 。\n\n旗: 日本表情符号是一个flag sequence结合🇯 Regional Indicator Symbol Letter J and 🇵 Regional Indicator Symbol Letter P的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 日本 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f0-1f1ec-128",
+      "emoji": "🇰🇬",
+      "name": "旗:吉尔吉斯斯坦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:吉尔吉斯斯坦",
+        "旗帜"
+      ],
+      "text": "\n2023年末，这面旗帜进行了更新，将之前从中心放射出的波浪形太阳光线拉直。然而，截至2024年12月，尚未有任何一家主流表情符号供应商调整其设计以反映这一变化。他们可能根本不会这样做，因为这种细微的改变在表情符号通常的小尺寸下几乎难以辨别。\n\n旗: 吉尔吉斯斯坦表情符号是一个flag sequence结合🇰 Regional Indicator Symbol Letter K and 🇬 Regional Indicator Symbol Letter G的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 吉尔吉斯斯坦 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f0-1f1ed-129",
+      "emoji": "🇰🇭",
+      "name": "旗:柬埔寨",
+      "category": "旗帜",
+      "keywords": [
+        "旗:柬埔寨",
+        "旗帜"
+      ],
+      "text": "柬埔寨的国旗，在某些平台上可能显示为字母 KH 。\n\n旗: 柬埔寨表情符号是一个flag sequence结合🇰 Regional Indicator Symbol Letter K and 🇭 Regional Indicator Symbol Letter H的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 柬埔寨 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f0-1f1f5-130",
+      "emoji": "🇰🇵",
+      "name": "旗:朝鲜",
+      "category": "旗帜",
+      "keywords": [
+        "旗:朝鲜",
+        "旗帜"
+      ],
+      "text": "朝鲜的国旗，在某些平台上可能显示为字母 KP 。\n\n旗: 朝鲜表情符号是一个flag sequence结合🇰 Regional Indicator Symbol Letter K and 🇵 Regional Indicator Symbol Letter P的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 朝鲜 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f0-1f1f7-131",
+      "emoji": "🇰🇷",
+      "name": "旗:韩国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:韩国",
+        "旗帜"
+      ],
+      "text": "韩国的国旗，在某些平台上可能显示为字母 KR 。\n\n旗: 韩国表情符号是一个flag sequence结合🇰 Regional Indicator Symbol Letter K and 🇷 Regional Indicator Symbol Letter R的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 韩国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f0-1f1fc-132",
+      "emoji": "🇰🇼",
+      "name": "旗:科威特",
+      "category": "旗帜",
+      "keywords": [
+        "旗:科威特",
+        "旗帜"
+      ],
+      "text": "科威特的旗帜，在某些平台上可能显示为字母 KW 。\n\n旗: 科威特表情符号是一个flag sequence结合🇰 Regional Indicator Symbol Letter K and 🇼 Regional Indicator Symbol Letter W的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 科威特 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f0-1f1ff-133",
+      "emoji": "🇰🇿",
+      "name": "旗:哈萨克斯坦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:哈萨克斯坦",
+        "旗帜"
+      ],
+      "text": "哈萨克斯坦的国旗，在某些平台上可能显示为字母 KZ 。\n\n旗: 哈萨克斯坦表情符号是一个flag sequence结合🇰 Regional Indicator Symbol Letter K and 🇿 Regional Indicator Symbol Letter Z的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 哈萨克斯坦 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f1-1f1e6-134",
+      "emoji": "🇱🇦",
+      "name": "旗:老挝",
+      "category": "旗帜",
+      "keywords": [
+        "旗:老挝",
+        "旗帜"
+      ],
+      "text": "老挝的国旗，在某些平台上可能显示为字母 LA 。\n\n旗: 老挝表情符号是一个flag sequence结合🇱 Regional Indicator Symbol Letter L and 🇦 Regional Indicator Symbol Letter A的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 老挝 在 2015 被添加到 Emoji 1.0 中.\n"
+    },
+    {
+      "id": "emoji-1f1f1-1f1e7-135",
+      "emoji": "🇱🇧",
+      "name": "旗:黎巴嫩",
+      "category": "旗帜",
+      "keywords": [
+        "旗:黎巴嫩",
+        "旗帜"
+      ],
+      "text": "黎巴嫩的旗帜，在某些平台上可能显示为字母 LB。\n\n旗: 黎巴嫩表情符号是一个flag sequence结合🇱 Regional Indicator Symbol Letter L and 🇧 Regional Indicator Symbol Letter B的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 黎巴嫩 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f1-1f1f0-136",
+      "emoji": "🇱🇰",
+      "name": "旗:斯里兰卡",
+      "category": "旗帜",
+      "keywords": [
+        "旗:斯里兰卡",
+        "旗帜"
+      ],
+      "text": "斯里兰卡的国旗，在某些平台上可能显示为字母 LK 。\n\n旗: 斯里兰卡表情符号是一个flag sequence结合🇱 Regional Indicator Symbol Letter L and 🇰 Regional Indicator Symbol Letter K的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 斯里兰卡 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1f2-137",
+      "emoji": "🇲🇲",
+      "name": "旗:缅甸",
+      "category": "旗帜",
+      "keywords": [
+        "旗:缅甸",
+        "旗帜"
+      ],
+      "text": "缅甸的国旗，在某些平台上可能显示为字母 MM 。\n\n旗: 缅甸表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 缅甸 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1f3-138",
+      "emoji": "🇲🇳",
+      "name": "旗:蒙古",
+      "category": "旗帜",
+      "keywords": [
+        "旗:蒙古",
+        "旗帜"
+      ],
+      "text": "蒙古的国旗，在某些平台上可能显示为字母 MN 。\n\n旗: 蒙古表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇳 Regional Indicator Symbol Letter N的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 蒙古 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1f4-139",
+      "emoji": "🇲🇴",
+      "name": "旗:中国澳门特别行政区",
+      "category": "旗帜",
+      "keywords": [
+        "旗:中国澳门特别行政区",
+        "旗帜"
+      ],
+      "text": "澳门的旗帜，在某些平台上可能显示为字母 MO 。\n\n旗: 中国澳门特别行政区表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇴 Regional Indicator Symbol Letter O的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 中国澳门特别行政区 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1fb-140",
+      "emoji": "🇲🇻",
+      "name": "旗:马尔代夫",
+      "category": "旗帜",
+      "keywords": [
+        "旗:马尔代夫",
+        "旗帜"
+      ],
+      "text": "马尔代夫的旗帜，在某些平台上可能显示为字母 MV 。\n\n旗: 马尔代夫表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇻 Regional Indicator Symbol Letter V的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 马尔代夫 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1fe-141",
+      "emoji": "🇲🇾",
+      "name": "旗:马来西亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:马来西亚",
+        "旗帜"
+      ],
+      "text": "马来西亚的国旗，在某些平台上可能显示为字母 MY 。\n\n旗: 马来西亚表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇾 Regional Indicator Symbol Letter Y的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 马来西亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f3-1f1f5-142",
+      "emoji": "🇳🇵",
+      "name": "旗:尼泊尔",
+      "category": "旗帜",
+      "keywords": [
+        "旗:尼泊尔",
+        "旗帜"
+      ],
+      "text": "尼泊尔的国旗，在某些平台上可能显示为字母 NP 。\n\n旗: 尼泊尔表情符号是一个flag sequence结合🇳 Regional Indicator Symbol Letter N and 🇵 Regional Indicator Symbol Letter P的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 尼泊尔 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f4-1f1f2-143",
+      "emoji": "🇴🇲",
+      "name": "旗:阿曼",
+      "category": "旗帜",
+      "keywords": [
+        "旗:阿曼",
+        "旗帜"
+      ],
+      "text": "阿曼的旗帜，在某些平台上可能显示为字母 OM 。\n\n旗: 阿曼表情符号是一个flag sequence结合🇴 Regional Indicator Symbol Letter O and 🇲 Regional Indicator Symbol Letter M的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 阿曼 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f5-1f1ed-144",
+      "emoji": "🇵🇭",
+      "name": "旗:菲律宾",
+      "category": "旗帜",
+      "keywords": [
+        "旗:菲律宾",
+        "旗帜"
+      ],
+      "text": "菲律宾的国旗，在某些平台上可能显示为字母 PH 。\n\n旗: 菲律宾表情符号是一个flag sequence结合🇵 Regional Indicator Symbol Letter P and 🇭 Regional Indicator Symbol Letter H的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 菲律宾 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f5-1f1f0-145",
+      "emoji": "🇵🇰",
+      "name": "旗:巴基斯坦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:巴基斯坦",
+        "旗帜"
+      ],
+      "text": "巴基斯坦的国旗，在某些平台上可能显示为字母 PK 。\n\n旗: 巴基斯坦表情符号是一个flag sequence结合🇵 Regional Indicator Symbol Letter P and 🇰 Regional Indicator Symbol Letter K的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 巴基斯坦 在 2015 被添加到 Emoji 1.0 中.\n"
+    },
+    {
+      "id": "emoji-1f1f5-1f1f8-146",
+      "emoji": "🇵🇸",
+      "name": "旗:巴勒斯坦领土",
+      "category": "旗帜",
+      "keywords": [
+        "旗:巴勒斯坦领土",
+        "旗帜"
+      ],
+      "text": "巴勒斯坦国旗，在某些平台上可能显示为字母 P 和 S。\n\n旗: 巴勒斯坦领土表情符号是一个flag sequence结合🇵 Regional Indicator Symbol Letter P and 🇸 Regional Indicator Symbol Letter S的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 巴勒斯坦领土 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f6-1f1e6-147",
+      "emoji": "🇶🇦",
+      "name": "旗:卡塔尔",
+      "category": "旗帜",
+      "keywords": [
+        "旗:卡塔尔",
+        "旗帜"
+      ],
+      "text": "卡塔尔的国旗，在某些平台上可能显示为字母 QA 。\n\n旗: 卡塔尔表情符号是一个flag sequence结合🇶 Regional Indicator Symbol Letter Q and 🇦 Regional Indicator Symbol Letter A的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 卡塔尔 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f7-1f1fa-148",
+      "emoji": "🇷🇺",
+      "name": "旗:俄罗斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗:俄罗斯",
+        "旗帜"
+      ],
+      "text": "俄罗斯的国旗，在某些平台上可能显示为字母 RU 。\n\n旗: 俄罗斯表情符号是一个flag sequence结合🇷 Regional Indicator Symbol Letter R and 🇺 Regional Indicator Symbol Letter U的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 俄罗斯 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f8-1f1e6-149",
+      "emoji": "🇸🇦",
+      "name": "旗:沙特阿拉伯",
+      "category": "旗帜",
+      "keywords": [
+        "旗:沙特阿拉伯",
+        "旗帜"
+      ],
+      "text": "沙特阿拉伯的国旗，在某些平台上可能显示为字母 SA 。\n\n旗: 沙特阿拉伯表情符号是一个flag sequence结合🇸 Regional Indicator Symbol Letter S and 🇦 Regional Indicator Symbol Letter A的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 沙特阿拉伯 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f8-1f1ec-150",
+      "emoji": "🇸🇬",
+      "name": "旗:新加坡",
+      "category": "旗帜",
+      "keywords": [
+        "旗:新加坡",
+        "旗帜"
+      ],
+      "text": "新加坡的国旗，在某些平台上可能显示为字母 SG 。\n\n旗: 新加坡表情符号是一个flag sequence结合🇸 Regional Indicator Symbol Letter S and 🇬 Regional Indicator Symbol Letter G的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 新加坡 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f8-1f1fe-151",
+      "emoji": "🇸🇾",
+      "name": "旗:叙利亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:叙利亚",
+        "旗帜"
+      ],
+      "text": "叙利亚的国旗，在某些平台上可能显示为 SY 字母。\n\n截至 2025 年 4 月，该表情符号在更新的 Apple 和 Samsung 设备上以及 Android 上的 WhatsApp 中显示的是叙利亚全国联盟的旗帜（绿色、白色和黑色的水平三色旗，白色带中有三颗红色五角星）。预计其他平台未来也将 跟进这一变化。\n\n然而，许多其他平台仍然将该表情显示为叙利亚阿拉伯共和国的国旗（红、白、黑水平三色，中央有两颗绿色星星）。\n\n旗: 叙利亚表情符号是一个flag sequence结合🇸 Regional Indicator Symbol Letter S and 🇾 Regional Indicator Symbol Letter Y的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 叙利亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f9-1f1ed-152",
+      "emoji": "🇹🇭",
+      "name": "旗:泰国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:泰国",
+        "旗帜"
+      ],
+      "text": "泰国的国旗，在某些平台上可能显示为字母 TH 。\n\n旗: 泰国表情符号是一个flag sequence结合🇹 Regional Indicator Symbol Letter T and 🇭 Regional Indicator Symbol Letter H的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 泰国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f9-1f1ef-153",
+      "emoji": "🇹🇯",
+      "name": "旗:塔吉克斯坦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:塔吉克斯坦",
+        "旗帜"
+      ],
+      "text": "塔吉克斯坦的国旗，在某些平台上可能显示为字母 TJ 。\n\n旗: 塔吉克斯坦表情符号是一个flag sequence结合🇹 Regional Indicator Symbol Letter T and 🇯 Regional Indicator Symbol Letter J的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 塔吉克斯坦 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f9-1f1f1-154",
+      "emoji": "🇹🇱",
+      "name": "旗:东帝汶",
+      "category": "旗帜",
+      "keywords": [
+        "旗:东帝汶",
+        "旗帜"
+      ],
+      "text": "东帝汶的旗帜，在某些平台上可能显示为字母 TL 。\n\n旗: 东帝汶表情符号是一个flag sequence结合🇹 Regional Indicator Symbol Letter T and 🇱 Regional Indicator Symbol Letter L的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 东帝汶 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f9-1f1f2-155",
+      "emoji": "🇹🇲",
+      "name": "旗:土库曼斯坦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:土库曼斯坦",
+        "旗帜"
+      ],
+      "text": "土库曼斯坦的国旗，在某些平台上可能显示为字母 TM 。\n\n旗: 土库曼斯坦表情符号是一个flag sequence结合🇹 Regional Indicator Symbol Letter T and 🇲 Regional Indicator Symbol Letter M的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 土库曼斯坦 在 2015 被添加到 Emoji 1.0 中.\n"
+    },
+    {
+      "id": "emoji-1f1f9-1f1f7-156",
+      "emoji": "🇹🇷",
+      "name": "旗:土耳其",
+      "category": "旗帜",
+      "keywords": [
+        "旗:土耳其",
+        "旗帜"
+      ],
+      "text": "土耳其 （Türkiye）的国旗，在某些平台上可能显示为字母 TR 。\n\n旗: 土耳其表情符号是一个flag sequence结合🇹 Regional Indicator Symbol Letter T and 🇷 Regional Indicator Symbol Letter R的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 土耳其 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f9-1f1fc-157",
+      "emoji": "🇹🇼",
+      "name": "旗:台湾",
+      "category": "旗帜",
+      "keywords": [
+        "旗:台湾",
+        "旗帜"
+      ],
+      "text": "台湾 （正式名称为中华民国 ）的旗帜，在某些平台上可能显示为字母 TW 。\n\n当地区设置为中国大陆或（截至 iOS 13.1.2）香港或澳门时，此台湾国旗将从 iOS 设备上的表情符号键盘中隐藏。\n\n中国版 iPhone 不会显示此表情符号，而是会显示一个缺失的字符“豆腐”（☒）来代替国旗，地区设置为中国大陆 的 iOS 设备也是如此。只有香港和澳门在表情符号键盘中隐藏了此表情符号 。\n\n中国手机制造商华为创建的表情符号集中也没有这个表情符号——它将呈现为空白。\n\n旗: 台湾表情符号是一个flag sequence结合🇹 Regional Indicator Symbol Letter T and 🇼 Regional Indicator Symbol Letter W的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 台湾 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1fa-1f1ff-158",
+      "emoji": "🇺🇿",
+      "name": "旗:乌兹别克斯坦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:乌兹别克斯坦",
+        "旗帜"
+      ],
+      "text": "乌兹别克斯坦的国旗，在某些平台上可能显示为字母 UZ 。\n\n旗: 乌兹别克斯坦表情符号是一个flag sequence结合🇺 Regional Indicator Symbol Letter U and 🇿 Regional Indicator Symbol Letter Z的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 乌兹别克斯坦 在 2015 被添加到 Emoji 1.0 中.\n"
+    },
+    {
+      "id": "emoji-1f1fb-1f1f3-159",
+      "emoji": "🇻🇳",
+      "name": "旗:越南",
+      "category": "旗帜",
+      "keywords": [
+        "旗:越南",
+        "旗帜"
+      ],
+      "text": "越南的国旗，在某些平台上可能显示为字母 VN 。\n\n旗: 越南表情符号是一个flag sequence结合🇻 Regional Indicator Symbol Letter V and 🇳 Regional Indicator Symbol Letter N的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 越南 在 2015 被添加到 Emoji 1.0 中.\n"
+    },
+    {
+      "id": "emoji-1f1fe-1f1ea-160",
+      "emoji": "🇾🇪",
+      "name": "旗:也门",
+      "category": "旗帜",
+      "keywords": [
+        "旗:也门",
+        "旗帜"
+      ],
+      "text": "也门国旗，在某些平台上可能显示为字母 YE 。\n\n旗: 也门表情符号是一个flag sequence结合🇾 Regional Indicator Symbol Letter Y and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n\n旗: 也门 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e6-1f1e9-183",
+      "emoji": "🇦🇩",
+      "name": "旗:安道尔",
+      "category": "旗帜",
+      "keywords": [
+        "旗:安道尔",
+        "旗帜"
+      ],
+      "text": "安道尔的国旗，在某些平台上可能显示为字母 AD。\n旗: 安道尔表情符号是一个flag sequence结合🇦 Regional Indicator Symbol Letter A and 🇩 Regional Indicator Symbol Letter D的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 安道尔 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e6-1f1f1-184",
+      "emoji": "🇦🇱",
+      "name": "旗:阿尔巴尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:阿尔巴尼亚",
+        "旗帜"
+      ],
+      "text": "阿尔巴尼亚的国旗，在某些平台上可能显示为字母 AL。\n旗: 阿尔巴尼亚表情符号是一个flag sequence结合🇦 Regional Indicator Symbol Letter A and 🇱 Regional Indicator Symbol Letter L的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 阿尔巴尼亚 在 2015 被添加到 Emoji 1.0 中.\n"
+    },
+    {
+      "id": "emoji-1f1e6-1f1f2-185",
+      "emoji": "🇦🇲",
+      "name": "旗:亚美尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:亚美尼亚",
+        "旗帜"
+      ],
+      "text": "亚美尼亚的国旗，在某些平台上可能显示为字母 AM。\n旗: 亚美尼亚表情符号是一个flag sequence结合🇦 Regional Indicator Symbol Letter A and 🇲 Regional Indicator Symbol Letter M的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 亚美尼亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e6-1f1f9-186",
+      "emoji": "🇦🇹",
+      "name": "旗:奥地利",
+      "category": "旗帜",
+      "keywords": [
+        "旗:奥地利",
+        "旗帜"
+      ],
+      "text": "奥地利的国旗，在某些平台上可能显示为字母 AT 。\n旗: 奥地利表情符号是一个flag sequence结合🇦 Regional Indicator Symbol Letter A and 🇹 Regional Indicator Symbol Letter T的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 奥地利 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1e6-187",
+      "emoji": "🇧🇦",
+      "name": "旗:波斯尼亚和黑塞哥维那",
+      "category": "旗帜",
+      "keywords": [
+        "旗:波斯尼亚和黑塞哥维那",
+        "旗帜"
+      ],
+      "text": "波斯尼亚和黑塞哥维那的国旗，在某些平台上可能显示为字母 B 和 A。\n旗: 波斯尼亚和黑塞哥维那表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇦 Regional Indicator Symbol Letter A的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 波斯尼亚和黑塞哥维那 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1ea-188",
+      "emoji": "🇧🇪",
+      "name": "旗:比利时",
+      "category": "旗帜",
+      "keywords": [
+        "旗:比利时",
+        "旗帜"
+      ],
+      "text": "比利时的国旗，在某些平台上可能显示为字母 BE 。\n旗: 比利时表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 比利时 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1ec-189",
+      "emoji": "🇧🇬",
+      "name": "旗:保加利亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:保加利亚",
+        "旗帜"
+      ],
+      "text": "保加利亚的国旗，在某些平台上可能显示为字母 BG 。\n旗: 保加利亚表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇬 Regional Indicator Symbol Letter G的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 保加利亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e7-1f1fe-190",
+      "emoji": "🇧🇾",
+      "name": "旗:白俄罗斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗:白俄罗斯",
+        "旗帜"
+      ],
+      "text": "白俄罗斯的国旗，在某些平台上可能显示为字母 BY 。\n旗: 白俄罗斯表情符号是一个flag sequence结合🇧 Regional Indicator Symbol Letter B and 🇾 Regional Indicator Symbol Letter Y的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 白俄罗斯 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e8-1f1ed-191",
+      "emoji": "🇨🇭",
+      "name": "旗:瑞士",
+      "category": "旗帜",
+      "keywords": [
+        "旗:瑞士",
+        "旗帜"
+      ],
+      "text": "瑞士的国旗，在某些平台上可能显示为字母 CH 。\n这面旗帜是红色的，中间有一个白色的十字架。与大多数全局标志不同，它是方形的，而不是矩形的。\n最初，大多数供应商将此标志显示为矩形，与其他表情符号标志一致，但今天大多数供应商都以其准确的真实形状显示该标志。\n旗: 瑞士表情符号是一个flag sequence结合🇨 Regional Indicator Symbol Letter C and 🇭 Regional Indicator Symbol Letter H的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 瑞士 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e8-1f1f6-192",
+      "emoji": "🇨🇶",
+      "name": "旗:萨克",
+      "category": "旗帜",
+      "keywords": [
+        "旗:萨克",
+        "旗帜"
+      ],
+      "text": "ark 的“特别保留”ISO 3166 代码， 在某些平台上可能显示为字母 CQ 。\nSark 的标志是自 Unicode 于 2015 年首次通过 Emoji 1.0 正式批准表情符号标志以来，第一个被 Unicode 推荐的使用两个字母 ISO 代码的标志表情符号序列。\nFlag: Sark表情符号是一个flag sequence结合🇨 Regional Indicator Symbol Letter C and 🇶 Regional Indicator Symbol Letter Q的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\nFlag: Sark 在 2024 被添加到 Emoji 16.0 中."
+    },
+    {
+      "id": "emoji-1f1e8-1f1fe-193",
+      "emoji": "🇨🇾",
+      "name": "旗:塞浦路斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗:塞浦路斯",
+        "旗帜"
+      ],
+      "text": "塞浦路斯的国旗，在某些平台上可能显示为字母 CY 。\n旗: 塞浦路斯表情符号是一个flag sequence结合🇨 Regional Indicator Symbol Letter C and 🇾 Regional Indicator Symbol Letter Y的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 塞浦路斯 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e8-1f1ff-194",
+      "emoji": "🇨🇿",
+      "name": "旗:捷克",
+      "category": "旗帜",
+      "keywords": [
+        "旗:捷克",
+        "旗帜"
+      ],
+      "text": "捷克的国旗，在某些平台上可能会显示为字母 CZ 。 也被称为  捷克共和国 。\n旗: 捷克表情符号是一个flag sequence结合🇨 Regional Indicator Symbol Letter C and 🇿 Regional Indicator Symbol Letter Z的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 捷克 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e9-1f1ea-195",
+      "emoji": "🇩🇪",
+      "name": "旗:德国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:德国",
+        "旗帜"
+      ],
+      "text": "德国国旗，在某些平台上可能显示为字母 DE \n旗: 德国表情符号是一个flag sequence结合🇩 Regional Indicator Symbol Letter D and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 德国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1e9-1f1f0-196",
+      "emoji": "🇩🇰",
+      "name": "旗:丹麦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:丹麦",
+        "旗帜"
+      ],
+      "text": "丹麦的国旗，在某些平台上可能会显示为字母 DK 。\n旗: 丹麦表情符号是一个flag sequence结合🇩 Regional Indicator Symbol Letter D and 🇰 Regional Indicator Symbol Letter K的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 丹麦 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ea-1f1e6-197",
+      "emoji": "🇪🇦",
+      "name": "旗:休达及梅利利亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:休达及梅利利亚",
+        "旗帜"
+      ],
+      "text": "Ceuta， Melilla 的标志，在某些平台上可能显示为字母 EA。使用与西班牙相同的国旗。\n旗: 休达及梅利利亚表情符号是一个flag sequence结合🇪 Regional Indicator Symbol Letter E and 🇦 Regional Indicator Symbol Letter A的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 休达及梅利利亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ea-1f1ea-198",
+      "emoji": "🇪🇪",
+      "name": "旗:爱沙尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:爱沙尼亚",
+        "旗帜"
+      ],
+      "text": "爱沙尼亚的国旗，在某些平台上可能显示为字母 EE 。\n旗: 爱沙尼亚表情符号是一个flag sequence结合🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 爱沙尼亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ea-1f1f8-199",
+      "emoji": "🇪🇸",
+      "name": "旗:西班牙",
+      "category": "旗帜",
+      "keywords": [
+        "旗:西班牙",
+        "旗帜"
+      ],
+      "text": "西班牙的国旗，在某些平台上可能显示为字母 ES 。\n旗: 西班牙表情符号是一个flag sequence结合🇪 Regional Indicator Symbol Letter E and 🇸 Regional Indicator Symbol Letter S的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 西班牙 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ea-1f1fa-200",
+      "emoji": "🇪🇺",
+      "name": "旗:欧盟",
+      "category": "旗帜",
+      "keywords": [
+        "旗:欧盟",
+        "旗帜"
+      ],
+      "text": "欧盟的国旗， 在某些平台上可能显示为字母 EU 。\n旗: 欧盟表情符号是一个flag sequence结合🇪 Regional Indicator Symbol Letter E and 🇺 Regional Indicator Symbol Letter U的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 欧盟 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1eb-1f1ee-201",
+      "emoji": "🇫🇮",
+      "name": "旗:芬兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗:芬兰",
+        "旗帜"
+      ],
+      "text": "芬兰的国旗，在某些平台上可能显示为字母 FI 。\n🇫🇮 芬兰国旗 Emoji\n旗: 芬兰表情符号是一个flag sequence结合🇫 Regional Indicator Symbol Letter F and 🇮 Regional Indicator Symbol Letter I的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 芬兰 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1eb-1f1f7-202",
+      "emoji": "🇫🇷",
+      "name": "旗:法国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:法国",
+        "旗帜"
+      ],
+      "text": "法国的国旗，在某些平台上可能会显示为字母 FR 。\n旗: 法国表情符号是一个flag sequence结合🇫 Regional Indicator Symbol Letter F and 🇷 Regional Indicator Symbol Letter R的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 法国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ec-1f1e7-203",
+      "emoji": "🇬🇧",
+      "name": "旗:英国",
+      "category": "旗帜",
+      "keywords": [
+        "旗:英国",
+        "旗帜"
+      ],
+      "text": "英国的国旗，在某些平台上可能显示为字母 GB 。  英格兰 、 苏格兰和威尔士  也有单独的表情符号 标志。\n旗: 英国表情符号是一个flag sequence结合🇬 Regional Indicator Symbol Letter G and 🇧 Regional Indicator Symbol Letter B的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 英国 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ec-1f1ea-204",
+      "emoji": "🇬🇪",
+      "name": "旗:格鲁吉亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:格鲁吉亚",
+        "旗帜"
+      ],
+      "text": "格鲁吉亚的国旗，在某些平台上可能显示为字母 GE 。\n旗: 格鲁吉亚表情符号是一个flag sequence结合🇬 Regional Indicator Symbol Letter G and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 格鲁吉亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ec-1f1ec-205",
+      "emoji": "🇬🇬",
+      "name": "旗:根西岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗:根西岛",
+        "旗帜"
+      ],
+      "text": "根西岛的国旗，在某些平台上可能显示为字母 GG 。\n旗: 根西岛表情符号是一个flag sequence结合🇬 Regional Indicator Symbol Letter G的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 根西岛 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ec-1f1ee-206",
+      "emoji": "🇬🇮",
+      "name": "旗:直布罗陀",
+      "category": "旗帜",
+      "keywords": [
+        "旗:直布罗陀",
+        "旗帜"
+      ],
+      "text": "直布罗陀的标志，在某些平台上可能显示为字母 GI 。\n旗: 直布罗陀表情符号是一个flag sequence结合🇬 Regional Indicator Symbol Letter G and 🇮 Regional Indicator Symbol Letter I的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 直布罗陀 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ec-1f1f7-207",
+      "emoji": "🇬🇷",
+      "name": "旗:希腊",
+      "category": "旗帜",
+      "keywords": [
+        "旗:希腊",
+        "旗帜"
+      ],
+      "text": "希腊的国旗，在某些平台上可能显示为字母 GR 。\n旗: 希腊表情符号是一个flag sequence结合🇬 Regional Indicator Symbol Letter G and 🇷 Regional Indicator Symbol Letter R的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 希腊 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ed-1f1f7-208",
+      "emoji": "🇭🇷",
+      "name": "旗:克罗地亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:克罗地亚",
+        "旗帜"
+      ],
+      "text": "克罗地亚的国旗，在某些平台上可能显示为字母 HR 。\n旗: 克罗地亚表情符号是一个flag sequence结合🇭 Regional Indicator Symbol Letter H and 🇷 Regional Indicator Symbol Letter R的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 克罗地亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ed-1f1fa-209",
+      "emoji": "🇭🇺",
+      "name": "旗:匈牙利",
+      "category": "旗帜",
+      "keywords": [
+        "旗:匈牙利",
+        "旗帜"
+      ],
+      "text": "\n旗: 匈牙利表情符号是一个flag sequence结合🇭 Regional Indicator Symbol Letter H and 🇺 Regional Indicator Symbol Letter U的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 匈牙利 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1ea-210",
+      "emoji": "🇮🇪",
+      "name": "旗:爱尔兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗:爱尔兰",
+        "旗帜"
+      ],
+      "text": "爱尔兰的国旗，在某些平台上可能显示为字母 IE 。\n通常在圣帕特里克节使用，但有时 科特迪瓦会被误认为是这面旗帜。\n旗： 爱尔兰表情符号是一个 flag sequence 结合 🇮 Regional Indicator Symbol Letter I and 🇪 Regional Indicator Symbol Letter E 的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 爱尔兰 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1f2-211",
+      "emoji": "🇮🇲",
+      "name": "旗:马恩岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗:马恩岛",
+        "旗帜"
+      ],
+      "text": "马恩岛的国旗， 在某些平台上可能显示为字母 IM 。\n旗: 马恩岛表情符号是一个flag sequence结合🇮 Regional Indicator Symbol Letter I and 🇲 Regional Indicator Symbol Letter M的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 马恩岛 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1f8-212",
+      "emoji": "🇮🇸",
+      "name": "旗:冰岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗:冰岛",
+        "旗帜"
+      ],
+      "text": "冰岛的国旗，在某些平台上可能会显示为字母 IS 。\n旗： 冰岛表情符号是一个 flag sequence 结合 🇮 Regional Indicator Symbol Letter I and 🇸 Regional Indicator Symbol Letter S 的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 冰岛 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ee-1f1f9-213",
+      "emoji": "🇮🇹",
+      "name": "旗:意大利",
+      "category": "旗帜",
+      "keywords": [
+        "旗:意大利",
+        "旗帜"
+      ],
+      "text": "意大利的国旗，在某些平台上可能会显示为字母 IT 。\n旗: 意大利表情符号是一个flag sequence结合🇮 Regional Indicator Symbol Letter I and 🇹 Regional Indicator Symbol Letter T的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 意大利 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1ef-1f1ea-214",
+      "emoji": "🇯🇪",
+      "name": "旗:泽西岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗:泽西岛",
+        "旗帜"
+      ],
+      "text": "泽西岛的标志，在某些平台上可能显示为字母 JE 。\n旗: 泽西岛表情符号是一个flag sequence结合🇯 Regional Indicator Symbol Letter J and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 泽西岛 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f1-1f1ee-215",
+      "emoji": "🇱🇮",
+      "name": "旗:列支敦士登",
+      "category": "旗帜",
+      "keywords": [
+        "旗:列支敦士登",
+        "旗帜"
+      ],
+      "text": "列支敦士登的国旗，在某些平台上可能显示为字母 LI 。\n旗: 列支敦士登表情符号是一个flag sequence结合🇱 Regional Indicator Symbol Letter L and 🇮 Regional Indicator Symbol Letter I的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 列支敦士登 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f1-1f1f9-216",
+      "emoji": "🇱🇹",
+      "name": "旗:立陶宛",
+      "category": "旗帜",
+      "keywords": [
+        "旗:立陶宛",
+        "旗帜"
+      ],
+      "text": "\n立陶宛的国旗，在某些平台上可能显示为字母 LT 。\n旗： 立陶宛表情符号是一个 flag sequence 结合 🇱 Regional Indicator Symbol Letter L and 🇹 Regional Indicator Symbol Letter T 的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 立陶宛 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f1-1f1fa-217",
+      "emoji": "🇱🇺",
+      "name": "旗:卢森堡",
+      "category": "旗帜",
+      "keywords": [
+        "旗:卢森堡",
+        "旗帜"
+      ],
+      "text": "卢森堡的国旗，在某些平台上可能显示为字母 LU \n旗： 卢森堡表情符号是一个 flag sequence 结合 🇱 Regional Indicator Symbol Letter L and 🇺 Regional Indicator Symbol Letter U 的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 卢森堡 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f1-1f1fb-218",
+      "emoji": "🇱🇻",
+      "name": "旗:拉脱维亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:拉脱维亚",
+        "旗帜"
+      ],
+      "text": "拉脱维亚的国旗，在某些平台上可能显示为字母 LV 。\n旗: 拉脱维亚表情符号是一个flag sequence结合🇱 Regional Indicator Symbol Letter L and 🇻 Regional Indicator Symbol Letter V的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 拉脱维亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1e8-219",
+      "emoji": "🇲🇨",
+      "name": "旗:摩纳哥",
+      "category": "旗帜",
+      "keywords": [
+        "旗:摩纳哥",
+        "旗帜"
+      ],
+      "text": "摩纳哥的国旗，在某些平台上可能会显示为字母 MC 。\n旗: 摩纳哥表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇨 Regional Indicator Symbol Letter C的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 摩纳哥 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1e9-220",
+      "emoji": "🇲🇩",
+      "name": "旗:摩尔多瓦",
+      "category": "旗帜",
+      "keywords": [
+        "旗:摩尔多瓦",
+        "旗帜"
+      ],
+      "text": "摩尔多瓦的国旗，在某些平台上可能显示为字母 MD 。\n旗: 摩尔多瓦表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇩 Regional Indicator Symbol Letter D的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 摩尔多瓦 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1ea-221",
+      "emoji": "🇲🇪",
+      "name": "旗:黑山",
+      "category": "旗帜",
+      "keywords": [
+        "旗:黑山",
+        "旗帜"
+      ],
+      "text": "黑山国旗，在某些平台上可能显示为字母 ME \n旗: 黑山表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 黑山 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1f0-222",
+      "emoji": "🇲🇰",
+      "name": "旗:北马其顿",
+      "category": "旗帜",
+      "keywords": [
+        "旗:北马其顿",
+        "旗帜"
+      ],
+      "text": "北 马其顿  （2019 年之前： 马其顿 ）的国旗，在某些平台上可能会显示为字母 MK 。\n在红色背景上显示一个风格化的黄色太阳，其中有八条光线从中心延伸到每条边。\n旗： 北马其顿表情符号是一个 flag sequence 结合 🇲 Regional Indicator Symbol Letter M and 🇰 Regional Indicator Symbol Letter K 的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 北马其顿 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f2-1f1f9-223",
+      "emoji": "🇲🇹",
+      "name": "旗:马耳他",
+      "category": "旗帜",
+      "keywords": [
+        "旗:马耳他",
+        "旗帜"
+      ],
+      "text": "马耳他的旗帜，在某些平台上可能显示为字母 MT 。\n旗: 马耳他表情符号是一个flag sequence结合🇲 Regional Indicator Symbol Letter M and 🇹 Regional Indicator Symbol Letter T的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 马耳他 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f3-1f1f1-224",
+      "emoji": "🇳🇱",
+      "name": "旗:荷兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗:荷兰",
+        "旗帜"
+      ],
+      "text": "荷兰的国旗，在某些平台上可能显示为字母 NL 。\n旗：荷兰表情符号是一个标志序列结合 🇳区域指示符号字母 N 和 🇱区域指示符号字母 L 的表情符号。这些在受支持的平台上显示为一个单一的表情符号。\n旗: 荷兰 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f3-1f1f4-225",
+      "emoji": "🇳🇴",
+      "name": "旗:挪威",
+      "category": "旗帜",
+      "keywords": [
+        "旗:挪威",
+        "旗帜"
+      ],
+      "text": "挪威的国旗，在某些平台上可能显示为字母 NO 。\n旗: 挪威表情符号是一个flag sequence结合🇳 Regional Indicator Symbol Letter N and 🇴 Regional Indicator Symbol Letter O的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 挪威 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f5-1f1f1-226",
+      "emoji": "🇵🇱",
+      "name": "旗:波兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗:波兰",
+        "旗帜"
+      ],
+      "text": "波兰的国旗，在某些平台上可能显示为字母 PL 。\n旗: 波兰表情符号是一个标志序列结合 🇵区域指示符号字母 P 和 🇱区域指示符号字母 L 的表情符号。这些在受支持的平台上显示为一个单一的表情符号。\n旗: 波兰 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f5-1f1f9-227",
+      "emoji": "🇵🇹",
+      "name": "旗:葡萄牙",
+      "category": "旗帜",
+      "keywords": [
+        "旗:葡萄牙",
+        "旗帜"
+      ],
+      "text": "葡萄牙的国旗，在某些平台上可能显示为字母 PT 。\n旗: 葡萄牙表情符号是一个标志序列结合 🇵区域指示符号字母 P 和 🇹区域指示符号字母 T 的表情符号。这些在受支持的平台上显示为一个单一的表情符号。\n旗: 葡萄牙 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f7-1f1f4-228",
+      "emoji": "🇷🇴",
+      "name": "旗:罗马尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:罗马尼亚",
+        "旗帜"
+      ],
+      "text": "马尼亚的国旗，在某些平台上可能显示为字母 RO 。\n旗: 罗马尼亚表情符号是一个flag sequence结合🇷 Regional Indicator Symbol Letter R and 🇴 Regional Indicator Symbol Letter O的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 罗马尼亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f7-1f1f8-229",
+      "emoji": "🇷🇸",
+      "name": "旗:塞尔维亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:塞尔维亚",
+        "旗帜"
+      ],
+      "text": "塞尔维亚的国旗，在某些平台上可能显示为字母 RS 。\n旗: 塞尔维亚表情符号是一个标志序列结合 🇷区域指示符号字母 R 和 🇸区域指示符号字母 S 的表情符号。这些在受支持的平台上显示为一个单一的表情符号。\n旗: 塞尔维亚 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f8-1f1ea-230",
+      "emoji": "🇸🇪",
+      "name": "旗:瑞典",
+      "category": "旗帜",
+      "keywords": [
+        "旗:瑞典",
+        "旗帜"
+      ],
+      "text": "瑞典的国旗，在某些平台上可能显示为字母 SE 。\n旗: 瑞典表情符号是一个flag sequence结合🇸 Regional Indicator Symbol Letter S and 🇪 Regional Indicator Symbol Letter E的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 瑞典 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f8-1f1ee-231",
+      "emoji": "🇸🇮",
+      "name": "旗:斯洛文尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗:斯洛文尼亚",
+        "旗帜"
+      ],
+      "text": "斯洛文尼亚的国旗，在某些平台上可能显示为字母 SI 。\n旗: 斯洛文尼亚表情符号是一个flag sequence结合🇸 Regional Indicator Symbol Letter S and 🇮 Regional Indicator Symbol Letter I的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 斯洛文尼亚 在 2015 被添加到 Emoji 1.0 中.\n"
+    },
+    {
+      "id": "emoji-1f1f8-1f1f0-232",
+      "emoji": "🇸🇰",
+      "name": "旗:斯洛伐克",
+      "category": "旗帜",
+      "keywords": [
+        "旗:斯洛伐克",
+        "旗帜"
+      ],
+      "text": "斯洛伐克的国旗，在某些平台上可能显示为字母 SK 。\n旗: 斯洛伐克表情符号是一个标志序列结合 🇸区域指示符号字母 S 和 🇰区域指示符号字母 K 的表情符号。这些在受支持的平台上显示为一个单一的表情符号。\n旗: 斯洛伐克 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1f8-1f1f2-233",
+      "emoji": "🇸🇲",
+      "name": "旗:圣马力诺",
+      "category": "旗帜",
+      "keywords": [
+        "旗:圣马力诺",
+        "旗帜"
+      ],
+      "text": "圣马力诺的旗帜，在某些平台上可能显示为字母 SM 。\n旗: 圣马力诺表情符号是一个标志序列结合 🇸区域指示符号字母 S 和 🇲 区域指示符号字母 M 的表情符号。这些在受支持的平台上显示为一个单一的表情符号。\n旗: 圣马力诺 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1fa-1f1e6-234",
+      "emoji": "🇺🇦",
+      "name": "旗:乌克兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗:乌克兰",
+        "旗帜"
+      ],
+      "text": "乌克兰的国旗，在某些平台上可能显示为字母 UA 。\n旗: 乌克兰表情符号是一个标志序列结合 🇺区域指示符号字母 U 和 🇦区域指示符号字母 A 的表情符号。这些在受支持的平台上显示为一个单一的表情符号。\n旗: 乌克兰 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1fb-1f1e6-235",
+      "emoji": "🇻🇦",
+      "name": "旗:梵蒂冈",
+      "category": "旗帜",
+      "keywords": [
+        "旗:梵蒂冈",
+        "旗帜"
+      ],
+      "text": "梵蒂冈城的旗帜，在某些平台上可能显示为字母 VA 。\n旗: 梵蒂冈表情符号是一个flag sequence结合🇻 Regional Indicator Symbol Letter V and 🇦 Regional Indicator Symbol Letter A的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 梵蒂冈 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f1fd-1f1f0-236",
+      "emoji": "🇽🇰",
+      "name": "旗:科索沃",
+      "category": "旗帜",
+      "keywords": [
+        "旗:科索沃",
+        "旗帜"
+      ],
+      "text": "科索沃的国旗，在某些平台上可能显示为字母 XK 。\n旗: 科索沃表情符号是一个flag sequence结合🇽 Regional Indicator Symbol Letter X and 🇰 Regional Indicator Symbol Letter K的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 科索沃 在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "emoji-1f3f4-e0067-e0062-e0065-e006e-e0067-e007f-237",
+      "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "name": "旗:英格兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗:英格兰",
+        "旗帜"
+      ],
+      "text": "英国的国旗。可能显示为字母 “gbeng”。\n旗: § 英格兰表情符号是一个标签序列结合🏴 黑旗 , § 标签拉丁小写字母 G , § 标签拉丁小写字母 B , § 标签拉丁小写字母 E , § 标签拉丁小写字母 N 和取消标签的表情符号。这些在受支持的平台上显示为一个的表情符号。\n旗: 英格兰 在 2017 被添加到 Emoji 5.0 中."
+    },
+    {
+      "id": "emoji-1f3f4-e0067-e0062-e0073-e0063-e0074-e007f-238",
+      "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "name": "旗:苏格兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗:苏格兰",
+        "旗帜"
+      ],
+      "text": "英国苏格兰的国旗。可能显示为字母 gbsct。\n旗: 苏格兰表情符号是一个tag sequence结合🏴 黑旗, 󠁧 Tag Latin Small Letter G, 󠁢 Tag Latin Small Letter B, 󠁳 Tag Latin Small Letter S, 󠁣 Tag Latin Small Letter C, 󠁴 Tag Latin Small Letter T and 󠁿 Cancel Tag的表情符号。 这些在受支持的平台上显示为一个单一的表情符号。\n旗: 苏格兰 在 2017 被添加到 Emoji 5.0 中."
+    },
+    {
+      "id": "emoji-1f3f4-e0067-e0062-e0077-e006c-e0073-e007f-239",
+      "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "name": "旗:威尔士",
+      "category": "旗帜",
+      "keywords": [
+        "旗:威尔士",
+        "旗帜"
+      ],
+      "text": "英国威尔士的国旗。可能显示为字母 gbwls。\n旗: 威尔士表情符号是一个标签序列结合🏴 黑旗 , § 标签拉丁小写字母 G , § 标签拉丁小写字母 B , § 标签拉丁小写字母 W , § 标签拉丁小写字母 L , § 标签拉丁小写字母 S 和 Ÿ 取消标签的表情符号。这些在受支持的平台上单独显示为一个表情符号。\n旗: 威尔士 在 2017 被添加到 Emoji 5.0 中."
+    },
+    {
+      "id": "emoji-1f1e6-1f1f4-499",
+      "emoji": "🇦🇴",
+      "name": "旗: 安哥拉",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 安哥拉",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 安哥拉」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1eb-500",
+      "emoji": "🇧🇫",
+      "name": "旗: 布基纳法索",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 布基纳法索",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 布基纳法索」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1ee-501",
+      "emoji": "🇧🇮",
+      "name": "旗: 布隆迪",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 布隆迪",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 布隆迪」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1ef-502",
+      "emoji": "🇧🇯",
+      "name": "旗: 贝宁",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 贝宁",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 贝宁」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1fc-503",
+      "emoji": "🇧🇼",
+      "name": "旗: 博茨瓦纳",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 博茨瓦纳",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 博茨瓦纳」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1e9-504",
+      "emoji": "🇨🇩",
+      "name": "旗: 刚果（金）",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 刚果（金）",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 刚果（金）」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1eb-505",
+      "emoji": "🇨🇫",
+      "name": "旗: 中非共和国",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 中非共和国",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 中非共和国」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1ec-506",
+      "emoji": "🇨🇬",
+      "name": "旗: 刚果（布）",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 刚果（布）",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 刚果（布）」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1ee-507",
+      "emoji": "🇨🇮",
+      "name": "旗: 科特迪瓦",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 科特迪瓦",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 科特迪瓦」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1f2-508",
+      "emoji": "🇨🇲",
+      "name": "旗: 喀麦隆",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 喀麦隆",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 喀麦隆」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1fb-509",
+      "emoji": "🇨🇻",
+      "name": "旗: 佛得角",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 佛得角",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 佛得角」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e9-1f1ef-510",
+      "emoji": "🇩🇯",
+      "name": "旗: 吉布提",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 吉布提",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 吉布提」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e9-1f1ff-511",
+      "emoji": "🇩🇿",
+      "name": "旗: 阿尔及利亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 阿尔及利亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 阿尔及利亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ea-1f1ec-512",
+      "emoji": "🇪🇬",
+      "name": "旗: 埃及",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 埃及",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 埃及」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ea-1f1ed-513",
+      "emoji": "🇪🇭",
+      "name": "旗: 西撒哈拉",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 西撒哈拉",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 西撒哈拉」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ea-1f1f7-514",
+      "emoji": "🇪🇷",
+      "name": "旗: 厄立特里亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 厄立特里亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 厄立特里亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ea-1f1f9-515",
+      "emoji": "🇪🇹",
+      "name": "旗: 埃塞俄比亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 埃塞俄比亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 埃塞俄比亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1e6-516",
+      "emoji": "🇬🇦",
+      "name": "旗: 加蓬",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 加蓬",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 加蓬」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1ed-517",
+      "emoji": "🇬🇭",
+      "name": "旗: 加纳",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 加纳",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 加纳」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1f2-518",
+      "emoji": "🇬🇲",
+      "name": "旗: 冈比亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 冈比亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 冈比亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1f3-519",
+      "emoji": "🇬🇳",
+      "name": "旗: 几内亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 几内亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 几内亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1f6-520",
+      "emoji": "🇬🇶",
+      "name": "旗: 赤道几内亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 赤道几内亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 赤道几内亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1fc-521",
+      "emoji": "🇬🇼",
+      "name": "旗: 几内亚比绍",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 几内亚比绍",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 几内亚比绍」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f0-1f1ea-522",
+      "emoji": "🇰🇪",
+      "name": "旗: 肯尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 肯尼亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 肯尼亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f0-1f1f2-523",
+      "emoji": "🇰🇲",
+      "name": "旗: 科摩罗",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 科摩罗",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 科摩罗」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f1-1f1f7-524",
+      "emoji": "🇱🇷",
+      "name": "旗: 利比里亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 利比里亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 利比里亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f1-1f1f8-525",
+      "emoji": "🇱🇸",
+      "name": "旗: 莱索托",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 莱索托",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 莱索托」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f1-1f1fe-526",
+      "emoji": "🇱🇾",
+      "name": "旗: 利比亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 利比亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 利比亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1e6-527",
+      "emoji": "🇲🇦",
+      "name": "旗: 摩洛哥",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 摩洛哥",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 摩洛哥」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1ec-528",
+      "emoji": "🇲🇬",
+      "name": "旗: 马达加斯加",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 马达加斯加",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 马达加斯加」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1f1-529",
+      "emoji": "🇲🇱",
+      "name": "旗: 马里",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 马里",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 马里」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1f7-530",
+      "emoji": "🇲🇷",
+      "name": "旗: 毛里塔尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 毛里塔尼亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 毛里塔尼亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1fa-531",
+      "emoji": "🇲🇺",
+      "name": "旗: 毛里求斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 毛里求斯",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 毛里求斯」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1fc-532",
+      "emoji": "🇲🇼",
+      "name": "旗: 马拉维",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 马拉维",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 马拉维」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1ff-533",
+      "emoji": "🇲🇿",
+      "name": "旗: 莫桑比克",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 莫桑比克",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 莫桑比克」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1e6-534",
+      "emoji": "🇳🇦",
+      "name": "旗: 纳米比亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 纳米比亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 纳米比亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1ea-535",
+      "emoji": "🇳🇪",
+      "name": "旗: 尼日尔",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 尼日尔",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 尼日尔」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1ec-536",
+      "emoji": "🇳🇬",
+      "name": "旗: 尼日利亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 尼日利亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 尼日利亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f7-1f1fc-537",
+      "emoji": "🇷🇼",
+      "name": "旗: 卢旺达",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 卢旺达",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 卢旺达」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1e8-538",
+      "emoji": "🇸🇨",
+      "name": "旗: 塞舌尔",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 塞舌尔",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 塞舌尔」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1e9-539",
+      "emoji": "🇸🇩",
+      "name": "旗: 苏丹",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 苏丹",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 苏丹」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1f1-540",
+      "emoji": "🇸🇱",
+      "name": "旗: 塞拉利昂",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 塞拉利昂",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 塞拉利昂」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1f3-541",
+      "emoji": "🇸🇳",
+      "name": "旗: 塞内加尔",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 塞内加尔",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 塞内加尔」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1f4-542",
+      "emoji": "🇸🇴",
+      "name": "旗: 索马里",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 索马里",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 索马里」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1f8-543",
+      "emoji": "🇸🇸",
+      "name": "旗: 南苏丹",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 南苏丹",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 南苏丹」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1ff-544",
+      "emoji": "🇸🇿",
+      "name": "旗: 斯威士兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 斯威士兰",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 斯威士兰」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1e9-545",
+      "emoji": "🇹🇩",
+      "name": "旗: 乍得",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 乍得",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 乍得」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1ec-546",
+      "emoji": "🇹🇬",
+      "name": "旗: 多哥",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 多哥",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 多哥」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1f3-547",
+      "emoji": "🇹🇳",
+      "name": "旗: 突尼斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 突尼斯",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 突尼斯」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1ff-548",
+      "emoji": "🇹🇿",
+      "name": "旗: 坦桑尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 坦桑尼亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 坦桑尼亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fa-1f1ec-549",
+      "emoji": "🇺🇬",
+      "name": "旗: 乌干达",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 乌干达",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 乌干达」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ff-1f1e6-550",
+      "emoji": "🇿🇦",
+      "name": "旗: 南非",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 南非",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 南非」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ff-1f1f2-551",
+      "emoji": "🇿🇲",
+      "name": "旗: 赞比亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 赞比亚",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 赞比亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ff-1f1fc-552",
+      "emoji": "🇿🇼",
+      "name": "旗: 津巴布韦",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 津巴布韦",
+        "非洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 津巴布韦」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1ec-553",
+      "emoji": "🇦🇬",
+      "name": "旗: 安提瓜和巴布达",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 安提瓜和巴布达",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 安提瓜和巴布达」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1ee-554",
+      "emoji": "🇦🇮",
+      "name": "旗: 安圭拉",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 安圭拉",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 安圭拉」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1f7-555",
+      "emoji": "🇦🇷",
+      "name": "旗: 阿根廷",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 阿根廷",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 阿根廷」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1fc-556",
+      "emoji": "🇦🇼",
+      "name": "旗: 阿鲁巴",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 阿鲁巴",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 阿鲁巴」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1e7-557",
+      "emoji": "🇧🇧",
+      "name": "旗: 巴巴多斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 巴巴多斯",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 巴巴多斯」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1f1-558",
+      "emoji": "🇧🇱",
+      "name": "旗: 圣巴泰勒米",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣巴泰勒米",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣巴泰勒米」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1f2-559",
+      "emoji": "🇧🇲",
+      "name": "旗: 百慕大",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 百慕大",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 百慕大」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1f4-560",
+      "emoji": "🇧🇴",
+      "name": "旗: 玻利维亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 玻利维亚",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 玻利维亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1f6-561",
+      "emoji": "🇧🇶",
+      "name": "旗: 荷属加勒比区",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 荷属加勒比区",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 荷属加勒比区」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1f7-562",
+      "emoji": "🇧🇷",
+      "name": "旗: 巴西",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 巴西",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 巴西」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1f8-563",
+      "emoji": "🇧🇸",
+      "name": "旗: 巴哈马",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 巴哈马",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 巴哈马」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1ff-564",
+      "emoji": "🇧🇿",
+      "name": "旗: 伯利兹",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 伯利兹",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 伯利兹」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1e6-565",
+      "emoji": "🇨🇦",
+      "name": "旗: 加拿大",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 加拿大",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 加拿大」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1f1-566",
+      "emoji": "🇨🇱",
+      "name": "旗: 智利",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 智利",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 智利」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1f4-567",
+      "emoji": "🇨🇴",
+      "name": "旗: 哥伦比亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 哥伦比亚",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 哥伦比亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1f7-568",
+      "emoji": "🇨🇷",
+      "name": "旗: 哥斯达黎加",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 哥斯达黎加",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 哥斯达黎加」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1fa-569",
+      "emoji": "🇨🇺",
+      "name": "旗: 古巴",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 古巴",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 古巴」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1fc-570",
+      "emoji": "🇨🇼",
+      "name": "旗: 库拉索",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 库拉索",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 库拉索」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e9-1f1f2-571",
+      "emoji": "🇩🇲",
+      "name": "旗: 多米尼克",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 多米尼克",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 多米尼克」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e9-1f1f4-572",
+      "emoji": "🇩🇴",
+      "name": "旗: 多米尼加共和国",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 多米尼加共和国",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 多米尼加共和国」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ea-1f1e8-573",
+      "emoji": "🇪🇨",
+      "name": "旗: 厄瓜多尔",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 厄瓜多尔",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 厄瓜多尔」相关含义。"
+    },
+    {
+      "id": "emoji-1f1eb-1f1f0-574",
+      "emoji": "🇫🇰",
+      "name": "旗: 福克兰群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 福克兰群岛",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 福克兰群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1e9-575",
+      "emoji": "🇬🇩",
+      "name": "旗: 格林纳达",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 格林纳达",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 格林纳达」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1eb-576",
+      "emoji": "🇬🇫",
+      "name": "旗: 法属圭亚那",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 法属圭亚那",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 法属圭亚那」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1f5-577",
+      "emoji": "🇬🇵",
+      "name": "旗: 瓜德罗普",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 瓜德罗普",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 瓜德罗普」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1f9-578",
+      "emoji": "🇬🇹",
+      "name": "旗: 危地马拉",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 危地马拉",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 危地马拉」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1fe-579",
+      "emoji": "🇬🇾",
+      "name": "旗: 圭亚那",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圭亚那",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圭亚那」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ed-1f1f3-580",
+      "emoji": "🇭🇳",
+      "name": "旗: 洪都拉斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 洪都拉斯",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 洪都拉斯」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ed-1f1f9-581",
+      "emoji": "🇭🇹",
+      "name": "旗: 海地",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 海地",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 海地」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ef-1f1f2-582",
+      "emoji": "🇯🇲",
+      "name": "旗: 牙买加",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 牙买加",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 牙买加」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f0-1f1f3-583",
+      "emoji": "🇰🇳",
+      "name": "旗: 圣基茨和尼维斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣基茨和尼维斯",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣基茨和尼维斯」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f0-1f1fe-584",
+      "emoji": "🇰🇾",
+      "name": "旗: 开曼群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 开曼群岛",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 开曼群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f1-1f1e8-585",
+      "emoji": "🇱🇨",
+      "name": "旗: 圣卢西亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣卢西亚",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣卢西亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1eb-586",
+      "emoji": "🇲🇫",
+      "name": "旗: 法属圣马丁",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 法属圣马丁",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 法属圣马丁」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1f6-587",
+      "emoji": "🇲🇶",
+      "name": "旗: 马提尼克",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 马提尼克",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 马提尼克」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1f8-588",
+      "emoji": "🇲🇸",
+      "name": "旗: 蒙特塞拉特",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 蒙特塞拉特",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 蒙特塞拉特」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1fd-589",
+      "emoji": "🇲🇽",
+      "name": "旗: 墨西哥",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 墨西哥",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 墨西哥」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1ee-590",
+      "emoji": "🇳🇮",
+      "name": "旗: 尼加拉瓜",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 尼加拉瓜",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 尼加拉瓜」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1e6-591",
+      "emoji": "🇵🇦",
+      "name": "旗: 巴拿马",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 巴拿马",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 巴拿马」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1ea-592",
+      "emoji": "🇵🇪",
+      "name": "旗: 秘鲁",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 秘鲁",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 秘鲁」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1f2-593",
+      "emoji": "🇵🇲",
+      "name": "旗: 圣皮埃尔和密克隆群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣皮埃尔和密克隆群岛",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣皮埃尔和密克隆群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1f7-594",
+      "emoji": "🇵🇷",
+      "name": "旗: 波多黎各",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 波多黎各",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 波多黎各」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1fe-595",
+      "emoji": "🇵🇾",
+      "name": "旗: 巴拉圭",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 巴拉圭",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 巴拉圭」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1f7-596",
+      "emoji": "🇸🇷",
+      "name": "旗: 苏里南",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 苏里南",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 苏里南」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1fb-597",
+      "emoji": "🇸🇻",
+      "name": "旗: 萨尔瓦多",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 萨尔瓦多",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 萨尔瓦多」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1fd-598",
+      "emoji": "🇸🇽",
+      "name": "旗: 荷属圣马丁",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 荷属圣马丁",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 荷属圣马丁」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1e8-599",
+      "emoji": "🇹🇨",
+      "name": "旗: 特克斯和凯科斯群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 特克斯和凯科斯群岛",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 特克斯和凯科斯群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1f9-600",
+      "emoji": "🇹🇹",
+      "name": "旗: 特立尼达和多巴哥",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 特立尼达和多巴哥",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 特立尼达和多巴哥」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fa-1f1f8-601",
+      "emoji": "🇺🇸",
+      "name": "旗: 美国",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 美国",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 美国」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fa-1f1fe-602",
+      "emoji": "🇺🇾",
+      "name": "旗: 乌拉圭",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 乌拉圭",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 乌拉圭」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fb-1f1ea-603",
+      "emoji": "🇻🇪",
+      "name": "旗: 委内瑞拉",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 委内瑞拉",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 委内瑞拉」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fb-1f1ec-604",
+      "emoji": "🇻🇬",
+      "name": "旗: 英属维尔京群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 英属维尔京群岛",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 英属维尔京群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fb-1f1ee-605",
+      "emoji": "🇻🇮",
+      "name": "旗: 美属维尔京群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 美属维尔京群岛",
+        "美洲",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 美属维尔京群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1e8-606",
+      "emoji": "🇦🇨",
+      "name": "旗: 阿森松岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 阿森松岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 阿森松岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1f6-607",
+      "emoji": "🇦🇶",
+      "name": "旗: 南极洲",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 南极洲",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 南极洲」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1f8-608",
+      "emoji": "🇦🇸",
+      "name": "旗: 美属萨摩亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 美属萨摩亚",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 美属萨摩亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1fa-609",
+      "emoji": "🇦🇺",
+      "name": "旗: 澳大利亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 澳大利亚",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 澳大利亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e6-1f1fd-610",
+      "emoji": "🇦🇽",
+      "name": "旗: 奥兰群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 奥兰群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 奥兰群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e7-1f1fb-611",
+      "emoji": "🇧🇻",
+      "name": "旗: 布韦岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 布韦岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 布韦岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1e8-612",
+      "emoji": "🇨🇨",
+      "name": "旗: 科科斯（基林）群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 科科斯（基林）群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 科科斯（基林）群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1f0-613",
+      "emoji": "🇨🇰",
+      "name": "旗: 库克群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 库克群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 库克群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1f5-614",
+      "emoji": "🇨🇵",
+      "name": "旗: 克利珀顿岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 克利珀顿岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 克利珀顿岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e8-1f1fd-615",
+      "emoji": "🇨🇽",
+      "name": "旗: 圣诞岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣诞岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣诞岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1e9-1f1ec-616",
+      "emoji": "🇩🇬",
+      "name": "旗: 迪戈加西亚岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 迪戈加西亚岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 迪戈加西亚岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1eb-1f1ef-617",
+      "emoji": "🇫🇯",
+      "name": "旗: 斐济",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 斐济",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 斐济」相关含义。"
+    },
+    {
+      "id": "emoji-1f1eb-1f1f2-618",
+      "emoji": "🇫🇲",
+      "name": "旗: 密克罗尼西亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 密克罗尼西亚",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 密克罗尼西亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1f1-619",
+      "emoji": "🇬🇱",
+      "name": "旗: 格陵兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 格陵兰",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 格陵兰」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1f8-620",
+      "emoji": "🇬🇸",
+      "name": "旗: 南乔治亚和南桑威奇群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 南乔治亚和南桑威奇群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 南乔治亚和南桑威奇群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ec-1f1fa-621",
+      "emoji": "🇬🇺",
+      "name": "旗: 关岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 关岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 关岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ed-1f1f2-622",
+      "emoji": "🇭🇲",
+      "name": "旗: 赫德岛和麦克唐纳群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 赫德岛和麦克唐纳群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 赫德岛和麦克唐纳群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ee-1f1e8-623",
+      "emoji": "🇮🇨",
+      "name": "旗: 加纳利群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 加纳利群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 加纳利群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1ee-1f1f4-624",
+      "emoji": "🇮🇴",
+      "name": "旗: 英属印度洋领地",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 英属印度洋领地",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 英属印度洋领地」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f0-1f1ee-625",
+      "emoji": "🇰🇮",
+      "name": "旗: 基里巴斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 基里巴斯",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 基里巴斯」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1ed-626",
+      "emoji": "🇲🇭",
+      "name": "旗: 马绍尔群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 马绍尔群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 马绍尔群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f2-1f1f5-627",
+      "emoji": "🇲🇵",
+      "name": "旗: 北马里亚纳群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 北马里亚纳群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 北马里亚纳群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1e8-628",
+      "emoji": "🇳🇨",
+      "name": "旗: 新喀里多尼亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 新喀里多尼亚",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 新喀里多尼亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1eb-629",
+      "emoji": "🇳🇫",
+      "name": "旗: 诺福克岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 诺福克岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 诺福克岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1f7-630",
+      "emoji": "🇳🇷",
+      "name": "旗: 瑙鲁",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 瑙鲁",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 瑙鲁」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1fa-631",
+      "emoji": "🇳🇺",
+      "name": "旗: 纽埃",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 纽埃",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 纽埃」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f3-1f1ff-632",
+      "emoji": "🇳🇿",
+      "name": "旗: 新西兰",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 新西兰",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 新西兰」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1eb-633",
+      "emoji": "🇵🇫",
+      "name": "旗: 法属波利尼西亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 法属波利尼西亚",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 法属波利尼西亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1ec-634",
+      "emoji": "🇵🇬",
+      "name": "旗: 巴布亚新几内亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 巴布亚新几内亚",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 巴布亚新几内亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1f3-635",
+      "emoji": "🇵🇳",
+      "name": "旗: 皮特凯恩群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 皮特凯恩群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 皮特凯恩群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f5-1f1fc-636",
+      "emoji": "🇵🇼",
+      "name": "旗: 帕劳",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 帕劳",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 帕劳」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f7-1f1ea-637",
+      "emoji": "🇷🇪",
+      "name": "旗: 留尼汪",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 留尼汪",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 留尼汪」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1e7-638",
+      "emoji": "🇸🇧",
+      "name": "旗: 所罗门群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 所罗门群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 所罗门群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1ed-639",
+      "emoji": "🇸🇭",
+      "name": "旗: 圣赫勒拿",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣赫勒拿",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣赫勒拿」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1ef-640",
+      "emoji": "🇸🇯",
+      "name": "旗: 斯瓦尔巴和扬马延",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 斯瓦尔巴和扬马延",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 斯瓦尔巴和扬马延」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f8-1f1f9-641",
+      "emoji": "🇸🇹",
+      "name": "旗: 圣多美和普林西比",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣多美和普林西比",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣多美和普林西比」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1e6-642",
+      "emoji": "🇹🇦",
+      "name": "旗: 特里斯坦-达库尼亚群岛",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 特里斯坦-达库尼亚群岛",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 特里斯坦-达库尼亚群岛」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1eb-643",
+      "emoji": "🇹🇫",
+      "name": "旗: 法属南部领地",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 法属南部领地",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 法属南部领地」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1f0-644",
+      "emoji": "🇹🇰",
+      "name": "旗: 托克劳",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 托克劳",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 托克劳」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1f4-645",
+      "emoji": "🇹🇴",
+      "name": "旗: 汤加",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 汤加",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 汤加」相关含义。"
+    },
+    {
+      "id": "emoji-1f1f9-1f1fb-646",
+      "emoji": "🇹🇻",
+      "name": "旗: 图瓦卢",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 图瓦卢",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 图瓦卢」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fa-1f1f2-647",
+      "emoji": "🇺🇲",
+      "name": "旗: 美国本土外小岛屿",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 美国本土外小岛屿",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 美国本土外小岛屿」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fb-1f1e8-648",
+      "emoji": "🇻🇨",
+      "name": "旗: 圣文森特和格林纳丁斯",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 圣文森特和格林纳丁斯",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 圣文森特和格林纳丁斯」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fb-1f1fa-649",
+      "emoji": "🇻🇺",
+      "name": "旗: 瓦努阿图",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 瓦努阿图",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 瓦努阿图」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fc-1f1eb-650",
+      "emoji": "🇼🇫",
+      "name": "旗: 瓦利斯和富图纳",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 瓦利斯和富图纳",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 瓦利斯和富图纳」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fc-1f1f8-651",
+      "emoji": "🇼🇸",
+      "name": "旗: 萨摩亚",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 萨摩亚",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 萨摩亚」相关含义。"
+    },
+    {
+      "id": "emoji-1f1fe-1f1f9-652",
+      "emoji": "🇾🇹",
+      "name": "旗: 马约特",
+      "category": "旗帜",
+      "keywords": [
+        "旗: 马约特",
+        "大洋洲、岛国和领土",
+        "旗帜"
+      ],
+      "text": "可用于表达「旗: 马约特」相关含义。"
+    }
   ]
 }
