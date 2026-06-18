@@ -1,3 +1,13 @@
+## [1.11.3](https://github.com/nowscott/RareCharWeb/compare/v1.11.2...v1.11.3) (2026-06-18)
+
+
+### 数据
+
+* **Emoji 分类:** 将 Emoji 分类统一为两个字，并把人物细分为人物、行为、角色、家庭
+* **身体部位:** 将手和身体部位归入身体，并按 Unicode RGI 数据补齐肤色变体
+* **虫类数据:** 合并虫类、虫子到动物分类，同时保留虫类和昆虫搜索词
+
+
 ## [1.11.2](https://github.com/nowscott/RareCharWeb/compare/v1.11.1...v1.11.2) (2026-06-18)
 
 

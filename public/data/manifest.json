@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T11:10:40.457Z",
+  "generatedAt": "2026-06-18T12:59:00.760Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
@@ -9,9 +9,9 @@
     },
     "emojis": {
       "version": "v1.2.3",
-      "online": 1948,
+      "online": 2158,
       "pending": 0,
-      "total": 1948
+      "total": 2158
     }
   },
   "outputs": {
@@ -160,18 +160,6 @@
       "randomPool": "emojis/random-pool.json",
       "byCategory": [
         {
-          "id": "虫类",
-          "name": "虫类",
-          "count": 15,
-          "file": "emojis/by-category/虫类.json"
-        },
-        {
-          "id": "虫子",
-          "name": "虫子",
-          "count": 1,
-          "file": "emojis/by-category/虫子.json"
-        },
-        {
           "id": "地理",
           "name": "地理",
           "count": 139,
@@ -180,7 +168,7 @@
         {
           "id": "动物",
           "name": "动物",
-          "count": 117,
+          "count": 133,
           "file": "emojis/by-category/动物.json"
         },
         {
@@ -196,10 +184,22 @@
           "file": "emojis/by-category/活动.json"
         },
         {
+          "id": "家庭",
+          "name": "家庭",
+          "count": 42,
+          "file": "emojis/by-category/家庭.json"
+        },
+        {
           "id": "奖项",
           "name": "奖项",
           "count": 6,
           "file": "emojis/by-category/奖项.json"
+        },
+        {
+          "id": "角色",
+          "name": "角色",
+          "count": 102,
+          "file": "emojis/by-category/角色.json"
         },
         {
           "id": "旗帜",
@@ -210,13 +210,13 @@
         {
           "id": "人物",
           "name": "人物",
-          "count": 392,
+          "count": 80,
           "file": "emojis/by-category/人物.json"
         },
         {
           "id": "身体",
           "name": "身体",
-          "count": 42,
+          "count": 310,
           "file": "emojis/by-category/身体.json"
         },
         {
@@ -248,6 +248,12 @@
           "name": "笑脸",
           "count": 131,
           "file": "emojis/by-category/笑脸.json"
+        },
+        {
+          "id": "行为",
+          "name": "行为",
+          "count": 110,
+          "file": "emojis/by-category/行为.json"
         },
         {
           "id": "植物",

@@ -223,17 +223,38 @@ async function fetchEmojipediaCategory(category) {
     for (const emoji of subCategory.emoji ?? []) {
       if (!emoji.code || !emoji.title) continue;
       const name = emoji.currentCldrName || emoji.title;
+      const localCategory = normalizeEmojiCategory(category.category, subCategory.title);
       items.push({
         emoji: emoji.code,
         name,
-        category: category.category,
-        keywords: uniqueCompact([name, emoji.title, subCategory.title, category.category]),
+        category: localCategory,
+        keywords: uniqueCompact([name, emoji.title, subCategory.title, localCategory]),
         text: `可用于表达「${name}」相关含义。`
       });
     }
   }
 
   return { url, items };
+}
+
+function normalizeEmojiCategory(category, subCategoryTitle) {
+  if (category === '人物' && subCategoryTitle === '手和身体部位') {
+    return '身体';
+  }
+
+  if (category === '人物' && subCategoryTitle === '活动与运动') {
+    return '行为';
+  }
+
+  if (category === '人物' && subCategoryTitle === '职业、角色和幻想') {
+    return '角色';
+  }
+
+  if (category === '人物' && subCategoryTitle === '家庭与夫妻') {
+    return '家庭';
+  }
+
+  return category;
 }
 
 function findEmojipediaCategoryPayload(payload, slug) {
