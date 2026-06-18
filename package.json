@@ -1,13 +1,16 @@
 {
   "name": "rarecharweb",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "private": true,
   "license": "AGPL-3.0",
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "data:build": "node scripts/build-data.mjs",
+    "data:update": "node scripts/update-data.mjs",
+    "data:update:dry": "node scripts/update-data.mjs --dry-run"
   },
   "dependencies": {
     "next": "^16.1.6",

@@ -1,3 +1,13 @@
+## [1.11.1](https://github.com/nowscott/RareCharWeb/compare/v1.11.0...v1.11.1) (2026-06-18)
+
+
+### 数据
+
+* **数据分层:** 线上展示数据切换为 `public/data/symbols/items.json` 与 `public/data/emojis/items.json`，待处理爬取数据单独保存在 `public/data/pending/`
+* **数据索引:** 新增 `manifest.json`、分类 ID 索引和随机池索引，避免分类分片重复存储完整条目
+* **采集流程:** 新增 `data:update` 与 `data:build` 脚本，后续爬取只追加到 pending，整理完成后再进入线上 items
+
+
 ## [1.11.0](https://github.com/nowscott/RareCharWeb/compare/v1.10.1...v1.11.0) (2026-06-15)
 
 

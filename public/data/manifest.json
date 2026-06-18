@@ -1,0 +1,251 @@
+{
+  "generatedAt": "2026-06-18T10:50:28.146Z",
+  "datasets": {
+    "symbols": {
+      "version": "v1.6.3",
+      "online": 1045,
+      "pending": 491,
+      "total": 1536
+    },
+    "emojis": {
+      "version": "v1.2.3",
+      "online": 375,
+      "pending": 277,
+      "total": 652
+    }
+  },
+  "outputs": {
+    "symbols": {
+      "items": "symbols/items.json",
+      "randomPool": "symbols/random-pool.json",
+      "byCategory": [
+        {
+          "id": "标点",
+          "name": "标点",
+          "count": 12,
+          "file": "symbols/by-category/标点.json"
+        },
+        {
+          "id": "单位",
+          "name": "单位",
+          "count": 20,
+          "file": "symbols/by-category/单位.json"
+        },
+        {
+          "id": "韩语",
+          "name": "韩语",
+          "count": 55,
+          "file": "symbols/by-category/韩语.json"
+        },
+        {
+          "id": "环保",
+          "name": "环保",
+          "count": 12,
+          "file": "symbols/by-category/环保.json"
+        },
+        {
+          "id": "货币",
+          "name": "货币",
+          "count": 46,
+          "file": "symbols/by-category/货币.json"
+        },
+        {
+          "id": "角标",
+          "name": "角标",
+          "count": 84,
+          "file": "symbols/by-category/角标.json"
+        },
+        {
+          "id": "盲文",
+          "name": "盲文",
+          "count": 64,
+          "file": "symbols/by-category/盲文.json"
+        },
+        {
+          "id": "其他",
+          "name": "其他",
+          "count": 17,
+          "file": "symbols/by-category/其他.json"
+        },
+        {
+          "id": "日语",
+          "name": "日语",
+          "count": 196,
+          "file": "symbols/by-category/日语.json"
+        },
+        {
+          "id": "数学",
+          "name": "数学",
+          "count": 41,
+          "file": "symbols/by-category/数学.json"
+        },
+        {
+          "id": "数字",
+          "name": "数字",
+          "count": 64,
+          "file": "symbols/by-category/数字.json"
+        },
+        {
+          "id": "天气",
+          "name": "天气",
+          "count": 6,
+          "file": "symbols/by-category/天气.json"
+        },
+        {
+          "id": "天文",
+          "name": "天文",
+          "count": 24,
+          "file": "symbols/by-category/天文.json"
+        },
+        {
+          "id": "危险",
+          "name": "危险",
+          "count": 4,
+          "file": "symbols/by-category/危险.json"
+        },
+        {
+          "id": "希腊",
+          "name": "希腊",
+          "count": 48,
+          "file": "symbols/by-category/希腊.json"
+        },
+        {
+          "id": "信仰",
+          "name": "信仰",
+          "count": 20,
+          "file": "symbols/by-category/信仰.json"
+        },
+        {
+          "id": "星座",
+          "name": "星座",
+          "count": 12,
+          "file": "symbols/by-category/星座.json"
+        },
+        {
+          "id": "形状",
+          "name": "形状",
+          "count": 38,
+          "file": "symbols/by-category/形状.json"
+        },
+        {
+          "id": "性别",
+          "name": "性别",
+          "count": 14,
+          "file": "symbols/by-category/性别.json"
+        },
+        {
+          "id": "音乐",
+          "name": "音乐",
+          "count": 8,
+          "file": "symbols/by-category/音乐.json"
+        },
+        {
+          "id": "娱乐",
+          "name": "娱乐",
+          "count": 243,
+          "file": "symbols/by-category/娱乐.json"
+        },
+        {
+          "id": "字母",
+          "name": "字母",
+          "count": 36,
+          "file": "symbols/by-category/字母.json"
+        }
+      ]
+    },
+    "emojis": {
+      "items": "emojis/items.json",
+      "randomPool": "emojis/random-pool.json",
+      "byCategory": [
+        {
+          "id": "虫类",
+          "name": "虫类",
+          "count": 15,
+          "file": "emojis/by-category/虫类.json"
+        },
+        {
+          "id": "虫子",
+          "name": "虫子",
+          "count": 1,
+          "file": "emojis/by-category/虫子.json"
+        },
+        {
+          "id": "地理",
+          "name": "地理",
+          "count": 16,
+          "file": "emojis/by-category/地理.json"
+        },
+        {
+          "id": "动物",
+          "name": "动物",
+          "count": 36,
+          "file": "emojis/by-category/动物.json"
+        },
+        {
+          "id": "活动",
+          "name": "活动",
+          "count": 21,
+          "file": "emojis/by-category/活动.json"
+        },
+        {
+          "id": "奖项",
+          "name": "奖项",
+          "count": 6,
+          "file": "emojis/by-category/奖项.json"
+        },
+        {
+          "id": "旗帜",
+          "name": "旗帜",
+          "count": 115,
+          "file": "emojis/by-category/旗帜.json"
+        },
+        {
+          "id": "人物",
+          "name": "人物",
+          "count": 6,
+          "file": "emojis/by-category/人物.json"
+        },
+        {
+          "id": "身体",
+          "name": "身体",
+          "count": 42,
+          "file": "emojis/by-category/身体.json"
+        },
+        {
+          "id": "水果",
+          "name": "水果",
+          "count": 1,
+          "file": "emojis/by-category/水果.json"
+        },
+        {
+          "id": "天气",
+          "name": "天气",
+          "count": 46,
+          "file": "emojis/by-category/天气.json"
+        },
+        {
+          "id": "物品",
+          "name": "物品",
+          "count": 3,
+          "file": "emojis/by-category/物品.json"
+        },
+        {
+          "id": "笑脸",
+          "name": "笑脸",
+          "count": 40,
+          "file": "emojis/by-category/笑脸.json"
+        },
+        {
+          "id": "植物",
+          "name": "植物",
+          "count": 27,
+          "file": "emojis/by-category/植物.json"
+        }
+      ]
+    },
+    "pending": {
+      "symbols": "pending/symbols.json",
+      "emojis": "pending/emojis.json"
+    }
+  }
+}

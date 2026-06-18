@@ -16,9 +16,27 @@ export interface PaginatedParams {
 // 内存缓存 — 数据文件仅部署时变更，缓存整个进程生命周期
 let _symbolsCache: SymbolDataResponse | null = null;
 let _emojiCache: SymbolDataResponse | null = null;
+let _manifestCache: DataManifest | null = null;
 
-function getPublicDataPath(fileName: string) {
-  return join(process.cwd(), 'public', 'data', fileName);
+interface DataManifest {
+  datasets?: {
+    symbols?: { version?: unknown };
+    emojis?: { version?: unknown };
+  };
+}
+
+function getPublicDataPath(...segments: string[]) {
+  return join(process.cwd(), 'public', 'data', ...segments);
+}
+
+async function getDataVersion(type: 'symbols' | 'emojis'): Promise<string> {
+  if (!_manifestCache) {
+    const raw = await readFile(getPublicDataPath('manifest.json'), 'utf8');
+    _manifestCache = JSON.parse(raw) as DataManifest;
+  }
+
+  const version = _manifestCache.datasets?.[type]?.version;
+  return typeof version === 'string' ? version : 'v1.0.0';
 }
 
 /**
@@ -45,18 +63,18 @@ function precomputePinyin(symbols: SymbolData[]): void {
 export async function getLocalSymbolDataResponse(): Promise<SymbolDataResponse> {
   if (_symbolsCache) return _symbolsCache;
 
-  const raw = await readFile(getPublicDataPath('data.json'), 'utf8');
-  const data = JSON.parse(raw) as { version?: unknown; symbols?: unknown };
+  const raw = await readFile(getPublicDataPath('symbols', 'items.json'), 'utf8');
+  const data = JSON.parse(raw) as { items?: unknown };
 
-  if (!Array.isArray(data.symbols)) {
+  if (!Array.isArray(data.items)) {
     throw new Error('Invalid symbols data');
   }
 
-  const symbols = data.symbols as SymbolData[];
+  const symbols = data.items as SymbolData[];
   precomputePinyin(symbols);
 
   const categoryStats = calculateCategoryStats(symbols);
-  const version = typeof data.version === 'string' ? data.version : 'v1.0.0';
+  const version = await getDataVersion('symbols');
 
   _symbolsCache = {
     version,
@@ -73,15 +91,15 @@ export async function getLocalSymbolDataResponse(): Promise<SymbolDataResponse> 
 export async function getLocalEmojiDataResponse(): Promise<SymbolDataResponse> {
   if (_emojiCache) return _emojiCache;
 
-  const raw = await readFile(getPublicDataPath('emoji-data.json'), 'utf8');
-  const data = JSON.parse(raw) as { version?: unknown; emojis?: unknown };
+  const raw = await readFile(getPublicDataPath('emojis', 'items.json'), 'utf8');
+  const data = JSON.parse(raw) as { items?: unknown };
 
-  if (!Array.isArray(data.emojis)) {
+  if (!Array.isArray(data.items)) {
     throw new Error('Invalid emoji data');
   }
 
-  const version = typeof data.version === 'string' ? data.version : 'v1.0.0';
-  const emojis = data.emojis as EmojiData[];
+  const version = await getDataVersion('emojis');
+  const emojis = data.items as EmojiData[];
 
   const symbols: SymbolData[] = emojis.map((emoji) => ({
     symbol: emoji.emoji,
