@@ -7,7 +7,8 @@ const FONT_CACHE_NAME = 'rarechar-fonts-cache';
 // 需要缓存的字体资源
 const FONT_URLS = [
   'https://f.0211120.xyz/font/得意黑/result.css',
-  'https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css'
+  'https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css',
+  'https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap'
 ];
 
 function isHttpRequest(request) {
@@ -23,10 +24,19 @@ function isFontRequest(request) {
   if (request.method !== 'GET' || !isHttpRequest(request)) return false;
 
   const url = new URL(request.url);
-  return url.hostname === 'f.0211120.xyz' && (
-    url.pathname.includes('/font/') ||
-    /\.(woff2?|ttf|otf)$/i.test(url.pathname)
-  );
+  if (url.hostname === 'f.0211120.xyz') {
+    return url.pathname.includes('/font/') || /\.(woff2?|ttf|otf)$/i.test(url.pathname);
+  }
+
+  if (url.hostname === 'fonts.googleapis.com') {
+    return url.pathname.startsWith('/css');
+  }
+
+  if (url.hostname === 'fonts.gstatic.com') {
+    return /\.(woff2?|ttf|otf)$/i.test(url.pathname);
+  }
+
+  return false;
 }
 
 // 安装事件 - 预缓存字体资源
@@ -37,9 +47,16 @@ self.addEventListener('install', event => {
     caches.open(FONT_CACHE_NAME)
       .then(cache => {
         // console.log('[SW] Caching font resources...');
-        return cache.addAll(FONT_URLS);
+        return Promise.allSettled(
+          FONT_URLS.map(url => cache.add(url))
+        );
       })
-      .then(() => {
+      .then(results => {
+        results.forEach((result, index) => {
+          if (result.status === 'rejected') {
+            console.warn('[SW] Failed to cache font resource:', FONT_URLS[index], result.reason);
+          }
+        });
         // console.log('[SW] Font resources cached successfully');
         return self.skipWaiting();
       })

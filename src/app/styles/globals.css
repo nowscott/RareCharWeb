@@ -106,6 +106,7 @@ body {
     'Noto Color Emoji',        /* Android/Linux系统字体 */
     'Twemoji Mozilla',         /* Firefox备用字体 */
     'Apple Symbols',           /* macOS符号字体 */
+    'Noto Serif',              /* 补充冷门标点，如 Supplemental Punctuation */
     sans-serif,                /* 通用字体 */
     'Symbola',                 /* 通用符号字体 */
     'DejaVu Sans',
@@ -129,6 +130,7 @@ body {
     'Twemoji Mozilla',         /* Firefox备用字体 */
     'Apple Symbols',           /* macOS符号字体 */
     'Segoe UI Symbol',         /* Windows符号字体 */
+    'Noto Serif',              /* 补充冷门标点，如 Supplemental Punctuation */
     'Symbola',                 /* 通用符号字体 */
     'DejaVu Sans',
     'Liberation Sans',
@@ -153,6 +155,7 @@ body {
       'Segoe UI Emoji',
       'Segoe UI Symbol',
       'Apple Symbols',
+      'Noto Serif',
       system-ui,
       -apple-system,
       sans-serif !important;
@@ -192,6 +195,7 @@ input, textarea {
     'Apple Symbols',
     'Noto Sans Symbols 2',
     'Noto Sans Symbols',
+    'Noto Serif',
     system-ui,
     -apple-system,
     sans-serif !important;
@@ -209,6 +213,7 @@ input, textarea {
     'Noto Color Emoji',
     'Noto Sans Symbols 2',
     'Noto Sans Symbols',
+    'Noto Serif',
     'Roboto',
     sans-serif !important;
 }
@@ -258,14 +263,14 @@ input, textarea {
 
 /* 符号字体配置 - 优先使用系统字体 */
 .symbol-font {
-  font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Sans Symbols 2', 'Noto Color Emoji', 'Twemoji Mozilla', 'Apple Symbols', sans-serif, 'Symbola', 'DejaVu Sans', 'Arial Unicode MS', 'Lucida Grande', 'Helvetica Neue', system-ui, -apple-system;
+  font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Sans Symbols 2', 'Noto Color Emoji', 'Twemoji Mozilla', 'Apple Symbols', 'Noto Serif', sans-serif, 'Symbola', 'DejaVu Sans', 'Arial Unicode MS', 'Lucida Grande', 'Helvetica Neue', system-ui, -apple-system;
   font-feature-settings: "liga" on, "clig" on;
   text-rendering: optimizeLegibility;
 }
 
 /* 专门为象棋符号优化的字体配置 */
 .chess-symbol {
-  font-family: 'Apple Symbols', 'Segoe UI Symbol', 'Noto Sans Symbols 2', sans-serif, 'Symbola', 'DejaVu Sans', 'Arial Unicode MS', 'Lucida Grande', monospace;
+  font-family: 'Apple Symbols', 'Segoe UI Symbol', 'Noto Sans Symbols 2', 'Noto Serif', sans-serif, 'Symbola', 'DejaVu Sans', 'Arial Unicode MS', 'Lucida Grande', monospace;
   font-size: inherit;
   line-height: 1;
   font-variant-numeric: normal;

@@ -37,6 +37,12 @@ const CRITICAL_FONTS: FontConfig[] = [
     url: 'https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css',
     fallback: ['Apple Symbols', 'Segoe UI Symbol', 'sans-serif'],
     preload: true
+  },
+  {
+    name: 'Noto Serif',
+    url: 'https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap',
+    fallback: ['Noto Sans Symbols 2', 'Apple Symbols', 'Segoe UI Symbol', 'serif'],
+    preload: true
   }
 ];
 

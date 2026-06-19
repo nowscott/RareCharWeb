@@ -1,3 +1,12 @@
+## [1.12.9](https://github.com/nowscott/RareCharWeb/compare/v1.12.8...v1.12.9) (2026-06-19)
+
+
+### 问题修复
+
+* **字体:** 引入 Noto Serif 作为冷门标点回退字体，修复补充标点符号显示为方框的问题
+* **缓存:** 扩展 Service Worker 字体缓存范围，支持 Google Fonts 与 gstatic 字体资源
+
+
 ## [1.12.8](https://github.com/nowscott/RareCharWeb/compare/v1.12.7...v1.12.8) (2026-06-19)
 
 

@@ -32,6 +32,10 @@ export default function RootLayout({
           href="https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css" 
           crossOrigin="anonymous"
         />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap"
+        />
         
         {/* 移动端优化 */}
         <meta name="format-detection" content="telephone=no" />
@@ -40,7 +44,11 @@ export default function RootLayout({
         
         {/* DNS预解析优化 */}
         <link rel="dns-prefetch" href="//f.0211120.xyz" />
+        <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="//fonts.gstatic.com" />
         <link rel="preconnect" href="https://f.0211120.xyz" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className="antialiased">
         <ServiceWorkerRegister />
