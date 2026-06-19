@@ -1,6 +1,6 @@
 {
   "category": "数学",
-  "total": 41,
+  "total": 48,
   "items": [
     {
       "id": "symbol-ac-9",
@@ -737,6 +737,138 @@
         "U+33D2"
       ],
       "notes": "㏒是常用对数的符号，表示以10为底数的对数。常用对数在数学、物理学和工程学中有广泛应用，通常用于简化计算和表示数量级。常用对数的底数为10，记作log₁₀。"
+    },
+    {
+      "id": "symbol-210e-1270",
+      "symbol": "ℎ",
+      "name": "普朗克常数符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "普朗克常数符号",
+        "数学",
+        "Planck Constant",
+        "Letterlike Symbols",
+        "210E",
+        "U+210E",
+        "普朗克常数",
+        "物理符号"
+      ],
+      "notes": "ℎ 是普朗克常数符号，Unicode 编码为 U+210E，常用于数学、物理或逻辑表达中的专用符号。"
+    },
+    {
+      "id": "symbol-210f-1271",
+      "symbol": "ℏ",
+      "name": "约化普朗克常数符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "约化普朗克常数符号",
+        "数学",
+        "Planck Constant Over Two Pi",
+        "Letterlike Symbols",
+        "210F",
+        "U+210F",
+        "普朗克常数",
+        "物理符号"
+      ],
+      "notes": "ℏ 是约化普朗克常数符号，Unicode 编码为 U+210F，常用于数学、物理或逻辑表达中的专用符号。"
+    },
+    {
+      "id": "symbol-2135-1300",
+      "symbol": "ℵ",
+      "name": "阿列夫符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "阿列夫符号",
+        "数学",
+        "Alef Symbol",
+        "Letterlike Symbols",
+        "2135",
+        "U+2135"
+      ],
+      "notes": "ℵ 是阿列夫符号，Unicode 编码为 U+2135，常用于数学、物理或逻辑表达中的专用符号。"
+    },
+    {
+      "id": "symbol-2136-1301",
+      "symbol": "ℶ",
+      "name": "贝特符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "贝特符号",
+        "数学",
+        "Bet Symbol",
+        "Letterlike Symbols",
+        "2136",
+        "U+2136"
+      ],
+      "notes": "ℶ 是贝特符号，Unicode 编码为 U+2136，常用于数学、物理或逻辑表达中的专用符号。"
+    },
+    {
+      "id": "symbol-2137-1302",
+      "symbol": "ℷ",
+      "name": "吉梅尔符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "吉梅尔符号",
+        "数学",
+        "Gimel Symbol",
+        "Letterlike Symbols",
+        "2137",
+        "U+2137"
+      ],
+      "notes": "ℷ 是吉梅尔符号，Unicode 编码为 U+2137，常用于数学、物理或逻辑表达中的专用符号。"
+    },
+    {
+      "id": "symbol-2138-1303",
+      "symbol": "ℸ",
+      "name": "达列特符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "达列特符号",
+        "数学",
+        "Dalet Symbol",
+        "Letterlike Symbols",
+        "2138",
+        "U+2138"
+      ],
+      "notes": "ℸ 是达列特符号，Unicode 编码为 U+2138，常用于数学、物理或逻辑表达中的专用符号。"
+    },
+    {
+      "id": "symbol-2140-1311",
+      "symbol": "⅀",
+      "name": "双线体 N 元求和符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "双线体 N 元求和符号",
+        "数学",
+        "Double-Struck N-Ary Summation",
+        "Letterlike Symbols",
+        "2140",
+        "U+2140",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "⅀ 是双线体 N 元求和符号，Unicode 编码为 U+2140，常用于数学、物理或逻辑表达中的专用符号。"
     }
   ]
 }

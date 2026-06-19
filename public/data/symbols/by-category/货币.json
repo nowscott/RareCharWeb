@@ -1,6 +1,6 @@
 {
   "category": "货币",
-  "total": 46,
+  "total": 49,
   "items": [
     {
       "id": "symbol-24-1",
@@ -808,6 +808,63 @@
         "U+FFE5"
       ],
       "notes": "￥ 是人民币（Chinese Yuan Renminbi，CNY）和日元（Japanese Yen，JPY）的货币符号。这个符号看起来像一个大写字母 Y，中间有一条或两条横线。在中国大陆，通常使用两条横线，而在其他地区，有时也使用一条横线的写法。\n\n人民币 (CNY)：人民币是中华人民共和国的法定货币。在中国大陆，人们普遍使用 ￥ 来表示人民币。人民币的 ISO 4217 代码是 CNY。\n\n日元 (JPY)：日元是日本的法定货币。虽然符号相同，但在日本境内，人们更常使用“円”（日文汉字）或罗马字“yen”来表示日元。日元的 ISO 4217 代码是 JPY。"
+    },
+    {
+      "id": "symbol-20a4-1261",
+      "symbol": "₤",
+      "name": "里拉符号",
+      "pronunciation": "",
+      "category": [
+        "货币"
+      ],
+      "searchTerms": [
+        "里拉符号",
+        "货币",
+        "Lira Sign",
+        "Currency Symbols",
+        "20A4",
+        "U+20A4",
+        "货币符号"
+      ],
+      "notes": "₤ 是里拉符号，Unicode 编码为 U+20A4，用于表示对应货币单位或历史货币符号。"
+    },
+    {
+      "id": "symbol-20c0-1262",
+      "symbol": "⃀",
+      "name": "索姆符号",
+      "pronunciation": "",
+      "category": [
+        "货币"
+      ],
+      "searchTerms": [
+        "索姆符号",
+        "货币",
+        "Som Sign",
+        "Currency Symbols",
+        "20C0",
+        "U+20C0",
+        "货币符号"
+      ],
+      "notes": "⃀ 是索姆符号，Unicode 编码为 U+20C0，用于表示对应货币单位或历史货币符号。"
+    },
+    {
+      "id": "symbol-20c1-1263",
+      "symbol": "⃁",
+      "name": "沙特里亚尔符号",
+      "pronunciation": "",
+      "category": [
+        "货币"
+      ],
+      "searchTerms": [
+        "沙特里亚尔符号",
+        "货币",
+        "Saudi Riyal Sign",
+        "Currency Symbols",
+        "20C1",
+        "U+20C1",
+        "货币符号"
+      ],
+      "notes": "⃁ 是沙特里亚尔符号，Unicode 编码为 U+20C1，用于表示对应货币单位或历史货币符号。"
     }
   ]
 }

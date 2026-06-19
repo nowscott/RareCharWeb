@@ -1,6 +1,6 @@
 {
   "category": "单位",
-  "total": 20,
+  "total": 25,
   "items": [
     {
       "id": "symbol-b0-11",
@@ -345,6 +345,104 @@
         "U+33D5"
       ],
       "notes": "英里（mile）是长度单位，等于1,609.344米（1英里 = 1,609.344米）。常用于美国、英国等国家的距离测量。"
+    },
+    {
+      "id": "symbol-2103-1264",
+      "symbol": "℃",
+      "name": "摄氏度符号",
+      "pronunciation": "",
+      "category": [
+        "单位"
+      ],
+      "searchTerms": [
+        "摄氏度符号",
+        "单位",
+        "Degree Celsius",
+        "Letterlike Symbols",
+        "2103",
+        "U+2103",
+        "温度单位"
+      ],
+      "notes": "℃ 是摄氏度符号，Unicode 编码为 U+2103，用于表示科学、工程或计量场景中的单位符号。"
+    },
+    {
+      "id": "symbol-2109-1265",
+      "symbol": "℉",
+      "name": "华氏度符号",
+      "pronunciation": "",
+      "category": [
+        "单位"
+      ],
+      "searchTerms": [
+        "华氏度符号",
+        "单位",
+        "Degree Fahrenheit",
+        "Letterlike Symbols",
+        "2109",
+        "U+2109",
+        "温度单位"
+      ],
+      "notes": "℉ 是华氏度符号，Unicode 编码为 U+2109，用于表示科学、工程或计量场景中的单位符号。"
+    },
+    {
+      "id": "symbol-2126-1287",
+      "symbol": "Ω",
+      "name": "欧姆符号",
+      "pronunciation": "",
+      "category": [
+        "单位"
+      ],
+      "searchTerms": [
+        "欧姆符号",
+        "单位",
+        "Ohm Sign",
+        "Letterlike Symbols",
+        "2126",
+        "U+2126",
+        "欧姆",
+        "电阻单位"
+      ],
+      "notes": "Ω 是欧姆符号，Unicode 编码为 U+2126，用于表示科学、工程或计量场景中的单位符号。"
+    },
+    {
+      "id": "symbol-212a-1290",
+      "symbol": "K",
+      "name": "开尔文符号",
+      "pronunciation": "",
+      "category": [
+        "单位"
+      ],
+      "searchTerms": [
+        "开尔文符号",
+        "单位",
+        "Kelvin Sign",
+        "Letterlike Symbols",
+        "212A",
+        "U+212A",
+        "开尔文",
+        "温度单位"
+      ],
+      "notes": "K 是开尔文符号，Unicode 编码为 U+212A，用于表示科学、工程或计量场景中的单位符号。"
+    },
+    {
+      "id": "symbol-212b-1291",
+      "symbol": "Å",
+      "name": "埃符号",
+      "pronunciation": "",
+      "category": [
+        "单位"
+      ],
+      "searchTerms": [
+        "埃符号",
+        "单位",
+        "Angstrom Sign",
+        "Letterlike Symbols",
+        "212B",
+        "U+212B",
+        "埃",
+        "长度单位"
+      ],
+      "notes": "Å 是埃符号，Unicode 编码为 U+212B，用于表示科学、工程或计量场景中的单位符号。"
     }
   ]
 }

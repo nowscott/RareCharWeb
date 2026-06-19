@@ -1,6 +1,6 @@
 {
   "category": "数字",
-  "total": 74,
+  "total": 96,
   "items": [
     {
       "id": "symbol-2150-217",
@@ -1364,6 +1364,441 @@
         "中文数字"
       ],
       "notes": "〩 是苏州码子九，Unicode 编码为 U+3029，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3038-1253",
+      "symbol": "〸",
+      "name": "苏州码子十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子十",
+        "数字",
+        "Hangzhou Numeral Ten",
+        "CJK Symbols and Punctuation",
+        "3038",
+        "U+3038",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〸 是苏州码子十，Unicode 编码为 U+3038，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-3039-1254",
+      "symbol": "〹",
+      "name": "苏州码子二十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子二十",
+        "数字",
+        "Hangzhou Numeral Twenty",
+        "CJK Symbols and Punctuation",
+        "3039",
+        "U+3039",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〹 是苏州码子二十，Unicode 编码为 U+3039，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-303a-1255",
+      "symbol": "〺",
+      "name": "苏州码子三十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子三十",
+        "数字",
+        "Hangzhou Numeral Thirty",
+        "CJK Symbols and Punctuation",
+        "303A",
+        "U+303A",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〺 是苏州码子三十，Unicode 编码为 U+303A，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2185-1327",
+      "symbol": "ↅ",
+      "name": "罗马数字六晚期形式",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字六晚期形式",
+        "数字",
+        "Roman Numeral Six Late Form",
+        "Number Forms",
+        "2185",
+        "U+2185",
+        "罗马数字"
+      ],
+      "notes": "ↅ 是罗马数字六晚期形式，Unicode 编码为 U+2185，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2186-1328",
+      "symbol": "ↆ",
+      "name": "罗马数字五十早期形式",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字五十早期形式",
+        "数字",
+        "Roman Numeral Fifty Early Form",
+        "Number Forms",
+        "2186",
+        "U+2186",
+        "罗马数字"
+      ],
+      "notes": "ↆ 是罗马数字五十早期形式，Unicode 编码为 U+2186，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2187-1329",
+      "symbol": "ↇ",
+      "name": "罗马数字五万",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字五万",
+        "数字",
+        "Roman Numeral Fifty Thousand",
+        "Number Forms",
+        "2187",
+        "U+2187",
+        "罗马数字"
+      ],
+      "notes": "ↇ 是罗马数字五万，Unicode 编码为 U+2187，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2188-1330",
+      "symbol": "ↈ",
+      "name": "罗马数字十万",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "罗马数字十万",
+        "数字",
+        "Roman Numeral One Hundred Thousand",
+        "Number Forms",
+        "2188",
+        "U+2188",
+        "罗马数字"
+      ],
+      "notes": "ↈ 是罗马数字十万，Unicode 编码为 U+2188，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-218a-1331",
+      "symbol": "↊",
+      "name": "旋转数字二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "旋转数字二",
+        "数字",
+        "Turned Digit Two",
+        "Number Forms",
+        "218A",
+        "U+218A"
+      ],
+      "notes": "↊ 是旋转数字二，Unicode 编码为 U+218A，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-218b-1332",
+      "symbol": "↋",
+      "name": "旋转数字三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "旋转数字三",
+        "数字",
+        "Turned Digit Three",
+        "Number Forms",
+        "218B",
+        "U+218B"
+      ],
+      "notes": "↋ 是旋转数字三，Unicode 编码为 U+218B，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2460-1333",
+      "symbol": "①",
+      "name": "带圈数字一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字一",
+        "数字",
+        "Circled Digit One",
+        "Enclosed Alphanumerics",
+        "2460",
+        "U+2460",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "① 是带圈数字一，Unicode 编码为 U+2460，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2461-1334",
+      "symbol": "②",
+      "name": "带圈数字二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字二",
+        "数字",
+        "Circled Digit Two",
+        "Enclosed Alphanumerics",
+        "2461",
+        "U+2461",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "② 是带圈数字二，Unicode 编码为 U+2461，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2462-1335",
+      "symbol": "③",
+      "name": "带圈数字三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字三",
+        "数字",
+        "Circled Digit Three",
+        "Enclosed Alphanumerics",
+        "2462",
+        "U+2462",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "③ 是带圈数字三，Unicode 编码为 U+2462，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2463-1336",
+      "symbol": "④",
+      "name": "带圈数字四",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字四",
+        "数字",
+        "Circled Digit Four",
+        "Enclosed Alphanumerics",
+        "2463",
+        "U+2463",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "④ 是带圈数字四，Unicode 编码为 U+2463，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2464-1337",
+      "symbol": "⑤",
+      "name": "带圈数字五",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字五",
+        "数字",
+        "Circled Digit Five",
+        "Enclosed Alphanumerics",
+        "2464",
+        "U+2464",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑤ 是带圈数字五，Unicode 编码为 U+2464，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2465-1338",
+      "symbol": "⑥",
+      "name": "带圈数字六",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字六",
+        "数字",
+        "Circled Digit Six",
+        "Enclosed Alphanumerics",
+        "2465",
+        "U+2465",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑥ 是带圈数字六，Unicode 编码为 U+2465，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2466-1339",
+      "symbol": "⑦",
+      "name": "带圈数字七",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字七",
+        "数字",
+        "Circled Digit Seven",
+        "Enclosed Alphanumerics",
+        "2466",
+        "U+2466",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑦ 是带圈数字七，Unicode 编码为 U+2466，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2467-1340",
+      "symbol": "⑧",
+      "name": "带圈数字八",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字八",
+        "数字",
+        "Circled Digit Eight",
+        "Enclosed Alphanumerics",
+        "2467",
+        "U+2467",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑧ 是带圈数字八，Unicode 编码为 U+2467，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2468-1341",
+      "symbol": "⑨",
+      "name": "带圈数字九",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字九",
+        "数字",
+        "Circled Digit Nine",
+        "Enclosed Alphanumerics",
+        "2468",
+        "U+2468",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑨ 是带圈数字九，Unicode 编码为 U+2468，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-2469-1342",
+      "symbol": "⑩",
+      "name": "带圈数字十",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字十",
+        "数字",
+        "Circled Number Ten",
+        "Enclosed Alphanumerics",
+        "2469",
+        "U+2469",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑩ 是带圈数字十，Unicode 编码为 U+2469，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-246a-1343",
+      "symbol": "⑪",
+      "name": "带圈数字十一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字十一",
+        "数字",
+        "Circled Number Eleven",
+        "Enclosed Alphanumerics",
+        "246A",
+        "U+246A",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑪ 是带圈数字十一，Unicode 编码为 U+246A，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-246b-1344",
+      "symbol": "⑫",
+      "name": "带圈数字十二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字十二",
+        "数字",
+        "Circled Number Twelve",
+        "Enclosed Alphanumerics",
+        "246B",
+        "U+246B",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑫ 是带圈数字十二，Unicode 编码为 U+246B，用于编号、列表序号、传统数字或特殊数字排版。"
+    },
+    {
+      "id": "symbol-246c-1345",
+      "symbol": "⑬",
+      "name": "带圈数字十三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "带圈数字十三",
+        "数字",
+        "Circled Number Thirteen",
+        "Enclosed Alphanumerics",
+        "246C",
+        "U+246C",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "⑬ 是带圈数字十三，Unicode 编码为 U+246C，用于编号、列表序号、传统数字或特殊数字排版。"
     }
   ]
 }

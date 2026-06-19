@@ -1,6 +1,6 @@
 {
   "category": "标点",
-  "total": 206,
+  "total": 218,
   "items": [
     {
       "id": "symbol-a1-2",
@@ -3901,6 +3901,239 @@
         "连字符"
       ],
       "notes": "〰 是波浪破折号，Unicode 编码为 U+3030，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3031-1246",
+      "symbol": "〱",
+      "name": "竖排假名重复符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖排假名重复符",
+        "标点",
+        "Vertical Kana Repeat Mark",
+        "CJK Symbols and Punctuation",
+        "3031",
+        "U+3031",
+        "假名",
+        "重复符号",
+        "日语"
+      ],
+      "notes": "〱 是竖排假名重复符，Unicode 编码为 U+3031，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-3032-1247",
+      "symbol": "〲",
+      "name": "带浊音竖排假名重复符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带浊音竖排假名重复符",
+        "标点",
+        "Vertical Kana Repeat with Voiced Sound Mark",
+        "CJK Symbols and Punctuation",
+        "3032",
+        "U+3032",
+        "假名",
+        "重复符号",
+        "日语"
+      ],
+      "notes": "〲 是带浊音竖排假名重复符，Unicode 编码为 U+3032，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-3033-1248",
+      "symbol": "〳",
+      "name": "竖排假名重复符上半部",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖排假名重复符上半部",
+        "标点",
+        "Vertical Kana Repeat Mark Upper Half",
+        "CJK Symbols and Punctuation",
+        "3033",
+        "U+3033",
+        "假名",
+        "重复符号",
+        "日语"
+      ],
+      "notes": "〳 是竖排假名重复符上半部，Unicode 编码为 U+3033，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-3034-1249",
+      "symbol": "〴",
+      "name": "带浊音竖排假名重复符上半部",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带浊音竖排假名重复符上半部",
+        "标点",
+        "Vertical Kana Repeat with Voiced Sound Mark Upper Half",
+        "CJK Symbols and Punctuation",
+        "3034",
+        "U+3034",
+        "假名",
+        "重复符号",
+        "日语"
+      ],
+      "notes": "〴 是带浊音竖排假名重复符上半部，Unicode 编码为 U+3034，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-3035-1250",
+      "symbol": "〵",
+      "name": "竖排假名重复符下半部",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖排假名重复符下半部",
+        "标点",
+        "Vertical Kana Repeat Mark Lower Half",
+        "CJK Symbols and Punctuation",
+        "3035",
+        "U+3035",
+        "假名",
+        "重复符号",
+        "日语"
+      ],
+      "notes": "〵 是竖排假名重复符下半部，Unicode 编码为 U+3035，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-3036-1251",
+      "symbol": "〶",
+      "name": "带圈邮政标志",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带圈邮政标志",
+        "标点",
+        "Circled Postal Mark",
+        "CJK Symbols and Punctuation",
+        "3036",
+        "U+3036",
+        "带圈数字",
+        "圈号数字"
+      ],
+      "notes": "〶 是带圈邮政标志，Unicode 编码为 U+3036，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-3037-1252",
+      "symbol": "〷",
+      "name": "表意电报换行分隔符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "表意电报换行分隔符",
+        "标点",
+        "Ideographic Telegraph Line Feed Separator Symbol",
+        "CJK Symbols and Punctuation",
+        "3037",
+        "U+3037"
+      ],
+      "notes": "〷 是表意电报换行分隔符，Unicode 编码为 U+3037，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-303b-1256",
+      "symbol": "〻",
+      "name": "竖排汉字重复标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖排汉字重复标记",
+        "标点",
+        "Vertical Ideographic Iteration Mark",
+        "CJK Symbols and Punctuation",
+        "303B",
+        "U+303B"
+      ],
+      "notes": "〻 是竖排汉字重复标记，Unicode 编码为 U+303B，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-303c-1257",
+      "symbol": "〼",
+      "name": "升合标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "升合标记",
+        "标点",
+        "Masu Mark",
+        "CJK Symbols and Punctuation",
+        "303C",
+        "U+303C"
+      ],
+      "notes": "〼 是升合标记，Unicode 编码为 U+303C，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-303d-1258",
+      "symbol": "〽",
+      "name": "庵点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "庵点",
+        "标点",
+        "Part Alternation Mark",
+        "CJK Symbols and Punctuation",
+        "303D",
+        "U+303D"
+      ],
+      "notes": "〽 是庵点，Unicode 编码为 U+303D，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-303e-1259",
+      "symbol": "〾",
+      "name": "表意变体指示符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "表意变体指示符",
+        "标点",
+        "Ideographic Variation Indicator",
+        "CJK Symbols and Punctuation",
+        "303E",
+        "U+303E"
+      ],
+      "notes": "〾 是表意变体指示符，Unicode 编码为 U+303E，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
+    },
+    {
+      "id": "symbol-303f-1260",
+      "symbol": "〿",
+      "name": "表意半填充空格",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "表意半填充空格",
+        "标点",
+        "Ideographic Half Fill Space",
+        "CJK Symbols and Punctuation",
+        "303F",
+        "U+303F"
+      ],
+      "notes": "〿 是表意半填充空格，Unicode 编码为 U+303F，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
     }
   ]
 }

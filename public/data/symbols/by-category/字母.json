@@ -1,6 +1,6 @@
 {
   "category": "字母",
-  "total": 36,
+  "total": 87,
   "items": [
     {
       "id": "symbol-2133-216",
@@ -651,6 +651,986 @@
         "Mathematical Alphanumeric Symbols"
       ],
       "notes": "整数集的规范表示，阻抗矩阵的专用符号。"
+    },
+    {
+      "id": "symbol-210a-1266",
+      "symbol": "ℊ",
+      "name": "花体小写 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体小写 G",
+        "字母",
+        "Script Small G",
+        "Letterlike Symbols",
+        "210A",
+        "U+210A",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℊ 是花体小写 G，Unicode 编码为 U+210A，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-210b-1267",
+      "symbol": "ℋ",
+      "name": "花体大写 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 H",
+        "字母",
+        "Script Capital H",
+        "Letterlike Symbols",
+        "210B",
+        "U+210B",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℋ 是花体大写 H，Unicode 编码为 U+210B，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-210c-1268",
+      "symbol": "ℌ",
+      "name": "哥特体大写 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "哥特体大写 H",
+        "字母",
+        "Black-Letter Capital H",
+        "Letterlike Symbols",
+        "210C",
+        "U+210C",
+        "哥特体字母",
+        "数学字母"
+      ],
+      "notes": "ℌ 是哥特体大写 H，Unicode 编码为 U+210C，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-210d-1269",
+      "symbol": "ℍ",
+      "name": "双线体大写 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 H",
+        "字母",
+        "Double-Struck Capital H",
+        "Letterlike Symbols",
+        "210D",
+        "U+210D",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℍ 是双线体大写 H，Unicode 编码为 U+210D，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2110-1272",
+      "symbol": "ℐ",
+      "name": "花体大写 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 I",
+        "字母",
+        "Script Capital I",
+        "Letterlike Symbols",
+        "2110",
+        "U+2110",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℐ 是花体大写 I，Unicode 编码为 U+2110，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2111-1273",
+      "symbol": "ℑ",
+      "name": "哥特体大写 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "哥特体大写 I",
+        "字母",
+        "Black-Letter Capital I",
+        "Letterlike Symbols",
+        "2111",
+        "U+2111",
+        "哥特体字母",
+        "数学字母"
+      ],
+      "notes": "ℑ 是哥特体大写 I，Unicode 编码为 U+2111，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2112-1274",
+      "symbol": "ℒ",
+      "name": "花体大写 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 L",
+        "字母",
+        "Script Capital L",
+        "Letterlike Symbols",
+        "2112",
+        "U+2112",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℒ 是花体大写 L，Unicode 编码为 U+2112，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2114-1275",
+      "symbol": "℔",
+      "name": "磅重符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "磅重符号",
+        "字母",
+        "L B Bar Symbol",
+        "Letterlike Symbols",
+        "2114",
+        "U+2114"
+      ],
+      "notes": "℔ 是磅重符号，Unicode 编码为 U+2114，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2115-1276",
+      "symbol": "ℕ",
+      "name": "双线体大写 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 N",
+        "字母",
+        "Double-Struck Capital N",
+        "Letterlike Symbols",
+        "2115",
+        "U+2115",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℕ 是双线体大写 N，Unicode 编码为 U+2115，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2118-1277",
+      "symbol": "℘",
+      "name": "花体大写 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 P",
+        "字母",
+        "Script Capital P",
+        "Letterlike Symbols",
+        "2118",
+        "U+2118",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "℘ 是花体大写 P，Unicode 编码为 U+2118，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2119-1278",
+      "symbol": "ℙ",
+      "name": "双线体大写 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 P",
+        "字母",
+        "Double-Struck Capital P",
+        "Letterlike Symbols",
+        "2119",
+        "U+2119",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℙ 是双线体大写 P，Unicode 编码为 U+2119，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-211a-1279",
+      "symbol": "ℚ",
+      "name": "双线体大写 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 Q",
+        "字母",
+        "Double-Struck Capital Q",
+        "Letterlike Symbols",
+        "211A",
+        "U+211A",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℚ 是双线体大写 Q，Unicode 编码为 U+211A，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-211b-1280",
+      "symbol": "ℛ",
+      "name": "花体大写 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 R",
+        "字母",
+        "Script Capital R",
+        "Letterlike Symbols",
+        "211B",
+        "U+211B",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℛ 是花体大写 R，Unicode 编码为 U+211B，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-211c-1281",
+      "symbol": "ℜ",
+      "name": "哥特体大写 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "哥特体大写 R",
+        "字母",
+        "Black-Letter Capital R",
+        "Letterlike Symbols",
+        "211C",
+        "U+211C",
+        "哥特体字母",
+        "数学字母"
+      ],
+      "notes": "ℜ 是哥特体大写 R，Unicode 编码为 U+211C，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-211d-1282",
+      "symbol": "ℝ",
+      "name": "双线体大写 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 R",
+        "字母",
+        "Double-Struck Capital R",
+        "Letterlike Symbols",
+        "211D",
+        "U+211D",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℝ 是双线体大写 R，Unicode 编码为 U+211D，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-211e-1283",
+      "symbol": "℞",
+      "name": "处方取药符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "处方取药符号",
+        "字母",
+        "Prescription Take",
+        "Letterlike Symbols",
+        "211E",
+        "U+211E"
+      ],
+      "notes": "℞ 是处方取药符号，Unicode 编码为 U+211E，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-211f-1284",
+      "symbol": "℟",
+      "name": "应答符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "应答符号",
+        "字母",
+        "Response",
+        "Letterlike Symbols",
+        "211F",
+        "U+211F"
+      ],
+      "notes": "℟ 是应答符号，Unicode 编码为 U+211F，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2123-1285",
+      "symbol": "℣",
+      "name": "短诗节符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "短诗节符号",
+        "字母",
+        "Versicle",
+        "Letterlike Symbols",
+        "2123",
+        "U+2123"
+      ],
+      "notes": "℣ 是短诗节符号，Unicode 编码为 U+2123，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2124-1286",
+      "symbol": "ℤ",
+      "name": "双线体大写 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 Z",
+        "字母",
+        "Double-Struck Capital Z",
+        "Letterlike Symbols",
+        "2124",
+        "U+2124",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℤ 是双线体大写 Z，Unicode 编码为 U+2124，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2128-1288",
+      "symbol": "ℨ",
+      "name": "哥特体大写 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "哥特体大写 Z",
+        "字母",
+        "Black-Letter Capital Z",
+        "Letterlike Symbols",
+        "2128",
+        "U+2128",
+        "哥特体字母",
+        "数学字母"
+      ],
+      "notes": "ℨ 是哥特体大写 Z，Unicode 编码为 U+2128，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2129-1289",
+      "symbol": "℩",
+      "name": "旋转希腊小写 Iota",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转希腊小写 Iota",
+        "字母",
+        "Turned Greek Small Letter Iota",
+        "Letterlike Symbols",
+        "2129",
+        "U+2129"
+      ],
+      "notes": "℩ 是旋转希腊小写 Iota，Unicode 编码为 U+2129，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-212c-1292",
+      "symbol": "ℬ",
+      "name": "花体大写 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 B",
+        "字母",
+        "Script Capital B",
+        "Letterlike Symbols",
+        "212C",
+        "U+212C",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℬ 是花体大写 B，Unicode 编码为 U+212C，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-212d-1293",
+      "symbol": "ℭ",
+      "name": "哥特体大写 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "哥特体大写 C",
+        "字母",
+        "Black-Letter Capital C",
+        "Letterlike Symbols",
+        "212D",
+        "U+212D",
+        "哥特体字母",
+        "数学字母"
+      ],
+      "notes": "ℭ 是哥特体大写 C，Unicode 编码为 U+212D，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-212e-1294",
+      "symbol": "℮",
+      "name": "估算符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "估算符号",
+        "字母",
+        "Estimated Symbol",
+        "Letterlike Symbols",
+        "212E",
+        "U+212E"
+      ],
+      "notes": "℮ 是估算符号，Unicode 编码为 U+212E，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-212f-1295",
+      "symbol": "ℯ",
+      "name": "花体小写 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体小写 E",
+        "字母",
+        "Script Small E",
+        "Letterlike Symbols",
+        "212F",
+        "U+212F",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℯ 是花体小写 E，Unicode 编码为 U+212F，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2130-1296",
+      "symbol": "ℰ",
+      "name": "花体大写 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 E",
+        "字母",
+        "Script Capital E",
+        "Letterlike Symbols",
+        "2130",
+        "U+2130",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℰ 是花体大写 E，Unicode 编码为 U+2130，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2131-1297",
+      "symbol": "ℱ",
+      "name": "花体大写 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体大写 F",
+        "字母",
+        "Script Capital F",
+        "Letterlike Symbols",
+        "2131",
+        "U+2131",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℱ 是花体大写 F，Unicode 编码为 U+2131，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2132-1298",
+      "symbol": "Ⅎ",
+      "name": "旋转大写 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转大写 F",
+        "字母",
+        "Turned Capital F",
+        "Letterlike Symbols",
+        "2132",
+        "U+2132"
+      ],
+      "notes": "Ⅎ 是旋转大写 F，Unicode 编码为 U+2132，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2134-1299",
+      "symbol": "ℴ",
+      "name": "花体小写 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "花体小写 O",
+        "字母",
+        "Script Small O",
+        "Letterlike Symbols",
+        "2134",
+        "U+2134",
+        "花体字母",
+        "数学字母"
+      ],
+      "notes": "ℴ 是花体小写 O，Unicode 编码为 U+2134，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2139-1304",
+      "symbol": "ℹ",
+      "name": "信息符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "信息符号",
+        "字母",
+        "Information",
+        "Letterlike Symbols",
+        "2139",
+        "U+2139"
+      ],
+      "notes": "ℹ 是信息符号，Unicode 编码为 U+2139，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-213a-1305",
+      "symbol": "℺",
+      "name": "旋转大写 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转大写 Q",
+        "字母",
+        "Rotated Capital Q",
+        "Letterlike Symbols",
+        "213A",
+        "U+213A"
+      ],
+      "notes": "℺ 是旋转大写 Q，Unicode 编码为 U+213A，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-213b-1306",
+      "symbol": "℻",
+      "name": "传真符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "传真符号",
+        "字母",
+        "Facsimile Sign",
+        "Letterlike Symbols",
+        "213B",
+        "U+213B"
+      ],
+      "notes": "℻ 是传真符号，Unicode 编码为 U+213B，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-213c-1307",
+      "symbol": "ℼ",
+      "name": "双线体小写 Pi",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体小写 Pi",
+        "字母",
+        "Double-Struck Small Pi",
+        "Letterlike Symbols",
+        "213C",
+        "U+213C",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℼ 是双线体小写 Pi，Unicode 编码为 U+213C，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-213d-1308",
+      "symbol": "ℽ",
+      "name": "双线体小写 Gamma",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体小写 Gamma",
+        "字母",
+        "Double-Struck Small Gamma",
+        "Letterlike Symbols",
+        "213D",
+        "U+213D",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℽ 是双线体小写 Gamma，Unicode 编码为 U+213D，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-213e-1309",
+      "symbol": "ℾ",
+      "name": "双线体大写 Gamma",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 Gamma",
+        "字母",
+        "Double-Struck Capital Gamma",
+        "Letterlike Symbols",
+        "213E",
+        "U+213E",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℾ 是双线体大写 Gamma，Unicode 编码为 U+213E，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-213f-1310",
+      "symbol": "ℿ",
+      "name": "双线体大写 Pi",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线体大写 Pi",
+        "字母",
+        "Double-Struck Capital Pi",
+        "Letterlike Symbols",
+        "213F",
+        "U+213F",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ℿ 是双线体大写 Pi，Unicode 编码为 U+213F，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2141-1312",
+      "symbol": "⅁",
+      "name": "旋转无衬线大写 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转无衬线大写 G",
+        "字母",
+        "Turned Sans-Serif Capital G",
+        "Letterlike Symbols",
+        "2141",
+        "U+2141"
+      ],
+      "notes": "⅁ 是旋转无衬线大写 G，Unicode 编码为 U+2141，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2142-1313",
+      "symbol": "⅂",
+      "name": "旋转无衬线大写 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转无衬线大写 L",
+        "字母",
+        "Turned Sans-Serif Capital L",
+        "Letterlike Symbols",
+        "2142",
+        "U+2142"
+      ],
+      "notes": "⅂ 是旋转无衬线大写 L，Unicode 编码为 U+2142，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2143-1314",
+      "symbol": "⅃",
+      "name": "反向无衬线大写 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反向无衬线大写 L",
+        "字母",
+        "Reversed Sans-Serif Capital L",
+        "Letterlike Symbols",
+        "2143",
+        "U+2143"
+      ],
+      "notes": "⅃ 是反向无衬线大写 L，Unicode 编码为 U+2143，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2144-1315",
+      "symbol": "⅄",
+      "name": "旋转无衬线大写 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转无衬线大写 Y",
+        "字母",
+        "Turned Sans-Serif Capital Y",
+        "Letterlike Symbols",
+        "2144",
+        "U+2144"
+      ],
+      "notes": "⅄ 是旋转无衬线大写 Y，Unicode 编码为 U+2144，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2145-1316",
+      "symbol": "ⅅ",
+      "name": "双线斜体大写 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线斜体大写 D",
+        "字母",
+        "Double-Struck Italic Capital D",
+        "Letterlike Symbols",
+        "2145",
+        "U+2145",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ⅅ 是双线斜体大写 D，Unicode 编码为 U+2145，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2146-1317",
+      "symbol": "ⅆ",
+      "name": "双线斜体小写 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线斜体小写 D",
+        "字母",
+        "Double-Struck Italic Small D",
+        "Letterlike Symbols",
+        "2146",
+        "U+2146",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ⅆ 是双线斜体小写 D，Unicode 编码为 U+2146，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2147-1318",
+      "symbol": "ⅇ",
+      "name": "双线斜体小写 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线斜体小写 E",
+        "字母",
+        "Double-Struck Italic Small E",
+        "Letterlike Symbols",
+        "2147",
+        "U+2147",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ⅇ 是双线斜体小写 E，Unicode 编码为 U+2147，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2148-1319",
+      "symbol": "ⅈ",
+      "name": "双线斜体小写 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线斜体小写 I",
+        "字母",
+        "Double-Struck Italic Small I",
+        "Letterlike Symbols",
+        "2148",
+        "U+2148",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ⅈ 是双线斜体小写 I，Unicode 编码为 U+2148，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-2149-1320",
+      "symbol": "ⅉ",
+      "name": "双线斜体小写 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "双线斜体小写 J",
+        "字母",
+        "Double-Struck Italic Small J",
+        "Letterlike Symbols",
+        "2149",
+        "U+2149",
+        "双线体",
+        "数学字母"
+      ],
+      "notes": "ⅉ 是双线斜体小写 J，Unicode 编码为 U+2149，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-214a-1321",
+      "symbol": "⅊",
+      "name": "产权线符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "产权线符号",
+        "字母",
+        "Property Line",
+        "Letterlike Symbols",
+        "214A",
+        "U+214A"
+      ],
+      "notes": "⅊ 是产权线符号，Unicode 编码为 U+214A，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-214b-1322",
+      "symbol": "⅋",
+      "name": "旋转和号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转和号",
+        "字母",
+        "Turned Ampersand",
+        "Letterlike Symbols",
+        "214B",
+        "U+214B"
+      ],
+      "notes": "⅋ 是旋转和号，Unicode 编码为 U+214B，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-214c-1323",
+      "symbol": "⅌",
+      "name": "每符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "每符号",
+        "字母",
+        "Per Sign",
+        "Letterlike Symbols",
+        "214C",
+        "U+214C"
+      ],
+      "notes": "⅌ 是每符号，Unicode 编码为 U+214C，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-214d-1324",
+      "symbol": "⅍",
+      "name": "股份公司符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "股份公司符号",
+        "字母",
+        "Aktieselskab",
+        "Letterlike Symbols",
+        "214D",
+        "U+214D"
+      ],
+      "notes": "⅍ 是股份公司符号，Unicode 编码为 U+214D，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-214e-1325",
+      "symbol": "ⅎ",
+      "name": "旋转小写 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "旋转小写 F",
+        "字母",
+        "Turned Small F",
+        "Letterlike Symbols",
+        "214E",
+        "U+214E"
+      ],
+      "notes": "ⅎ 是旋转小写 F，Unicode 编码为 U+214E，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-214f-1326",
+      "symbol": "⅏",
+      "name": "撒马利亚文本来源符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "撒马利亚文本来源符号",
+        "字母",
+        "Symbol for Samaritan Source",
+        "Letterlike Symbols",
+        "214F",
+        "U+214F"
+      ],
+      "notes": "⅏ 是撒马利亚文本来源符号，Unicode 编码为 U+214F，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
     }
   ]
 }
