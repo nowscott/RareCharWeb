@@ -1,10 +1,12 @@
 import type { Metadata } from 'next';
 import React from 'react';
+import 'lenis/dist/lenis.css';
 import "./styles/globals.css";
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 import ChunkLoadRecovery from '@/components/ChunkLoadRecovery';
 import FontHealthChecker from '@/components/FontHealthChecker';
 import RoutePrefetcher from '@/components/RoutePrefetcher';
+import SmoothScrollProvider from '@/components/SmoothScrollProvider';
 
 export const metadata: Metadata = {
   title: "复制符 - 特殊符号查询工具",
@@ -51,11 +53,13 @@ export default function RootLayout({
         <link rel="preconnect" href="https://f.0211120.xyz" crossOrigin="anonymous" />
       </head>
       <body className="antialiased">
-        <ChunkLoadRecovery />
-        <ServiceWorkerRegister />
-        <RoutePrefetcher />
-        {children}
-        <FontHealthChecker />
+        <SmoothScrollProvider>
+          <ChunkLoadRecovery />
+          <ServiceWorkerRegister />
+          <RoutePrefetcher />
+          {children}
+          <FontHealthChecker />
+        </SmoothScrollProvider>
       </body>
     </html>
   );

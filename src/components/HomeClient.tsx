@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { CategoryStat, InitialCategoryData, PaginatedSymbolResponse } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
 import { SymbolList } from '@/components/symbols';
+import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import { optimizeSymbolRendering, waitForFontsLoad } from '@/lib/font/fontUtils';
 
 interface HomeClientProps {
@@ -17,7 +18,7 @@ interface HomeClientProps {
   pageDescription?: string;
 }
 
-const HOME_CLIENT_VERSION = '1.12.11';
+const HOME_CLIENT_VERSION = '1.13.0-liquid-glass';
 
 export default function HomeClient({
   apiEndpoint,
@@ -56,43 +57,53 @@ export default function HomeClient({
   );
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-4 sm:py-8 px-4" data-client-version={HOME_CLIENT_VERSION}>
-      <div className="max-w-6xl mx-auto">
+    <div className="liquid-page py-4 sm:py-8 px-4" data-client-version={HOME_CLIENT_VERSION}>
+      <div className="liquid-shell max-w-6xl mx-auto">
         {/* 顶部导航栏 */}
         <nav className="mb-6 sm:mb-8">
-          <div className="flex flex-row justify-between items-center">
-            <div className="flex flex-col">
-              <h1 className="text-2xl sm:text-3xl font-bold mb-1 sm:mb-2">{pageTitle}</h1>
-              <p className="text-sm sm:text-base text-gray-600 dark:text-gray-400">{pageDescription}</p>
+          <div className="liquid-header">
+            <LiquidGlassSurface variant="panel" className="p-4 sm:p-5">
+              <div className="flex flex-row justify-between items-start gap-4 sm:items-center">
+                <div className="flex min-w-0 flex-col">
+                  <h1 className="text-2xl sm:text-3xl font-bold mb-1 sm:mb-2 text-gray-950 dark:text-white">{pageTitle}</h1>
+                  <p className="text-sm sm:text-base liquid-text-muted">{pageDescription}</p>
+                </div>
+                <div className="-mt-1 flex shrink-0 flex-wrap justify-end gap-2 sm:mt-0 sm:gap-3">
+                  <LiquidGlassSurface variant="pill" active={pageTitle === "复制符"} tone="symbol">
+                    <Link
+                      href="/home"
+                      className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "复制符" ? 'text-white' : ''}`}
+                    >
+                      <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14" />
+                      </svg>
+                      <span className="hidden sm:inline sm:ml-2">符号</span>
+                    </Link>
+                  </LiquidGlassSurface>
+                  <LiquidGlassSurface variant="pill" active={pageTitle === "Emoji"} tone="emoji">
+                    <Link
+                      href="/emoji"
+                      className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "Emoji" ? 'text-white' : ''}`}
+                    >
+                      <span className="text-lg">😀</span>
+                      <span className="hidden sm:inline sm:ml-2">Emoji</span>
+                    </Link>
+                  </LiquidGlassSurface>
+                  <LiquidGlassSurface variant="pill" active={pageTitle === "关于"} tone="about">
+                    <Link
+                      href="/about"
+                      className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "关于" ? 'text-white' : ''}`}
+                    >
+                      <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <span className="hidden sm:inline sm:ml-2">关于</span>
+                    </Link>
+                  </LiquidGlassSurface>
+                </div>
+              </div>
+            </LiquidGlassSurface>
             </div>
-            <div className="flex space-x-2 sm:space-x-4">
-              <Link 
-                href="/home"
-                className={`px-3 py-2 sm:px-4 sm:py-2 ${pageTitle === "复制符" ? 'bg-blue-600' : 'bg-gray-400 hover:bg-gray-500'} text-white rounded-lg transition-colors flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95`}
-              >
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14" />
-                </svg>
-                <span className="hidden sm:inline sm:ml-2">符号</span>
-              </Link>
-              <Link 
-                href="/emoji"
-                className={`px-3 py-2 sm:px-4 sm:py-2 ${pageTitle === "Emoji" ? 'bg-orange-600' : 'bg-gray-400 hover:bg-gray-500'} text-white rounded-lg transition-colors flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95`}
-              >
-                <span className="text-lg">😀</span>
-                <span className="hidden sm:inline sm:ml-2">Emoji</span>
-              </Link>
-              <Link 
-                href="/about"
-                className={`px-3 py-2 sm:px-4 sm:py-2 ${pageTitle === "关于" ? 'bg-purple-600' : 'bg-gray-400 hover:bg-gray-500'} text-white rounded-lg transition-colors flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95`}
-              >
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-                <span className="hidden sm:inline sm:ml-2">关于</span>
-              </Link>
-            </div>
-          </div>
         </nav>
 
         <div className="mb-6">
@@ -100,15 +111,15 @@ export default function HomeClient({
         </div>
 
         <div className="mb-6">
-          <CategoryNav 
-            activeCategory={activeCategory} 
-            onSelectCategory={handleCategoryChange} 
+          <CategoryNav
+            activeCategory={activeCategory}
+            onSelectCategory={handleCategoryChange}
             onPrefetchCategory={handleCategoryPrefetch}
-            categories={categories} 
+            categories={categories}
           />
         </div>
 
-        <SymbolList 
+        <SymbolList
           apiEndpoint={apiEndpoint}
           category={activeCategory}
           searchQuery={searchQuery}

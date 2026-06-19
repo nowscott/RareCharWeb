@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { SymbolData } from '@/lib/core/types';
+import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import { getSymbolClassName } from '@/lib/font/fontUtils';
 
 interface SymbolCardProps {
@@ -25,37 +26,37 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
   };
 
   return (
-    <div 
+    <LiquidGlassSurface
+      variant="card"
       onClick={onClick}
-      className="bg-white dark:bg-gray-800 rounded-xl shadow-sm hover:shadow-md active:shadow-lg transition-all duration-200 p-3 sm:p-4 flex flex-col items-center justify-center cursor-pointer border border-gray-100 dark:border-gray-700 h-28 sm:h-32 relative group touch-manipulation"
+      className="liquid-card p-3 sm:p-4 flex flex-col items-center justify-center cursor-pointer h-28 sm:h-32 relative group touch-manipulation"
     >
       {variantCount > 0 && (
-        <span className="absolute left-1.5 top-1.5 sm:left-2 sm:top-2 rounded-full bg-orange-100 px-2 py-0.5 text-[10px] font-medium text-orange-700 dark:bg-orange-900/50 dark:text-orange-200">
+        <span className="absolute left-1.5 top-1.5 sm:left-2 sm:top-2 rounded-full bg-orange-100/80 px-2 py-0.5 text-[10px] font-medium text-orange-700 shadow-sm backdrop-blur-md dark:bg-orange-900/50 dark:text-orange-200">
           肤色
         </span>
       )}
       <button
         onClick={handleCopy}
-        className={`absolute top-1.5 right-1.5 sm:top-2 sm:right-2 p-1.5 sm:p-1 rounded-md transition-colors opacity-0 group-hover:opacity-100 sm:opacity-0 touch-manipulation ${
-          copySuccess 
-            ? 'bg-green-500 hover:bg-green-600' 
-            : 'hover:bg-gray-100 dark:hover:bg-gray-700 active:bg-gray-200 dark:active:bg-gray-600'
+        className={`absolute right-2 top-2 z-20 flex h-8 w-8 items-center justify-center rounded-full opacity-0 transition-all group-hover:opacity-100 focus-visible:opacity-100 touch-manipulation ${
+          copySuccess
+            ? 'text-green-400'
+            : 'text-slate-700 hover:text-slate-950 dark:text-white/85 dark:hover:text-white active:scale-95'
         }`}
         title="复制符号"
+        aria-label={`复制 ${symbol.name}`}
       >
-        <svg xmlns="http://www.w3.org/2000/svg" className={`h-3.5 w-3.5 sm:h-4 sm:w-4 ${
-          copySuccess ? 'text-white' : 'text-gray-500 dark:text-gray-400'
-        }`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
         </svg>
       </button>
       <div 
-        className={`text-3xl sm:text-4xl mb-1 sm:mb-2 ${getSymbolClassName('symbol-large symbol-center symbol-no-select')}`}
+        className={`text-3xl sm:text-4xl mb-1 sm:mb-2 text-gray-950 dark:text-white ${getSymbolClassName('symbol-large symbol-center symbol-no-select')}`}
       >
         {symbol.symbol}
       </div>
-      <div className="text-xs sm:text-sm text-gray-600 dark:text-gray-300 text-center leading-tight">{symbol.name}</div>
-    </div>
+      <div className="text-xs sm:text-sm liquid-text-muted text-center leading-tight px-5">{symbol.name}</div>
+    </LiquidGlassSurface>
   );
 };
 

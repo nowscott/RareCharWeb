@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { SYMBOL_PAGE_SIZE } from '@/lib/core/pagination';
 import { InitialCategoryData, PaginatedSymbolResponse, SymbolData } from '@/lib/core/types';
+import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import SymbolCard from './SymbolCard';
 import SymbolDetail from './SymbolDetail';
 
@@ -250,24 +251,28 @@ const SymbolList: React.FC<SymbolListProps> = ({
   if (error) {
     return (
       <div className="text-center py-12">
-        <p className="text-red-500 dark:text-red-400 mb-4">{error}</p>
-        <button
-          onClick={() => {
-            setFailedRequestKey(null);
-            setRetryCount(count => count + 1);
-          }}
-          className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
-        >
-          重试
-        </button>
+        <LiquidGlassSurface variant="panel" className="inline-flex flex-col items-center gap-4 p-6">
+          <p className="text-red-500 dark:text-red-300">{error}</p>
+          <LiquidGlassSurface variant="pill" active tone="symbol">
+            <button
+              onClick={() => {
+                setFailedRequestKey(null);
+                setRetryCount(count => count + 1);
+              }}
+              className="px-5 py-2 text-white"
+            >
+              重试
+            </button>
+          </LiquidGlassSurface>
+        </LiquidGlassSurface>
       </div>
     );
   }
 
   if (allSymbols.length === 0 && !loading) {
     return (
-      <div className="text-center py-12">
-        <p className="text-gray-500 dark:text-gray-400">
+      <div className="py-10 text-center">
+        <p className="text-sm sm:text-base liquid-text-muted">
           {searchQuery ? '没有找到匹配的符号' : '没有符号可显示'}
         </p>
       </div>
@@ -277,11 +282,10 @@ const SymbolList: React.FC<SymbolListProps> = ({
   return (
     <>
       {loading && (
-        <div
-          role="status"
-          className="fixed bottom-4 left-1/2 z-40 -translate-x-1/2 rounded-full bg-gray-900/90 px-3 py-1.5 text-xs text-white shadow-lg backdrop-blur dark:bg-white/90 dark:text-gray-900"
-        >
-          正在更新结果...
+        <div className="fixed bottom-4 left-1/2 z-40 -translate-x-1/2">
+          <LiquidGlassSurface variant="status" className="px-3 py-1.5 text-xs liquid-text-muted" role="status">
+            正在更新结果...
+          </LiquidGlassSurface>
         </div>
       )}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
@@ -297,7 +301,7 @@ const SymbolList: React.FC<SymbolListProps> = ({
       {hasMore && (
         <div ref={sentinelRef} className="py-4 flex justify-center">
           {loadingMore ? (
-            <div className="w-6 h-6 border-2 border-blue-600 border-t-transparent rounded-full animate-spin" />
+            <div className="w-6 h-6 border-2 border-sky-500 border-t-transparent rounded-full animate-spin" />
           ) : (
             <div className="h-10" />
           )}

@@ -1,10 +1,11 @@
+import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import { aboutConfig, iconPaths } from '@/lib/about/aboutConfig';
 import { Icon } from './Icon';
 
 // 其他作品组件
 export function ProjectsSection() {
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-xl shadow-sm p-6 sm:p-8 col-span-full">
+    <LiquidGlassSurface variant="panel" className="p-6 sm:p-8 col-span-full">
       <h3 className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6 text-gray-900 dark:text-white">我的其他作品</h3>
       <div className="grid gap-4 sm:gap-6">
         {aboutConfig.projects.map((project, index) => (
@@ -13,7 +14,7 @@ export function ProjectsSection() {
             href={project.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="block p-4 sm:p-6 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-300 dark:hover:border-blue-600 hover:shadow-md transition-all duration-200 group"
+            className="block p-4 sm:p-6 rounded-3xl border border-white/35 bg-white/25 hover:bg-white/45 dark:bg-gray-900/20 dark:hover:bg-gray-800/45 hover:border-blue-300/70 dark:hover:border-blue-400/45 hover:shadow-xl transition-all duration-200 group"
           >
             <div className="flex items-start space-x-4 sm:space-x-6">
               <div className="w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform duration-200">
@@ -54,6 +55,6 @@ export function ProjectsSection() {
           </a>
         ))}
       </div>
-    </div>
+    </LiquidGlassSurface>
   );
 }

@@ -1,3 +1,4 @@
+import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import { AboutDataOverview } from '@/lib/about/aboutUtils';
 
 interface DataOverviewSectionProps {
@@ -32,7 +33,8 @@ export function DataOverviewSection({ overview }: DataOverviewSectionProps) {
   ];
 
   return (
-    <section className="bg-white dark:bg-gray-800 rounded-xl shadow-sm p-6 sm:p-8 mb-6 sm:mb-8">
+    <section className="mb-6 sm:mb-8">
+      <LiquidGlassSurface variant="panel" className="p-6 sm:p-8">
       <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between mb-5 sm:mb-6">
         <div>
           <h3 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-white">数据概览</h3>
@@ -47,7 +49,7 @@ export function DataOverviewSection({ overview }: DataOverviewSectionProps) {
 
       <div className="grid grid-cols-3 gap-3 sm:gap-4 mb-6">
         {cards.map((card) => (
-          <div key={card.label} className="rounded-lg bg-gray-50 dark:bg-gray-900/60 p-3 sm:p-4 text-center">
+          <div key={card.label} className="liquid-subcard rounded-2xl p-3 sm:p-4 text-center">
             <div className={`text-lg sm:text-2xl font-bold ${card.tone}`}>{card.value}</div>
             <div className="mt-1 text-xs sm:text-sm text-gray-600 dark:text-gray-400">{card.label}</div>
           </div>
@@ -56,7 +58,7 @@ export function DataOverviewSection({ overview }: DataOverviewSectionProps) {
 
       <div className="grid gap-4 lg:grid-cols-2">
         {overview.datasets.map((dataset) => (
-          <div key={dataset.key} className="rounded-xl border border-gray-200 dark:border-gray-700 p-4 sm:p-5">
+          <div key={dataset.key} className="liquid-subcard rounded-3xl p-4 sm:p-5">
             <div className="flex items-start justify-between gap-4 mb-4">
               <div>
                 <h4 className="text-base sm:text-lg font-bold text-gray-900 dark:text-white">{dataset.label}</h4>
@@ -95,6 +97,7 @@ export function DataOverviewSection({ overview }: DataOverviewSectionProps) {
           </div>
         ))}
       </div>
+      </LiquidGlassSurface>
     </section>
   );
 }

@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { SymbolData, SymbolVariantData } from '@/lib/core/types';
+import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import { getSymbolClassName, applySymbolFont } from '@/lib/font/fontUtils';
 
 interface SymbolDetailProps {
@@ -86,18 +87,19 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
 
   return (
     <div 
-      className="fixed inset-0 backdrop-blur-md bg-black/30 dark:bg-black/50 flex items-center justify-center z-[9999] p-4"
+      className="fixed inset-0 backdrop-blur-xl bg-slate-950/35 dark:bg-black/60 flex items-center justify-center z-[9999] p-4"
       onClick={onClose}
     >
-      <div 
-        className="relative bg-white/95 dark:bg-gray-800/95 backdrop-blur-xl border border-white/20 dark:border-gray-700/50 rounded-3xl max-w-lg w-full shadow-2xl transform transition-all duration-300 scale-100"
+      <LiquidGlassSurface
+        variant="modal"
+        className="relative max-w-lg w-full transform transition-all duration-300 scale-100"
         onClick={(e) => e.stopPropagation()}
       >
         {/* 关闭按钮 */}
         <div className="absolute top-4 right-4 z-10">
           <button 
             onClick={onClose}
-            className="w-8 h-8 flex items-center justify-center rounded-full bg-gray-100/80 dark:bg-gray-700/80 text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 hover:bg-gray-200/80 dark:hover:bg-gray-600/80 transition-all duration-200"
+            className="w-8 h-8 flex items-center justify-center rounded-full bg-white/45 dark:bg-gray-900/45 text-gray-500 hover:text-gray-800 dark:text-gray-300 dark:hover:text-white hover:bg-white/70 dark:hover:bg-gray-800/70 transition-all duration-200 backdrop-blur-xl border border-white/50"
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -126,7 +128,7 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
           {/* 信息卡片区域 */}
           <div className="space-y-2">
             {variants.length > 0 && (
-              <div className="bg-orange-50/90 dark:bg-orange-900/20 rounded-xl p-3 border border-orange-200/60 dark:border-orange-800/50">
+              <LiquidGlassSurface variant="card" tone="warning" className="p-3">
                 <h3 className="text-sm font-semibold text-orange-800 dark:text-orange-200 mb-2">肤色变体:</h3>
                 <div className="flex flex-wrap gap-2">
                   <button
@@ -149,11 +151,11 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
                     </button>
                   ))}
                 </div>
-              </div>
+              </LiquidGlassSurface>
             )}
 
             {/* 分类信息 */}
-            <div className="bg-gray-100/90 dark:bg-gray-700/50 rounded-xl p-3 border border-gray-200/50 dark:border-gray-600/30">
+            <LiquidGlassSurface variant="card" className="p-3">
               <div className="flex items-center gap-2">
                 <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">分类:</span>
                 <div className="flex flex-wrap gap-2">
@@ -167,11 +169,11 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
                   ))}
                 </div>
               </div>
-            </div>
+            </LiquidGlassSurface>
 
             {/* Unicode 信息 */}
             {activeSymbol.symbol && (
-              <div className="bg-gray-100/90 dark:bg-gray-700/50 rounded-xl p-3 border border-gray-200/50 dark:border-gray-600/30">
+              <LiquidGlassSurface variant="card" className="p-3">
                 <div className="flex items-center gap-2">
                   <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">Unicode:</span>
                   <span className="text-gray-600 dark:text-gray-400 font-mono text-sm">
@@ -181,12 +183,12 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
                     }).filter(Boolean).join(' ')}
                   </span>
                 </div>
-              </div>
+              </LiquidGlassSurface>
             )}
 
             {/* 说明信息 */}
             {activeSymbol.notes && (
-              <div className="bg-gray-100/90 dark:bg-gray-700/50 rounded-xl p-3 border border-gray-200/50 dark:border-gray-600/30">
+              <LiquidGlassSurface variant="card" className="p-3">
                 <h3 className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">说明:</h3>
                 <div className="relative">
                   <div 
@@ -201,32 +203,36 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
                   </div>
                   {/* 滚动提示渐变 - 仅在内容溢出时显示 */}
                   {showScrollGradient && (
-                    <div className="absolute bottom-0 left-2 right-1 h-6 bg-gradient-to-t from-gray-100 via-gray-100/80 to-transparent dark:from-gray-700/50 dark:via-gray-700/70 dark:to-transparent pointer-events-none" />
+                    <div className="absolute bottom-0 left-2 right-1 h-6 bg-gradient-to-t from-white/70 via-white/40 to-transparent dark:from-slate-900/70 dark:via-slate-900/40 dark:to-transparent pointer-events-none" />
                   )}
 
                 </div>
-              </div>
+              </LiquidGlassSurface>
             )}
           </div>
 
           {/* 操作按钮 */}
           <div className="mt-6 flex justify-center relative">
-            <button
-              onClick={handleCopy}
-              className="px-8 py-3 bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white font-semibold rounded-xl transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl"
-            >
-              复制符号
-            </button>
+            <LiquidGlassSurface variant="pill" active tone="symbol">
+              <button
+                onClick={handleCopy}
+                className="px-8 py-3 text-white font-semibold transition-all duration-200 transform hover:scale-105"
+              >
+                复制符号
+              </button>
+            </LiquidGlassSurface>
             
             {/* 复制成功提示 */}
             {showCopySuccess && (
-              <div className="absolute -top-12 left-1/2 transform -translate-x-1/2 bg-green-500 text-white px-4 py-2 rounded-lg text-sm font-medium shadow-lg animate-pulse">
-                复制成功！
+              <div className="absolute -top-12 left-1/2 transform -translate-x-1/2">
+                <LiquidGlassSurface variant="status" active tone="success" className="px-4 py-2 text-white text-sm font-medium animate-pulse">
+                  复制成功！
+                </LiquidGlassSurface>
               </div>
             )}
           </div>
         </div>
-      </div>
+      </LiquidGlassSurface>
     </div>
   );
 };
@@ -247,10 +253,10 @@ function getActiveSymbol(
 }
 
 function getToneButtonClassName(active: boolean): string {
-  const baseClass = 'px-3 py-1.5 rounded-full text-sm transition-colors';
-  if (active) return baseClass + ' bg-orange-600 text-white';
+  const baseClass = 'px-3 py-1.5 rounded-full text-sm transition-all border backdrop-blur-xl';
+  if (active) return baseClass + ' bg-orange-600/90 text-white border-white/50 shadow-lg';
 
-  return baseClass + ' bg-white text-orange-800 hover:bg-orange-100 dark:bg-gray-800 dark:text-orange-200 dark:hover:bg-orange-900/40';
+  return baseClass + ' bg-white/55 text-orange-800 border-white/50 hover:bg-orange-100/80 dark:bg-gray-900/45 dark:text-orange-200 dark:hover:bg-orange-900/40';
 }
 
 export default SymbolDetail;
