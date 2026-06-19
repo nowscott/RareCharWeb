@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-19T05:57:55.085Z",
+  "generatedAt": "2026-06-19T09:18:09.742Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
-      "online": 1045,
-      "pending": 491,
-      "total": 1536
+      "online": 1145,
+      "pending": 5262,
+      "total": 6407
     },
     "emojis": {
       "version": "v1.2.3",
@@ -23,7 +23,7 @@
         {
           "id": "标点",
           "name": "标点",
-          "count": 12,
+          "count": 116,
           "file": "symbols/by-category/标点.json"
         },
         {
@@ -65,7 +65,7 @@
         {
           "id": "其他",
           "name": "其他",
-          "count": 17,
+          "count": 15,
           "file": "symbols/by-category/其他.json"
         },
         {
@@ -137,7 +137,7 @@
         {
           "id": "音乐",
           "name": "音乐",
-          "count": 8,
+          "count": 6,
           "file": "symbols/by-category/音乐.json"
         },
         {

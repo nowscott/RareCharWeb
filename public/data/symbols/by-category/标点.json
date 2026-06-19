@@ -1,7 +1,46 @@
 {
   "category": "标点",
-  "total": 12,
+  "total": 116,
   "items": [
+    {
+      "id": "symbol-a1-2",
+      "symbol": "¡",
+      "name": "倒置感叹号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "倒置感叹号",
+        "西班牙语感叹号",
+        "标点",
+        "竖翻叹号",
+        "其他",
+        "00A1",
+        "U+00A1"
+      ],
+      "notes": "¡ 是倒置感叹号，常见于西班牙语句首，与句末感叹号配合表示感叹语气。"
+    },
+    {
+      "id": "symbol-a7-6",
+      "symbol": "§",
+      "name": "章节符号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "章节符号",
+        "章节标记",
+        "分节号",
+        "标点",
+        "章节",
+        "音乐",
+        "00A7",
+        "U+00A7"
+      ],
+      "notes": "§ 是章节符号，常用于法律条文、规范文档和学术引用中标记章节或条款。"
+    },
     {
       "id": "symbol-ab-8",
       "symbol": "«",
@@ -17,6 +56,24 @@
         "U+00AB"
       ],
       "notes": "双左尖括号«是一种标点符号，主要用于某些语言的引语标记，如法语、西班牙语等。\n\n它具有独特的形状和用途，区别于其他标点符号，在现代应用中仍然具有重要的文化和技术价值。"
+    },
+    {
+      "id": "symbol-b6-17",
+      "symbol": "¶",
+      "name": "段落标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "段落标记",
+        "段落符号",
+        "标点",
+        "音乐",
+        "00B6",
+        "U+00B6"
+      ],
+      "notes": "¶ 是段落标记，用于表示段落边界、排版结构或编辑过程中的段落提示。"
     },
     {
       "id": "symbol-b7-18",
@@ -49,6 +106,25 @@
         "U+00BB"
       ],
       "notes": "» 是双尖括号的一部分，常用于引用、列表或强调。\n\n在法语等语言中，« » 用作引用符号，类似于英语中的双引号。例如：Il a dit : « Bonjour. »。\n\n在排版中，» 常用于列表项目的标示或突出内容，例如：\n» 第一项\n» 第二项。\n\n此外，在技术文档中，» 有时表示特定功能。\n\n需要注意，» 并非中文标点符号，不适用于书名号或引号替代，应根据语境正确使用。"
+    },
+    {
+      "id": "symbol-bf-21",
+      "symbol": "¿",
+      "name": "倒置问号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "倒置问号",
+        "西班牙语问号",
+        "标点",
+        "竖翻问号",
+        "其他",
+        "00BF",
+        "U+00BF"
+      ],
+      "notes": "¿ 是倒置问号，常见于西班牙语句首，与句末问号配合表示疑问语气。"
     },
     {
       "id": "symbol-2014-118",
@@ -209,6 +285,1887 @@
         "U+FF5E"
       ],
       "notes": "～ 是波浪符号，广泛用于表示约等于、波动或周期性现象。\n\n在数学中，～ 通常用来表示约等于，例如，x ～ y 表示 x 和 y 在某种意义下非常接近，通常用于近似或估算的情境。\n\n在物理学中，～ 常用于表示波动或周期性运动，尤其在描述振荡或波动现象时，例如，声音、光波或电磁波的传播。\n\n在其他领域，～ 也用于表示某种变化或趋势，尤其是在图表、数据表示或工程计算中。\n\n此外，～ 也出现在一些语言学、艺术和设计中，作为装饰性符号或标志，带有一种流动、灵动的感觉。\n\n作为一个符号，～ 用于表达不确定性、接近性或周期性，是一种常见且多功能的符号。"
+    },
+    {
+      "id": "symbol-2010-1046",
+      "symbol": "‐",
+      "name": "连字符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "连字符",
+        "标点",
+        "Hyphen",
+        "General Punctuation",
+        "2010",
+        "U+2010",
+        "短横线"
+      ],
+      "notes": "‐ 是连字符，Unicode 编码为 U+2010，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2011-1047",
+      "symbol": "‑",
+      "name": "不换行连字符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "不换行连字符",
+        "标点",
+        "Non-Breaking Hyphen",
+        "General Punctuation",
+        "2011",
+        "U+2011",
+        "连字符",
+        "短横线"
+      ],
+      "notes": "‑ 是不换行连字符，Unicode 编码为 U+2011，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2012-1048",
+      "symbol": "‒",
+      "name": "数字宽度短横线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "数字宽度短横线",
+        "标点",
+        "Figure Dash",
+        "General Punctuation",
+        "2012",
+        "U+2012",
+        "连字符",
+        "短横线"
+      ],
+      "notes": "‒ 是数字宽度短横线，Unicode 编码为 U+2012，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2013-1049",
+      "symbol": "–",
+      "name": "短破折号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "短破折号",
+        "标点",
+        "En Dash",
+        "General Punctuation",
+        "2013",
+        "U+2013",
+        "连字符",
+        "短横线"
+      ],
+      "notes": "– 是短破折号，Unicode 编码为 U+2013，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2015-1050",
+      "symbol": "―",
+      "name": "水平横线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "水平横线",
+        "标点",
+        "Horizontal Bar",
+        "General Punctuation",
+        "2015",
+        "U+2015"
+      ],
+      "notes": "― 是水平横线，Unicode 编码为 U+2015，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2017-1051",
+      "symbol": "‗",
+      "name": "双下划线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双下划线",
+        "标点",
+        "Double Low Line",
+        "General Punctuation",
+        "2017",
+        "U+2017"
+      ],
+      "notes": "‗ 是双下划线，Unicode 编码为 U+2017，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2018-1052",
+      "symbol": "‘",
+      "name": "左单引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左单引号",
+        "标点",
+        "Left Single Quotation Mark",
+        "General Punctuation",
+        "2018",
+        "U+2018",
+        "引号"
+      ],
+      "notes": "‘ 是左单引号，Unicode 编码为 U+2018，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-2019-1053",
+      "symbol": "’",
+      "name": "右单引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右单引号",
+        "标点",
+        "Right Single Quotation Mark",
+        "General Punctuation",
+        "2019",
+        "U+2019",
+        "引号"
+      ],
+      "notes": "’ 是右单引号，Unicode 编码为 U+2019，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-201a-1054",
+      "symbol": "‚",
+      "name": "低位单引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "低位单引号",
+        "标点",
+        "Single Low-9 Quotation Mark",
+        "General Punctuation",
+        "201A",
+        "U+201A",
+        "引号"
+      ],
+      "notes": "‚ 是低位单引号，Unicode 编码为 U+201A，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-201b-1055",
+      "symbol": "‛",
+      "name": "反向高位单引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向高位单引号",
+        "标点",
+        "Single High-Reversed-9 Quotation Mark",
+        "General Punctuation",
+        "201B",
+        "U+201B",
+        "引号"
+      ],
+      "notes": "‛ 是反向高位单引号，Unicode 编码为 U+201B，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-201c-1056",
+      "symbol": "“",
+      "name": "左双引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左双引号",
+        "标点",
+        "Left Double Quotation Mark",
+        "General Punctuation",
+        "201C",
+        "U+201C",
+        "引号"
+      ],
+      "notes": "“ 是左双引号，Unicode 编码为 U+201C，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-201d-1057",
+      "symbol": "”",
+      "name": "右双引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右双引号",
+        "标点",
+        "Right Double Quotation Mark",
+        "General Punctuation",
+        "201D",
+        "U+201D",
+        "引号"
+      ],
+      "notes": "” 是右双引号，Unicode 编码为 U+201D，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-201e-1058",
+      "symbol": "„",
+      "name": "低位双引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "低位双引号",
+        "标点",
+        "Double Low-9 Quotation Mark",
+        "General Punctuation",
+        "201E",
+        "U+201E",
+        "引号"
+      ],
+      "notes": "„ 是低位双引号，Unicode 编码为 U+201E，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-201f-1059",
+      "symbol": "‟",
+      "name": "反向高位双引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向高位双引号",
+        "标点",
+        "Double High-Reversed-9 Quotation Mark",
+        "General Punctuation",
+        "201F",
+        "U+201F",
+        "引号"
+      ],
+      "notes": "‟ 是反向高位双引号，Unicode 编码为 U+201F，常用于引文、校勘文本或不同语言的排版标注。"
+    },
+    {
+      "id": "symbol-2020-1060",
+      "symbol": "†",
+      "name": "剑标",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "剑标",
+        "标点",
+        "Dagger",
+        "General Punctuation",
+        "2020",
+        "U+2020"
+      ],
+      "notes": "† 是剑标，Unicode 编码为 U+2020，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2021-1061",
+      "symbol": "‡",
+      "name": "双剑标",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双剑标",
+        "标点",
+        "Double Dagger",
+        "General Punctuation",
+        "2021",
+        "U+2021"
+      ],
+      "notes": "‡ 是双剑标，Unicode 编码为 U+2021，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2023-1062",
+      "symbol": "‣",
+      "name": "三角项目符号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "三角项目符号",
+        "标点",
+        "Triangular Bullet",
+        "General Punctuation",
+        "2023",
+        "U+2023",
+        "项目符号"
+      ],
+      "notes": "‣ 是三角项目符号，Unicode 编码为 U+2023，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2024-1063",
+      "symbol": "․",
+      "name": "单点引导符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "单点引导符",
+        "标点",
+        "One Dot Leader",
+        "General Punctuation",
+        "2024",
+        "U+2024",
+        "点"
+      ],
+      "notes": "․ 是单点引导符，Unicode 编码为 U+2024，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2027-1064",
+      "symbol": "‧",
+      "name": "断字点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "断字点",
+        "标点",
+        "Hyphenation Point",
+        "General Punctuation",
+        "2027",
+        "U+2027",
+        "连字符",
+        "短横线"
+      ],
+      "notes": "‧ 是断字点，Unicode 编码为 U+2027，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2034-1065",
+      "symbol": "‴",
+      "name": "三重撇号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "三重撇号",
+        "标点",
+        "Triple Prime",
+        "General Punctuation",
+        "2034",
+        "U+2034",
+        "撇号"
+      ],
+      "notes": "‴ 是三重撇号，Unicode 编码为 U+2034，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2035-1066",
+      "symbol": "‵",
+      "name": "反向撇号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向撇号",
+        "标点",
+        "Reversed Prime",
+        "General Punctuation",
+        "2035",
+        "U+2035",
+        "撇号"
+      ],
+      "notes": "‵ 是反向撇号，Unicode 编码为 U+2035，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2036-1067",
+      "symbol": "‶",
+      "name": "反向双撇号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向双撇号",
+        "标点",
+        "Reversed Double Prime",
+        "General Punctuation",
+        "2036",
+        "U+2036",
+        "撇号"
+      ],
+      "notes": "‶ 是反向双撇号，Unicode 编码为 U+2036，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2037-1068",
+      "symbol": "‷",
+      "name": "反向三重撇号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向三重撇号",
+        "标点",
+        "Reversed Triple Prime",
+        "General Punctuation",
+        "2037",
+        "U+2037",
+        "撇号"
+      ],
+      "notes": "‷ 是反向三重撇号，Unicode 编码为 U+2037，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2038-1069",
+      "symbol": "‸",
+      "name": "插入记号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "插入记号",
+        "标点",
+        "Caret",
+        "General Punctuation",
+        "2038",
+        "U+2038"
+      ],
+      "notes": "‸ 是插入记号，Unicode 编码为 U+2038，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-203b-1070",
+      "symbol": "※",
+      "name": "参考标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "参考标记",
+        "标点",
+        "Reference Mark",
+        "General Punctuation",
+        "203B",
+        "U+203B"
+      ],
+      "notes": "※ 是参考标记，Unicode 编码为 U+203B，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-203c-1071",
+      "symbol": "‼",
+      "name": "双感叹号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双感叹号",
+        "标点",
+        "Double Exclamation Mark",
+        "General Punctuation",
+        "203C",
+        "U+203C",
+        "感叹号"
+      ],
+      "notes": "‼ 是双感叹号，Unicode 编码为 U+203C，用于表示疑问、惊叹或两种语气叠加的标点效果。"
+    },
+    {
+      "id": "symbol-203d-1072",
+      "symbol": "‽",
+      "name": "问叹号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "问叹号",
+        "标点",
+        "Interrobang",
+        "General Punctuation",
+        "203D",
+        "U+203D"
+      ],
+      "notes": "‽ 是问叹号，Unicode 编码为 U+203D，用于表示疑问、惊叹或两种语气叠加的标点效果。"
+    },
+    {
+      "id": "symbol-203e-1073",
+      "symbol": "‾",
+      "name": "上划线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上划线",
+        "标点",
+        "Overline",
+        "General Punctuation",
+        "203E",
+        "U+203E"
+      ],
+      "notes": "‾ 是上划线，Unicode 编码为 U+203E，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-203f-1074",
+      "symbol": "‿",
+      "name": "下连线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "下连线",
+        "标点",
+        "Undertie",
+        "General Punctuation",
+        "203F",
+        "U+203F"
+      ],
+      "notes": "‿ 是下连线，Unicode 编码为 U+203F，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2040-1075",
+      "symbol": "⁀",
+      "name": "字符连线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "字符连线",
+        "标点",
+        "Character Tie",
+        "General Punctuation",
+        "2040",
+        "U+2040"
+      ],
+      "notes": "⁀ 是字符连线，Unicode 编码为 U+2040，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2041-1076",
+      "symbol": "⁁",
+      "name": "插入点记号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "插入点记号",
+        "标点",
+        "Caret Insertion Point",
+        "General Punctuation",
+        "2041",
+        "U+2041"
+      ],
+      "notes": "⁁ 是插入点记号，Unicode 编码为 U+2041，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2042-1077",
+      "symbol": "⁂",
+      "name": "三星号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "三星号",
+        "标点",
+        "Asterism",
+        "General Punctuation",
+        "2042",
+        "U+2042"
+      ],
+      "notes": "⁂ 是三星号，Unicode 编码为 U+2042，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2043-1078",
+      "symbol": "⁃",
+      "name": "连字符项目符号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "连字符项目符号",
+        "标点",
+        "Hyphen Bullet",
+        "General Punctuation",
+        "2043",
+        "U+2043",
+        "连字符",
+        "短横线",
+        "项目符号"
+      ],
+      "notes": "⁃ 是连字符项目符号，Unicode 编码为 U+2043，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2044-1079",
+      "symbol": "⁄",
+      "name": "分数斜线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "分数斜线",
+        "标点",
+        "Fraction Slash",
+        "General Punctuation",
+        "2044",
+        "U+2044"
+      ],
+      "notes": "⁄ 是分数斜线，Unicode 编码为 U+2044，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2045-1080",
+      "symbol": "⁅",
+      "name": "左羽饰方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左羽饰方括号",
+        "标点",
+        "Left Square Bracket with Quill",
+        "General Punctuation",
+        "2045",
+        "U+2045",
+        "括号"
+      ],
+      "notes": "⁅ 是左羽饰方括号，Unicode 编码为 U+2045，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2046-1081",
+      "symbol": "⁆",
+      "name": "右羽饰方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右羽饰方括号",
+        "标点",
+        "Right Square Bracket with Quill",
+        "General Punctuation",
+        "2046",
+        "U+2046",
+        "括号"
+      ],
+      "notes": "⁆ 是右羽饰方括号，Unicode 编码为 U+2046，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2047-1082",
+      "symbol": "⁇",
+      "name": "双问号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双问号",
+        "标点",
+        "Double Question Mark",
+        "General Punctuation",
+        "2047",
+        "U+2047",
+        "问号"
+      ],
+      "notes": "⁇ 是双问号，Unicode 编码为 U+2047，用于表示疑问、惊叹或两种语气叠加的标点效果。"
+    },
+    {
+      "id": "symbol-2048-1083",
+      "symbol": "⁈",
+      "name": "问号感叹号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "问号感叹号",
+        "标点",
+        "Question Exclamation Mark",
+        "General Punctuation",
+        "2048",
+        "U+2048",
+        "问号",
+        "感叹号"
+      ],
+      "notes": "⁈ 是问号感叹号，Unicode 编码为 U+2048，用于表示疑问、惊叹或两种语气叠加的标点效果。"
+    },
+    {
+      "id": "symbol-2049-1084",
+      "symbol": "⁉",
+      "name": "感叹号问号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "感叹号问号",
+        "标点",
+        "Exclamation Question Mark",
+        "General Punctuation",
+        "2049",
+        "U+2049",
+        "问号",
+        "感叹号"
+      ],
+      "notes": "⁉ 是感叹号问号，Unicode 编码为 U+2049，用于表示疑问、惊叹或两种语气叠加的标点效果。"
+    },
+    {
+      "id": "symbol-204a-1085",
+      "symbol": "⁊",
+      "name": "蒂罗和号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "蒂罗和号",
+        "标点",
+        "Tironian Sign Et",
+        "General Punctuation",
+        "204A",
+        "U+204A"
+      ],
+      "notes": "⁊ 是蒂罗和号，Unicode 编码为 U+204A，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-204b-1086",
+      "symbol": "⁋",
+      "name": "反向段落标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向段落标记",
+        "标点",
+        "Reversed Pilcrow Sign",
+        "General Punctuation",
+        "204B",
+        "U+204B",
+        "段落符号"
+      ],
+      "notes": "⁋ 是反向段落标记，Unicode 编码为 U+204B，用于标记段落、文本结构或古典文献中的段落分隔。"
+    },
+    {
+      "id": "symbol-204c-1087",
+      "symbol": "⁌",
+      "name": "黑色左向项目符号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "黑色左向项目符号",
+        "标点",
+        "Black Leftwards Bullet",
+        "General Punctuation",
+        "204C",
+        "U+204C",
+        "项目符号"
+      ],
+      "notes": "⁌ 是黑色左向项目符号，Unicode 编码为 U+204C，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-204d-1088",
+      "symbol": "⁍",
+      "name": "黑色右向项目符号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "黑色右向项目符号",
+        "标点",
+        "Black Rightwards Bullet",
+        "General Punctuation",
+        "204D",
+        "U+204D",
+        "项目符号"
+      ],
+      "notes": "⁍ 是黑色右向项目符号，Unicode 编码为 U+204D，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-204e-1089",
+      "symbol": "⁎",
+      "name": "低位星号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "低位星号",
+        "标点",
+        "Low Asterisk",
+        "General Punctuation",
+        "204E",
+        "U+204E",
+        "星号"
+      ],
+      "notes": "⁎ 是低位星号，Unicode 编码为 U+204E，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-204f-1090",
+      "symbol": "⁏",
+      "name": "反向分号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向分号",
+        "标点",
+        "Reversed Semicolon",
+        "General Punctuation",
+        "204F",
+        "U+204F"
+      ],
+      "notes": "⁏ 是反向分号，Unicode 编码为 U+204F，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2050-1091",
+      "symbol": "⁐",
+      "name": "闭合校对符号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "闭合校对符号",
+        "标点",
+        "Close Up",
+        "General Punctuation",
+        "2050",
+        "U+2050"
+      ],
+      "notes": "⁐ 是闭合校对符号，Unicode 编码为 U+2050，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2051-1092",
+      "symbol": "⁑",
+      "name": "竖排双星号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖排双星号",
+        "标点",
+        "Two Asterisks Aligned Vertically",
+        "General Punctuation",
+        "2051",
+        "U+2051",
+        "星号"
+      ],
+      "notes": "⁑ 是竖排双星号，Unicode 编码为 U+2051，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2052-1093",
+      "symbol": "⁒",
+      "name": "商业减号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "商业减号",
+        "标点",
+        "Commercial Minus Sign",
+        "General Punctuation",
+        "2052",
+        "U+2052"
+      ],
+      "notes": "⁒ 是商业减号，Unicode 编码为 U+2052，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2053-1094",
+      "symbol": "⁓",
+      "name": "波浪短横线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "波浪短横线",
+        "标点",
+        "Swung Dash",
+        "General Punctuation",
+        "2053",
+        "U+2053",
+        "连字符",
+        "短横线"
+      ],
+      "notes": "⁓ 是波浪短横线，Unicode 编码为 U+2053，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2054-1095",
+      "symbol": "⁔",
+      "name": "反向下连线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向下连线",
+        "标点",
+        "Inverted Undertie",
+        "General Punctuation",
+        "2054",
+        "U+2054"
+      ],
+      "notes": "⁔ 是反向下连线，Unicode 编码为 U+2054，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2055-1096",
+      "symbol": "⁕",
+      "name": "花形标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "花形标点",
+        "标点",
+        "Flower Punctuation Mark",
+        "General Punctuation",
+        "2055",
+        "U+2055"
+      ],
+      "notes": "⁕ 是花形标点，Unicode 编码为 U+2055，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2056-1097",
+      "symbol": "⁖",
+      "name": "三点标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "三点标点",
+        "标点",
+        "Three Dot Punctuation",
+        "General Punctuation",
+        "2056",
+        "U+2056",
+        "点"
+      ],
+      "notes": "⁖ 是三点标点，Unicode 编码为 U+2056，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2057-1098",
+      "symbol": "⁗",
+      "name": "四重撇号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "四重撇号",
+        "标点",
+        "Quadruple Prime",
+        "General Punctuation",
+        "2057",
+        "U+2057",
+        "撇号"
+      ],
+      "notes": "⁗ 是四重撇号，Unicode 编码为 U+2057，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2058-1099",
+      "symbol": "⁘",
+      "name": "四点标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "四点标点",
+        "标点",
+        "Four Dot Punctuation",
+        "General Punctuation",
+        "2058",
+        "U+2058",
+        "点"
+      ],
+      "notes": "⁘ 是四点标点，Unicode 编码为 U+2058，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2059-1100",
+      "symbol": "⁙",
+      "name": "五点标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "五点标点",
+        "标点",
+        "Five Dot Punctuation",
+        "General Punctuation",
+        "2059",
+        "U+2059",
+        "点"
+      ],
+      "notes": "⁙ 是五点标点，Unicode 编码为 U+2059，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-205a-1101",
+      "symbol": "⁚",
+      "name": "两点标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "两点标点",
+        "标点",
+        "Two Dot Punctuation",
+        "General Punctuation",
+        "205A",
+        "U+205A",
+        "点"
+      ],
+      "notes": "⁚ 是两点标点，Unicode 编码为 U+205A，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-205b-1102",
+      "symbol": "⁛",
+      "name": "四点标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "四点标记",
+        "标点",
+        "Four Dot Mark",
+        "General Punctuation",
+        "205B",
+        "U+205B",
+        "点"
+      ],
+      "notes": "⁛ 是四点标记，Unicode 编码为 U+205B，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-205c-1103",
+      "symbol": "⁜",
+      "name": "点状十字",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "点状十字",
+        "标点",
+        "Dotted Cross",
+        "General Punctuation",
+        "205C",
+        "U+205C",
+        "点"
+      ],
+      "notes": "⁜ 是点状十字，Unicode 编码为 U+205C，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-205d-1104",
+      "symbol": "⁝",
+      "name": "三冒号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "三冒号",
+        "标点",
+        "Tricolon",
+        "General Punctuation",
+        "205D",
+        "U+205D"
+      ],
+      "notes": "⁝ 是三冒号，Unicode 编码为 U+205D，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-205e-1105",
+      "symbol": "⁞",
+      "name": "竖排四点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖排四点",
+        "标点",
+        "Vertical Four Dots",
+        "General Punctuation",
+        "205E",
+        "U+205E",
+        "点"
+      ],
+      "notes": "⁞ 是竖排四点，Unicode 编码为 U+205E，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e00-1106",
+      "symbol": "⸀",
+      "name": "直角替换标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "直角替换标记",
+        "标点",
+        "Right Angle Substitution Marker",
+        "Supplemental Punctuation",
+        "2E00",
+        "U+2E00"
+      ],
+      "notes": "⸀ 是直角替换标记，Unicode 编码为 U+2E00，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e01-1107",
+      "symbol": "⸁",
+      "name": "点状直角替换标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "点状直角替换标记",
+        "标点",
+        "Right Angle Dotted Substitution Marker",
+        "Supplemental Punctuation",
+        "2E01",
+        "U+2E01",
+        "点"
+      ],
+      "notes": "⸁ 是点状直角替换标记，Unicode 编码为 U+2E01，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e02-1108",
+      "symbol": "⸂",
+      "name": "左替换括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左替换括号",
+        "标点",
+        "Left Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E02",
+        "U+2E02",
+        "括号"
+      ],
+      "notes": "⸂ 是左替换括号，Unicode 编码为 U+2E02，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e03-1109",
+      "symbol": "⸃",
+      "name": "右替换括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右替换括号",
+        "标点",
+        "Right Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E03",
+        "U+2E03",
+        "括号"
+      ],
+      "notes": "⸃ 是右替换括号，Unicode 编码为 U+2E03，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e04-1110",
+      "symbol": "⸄",
+      "name": "左点状替换括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左点状替换括号",
+        "标点",
+        "Left Dotted Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E04",
+        "U+2E04",
+        "括号",
+        "点"
+      ],
+      "notes": "⸄ 是左点状替换括号，Unicode 编码为 U+2E04，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e05-1111",
+      "symbol": "⸅",
+      "name": "右点状替换括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右点状替换括号",
+        "标点",
+        "Right Dotted Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E05",
+        "U+2E05",
+        "括号",
+        "点"
+      ],
+      "notes": "⸅ 是右点状替换括号，Unicode 编码为 U+2E05，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e06-1112",
+      "symbol": "⸆",
+      "name": "上标插入标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上标插入标记",
+        "标点",
+        "Raised Interpolation Marker",
+        "Supplemental Punctuation",
+        "2E06",
+        "U+2E06"
+      ],
+      "notes": "⸆ 是上标插入标记，Unicode 编码为 U+2E06，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e07-1113",
+      "symbol": "⸇",
+      "name": "上标点状插入标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上标点状插入标记",
+        "标点",
+        "Raised Dotted Interpolation Marker",
+        "Supplemental Punctuation",
+        "2E07",
+        "U+2E07",
+        "点"
+      ],
+      "notes": "⸇ 是上标点状插入标记，Unicode 编码为 U+2E07，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e08-1114",
+      "symbol": "⸈",
+      "name": "点状移位标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "点状移位标记",
+        "标点",
+        "Dotted Transposition Marker",
+        "Supplemental Punctuation",
+        "2E08",
+        "U+2E08",
+        "点"
+      ],
+      "notes": "⸈ 是点状移位标记，Unicode 编码为 U+2E08，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e09-1115",
+      "symbol": "⸉",
+      "name": "左移位括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左移位括号",
+        "标点",
+        "Left Transposition Bracket",
+        "Supplemental Punctuation",
+        "2E09",
+        "U+2E09",
+        "括号"
+      ],
+      "notes": "⸉ 是左移位括号，Unicode 编码为 U+2E09，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e0a-1116",
+      "symbol": "⸊",
+      "name": "右移位括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右移位括号",
+        "标点",
+        "Right Transposition Bracket",
+        "Supplemental Punctuation",
+        "2E0A",
+        "U+2E0A",
+        "括号"
+      ],
+      "notes": "⸊ 是右移位括号，Unicode 编码为 U+2E0A，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e0b-1117",
+      "symbol": "⸋",
+      "name": "上标方块",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上标方块",
+        "标点",
+        "Raised Square",
+        "Supplemental Punctuation",
+        "2E0B",
+        "U+2E0B"
+      ],
+      "notes": "⸋ 是上标方块，Unicode 编码为 U+2E0B，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e0c-1118",
+      "symbol": "⸌",
+      "name": "左上省略括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左上省略括号",
+        "标点",
+        "Left Raised Omission Bracket",
+        "Supplemental Punctuation",
+        "2E0C",
+        "U+2E0C",
+        "括号"
+      ],
+      "notes": "⸌ 是左上省略括号，Unicode 编码为 U+2E0C，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e0d-1119",
+      "symbol": "⸍",
+      "name": "右上省略括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右上省略括号",
+        "标点",
+        "Right Raised Omission Bracket",
+        "Supplemental Punctuation",
+        "2E0D",
+        "U+2E0D",
+        "括号"
+      ],
+      "notes": "⸍ 是右上省略括号，Unicode 编码为 U+2E0D，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e0e-1120",
+      "symbol": "⸎",
+      "name": "校勘冠形符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "校勘冠形符",
+        "标点",
+        "Editorial Coronis",
+        "Supplemental Punctuation",
+        "2E0E",
+        "U+2E0E"
+      ],
+      "notes": "⸎ 是校勘冠形符，Unicode 编码为 U+2E0E，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e0f-1121",
+      "symbol": "⸏",
+      "name": "古典段落符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "古典段落符",
+        "标点",
+        "Paragraphos",
+        "Supplemental Punctuation",
+        "2E0F",
+        "U+2E0F",
+        "段落符号"
+      ],
+      "notes": "⸏ 是古典段落符，Unicode 编码为 U+2E0F，用于标记段落、文本结构或古典文献中的段落分隔。"
+    },
+    {
+      "id": "symbol-2e10-1122",
+      "symbol": "⸐",
+      "name": "分叉段落符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "分叉段落符",
+        "标点",
+        "Forked Paragraphos",
+        "Supplemental Punctuation",
+        "2E10",
+        "U+2E10",
+        "段落符号"
+      ],
+      "notes": "⸐ 是分叉段落符，Unicode 编码为 U+2E10，用于标记段落、文本结构或古典文献中的段落分隔。"
+    },
+    {
+      "id": "symbol-2e11-1123",
+      "symbol": "⸑",
+      "name": "反向分叉段落符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向分叉段落符",
+        "标点",
+        "Reversed Forked Paragraphos",
+        "Supplemental Punctuation",
+        "2E11",
+        "U+2E11",
+        "段落符号"
+      ],
+      "notes": "⸑ 是反向分叉段落符，Unicode 编码为 U+2E11，用于标记段落、文本结构或古典文献中的段落分隔。"
+    },
+    {
+      "id": "symbol-2e12-1124",
+      "symbol": "⸒",
+      "name": "古典逗号标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "古典逗号标记",
+        "标点",
+        "Hypodiastole",
+        "Supplemental Punctuation",
+        "2E12",
+        "U+2E12"
+      ],
+      "notes": "⸒ 是古典逗号标记，Unicode 编码为 U+2E12，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e13-1125",
+      "symbol": "⸓",
+      "name": "点状除号校勘符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "点状除号校勘符",
+        "标点",
+        "Dotted Obelos",
+        "Supplemental Punctuation",
+        "2E13",
+        "U+2E13",
+        "点"
+      ],
+      "notes": "⸓ 是点状除号校勘符，Unicode 编码为 U+2E13，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e14-1126",
+      "symbol": "⸔",
+      "name": "下向锚形符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "下向锚形符",
+        "标点",
+        "Downwards Ancora",
+        "Supplemental Punctuation",
+        "2E14",
+        "U+2E14"
+      ],
+      "notes": "⸔ 是下向锚形符，Unicode 编码为 U+2E14，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e15-1127",
+      "symbol": "⸕",
+      "name": "上向锚形符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上向锚形符",
+        "标点",
+        "Upwards Ancora",
+        "Supplemental Punctuation",
+        "2E15",
+        "U+2E15"
+      ],
+      "notes": "⸕ 是上向锚形符，Unicode 编码为 U+2E15，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e16-1128",
+      "symbol": "⸖",
+      "name": "点状右角标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "点状右角标记",
+        "标点",
+        "Dotted Right-Pointing Angle",
+        "Supplemental Punctuation",
+        "2E16",
+        "U+2E16",
+        "点"
+      ],
+      "notes": "⸖ 是点状右角标记，Unicode 编码为 U+2E16，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e17-1129",
+      "symbol": "⸗",
+      "name": "双斜连字符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双斜连字符",
+        "标点",
+        "Double Oblique Hyphen",
+        "Supplemental Punctuation",
+        "2E17",
+        "U+2E17",
+        "连字符",
+        "短横线"
+      ],
+      "notes": "⸗ 是双斜连字符，Unicode 编码为 U+2E17，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2e18-1130",
+      "symbol": "⸘",
+      "name": "倒置问叹号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "倒置问叹号",
+        "标点",
+        "Inverted Interrobang",
+        "Supplemental Punctuation",
+        "2E18",
+        "U+2E18"
+      ],
+      "notes": "⸘ 是倒置问叹号，Unicode 编码为 U+2E18，用于表示疑问、惊叹或两种语气叠加的标点效果。"
+    },
+    {
+      "id": "symbol-2e19-1131",
+      "symbol": "⸙",
+      "name": "棕榈枝标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "棕榈枝标记",
+        "标点",
+        "Palm Branch",
+        "Supplemental Punctuation",
+        "2E19",
+        "U+2E19"
+      ],
+      "notes": "⸙ 是棕榈枝标记，Unicode 编码为 U+2E19，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e1a-1132",
+      "symbol": "⸚",
+      "name": "带分音符连字符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带分音符连字符",
+        "标点",
+        "Hyphen with Diaeresis",
+        "Supplemental Punctuation",
+        "2E1A",
+        "U+2E1A",
+        "连字符",
+        "短横线"
+      ],
+      "notes": "⸚ 是带分音符连字符，Unicode 编码为 U+2E1A，用于连接、分隔文本，或在排版中表示特定宽度和语义的横线。"
+    },
+    {
+      "id": "symbol-2e1b-1133",
+      "symbol": "⸛",
+      "name": "上带圆圈波浪线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上带圆圈波浪线",
+        "标点",
+        "Tilde with Ring Above",
+        "Supplemental Punctuation",
+        "2E1B",
+        "U+2E1B"
+      ],
+      "notes": "⸛ 是上带圆圈波浪线，Unicode 编码为 U+2E1B，属于Supplemental Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
+    },
+    {
+      "id": "symbol-2e1c-1134",
+      "symbol": "⸜",
+      "name": "左低位释义括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左低位释义括号",
+        "标点",
+        "Left Low Paraphrase Bracket",
+        "Supplemental Punctuation",
+        "2E1C",
+        "U+2E1C",
+        "括号"
+      ],
+      "notes": "⸜ 是左低位释义括号，Unicode 编码为 U+2E1C，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e1d-1135",
+      "symbol": "⸝",
+      "name": "右低位释义括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右低位释义括号",
+        "标点",
+        "Right Low Paraphrase Bracket",
+        "Supplemental Punctuation",
+        "2E1D",
+        "U+2E1D",
+        "括号"
+      ],
+      "notes": "⸝ 是右低位释义括号，Unicode 编码为 U+2E1D，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e1e-1136",
+      "symbol": "⸞",
+      "name": "上带点波浪线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上带点波浪线",
+        "标点",
+        "Tilde with Dot Above",
+        "Supplemental Punctuation",
+        "2E1E",
+        "U+2E1E",
+        "点"
+      ],
+      "notes": "⸞ 是上带点波浪线，Unicode 编码为 U+2E1E，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e1f-1137",
+      "symbol": "⸟",
+      "name": "下带点波浪线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "下带点波浪线",
+        "标点",
+        "Tilde with Dot Below",
+        "Supplemental Punctuation",
+        "2E1F",
+        "U+2E1F",
+        "点"
+      ],
+      "notes": "⸟ 是下带点波浪线，Unicode 编码为 U+2E1F，可用于项目标示、脚注、校勘或特殊排版中的点状标记。"
+    },
+    {
+      "id": "symbol-2e20-1138",
+      "symbol": "⸠",
+      "name": "左羽饰竖线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左羽饰竖线",
+        "标点",
+        "Left Vertical Bar with Quill",
+        "Supplemental Punctuation",
+        "2E20",
+        "U+2E20"
+      ],
+      "notes": "⸠ 是左羽饰竖线，Unicode 编码为 U+2E20，多见于专业排版、校勘文本或古籍转写中，用于标示边界或特殊分隔。"
+    },
+    {
+      "id": "symbol-2e21-1139",
+      "symbol": "⸡",
+      "name": "右羽饰竖线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右羽饰竖线",
+        "标点",
+        "Right Vertical Bar with Quill",
+        "Supplemental Punctuation",
+        "2E21",
+        "U+2E21"
+      ],
+      "notes": "⸡ 是右羽饰竖线，Unicode 编码为 U+2E21，多见于专业排版、校勘文本或古籍转写中，用于标示边界或特殊分隔。"
+    },
+    {
+      "id": "symbol-2e22-1140",
+      "symbol": "⸢",
+      "name": "左上半括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左上半括号",
+        "标点",
+        "Top Left Half Bracket",
+        "Supplemental Punctuation",
+        "2E22",
+        "U+2E22",
+        "括号"
+      ],
+      "notes": "⸢ 是左上半括号，Unicode 编码为 U+2E22，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e23-1141",
+      "symbol": "⸣",
+      "name": "右上半括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右上半括号",
+        "标点",
+        "Top Right Half Bracket",
+        "Supplemental Punctuation",
+        "2E23",
+        "U+2E23",
+        "括号"
+      ],
+      "notes": "⸣ 是右上半括号，Unicode 编码为 U+2E23，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e24-1142",
+      "symbol": "⸤",
+      "name": "左下半括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左下半括号",
+        "标点",
+        "Bottom Left Half Bracket",
+        "Supplemental Punctuation",
+        "2E24",
+        "U+2E24",
+        "括号"
+      ],
+      "notes": "⸤ 是左下半括号，Unicode 编码为 U+2E24，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e25-1143",
+      "symbol": "⸥",
+      "name": "右下半括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右下半括号",
+        "标点",
+        "Bottom Right Half Bracket",
+        "Supplemental Punctuation",
+        "2E25",
+        "U+2E25",
+        "括号"
+      ],
+      "notes": "⸥ 是右下半括号，Unicode 编码为 U+2E25，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e26-1144",
+      "symbol": "⸦",
+      "name": "左侧向 U 形括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左侧向 U 形括号",
+        "标点",
+        "Left Sideways U Bracket",
+        "Supplemental Punctuation",
+        "2E26",
+        "U+2E26",
+        "括号"
+      ],
+      "notes": "⸦ 是左侧向 U 形括号，Unicode 编码为 U+2E26，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e27-1145",
+      "symbol": "⸧",
+      "name": "右侧向 U 形括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右侧向 U 形括号",
+        "标点",
+        "Right Sideways U Bracket",
+        "Supplemental Punctuation",
+        "2E27",
+        "U+2E27",
+        "括号"
+      ],
+      "notes": "⸧ 是右侧向 U 形括号，Unicode 编码为 U+2E27，多见于专业排版、古籍转写或校勘文本中的括注标记。"
     }
   ]
 }

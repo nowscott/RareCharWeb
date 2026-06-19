@@ -1,6 +1,6 @@
 {
   "type": "symbols",
-  "total": 1045,
+  "total": 1145,
   "items": {
     "symbol-24-1": {
       "id": "symbol-24-1",
@@ -23,15 +23,18 @@
     "symbol-a1-2": {
       "id": "symbol-a1-2",
       "value": "¡",
-      "name": "竖翻叹号",
+      "name": "倒置感叹号",
       "categories": [
-        "其他"
+        "标点"
       ],
-      "primaryCategory": "其他",
+      "primaryCategory": "标点",
       "files": [
-        "symbols/by-category/其他.json"
+        "symbols/by-category/标点.json"
       ],
       "searchTerms": [
+        "倒置感叹号",
+        "西班牙语感叹号",
+        "标点",
         "竖翻叹号",
         "其他",
         "00A1",
@@ -77,7 +80,7 @@
     "symbol-a4-5": {
       "id": "symbol-a4-5",
       "value": "¤",
-      "name": "通用",
+      "name": "通用货币符号",
       "categories": [
         "货币"
       ],
@@ -86,6 +89,8 @@
         "symbols/by-category/货币.json"
       ],
       "searchTerms": [
+        "通用货币符号",
+        "货币占位符",
         "通用",
         "货币",
         "00A4",
@@ -95,15 +100,19 @@
     "symbol-a7-6": {
       "id": "symbol-a7-6",
       "value": "§",
-      "name": "章节",
+      "name": "章节符号",
       "categories": [
-        "音乐"
+        "标点"
       ],
-      "primaryCategory": "音乐",
+      "primaryCategory": "标点",
       "files": [
-        "symbols/by-category/音乐.json"
+        "symbols/by-category/标点.json"
       ],
       "searchTerms": [
+        "章节符号",
+        "章节标记",
+        "分节号",
+        "标点",
         "章节",
         "音乐",
         "00A7",
@@ -301,14 +310,16 @@
       "value": "¶",
       "name": "段落标记",
       "categories": [
-        "音乐"
+        "标点"
       ],
-      "primaryCategory": "音乐",
+      "primaryCategory": "标点",
       "files": [
-        "symbols/by-category/音乐.json"
+        "symbols/by-category/标点.json"
       ],
       "searchTerms": [
         "段落标记",
+        "段落符号",
+        "标点",
         "音乐",
         "00B6",
         "U+00B6"
@@ -371,15 +382,18 @@
     "symbol-bf-21": {
       "id": "symbol-bf-21",
       "value": "¿",
-      "name": "竖翻问号",
+      "name": "倒置问号",
       "categories": [
-        "其他"
+        "标点"
       ],
-      "primaryCategory": "其他",
+      "primaryCategory": "标点",
       "files": [
-        "symbols/by-category/其他.json"
+        "symbols/by-category/标点.json"
       ],
       "searchTerms": [
+        "倒置问号",
+        "西班牙语问号",
+        "标点",
         "竖翻问号",
         "其他",
         "00BF",
@@ -19682,6 +19696,2087 @@
         "U+1D7D7",
         "Mathematical Bold Digit Nine",
         "Mathematical Alphanumeric Symbols"
+      ]
+    },
+    "symbol-2010-1046": {
+      "id": "symbol-2010-1046",
+      "value": "‐",
+      "name": "连字符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "连字符",
+        "标点",
+        "Hyphen",
+        "General Punctuation",
+        "2010",
+        "U+2010",
+        "短横线"
+      ]
+    },
+    "symbol-2011-1047": {
+      "id": "symbol-2011-1047",
+      "value": "‑",
+      "name": "不换行连字符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "不换行连字符",
+        "标点",
+        "Non-Breaking Hyphen",
+        "General Punctuation",
+        "2011",
+        "U+2011",
+        "连字符",
+        "短横线"
+      ]
+    },
+    "symbol-2012-1048": {
+      "id": "symbol-2012-1048",
+      "value": "‒",
+      "name": "数字宽度短横线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "数字宽度短横线",
+        "标点",
+        "Figure Dash",
+        "General Punctuation",
+        "2012",
+        "U+2012",
+        "连字符",
+        "短横线"
+      ]
+    },
+    "symbol-2013-1049": {
+      "id": "symbol-2013-1049",
+      "value": "–",
+      "name": "短破折号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "短破折号",
+        "标点",
+        "En Dash",
+        "General Punctuation",
+        "2013",
+        "U+2013",
+        "连字符",
+        "短横线"
+      ]
+    },
+    "symbol-2015-1050": {
+      "id": "symbol-2015-1050",
+      "value": "―",
+      "name": "水平横线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "水平横线",
+        "标点",
+        "Horizontal Bar",
+        "General Punctuation",
+        "2015",
+        "U+2015"
+      ]
+    },
+    "symbol-2017-1051": {
+      "id": "symbol-2017-1051",
+      "value": "‗",
+      "name": "双下划线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "双下划线",
+        "标点",
+        "Double Low Line",
+        "General Punctuation",
+        "2017",
+        "U+2017"
+      ]
+    },
+    "symbol-2018-1052": {
+      "id": "symbol-2018-1052",
+      "value": "‘",
+      "name": "左单引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左单引号",
+        "标点",
+        "Left Single Quotation Mark",
+        "General Punctuation",
+        "2018",
+        "U+2018",
+        "引号"
+      ]
+    },
+    "symbol-2019-1053": {
+      "id": "symbol-2019-1053",
+      "value": "’",
+      "name": "右单引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右单引号",
+        "标点",
+        "Right Single Quotation Mark",
+        "General Punctuation",
+        "2019",
+        "U+2019",
+        "引号"
+      ]
+    },
+    "symbol-201a-1054": {
+      "id": "symbol-201a-1054",
+      "value": "‚",
+      "name": "低位单引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "低位单引号",
+        "标点",
+        "Single Low-9 Quotation Mark",
+        "General Punctuation",
+        "201A",
+        "U+201A",
+        "引号"
+      ]
+    },
+    "symbol-201b-1055": {
+      "id": "symbol-201b-1055",
+      "value": "‛",
+      "name": "反向高位单引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向高位单引号",
+        "标点",
+        "Single High-Reversed-9 Quotation Mark",
+        "General Punctuation",
+        "201B",
+        "U+201B",
+        "引号"
+      ]
+    },
+    "symbol-201c-1056": {
+      "id": "symbol-201c-1056",
+      "value": "“",
+      "name": "左双引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左双引号",
+        "标点",
+        "Left Double Quotation Mark",
+        "General Punctuation",
+        "201C",
+        "U+201C",
+        "引号"
+      ]
+    },
+    "symbol-201d-1057": {
+      "id": "symbol-201d-1057",
+      "value": "”",
+      "name": "右双引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右双引号",
+        "标点",
+        "Right Double Quotation Mark",
+        "General Punctuation",
+        "201D",
+        "U+201D",
+        "引号"
+      ]
+    },
+    "symbol-201e-1058": {
+      "id": "symbol-201e-1058",
+      "value": "„",
+      "name": "低位双引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "低位双引号",
+        "标点",
+        "Double Low-9 Quotation Mark",
+        "General Punctuation",
+        "201E",
+        "U+201E",
+        "引号"
+      ]
+    },
+    "symbol-201f-1059": {
+      "id": "symbol-201f-1059",
+      "value": "‟",
+      "name": "反向高位双引号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向高位双引号",
+        "标点",
+        "Double High-Reversed-9 Quotation Mark",
+        "General Punctuation",
+        "201F",
+        "U+201F",
+        "引号"
+      ]
+    },
+    "symbol-2020-1060": {
+      "id": "symbol-2020-1060",
+      "value": "†",
+      "name": "剑标",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "剑标",
+        "标点",
+        "Dagger",
+        "General Punctuation",
+        "2020",
+        "U+2020"
+      ]
+    },
+    "symbol-2021-1061": {
+      "id": "symbol-2021-1061",
+      "value": "‡",
+      "name": "双剑标",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "双剑标",
+        "标点",
+        "Double Dagger",
+        "General Punctuation",
+        "2021",
+        "U+2021"
+      ]
+    },
+    "symbol-2023-1062": {
+      "id": "symbol-2023-1062",
+      "value": "‣",
+      "name": "三角项目符号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "三角项目符号",
+        "标点",
+        "Triangular Bullet",
+        "General Punctuation",
+        "2023",
+        "U+2023",
+        "项目符号"
+      ]
+    },
+    "symbol-2024-1063": {
+      "id": "symbol-2024-1063",
+      "value": "․",
+      "name": "单点引导符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "单点引导符",
+        "标点",
+        "One Dot Leader",
+        "General Punctuation",
+        "2024",
+        "U+2024",
+        "点"
+      ]
+    },
+    "symbol-2027-1064": {
+      "id": "symbol-2027-1064",
+      "value": "‧",
+      "name": "断字点",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "断字点",
+        "标点",
+        "Hyphenation Point",
+        "General Punctuation",
+        "2027",
+        "U+2027",
+        "连字符",
+        "短横线"
+      ]
+    },
+    "symbol-2034-1065": {
+      "id": "symbol-2034-1065",
+      "value": "‴",
+      "name": "三重撇号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "三重撇号",
+        "标点",
+        "Triple Prime",
+        "General Punctuation",
+        "2034",
+        "U+2034",
+        "撇号"
+      ]
+    },
+    "symbol-2035-1066": {
+      "id": "symbol-2035-1066",
+      "value": "‵",
+      "name": "反向撇号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向撇号",
+        "标点",
+        "Reversed Prime",
+        "General Punctuation",
+        "2035",
+        "U+2035",
+        "撇号"
+      ]
+    },
+    "symbol-2036-1067": {
+      "id": "symbol-2036-1067",
+      "value": "‶",
+      "name": "反向双撇号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向双撇号",
+        "标点",
+        "Reversed Double Prime",
+        "General Punctuation",
+        "2036",
+        "U+2036",
+        "撇号"
+      ]
+    },
+    "symbol-2037-1068": {
+      "id": "symbol-2037-1068",
+      "value": "‷",
+      "name": "反向三重撇号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向三重撇号",
+        "标点",
+        "Reversed Triple Prime",
+        "General Punctuation",
+        "2037",
+        "U+2037",
+        "撇号"
+      ]
+    },
+    "symbol-2038-1069": {
+      "id": "symbol-2038-1069",
+      "value": "‸",
+      "name": "插入记号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "插入记号",
+        "标点",
+        "Caret",
+        "General Punctuation",
+        "2038",
+        "U+2038"
+      ]
+    },
+    "symbol-203b-1070": {
+      "id": "symbol-203b-1070",
+      "value": "※",
+      "name": "参考标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "参考标记",
+        "标点",
+        "Reference Mark",
+        "General Punctuation",
+        "203B",
+        "U+203B"
+      ]
+    },
+    "symbol-203c-1071": {
+      "id": "symbol-203c-1071",
+      "value": "‼",
+      "name": "双感叹号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "双感叹号",
+        "标点",
+        "Double Exclamation Mark",
+        "General Punctuation",
+        "203C",
+        "U+203C",
+        "感叹号"
+      ]
+    },
+    "symbol-203d-1072": {
+      "id": "symbol-203d-1072",
+      "value": "‽",
+      "name": "问叹号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "问叹号",
+        "标点",
+        "Interrobang",
+        "General Punctuation",
+        "203D",
+        "U+203D"
+      ]
+    },
+    "symbol-203e-1073": {
+      "id": "symbol-203e-1073",
+      "value": "‾",
+      "name": "上划线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "上划线",
+        "标点",
+        "Overline",
+        "General Punctuation",
+        "203E",
+        "U+203E"
+      ]
+    },
+    "symbol-203f-1074": {
+      "id": "symbol-203f-1074",
+      "value": "‿",
+      "name": "下连线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "下连线",
+        "标点",
+        "Undertie",
+        "General Punctuation",
+        "203F",
+        "U+203F"
+      ]
+    },
+    "symbol-2040-1075": {
+      "id": "symbol-2040-1075",
+      "value": "⁀",
+      "name": "字符连线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "字符连线",
+        "标点",
+        "Character Tie",
+        "General Punctuation",
+        "2040",
+        "U+2040"
+      ]
+    },
+    "symbol-2041-1076": {
+      "id": "symbol-2041-1076",
+      "value": "⁁",
+      "name": "插入点记号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "插入点记号",
+        "标点",
+        "Caret Insertion Point",
+        "General Punctuation",
+        "2041",
+        "U+2041"
+      ]
+    },
+    "symbol-2042-1077": {
+      "id": "symbol-2042-1077",
+      "value": "⁂",
+      "name": "三星号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "三星号",
+        "标点",
+        "Asterism",
+        "General Punctuation",
+        "2042",
+        "U+2042"
+      ]
+    },
+    "symbol-2043-1078": {
+      "id": "symbol-2043-1078",
+      "value": "⁃",
+      "name": "连字符项目符号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "连字符项目符号",
+        "标点",
+        "Hyphen Bullet",
+        "General Punctuation",
+        "2043",
+        "U+2043",
+        "连字符",
+        "短横线",
+        "项目符号"
+      ]
+    },
+    "symbol-2044-1079": {
+      "id": "symbol-2044-1079",
+      "value": "⁄",
+      "name": "分数斜线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "分数斜线",
+        "标点",
+        "Fraction Slash",
+        "General Punctuation",
+        "2044",
+        "U+2044"
+      ]
+    },
+    "symbol-2045-1080": {
+      "id": "symbol-2045-1080",
+      "value": "⁅",
+      "name": "左羽饰方括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左羽饰方括号",
+        "标点",
+        "Left Square Bracket with Quill",
+        "General Punctuation",
+        "2045",
+        "U+2045",
+        "括号"
+      ]
+    },
+    "symbol-2046-1081": {
+      "id": "symbol-2046-1081",
+      "value": "⁆",
+      "name": "右羽饰方括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右羽饰方括号",
+        "标点",
+        "Right Square Bracket with Quill",
+        "General Punctuation",
+        "2046",
+        "U+2046",
+        "括号"
+      ]
+    },
+    "symbol-2047-1082": {
+      "id": "symbol-2047-1082",
+      "value": "⁇",
+      "name": "双问号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "双问号",
+        "标点",
+        "Double Question Mark",
+        "General Punctuation",
+        "2047",
+        "U+2047",
+        "问号"
+      ]
+    },
+    "symbol-2048-1083": {
+      "id": "symbol-2048-1083",
+      "value": "⁈",
+      "name": "问号感叹号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "问号感叹号",
+        "标点",
+        "Question Exclamation Mark",
+        "General Punctuation",
+        "2048",
+        "U+2048",
+        "问号",
+        "感叹号"
+      ]
+    },
+    "symbol-2049-1084": {
+      "id": "symbol-2049-1084",
+      "value": "⁉",
+      "name": "感叹号问号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "感叹号问号",
+        "标点",
+        "Exclamation Question Mark",
+        "General Punctuation",
+        "2049",
+        "U+2049",
+        "问号",
+        "感叹号"
+      ]
+    },
+    "symbol-204a-1085": {
+      "id": "symbol-204a-1085",
+      "value": "⁊",
+      "name": "蒂罗和号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "蒂罗和号",
+        "标点",
+        "Tironian Sign Et",
+        "General Punctuation",
+        "204A",
+        "U+204A"
+      ]
+    },
+    "symbol-204b-1086": {
+      "id": "symbol-204b-1086",
+      "value": "⁋",
+      "name": "反向段落标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向段落标记",
+        "标点",
+        "Reversed Pilcrow Sign",
+        "General Punctuation",
+        "204B",
+        "U+204B",
+        "段落符号"
+      ]
+    },
+    "symbol-204c-1087": {
+      "id": "symbol-204c-1087",
+      "value": "⁌",
+      "name": "黑色左向项目符号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "黑色左向项目符号",
+        "标点",
+        "Black Leftwards Bullet",
+        "General Punctuation",
+        "204C",
+        "U+204C",
+        "项目符号"
+      ]
+    },
+    "symbol-204d-1088": {
+      "id": "symbol-204d-1088",
+      "value": "⁍",
+      "name": "黑色右向项目符号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "黑色右向项目符号",
+        "标点",
+        "Black Rightwards Bullet",
+        "General Punctuation",
+        "204D",
+        "U+204D",
+        "项目符号"
+      ]
+    },
+    "symbol-204e-1089": {
+      "id": "symbol-204e-1089",
+      "value": "⁎",
+      "name": "低位星号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "低位星号",
+        "标点",
+        "Low Asterisk",
+        "General Punctuation",
+        "204E",
+        "U+204E",
+        "星号"
+      ]
+    },
+    "symbol-204f-1090": {
+      "id": "symbol-204f-1090",
+      "value": "⁏",
+      "name": "反向分号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向分号",
+        "标点",
+        "Reversed Semicolon",
+        "General Punctuation",
+        "204F",
+        "U+204F"
+      ]
+    },
+    "symbol-2050-1091": {
+      "id": "symbol-2050-1091",
+      "value": "⁐",
+      "name": "闭合校对符号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "闭合校对符号",
+        "标点",
+        "Close Up",
+        "General Punctuation",
+        "2050",
+        "U+2050"
+      ]
+    },
+    "symbol-2051-1092": {
+      "id": "symbol-2051-1092",
+      "value": "⁑",
+      "name": "竖排双星号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "竖排双星号",
+        "标点",
+        "Two Asterisks Aligned Vertically",
+        "General Punctuation",
+        "2051",
+        "U+2051",
+        "星号"
+      ]
+    },
+    "symbol-2052-1093": {
+      "id": "symbol-2052-1093",
+      "value": "⁒",
+      "name": "商业减号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "商业减号",
+        "标点",
+        "Commercial Minus Sign",
+        "General Punctuation",
+        "2052",
+        "U+2052"
+      ]
+    },
+    "symbol-2053-1094": {
+      "id": "symbol-2053-1094",
+      "value": "⁓",
+      "name": "波浪短横线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "波浪短横线",
+        "标点",
+        "Swung Dash",
+        "General Punctuation",
+        "2053",
+        "U+2053",
+        "连字符",
+        "短横线"
+      ]
+    },
+    "symbol-2054-1095": {
+      "id": "symbol-2054-1095",
+      "value": "⁔",
+      "name": "反向下连线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向下连线",
+        "标点",
+        "Inverted Undertie",
+        "General Punctuation",
+        "2054",
+        "U+2054"
+      ]
+    },
+    "symbol-2055-1096": {
+      "id": "symbol-2055-1096",
+      "value": "⁕",
+      "name": "花形标点",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "花形标点",
+        "标点",
+        "Flower Punctuation Mark",
+        "General Punctuation",
+        "2055",
+        "U+2055"
+      ]
+    },
+    "symbol-2056-1097": {
+      "id": "symbol-2056-1097",
+      "value": "⁖",
+      "name": "三点标点",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "三点标点",
+        "标点",
+        "Three Dot Punctuation",
+        "General Punctuation",
+        "2056",
+        "U+2056",
+        "点"
+      ]
+    },
+    "symbol-2057-1098": {
+      "id": "symbol-2057-1098",
+      "value": "⁗",
+      "name": "四重撇号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "四重撇号",
+        "标点",
+        "Quadruple Prime",
+        "General Punctuation",
+        "2057",
+        "U+2057",
+        "撇号"
+      ]
+    },
+    "symbol-2058-1099": {
+      "id": "symbol-2058-1099",
+      "value": "⁘",
+      "name": "四点标点",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "四点标点",
+        "标点",
+        "Four Dot Punctuation",
+        "General Punctuation",
+        "2058",
+        "U+2058",
+        "点"
+      ]
+    },
+    "symbol-2059-1100": {
+      "id": "symbol-2059-1100",
+      "value": "⁙",
+      "name": "五点标点",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "五点标点",
+        "标点",
+        "Five Dot Punctuation",
+        "General Punctuation",
+        "2059",
+        "U+2059",
+        "点"
+      ]
+    },
+    "symbol-205a-1101": {
+      "id": "symbol-205a-1101",
+      "value": "⁚",
+      "name": "两点标点",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "两点标点",
+        "标点",
+        "Two Dot Punctuation",
+        "General Punctuation",
+        "205A",
+        "U+205A",
+        "点"
+      ]
+    },
+    "symbol-205b-1102": {
+      "id": "symbol-205b-1102",
+      "value": "⁛",
+      "name": "四点标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "四点标记",
+        "标点",
+        "Four Dot Mark",
+        "General Punctuation",
+        "205B",
+        "U+205B",
+        "点"
+      ]
+    },
+    "symbol-205c-1103": {
+      "id": "symbol-205c-1103",
+      "value": "⁜",
+      "name": "点状十字",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "点状十字",
+        "标点",
+        "Dotted Cross",
+        "General Punctuation",
+        "205C",
+        "U+205C",
+        "点"
+      ]
+    },
+    "symbol-205d-1104": {
+      "id": "symbol-205d-1104",
+      "value": "⁝",
+      "name": "三冒号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "三冒号",
+        "标点",
+        "Tricolon",
+        "General Punctuation",
+        "205D",
+        "U+205D"
+      ]
+    },
+    "symbol-205e-1105": {
+      "id": "symbol-205e-1105",
+      "value": "⁞",
+      "name": "竖排四点",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "竖排四点",
+        "标点",
+        "Vertical Four Dots",
+        "General Punctuation",
+        "205E",
+        "U+205E",
+        "点"
+      ]
+    },
+    "symbol-2e00-1106": {
+      "id": "symbol-2e00-1106",
+      "value": "⸀",
+      "name": "直角替换标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "直角替换标记",
+        "标点",
+        "Right Angle Substitution Marker",
+        "Supplemental Punctuation",
+        "2E00",
+        "U+2E00"
+      ]
+    },
+    "symbol-2e01-1107": {
+      "id": "symbol-2e01-1107",
+      "value": "⸁",
+      "name": "点状直角替换标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "点状直角替换标记",
+        "标点",
+        "Right Angle Dotted Substitution Marker",
+        "Supplemental Punctuation",
+        "2E01",
+        "U+2E01",
+        "点"
+      ]
+    },
+    "symbol-2e02-1108": {
+      "id": "symbol-2e02-1108",
+      "value": "⸂",
+      "name": "左替换括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左替换括号",
+        "标点",
+        "Left Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E02",
+        "U+2E02",
+        "括号"
+      ]
+    },
+    "symbol-2e03-1109": {
+      "id": "symbol-2e03-1109",
+      "value": "⸃",
+      "name": "右替换括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右替换括号",
+        "标点",
+        "Right Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E03",
+        "U+2E03",
+        "括号"
+      ]
+    },
+    "symbol-2e04-1110": {
+      "id": "symbol-2e04-1110",
+      "value": "⸄",
+      "name": "左点状替换括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左点状替换括号",
+        "标点",
+        "Left Dotted Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E04",
+        "U+2E04",
+        "括号",
+        "点"
+      ]
+    },
+    "symbol-2e05-1111": {
+      "id": "symbol-2e05-1111",
+      "value": "⸅",
+      "name": "右点状替换括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右点状替换括号",
+        "标点",
+        "Right Dotted Substitution Bracket",
+        "Supplemental Punctuation",
+        "2E05",
+        "U+2E05",
+        "括号",
+        "点"
+      ]
+    },
+    "symbol-2e06-1112": {
+      "id": "symbol-2e06-1112",
+      "value": "⸆",
+      "name": "上标插入标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "上标插入标记",
+        "标点",
+        "Raised Interpolation Marker",
+        "Supplemental Punctuation",
+        "2E06",
+        "U+2E06"
+      ]
+    },
+    "symbol-2e07-1113": {
+      "id": "symbol-2e07-1113",
+      "value": "⸇",
+      "name": "上标点状插入标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "上标点状插入标记",
+        "标点",
+        "Raised Dotted Interpolation Marker",
+        "Supplemental Punctuation",
+        "2E07",
+        "U+2E07",
+        "点"
+      ]
+    },
+    "symbol-2e08-1114": {
+      "id": "symbol-2e08-1114",
+      "value": "⸈",
+      "name": "点状移位标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "点状移位标记",
+        "标点",
+        "Dotted Transposition Marker",
+        "Supplemental Punctuation",
+        "2E08",
+        "U+2E08",
+        "点"
+      ]
+    },
+    "symbol-2e09-1115": {
+      "id": "symbol-2e09-1115",
+      "value": "⸉",
+      "name": "左移位括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左移位括号",
+        "标点",
+        "Left Transposition Bracket",
+        "Supplemental Punctuation",
+        "2E09",
+        "U+2E09",
+        "括号"
+      ]
+    },
+    "symbol-2e0a-1116": {
+      "id": "symbol-2e0a-1116",
+      "value": "⸊",
+      "name": "右移位括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右移位括号",
+        "标点",
+        "Right Transposition Bracket",
+        "Supplemental Punctuation",
+        "2E0A",
+        "U+2E0A",
+        "括号"
+      ]
+    },
+    "symbol-2e0b-1117": {
+      "id": "symbol-2e0b-1117",
+      "value": "⸋",
+      "name": "上标方块",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "上标方块",
+        "标点",
+        "Raised Square",
+        "Supplemental Punctuation",
+        "2E0B",
+        "U+2E0B"
+      ]
+    },
+    "symbol-2e0c-1118": {
+      "id": "symbol-2e0c-1118",
+      "value": "⸌",
+      "name": "左上省略括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左上省略括号",
+        "标点",
+        "Left Raised Omission Bracket",
+        "Supplemental Punctuation",
+        "2E0C",
+        "U+2E0C",
+        "括号"
+      ]
+    },
+    "symbol-2e0d-1119": {
+      "id": "symbol-2e0d-1119",
+      "value": "⸍",
+      "name": "右上省略括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右上省略括号",
+        "标点",
+        "Right Raised Omission Bracket",
+        "Supplemental Punctuation",
+        "2E0D",
+        "U+2E0D",
+        "括号"
+      ]
+    },
+    "symbol-2e0e-1120": {
+      "id": "symbol-2e0e-1120",
+      "value": "⸎",
+      "name": "校勘冠形符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "校勘冠形符",
+        "标点",
+        "Editorial Coronis",
+        "Supplemental Punctuation",
+        "2E0E",
+        "U+2E0E"
+      ]
+    },
+    "symbol-2e0f-1121": {
+      "id": "symbol-2e0f-1121",
+      "value": "⸏",
+      "name": "古典段落符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "古典段落符",
+        "标点",
+        "Paragraphos",
+        "Supplemental Punctuation",
+        "2E0F",
+        "U+2E0F",
+        "段落符号"
+      ]
+    },
+    "symbol-2e10-1122": {
+      "id": "symbol-2e10-1122",
+      "value": "⸐",
+      "name": "分叉段落符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "分叉段落符",
+        "标点",
+        "Forked Paragraphos",
+        "Supplemental Punctuation",
+        "2E10",
+        "U+2E10",
+        "段落符号"
+      ]
+    },
+    "symbol-2e11-1123": {
+      "id": "symbol-2e11-1123",
+      "value": "⸑",
+      "name": "反向分叉段落符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "反向分叉段落符",
+        "标点",
+        "Reversed Forked Paragraphos",
+        "Supplemental Punctuation",
+        "2E11",
+        "U+2E11",
+        "段落符号"
+      ]
+    },
+    "symbol-2e12-1124": {
+      "id": "symbol-2e12-1124",
+      "value": "⸒",
+      "name": "古典逗号标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "古典逗号标记",
+        "标点",
+        "Hypodiastole",
+        "Supplemental Punctuation",
+        "2E12",
+        "U+2E12"
+      ]
+    },
+    "symbol-2e13-1125": {
+      "id": "symbol-2e13-1125",
+      "value": "⸓",
+      "name": "点状除号校勘符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "点状除号校勘符",
+        "标点",
+        "Dotted Obelos",
+        "Supplemental Punctuation",
+        "2E13",
+        "U+2E13",
+        "点"
+      ]
+    },
+    "symbol-2e14-1126": {
+      "id": "symbol-2e14-1126",
+      "value": "⸔",
+      "name": "下向锚形符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "下向锚形符",
+        "标点",
+        "Downwards Ancora",
+        "Supplemental Punctuation",
+        "2E14",
+        "U+2E14"
+      ]
+    },
+    "symbol-2e15-1127": {
+      "id": "symbol-2e15-1127",
+      "value": "⸕",
+      "name": "上向锚形符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "上向锚形符",
+        "标点",
+        "Upwards Ancora",
+        "Supplemental Punctuation",
+        "2E15",
+        "U+2E15"
+      ]
+    },
+    "symbol-2e16-1128": {
+      "id": "symbol-2e16-1128",
+      "value": "⸖",
+      "name": "点状右角标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "点状右角标记",
+        "标点",
+        "Dotted Right-Pointing Angle",
+        "Supplemental Punctuation",
+        "2E16",
+        "U+2E16",
+        "点"
+      ]
+    },
+    "symbol-2e17-1129": {
+      "id": "symbol-2e17-1129",
+      "value": "⸗",
+      "name": "双斜连字符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "双斜连字符",
+        "标点",
+        "Double Oblique Hyphen",
+        "Supplemental Punctuation",
+        "2E17",
+        "U+2E17",
+        "连字符",
+        "短横线"
+      ]
+    },
+    "symbol-2e18-1130": {
+      "id": "symbol-2e18-1130",
+      "value": "⸘",
+      "name": "倒置问叹号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "倒置问叹号",
+        "标点",
+        "Inverted Interrobang",
+        "Supplemental Punctuation",
+        "2E18",
+        "U+2E18"
+      ]
+    },
+    "symbol-2e19-1131": {
+      "id": "symbol-2e19-1131",
+      "value": "⸙",
+      "name": "棕榈枝标记",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "棕榈枝标记",
+        "标点",
+        "Palm Branch",
+        "Supplemental Punctuation",
+        "2E19",
+        "U+2E19"
+      ]
+    },
+    "symbol-2e1a-1132": {
+      "id": "symbol-2e1a-1132",
+      "value": "⸚",
+      "name": "带分音符连字符",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "带分音符连字符",
+        "标点",
+        "Hyphen with Diaeresis",
+        "Supplemental Punctuation",
+        "2E1A",
+        "U+2E1A",
+        "连字符",
+        "短横线"
+      ]
+    },
+    "symbol-2e1b-1133": {
+      "id": "symbol-2e1b-1133",
+      "value": "⸛",
+      "name": "上带圆圈波浪线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "上带圆圈波浪线",
+        "标点",
+        "Tilde with Ring Above",
+        "Supplemental Punctuation",
+        "2E1B",
+        "U+2E1B"
+      ]
+    },
+    "symbol-2e1c-1134": {
+      "id": "symbol-2e1c-1134",
+      "value": "⸜",
+      "name": "左低位释义括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左低位释义括号",
+        "标点",
+        "Left Low Paraphrase Bracket",
+        "Supplemental Punctuation",
+        "2E1C",
+        "U+2E1C",
+        "括号"
+      ]
+    },
+    "symbol-2e1d-1135": {
+      "id": "symbol-2e1d-1135",
+      "value": "⸝",
+      "name": "右低位释义括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右低位释义括号",
+        "标点",
+        "Right Low Paraphrase Bracket",
+        "Supplemental Punctuation",
+        "2E1D",
+        "U+2E1D",
+        "括号"
+      ]
+    },
+    "symbol-2e1e-1136": {
+      "id": "symbol-2e1e-1136",
+      "value": "⸞",
+      "name": "上带点波浪线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "上带点波浪线",
+        "标点",
+        "Tilde with Dot Above",
+        "Supplemental Punctuation",
+        "2E1E",
+        "U+2E1E",
+        "点"
+      ]
+    },
+    "symbol-2e1f-1137": {
+      "id": "symbol-2e1f-1137",
+      "value": "⸟",
+      "name": "下带点波浪线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "下带点波浪线",
+        "标点",
+        "Tilde with Dot Below",
+        "Supplemental Punctuation",
+        "2E1F",
+        "U+2E1F",
+        "点"
+      ]
+    },
+    "symbol-2e20-1138": {
+      "id": "symbol-2e20-1138",
+      "value": "⸠",
+      "name": "左羽饰竖线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左羽饰竖线",
+        "标点",
+        "Left Vertical Bar with Quill",
+        "Supplemental Punctuation",
+        "2E20",
+        "U+2E20"
+      ]
+    },
+    "symbol-2e21-1139": {
+      "id": "symbol-2e21-1139",
+      "value": "⸡",
+      "name": "右羽饰竖线",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右羽饰竖线",
+        "标点",
+        "Right Vertical Bar with Quill",
+        "Supplemental Punctuation",
+        "2E21",
+        "U+2E21"
+      ]
+    },
+    "symbol-2e22-1140": {
+      "id": "symbol-2e22-1140",
+      "value": "⸢",
+      "name": "左上半括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左上半括号",
+        "标点",
+        "Top Left Half Bracket",
+        "Supplemental Punctuation",
+        "2E22",
+        "U+2E22",
+        "括号"
+      ]
+    },
+    "symbol-2e23-1141": {
+      "id": "symbol-2e23-1141",
+      "value": "⸣",
+      "name": "右上半括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右上半括号",
+        "标点",
+        "Top Right Half Bracket",
+        "Supplemental Punctuation",
+        "2E23",
+        "U+2E23",
+        "括号"
+      ]
+    },
+    "symbol-2e24-1142": {
+      "id": "symbol-2e24-1142",
+      "value": "⸤",
+      "name": "左下半括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左下半括号",
+        "标点",
+        "Bottom Left Half Bracket",
+        "Supplemental Punctuation",
+        "2E24",
+        "U+2E24",
+        "括号"
+      ]
+    },
+    "symbol-2e25-1143": {
+      "id": "symbol-2e25-1143",
+      "value": "⸥",
+      "name": "右下半括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右下半括号",
+        "标点",
+        "Bottom Right Half Bracket",
+        "Supplemental Punctuation",
+        "2E25",
+        "U+2E25",
+        "括号"
+      ]
+    },
+    "symbol-2e26-1144": {
+      "id": "symbol-2e26-1144",
+      "value": "⸦",
+      "name": "左侧向 U 形括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "左侧向 U 形括号",
+        "标点",
+        "Left Sideways U Bracket",
+        "Supplemental Punctuation",
+        "2E26",
+        "U+2E26",
+        "括号"
+      ]
+    },
+    "symbol-2e27-1145": {
+      "id": "symbol-2e27-1145",
+      "value": "⸧",
+      "name": "右侧向 U 形括号",
+      "categories": [
+        "标点"
+      ],
+      "primaryCategory": "标点",
+      "files": [
+        "symbols/by-category/标点.json"
+      ],
+      "searchTerms": [
+        "右侧向 U 形括号",
+        "标点",
+        "Right Sideways U Bracket",
+        "Supplemental Punctuation",
+        "2E27",
+        "U+2E27",
+        "括号"
       ]
     }
   }

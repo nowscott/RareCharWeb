@@ -282,15 +282,15 @@ async function fetchSymblBlock(block) {
   const title = decodeHtml(extractFirst(html, /<title>([^<]+)/) ?? block.slug);
   const blockName = title.split(':')[0].trim();
   const items = [];
-  const cardPattern = /<li class="character-card">([\s\S]*?)<\/li>/g;
+  const cardPattern = /<li\b[^>]*class="[^"]*\bcharacter-card\b[^"]*"[\s\S]*?<\/li>/g;
   let cardMatch;
 
   while ((cardMatch = cardPattern.exec(html))) {
-    const card = cardMatch[1];
+    const card = cardMatch[0];
     const symbol = decodeHtml(extractFirst(card, /data-symbol="([^"]*)"/) ?? '').trim();
     const label = decodeHtml(extractFirst(card, /data-label="([^"]*)"/) ?? '').trim();
     const href = decodeHtml(extractFirst(card, /href="([^"]*)"/) ?? '');
-    const code = decodeHtml(extractFirst(card, /character-card__code">([^<]*)</) ?? '').trim();
+    const code = decodeHtml(extractFirst(card, /character-card__code[^>]*>([^<]*)</) ?? '').trim();
 
     if (!isUsableSymbol(symbol) || !label || !code) continue;
 
