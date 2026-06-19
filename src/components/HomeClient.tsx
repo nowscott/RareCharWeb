@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { CategoryStat, PaginatedSymbolResponse } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
@@ -26,6 +26,7 @@ export default function HomeClient({
 }: HomeClientProps) {
   const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
+  const [prefetchRequest, setPrefetchRequest] = useState<{ category: string; nonce: number } | null>(null);
 
   useEffect(() => {
     optimizeSymbolRendering();
@@ -34,10 +35,22 @@ export default function HomeClient({
     });
   }, []);
 
-  const handleCategoryChange = (category: string) => {
+  const handleCategoryChange = useCallback((category: string) => {
     setActiveCategory(category);
     setSearchQuery('');
-  };
+  }, []);
+
+  const handleCategoryPrefetch = useCallback((category: string) => {
+    setPrefetchRequest({ category, nonce: Date.now() });
+  }, []);
+
+  const initialPrefetchCategories = useMemo(
+    () => categories
+      .filter((category) => category.id !== 'all')
+      .slice(0, 6)
+      .map((category) => category.id),
+    [categories]
+  );
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-4 sm:py-8 px-4">
@@ -87,6 +100,7 @@ export default function HomeClient({
           <CategoryNav 
             activeCategory={activeCategory} 
             onSelectCategory={handleCategoryChange} 
+            onPrefetchCategory={handleCategoryPrefetch}
             categories={categories} 
           />
         </div>
@@ -97,6 +111,8 @@ export default function HomeClient({
           searchQuery={searchQuery}
           initialData={initialData}
           initialSeed={initialSeed}
+          prefetchCategories={initialPrefetchCategories}
+          prefetchRequest={prefetchRequest}
         />
       </div>
     </div>

@@ -13,7 +13,13 @@ export async function GET(request: Request) {
     const search = searchParams.get('search') || undefined;
 
     const data = await getPaginatedSymbols({ page, limit, seed, category, search });
-    return Response.json(data);
+    return Response.json(data, {
+      headers: {
+        'Cache-Control': search?.trim()
+          ? 'private, no-store'
+          : 'public, max-age=300, stale-while-revalidate=3600'
+      }
+    });
   } catch (error) {
     console.error('Symbols API route error:', error);
     return Response.json({ error: 'Failed to fetch symbols data' }, { status: 500 });

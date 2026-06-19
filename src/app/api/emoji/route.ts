@@ -13,7 +13,13 @@ export async function GET(request: Request) {
     const search = searchParams.get('search') || undefined;
 
     const data = await getPaginatedEmoji({ page, limit, seed, category, search });
-    return Response.json(data);
+    return Response.json(data, {
+      headers: {
+        'Cache-Control': search?.trim()
+          ? 'private, no-store'
+          : 'public, max-age=300, stale-while-revalidate=3600'
+      }
+    });
   } catch (error) {
     console.error('Emoji API route error:', error);
     return Response.json({ error: 'Failed to fetch emoji data' }, { status: 500 });

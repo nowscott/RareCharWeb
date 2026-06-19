@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import { pinyin } from 'pinyin';
 import { calculateCategoryStats } from '@/lib/core/apiUtils';
 import { EmojiData, PaginatedSymbolResponse, SymbolData, SymbolDataResponse } from '@/lib/core/types';
+import { groupEmojiSkinToneVariants } from '@/lib/core/emojiVariants';
 import { filterSymbolsByCategory, searchSymbols, sortSymbols, shuffleArray } from '@/lib/core/symbolUtils';
 
 export interface PaginatedParams {
@@ -110,14 +111,16 @@ export async function getLocalEmojiDataResponse(): Promise<SymbolDataResponse> {
   const version = await getDataVersion('emojis');
   const emojis = await loadEmojisFromCategoryShards();
 
-  const symbols: SymbolData[] = emojis.map((emoji) => ({
+  const symbols: SymbolData[] = groupEmojiSkinToneVariants(emojis.map((emoji) => ({
+    id: emoji.id,
     symbol: emoji.emoji,
     name: emoji.name,
     pronunciation: '',
     category: [emoji.category],
     searchTerms: emoji.keywords || [],
-    notes: emoji.text || ''
-  }));
+    notes: emoji.text || '',
+    _variantBaseSymbol: emoji.variantBase
+  })));
 
   precomputePinyin(symbols);
 
@@ -230,12 +233,14 @@ export async function getPaginatedEmoji(params: PaginatedParams): Promise<Pagina
 
 function toClientSymbol(symbol: SymbolData): SymbolData {
   return {
+    id: symbol.id,
     symbol: symbol.symbol,
     name: symbol.name,
     pronunciation: symbol.pronunciation,
     category: symbol.category,
     searchTerms: symbol.searchTerms,
-    notes: symbol.notes
+    notes: symbol.notes,
+    variants: symbol.variants
   };
 }
 

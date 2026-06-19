@@ -1,3 +1,26 @@
+## [1.12.0](https://github.com/nowscott/RareCharWeb/compare/v1.11.3...v1.12.0) (2026-06-19)
+
+
+### 新功能
+
+* **Emoji:** 补齐 Unicode Emoji 17.0 fully-qualified 官方数据，保留本地发色组件项
+* **Emoji 肤色:** 将肤色变体折叠到基础 Emoji 卡片，在详情弹窗内选择具体肤色并复制
+* **数据审计:** 新增 Emoji 覆盖审计与缺口补全脚本，便于后续跟进 Unicode 官方更新
+
+
+### 性能优化
+
+* **标签切换:** 为分类结果增加客户端缓存、请求去重和预取，减少重复等待
+* **路由切换:** 空闲时预取 /home、/emoji、/about，改善顶部页面切换速度
+* **字体:** 生产环境默认关闭字体诊断，移除卡片级重复字体 DOM 处理
+
+
+### 数据
+
+* **Emoji:** 原始线上 Emoji 增至 3948 条，折叠后展示 1918 个可见卡片
+* **Emoji:** 清理 🪔 尾随空格重复项，并重建分类分片、索引、随机池和 manifest
+
+
 ## [1.11.3](https://github.com/nowscott/RareCharWeb/compare/v1.11.2...v1.11.3) (2026-06-18)
 
 

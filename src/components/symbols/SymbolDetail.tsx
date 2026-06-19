@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { SymbolData } from '@/lib/core/types';
+import { SymbolData, SymbolVariantData } from '@/lib/core/types';
 import { getSymbolClassName, applySymbolFont } from '@/lib/font/fontUtils';
 
 interface SymbolDetailProps {
@@ -10,14 +10,24 @@ interface SymbolDetailProps {
 const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
   const [showCopySuccess, setShowCopySuccess] = useState(false);
   const [showScrollGradient, setShowScrollGradient] = useState(false);
+  const [selectedVariant, setSelectedVariant] = useState<{
+    symbolKey: string;
+    variantSymbol: string;
+  } | null>(null);
   const symbolRef = useRef<HTMLDivElement>(null);
   const notesContentRef = useRef<HTMLDivElement>(null);
+  const variants = symbol?.variants ?? [];
+  const symbolKey = symbol?.id ?? symbol?.symbol ?? '';
+  const selectedVariantSymbol = selectedVariant?.symbolKey === symbolKey ? selectedVariant.variantSymbol : null;
+  const activeVariant = variants.find((variant) => variant.symbol === selectedVariantSymbol);
+  const activeSymbol = getActiveSymbol(symbol, activeVariant);
+  const activeSymbolValue = activeSymbol?.symbol;
   
   useEffect(() => {
-    if (symbolRef.current && symbol) {
+    if (symbolRef.current && activeSymbolValue) {
       applySymbolFont(symbolRef.current);
     }
-  }, [symbol]);
+  }, [activeSymbolValue]);
 
   // 禁用页面滚动
   useEffect(() => {
@@ -36,7 +46,7 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
 
   // 检测说明内容是否需要滚动
   useEffect(() => {
-    if (notesContentRef.current && symbol?.notes) {
+    if (notesContentRef.current && activeSymbol?.notes) {
       const element = notesContentRef.current;
       const hasOverflow = element.scrollHeight > element.clientHeight;
       
@@ -64,12 +74,12 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
     } else {
       setTimeout(() => setShowScrollGradient(false), 0);
     }
-  }, [symbol?.notes]);
+  }, [activeSymbol?.notes]);
   
-  if (!symbol) return null;
+  if (!symbol || !activeSymbol) return null;
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(symbol.symbol);
+    navigator.clipboard.writeText(activeSymbol.symbol);
     setShowCopySuccess(true);
     setTimeout(() => setShowCopySuccess(false), 2000);
   };
@@ -103,9 +113,9 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
               ref={symbolRef}
               className={`text-6xl mb-4 ${getSymbolClassName('symbol-large symbol-center symbol-no-select')}`}
             >
-              {symbol.symbol}
+              {activeSymbol.symbol}
             </div>
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">{symbol.name}</h2>
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">{activeSymbol.name}</h2>
             {symbol.pronunciation && (
               <p className="text-gray-600 dark:text-gray-400">
                 发音: {symbol.pronunciation}
@@ -115,6 +125,33 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
 
           {/* 信息卡片区域 */}
           <div className="space-y-2">
+            {variants.length > 0 && (
+              <div className="bg-orange-50/90 dark:bg-orange-900/20 rounded-xl p-3 border border-orange-200/60 dark:border-orange-800/50">
+                <h3 className="text-sm font-semibold text-orange-800 dark:text-orange-200 mb-2">肤色变体:</h3>
+                <div className="flex flex-wrap gap-2">
+                  <button
+                    onClick={() => setSelectedVariant(null)}
+                    aria-pressed={!selectedVariantSymbol}
+                    className={getToneButtonClassName(!selectedVariantSymbol)}
+                  >
+                    默认 {symbol.symbol}
+                  </button>
+                  {variants.map((variant) => (
+                    <button
+                      key={variant.symbol}
+                      onClick={() => setSelectedVariant({ symbolKey, variantSymbol: variant.symbol })}
+                      aria-pressed={selectedVariantSymbol === variant.symbol}
+                      className={getToneButtonClassName(selectedVariantSymbol === variant.symbol)}
+                      title={variant.name}
+                    >
+                      {variant.symbol}
+                      {variant.toneLabel && <span className="ml-1 hidden sm:inline">{variant.toneLabel}</span>}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* 分类信息 */}
             <div className="bg-gray-100/90 dark:bg-gray-700/50 rounded-xl p-3 border border-gray-200/50 dark:border-gray-600/30">
               <div className="flex items-center gap-2">
@@ -133,12 +170,12 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
             </div>
 
             {/* Unicode 信息 */}
-            {symbol.symbol && (
+            {activeSymbol.symbol && (
               <div className="bg-gray-100/90 dark:bg-gray-700/50 rounded-xl p-3 border border-gray-200/50 dark:border-gray-600/30">
                 <div className="flex items-center gap-2">
                   <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">Unicode:</span>
                   <span className="text-gray-600 dark:text-gray-400 font-mono text-sm">
-                    {Array.from(symbol.symbol).map((char) => {
+                    {Array.from(activeSymbol.symbol).map((char) => {
                       const codePoint = char.codePointAt(0);
                       return codePoint ? `U+${codePoint.toString(16).toUpperCase().padStart(4, '0')}` : '';
                     }).filter(Boolean).join(' ')}
@@ -148,7 +185,7 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
             )}
 
             {/* 说明信息 */}
-            {symbol.notes && (
+            {activeSymbol.notes && (
               <div className="bg-gray-100/90 dark:bg-gray-700/50 rounded-xl p-3 border border-gray-200/50 dark:border-gray-600/30">
                 <h3 className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">说明:</h3>
                 <div className="relative">
@@ -156,7 +193,7 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
                     ref={notesContentRef}
                     className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed max-h-32 overflow-y-auto scrollbar-thin pl-2 pr-1"
                   >
-                    {symbol.notes.split('\n').map((line, index) => (
+                    {activeSymbol.notes.split('\n').map((line, index) => (
                       <p key={index} className={index > 0 ? 'mt-2' : ''}>
                         {line}
                       </p>
@@ -193,5 +230,27 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
     </div>
   );
 };
+
+function getActiveSymbol(
+  symbol: SymbolData | null,
+  variant: SymbolVariantData | undefined
+): SymbolData | null {
+  if (!symbol || !variant) return symbol;
+
+  return {
+    ...symbol,
+    symbol: variant.symbol,
+    name: variant.name,
+    searchTerms: variant.searchTerms,
+    notes: variant.notes
+  };
+}
+
+function getToneButtonClassName(active: boolean): string {
+  const baseClass = 'px-3 py-1.5 rounded-full text-sm transition-colors';
+  if (active) return baseClass + ' bg-orange-600 text-white';
+
+  return baseClass + ' bg-white text-orange-800 hover:bg-orange-100 dark:bg-gray-800 dark:text-orange-200 dark:hover:bg-orange-900/40';
+}
 
 export default SymbolDetail;

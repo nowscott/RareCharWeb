@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState } from 'react';
 import { SymbolData } from '@/lib/core/types';
-import { getSymbolClassName, applySymbolFont } from '@/lib/font/fontUtils';
+import { getSymbolClassName } from '@/lib/font/fontUtils';
 
 interface SymbolCardProps {
   symbol: SymbolData | {
@@ -11,15 +11,8 @@ interface SymbolCardProps {
 }
 
 const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
-  const symbolRef = useRef<HTMLDivElement>(null);
-  
-  useEffect(() => {
-    if (symbolRef.current) {
-      applySymbolFont(symbolRef.current);
-    }
-  }, [symbol.symbol]);
-  
   const [copySuccess, setCopySuccess] = useState(false);
+  const variantCount = 'variants' in symbol ? symbol.variants?.length ?? 0 : 0;
 
   const handleCopy = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -36,6 +29,11 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
       onClick={onClick}
       className="bg-white dark:bg-gray-800 rounded-xl shadow-sm hover:shadow-md active:shadow-lg transition-all duration-200 p-3 sm:p-4 flex flex-col items-center justify-center cursor-pointer border border-gray-100 dark:border-gray-700 h-28 sm:h-32 relative group touch-manipulation"
     >
+      {variantCount > 0 && (
+        <span className="absolute left-1.5 top-1.5 sm:left-2 sm:top-2 rounded-full bg-orange-100 px-2 py-0.5 text-[10px] font-medium text-orange-700 dark:bg-orange-900/50 dark:text-orange-200">
+          肤色
+        </span>
+      )}
       <button
         onClick={handleCopy}
         className={`absolute top-1.5 right-1.5 sm:top-2 sm:right-2 p-1.5 sm:p-1 rounded-md transition-colors opacity-0 group-hover:opacity-100 sm:opacity-0 touch-manipulation ${
@@ -52,7 +50,6 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
         </svg>
       </button>
       <div 
-        ref={symbolRef}
         className={`text-3xl sm:text-4xl mb-1 sm:mb-2 ${getSymbolClassName('symbol-large symbol-center symbol-no-select')}`}
       >
         {symbol.symbol}

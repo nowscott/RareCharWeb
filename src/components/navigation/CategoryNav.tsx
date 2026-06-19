@@ -10,10 +10,16 @@ interface CategoryInfo {
 interface CategoryNavProps {
   activeCategory: string;
   onSelectCategory: (category: string) => void;
+  onPrefetchCategory?: (category: string) => void;
   categories: CategoryInfo[]; // 动态生成的分类列表
 }
 
-const CategoryNav: React.FC<CategoryNavProps> = ({ activeCategory, onSelectCategory, categories = [] }) => {
+const CategoryNav: React.FC<CategoryNavProps> = ({
+  activeCategory,
+  onSelectCategory,
+  onPrefetchCategory,
+  categories = []
+}) => {
   // 如果categories为空，显示加载中
   if (!categories || categories.length === 0) {
     return (
@@ -34,6 +40,9 @@ const CategoryNav: React.FC<CategoryNavProps> = ({ activeCategory, onSelectCateg
           <button
             key={category.id}
             onClick={() => onSelectCategory(category.id)}
+            onFocus={() => onPrefetchCategory?.(category.id)}
+            onPointerEnter={() => onPrefetchCategory?.(category.id)}
+            onTouchStart={() => onPrefetchCategory?.(category.id)}
             className={`px-3 py-2 sm:px-4 sm:py-2 rounded-full text-sm sm:text-base font-medium transition-colors whitespace-nowrap touch-manipulation ${activeCategory === category.id
               ? 'bg-gray-800 text-white dark:bg-white dark:text-gray-800'
               : 'bg-gray-100 text-gray-800 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-200 dark:hover:bg-gray-600 active:bg-gray-300 dark:active:bg-gray-500'

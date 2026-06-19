@@ -3,6 +3,7 @@ import React from 'react';
 import "./styles/globals.css";
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 import FontHealthChecker from '@/components/FontHealthChecker';
+import RoutePrefetcher from '@/components/RoutePrefetcher';
 
 export const metadata: Metadata = {
   title: "复制符 - 特殊符号查询工具",
@@ -43,6 +44,7 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         <ServiceWorkerRegister />
+        <RoutePrefetcher />
         {children}
         <FontHealthChecker />
       </body>

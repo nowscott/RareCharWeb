@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T12:59:00.760Z",
+  "generatedAt": "2026-06-19T05:40:19.713Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
@@ -9,9 +9,9 @@
     },
     "emojis": {
       "version": "v1.2.3",
-      "online": 2158,
+      "online": 3948,
       "pending": 0,
-      "total": 2158
+      "total": 3948
     }
   },
   "outputs": {
@@ -174,19 +174,19 @@
         {
           "id": "符号",
           "name": "符号",
-          "count": 260,
+          "count": 264,
           "file": "emojis/by-category/符号.json"
         },
         {
           "id": "活动",
           "name": "活动",
-          "count": 75,
+          "count": 74,
           "file": "emojis/by-category/活动.json"
         },
         {
           "id": "家庭",
           "name": "家庭",
-          "count": 42,
+          "count": 342,
           "file": "emojis/by-category/家庭.json"
         },
         {
@@ -198,25 +198,25 @@
         {
           "id": "角色",
           "name": "角色",
-          "count": 102,
+          "count": 572,
           "file": "emojis/by-category/角色.json"
         },
         {
           "id": "旗帜",
           "name": "旗帜",
-          "count": 269,
+          "count": 270,
           "file": "emojis/by-category/旗帜.json"
         },
         {
           "id": "人物",
           "name": "人物",
-          "count": 80,
+          "count": 410,
           "file": "emojis/by-category/人物.json"
         },
         {
           "id": "身体",
           "name": "身体",
-          "count": 310,
+          "count": 330,
           "file": "emojis/by-category/身体.json"
         },
         {
@@ -240,19 +240,19 @@
         {
           "id": "物品",
           "name": "物品",
-          "count": 298,
+          "count": 302,
           "file": "emojis/by-category/物品.json"
         },
         {
           "id": "笑脸",
           "name": "笑脸",
-          "count": 131,
+          "count": 132,
           "file": "emojis/by-category/笑脸.json"
         },
         {
           "id": "行为",
           "name": "行为",
-          "count": 110,
+          "count": 771,
           "file": "emojis/by-category/行为.json"
         },
         {

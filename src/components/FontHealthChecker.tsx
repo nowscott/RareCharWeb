@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { getFontDebugInfo } from '@/lib/font/fontUtils';
 import { getFontCacheStatus } from '@/lib/font/fontCache';
 
@@ -24,6 +24,8 @@ interface DebugInfo {
 }
 
 export default function FontHealthChecker() {
+  const isProduction = process.env.NODE_ENV === 'production';
+  const [isEnabled, setIsEnabled] = useState(() => !isProduction);
   const [isOpen, setIsOpen] = useState(false);
   const [debugInfo, setDebugInfo] = useState<DebugInfo | null>(null);
   const [fontCacheStatus, setFontCacheStatus] = useState<{
@@ -37,7 +39,7 @@ export default function FontHealthChecker() {
   } | null>(null);
   const [isLoading, setIsLoading] = useState(false);
 
-  const runHealthCheck = async () => {
+  const runHealthCheck = useCallback(async () => {
     setIsLoading(true);
     try {
       const info = await getFontDebugInfo();
@@ -51,14 +53,23 @@ export default function FontHealthChecker() {
     } finally {
       setIsLoading(false);
     }
-  };
+  }, []);
 
 
 
   useEffect(() => {
-    // 自动运行一次健康检查
+    if (!isProduction) return;
+    setIsEnabled(window.localStorage.getItem('rarechar_font_debug') === '1');
+  }, [isProduction]);
+
+  useEffect(() => {
+    if (!isEnabled) return;
     runHealthCheck();
-  }, []);
+  }, [isEnabled, runHealthCheck]);
+
+  if (!isEnabled) {
+    return null;
+  }
 
   if (!isOpen) {
     return (
