@@ -8,7 +8,7 @@ const FONT_CACHE_NAME = 'rarechar-fonts-cache';
 const FONT_URLS = [
   'https://f.0211120.xyz/font/得意黑/result.css',
   'https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css',
-  'https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap'
+  '/fonts/noto-serif/noto-serif-symbols.ttf'
 ];
 
 function isHttpRequest(request) {
@@ -28,15 +28,20 @@ function isFontRequest(request) {
     return url.pathname.includes('/font/') || /\.(woff2?|ttf|otf)$/i.test(url.pathname);
   }
 
-  if (url.hostname === 'fonts.googleapis.com') {
-    return url.pathname.startsWith('/css');
-  }
-
-  if (url.hostname === 'fonts.gstatic.com') {
+  if (url.origin === self.location.origin) {
     return /\.(woff2?|ttf|otf)$/i.test(url.pathname);
   }
 
   return false;
+}
+
+function isNextChunkRequest(request) {
+  if (request.method !== 'GET' || !isHttpRequest(request)) return false;
+
+  const url = new URL(request.url);
+  return url.origin === self.location.origin &&
+    url.pathname.startsWith('/_next/static/chunks/') &&
+    url.pathname.endsWith('.js');
 }
 
 // 安装事件 - 预缓存字体资源
@@ -91,6 +96,23 @@ self.addEventListener('activate', event => {
 
 // 拦截请求 - 优化字体加载
 self.addEventListener('fetch', event => {
+  if (isNextChunkRequest(event.request)) {
+    event.respondWith(
+      fetch(event.request).then(response => {
+        if (response.status !== 404) return response;
+
+        return new Response('window.location.reload();', {
+          status: 200,
+          headers: {
+            'Content-Type': 'application/javascript; charset=utf-8',
+            'Cache-Control': 'no-store'
+          }
+        });
+      })
+    );
+    return;
+  }
+
   // 只处理字体相关的请求
   if (isFontRequest(event.request)) {
     const url = event.request.url;

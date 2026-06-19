@@ -8,6 +8,11 @@
  * - 符号渲染优化
  */
 
+import {
+  isFontAvailable as isCachedFontAvailable,
+  preloadCriticalFonts as preloadCachedCriticalFonts
+} from './fontCache';
+
 // 字体栈配置类型
 type FontStack = {
   primary: string[];
@@ -95,8 +100,7 @@ export const isFontAvailable = async (fontName: string): Promise<boolean> => {
 
   try {
     // 使用字体缓存系统的检测功能
-    const { isFontAvailable: cacheCheck } = await import('./fontCache');
-    return cacheCheck(fontName);
+    return isCachedFontAvailable(fontName);
   } catch (error) {
     console.warn(`Font availability check failed for ${fontName}:`, error);
     return false;
@@ -202,8 +206,7 @@ export const preloadCriticalFonts = async (): Promise<void> => {
   if (typeof window === 'undefined') return;
 
   // 使用字体缓存系统的预加载功能
-  const { preloadCriticalFonts: cachePreload } = await import('./fontCache');
-  await cachePreload();
+  await preloadCachedCriticalFonts();
 };
 
 // 字体健康检查 - 诊断字体加载问题

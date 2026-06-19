@@ -17,6 +17,8 @@ interface HomeClientProps {
   pageDescription?: string;
 }
 
+const HOME_CLIENT_VERSION = '1.12.11';
+
 export default function HomeClient({
   apiEndpoint,
   categories,
@@ -54,7 +56,7 @@ export default function HomeClient({
   );
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-4 sm:py-8 px-4">
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-4 sm:py-8 px-4" data-client-version={HOME_CLIENT_VERSION}>
       <div className="max-w-6xl mx-auto">
         {/* 顶部导航栏 */}
         <nav className="mb-6 sm:mb-8">

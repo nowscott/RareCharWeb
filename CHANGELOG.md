@@ -1,3 +1,12 @@
+## [1.12.11](https://github.com/nowscott/RareCharWeb/compare/v1.12.10...v1.12.11) (2026-06-19)
+
+
+### 问题修复
+
+* **字体:** 将 Noto Serif 符号兜底字体改为站内托管，避免 Google Fonts 外链不可用导致补充标点继续缺字
+* **资源加载:** 更新首页交互 chunk 并增强 Service Worker 对 Next.js chunk 404 的刷新恢复
+
+
 ## [1.12.10](https://github.com/nowscott/RareCharWeb/compare/v1.12.9...v1.12.10) (2026-06-19)
 
 

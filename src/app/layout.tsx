@@ -34,8 +34,11 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         <link
-          rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap"
+          rel="preload"
+          href="/fonts/noto-serif/noto-serif-symbols.ttf"
+          as="font"
+          type="font/ttf"
+          crossOrigin="anonymous"
         />
         
         {/* 移动端优化 */}
@@ -45,11 +48,7 @@ export default function RootLayout({
         
         {/* DNS预解析优化 */}
         <link rel="dns-prefetch" href="//f.0211120.xyz" />
-        <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-        <link rel="dns-prefetch" href="//fonts.gstatic.com" />
         <link rel="preconnect" href="https://f.0211120.xyz" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className="antialiased">
         <ChunkLoadRecovery />
