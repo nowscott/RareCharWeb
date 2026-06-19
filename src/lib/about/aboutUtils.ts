@@ -1,4 +1,3 @@
-import { SymbolData } from '../core/types';
 import { DataManifest } from '../data/localData';
 
 // 类型定义
@@ -7,20 +6,9 @@ export interface CategoryStat {
   count: number;
 }
 
-export interface AboutStats {
-  totalSymbols: number;
-  categoryStats: CategoryStat[];
-}
-
-export interface AboutVersions {
-  symbol: string;
-  emoji: string;
-}
-
 export interface AboutDatasetSummary {
   key: 'symbols' | 'emojis';
   label: string;
-  version: string;
   online: number;
   pending: number;
   total: number;
@@ -36,67 +24,17 @@ export interface AboutDataOverview {
   datasets: AboutDatasetSummary[];
 }
 
-// 合并分类统计数据的工具函数
-export function mergeCategoryStats(
-  symbolCategoryStats: CategoryStat[],
-  emojiCategoryStats: CategoryStat[]
-): CategoryStat[] {
-  const categoryMap = new Map<string, number>();
-  
-  // 合并符号分类统计
-  symbolCategoryStats.forEach(stat => {
-    categoryMap.set(stat.name, (categoryMap.get(stat.name) || 0) + stat.count);
-  });
-  
-  // 合并emoji分类统计
-  emojiCategoryStats.forEach(stat => {
-    categoryMap.set(stat.name, (categoryMap.get(stat.name) || 0) + stat.count);
-  });
-  
-  // 转换为数组并按数量排序
-  return Array.from(categoryMap.entries())
-    .map(([name, count]) => ({ name, count }))
-    .sort((a, b) => b.count - a.count);
-}
-
-// 生成统计数据的工具函数
-export function generateStats(
-  symbolData: SymbolData[],
-  emojiData: SymbolData[],
-  symbolCategoryStats: CategoryStat[],
-  emojiCategoryStats: CategoryStat[]
-): AboutStats {
-  const mergedCategoryStats = mergeCategoryStats(symbolCategoryStats, emojiCategoryStats);
-  
-  return {
-    totalSymbols: symbolData.length + emojiData.length,
-    categoryStats: mergedCategoryStats
-  };
-}
-
-// 生成版本信息的工具函数
-export function generateVersions(
-  symbolVersion: string,
-  emojiVersion: string
-): AboutVersions {
-  return {
-    symbol: symbolVersion,
-    emoji: emojiVersion
-  };
-}
-
 function toNumber(value: unknown, fallback = 0): number {
   return typeof value === 'number' && Number.isFinite(value) ? value : fallback;
 }
 
 function getManifestCategories(
   manifest: DataManifest,
-  type: 'symbols' | 'emojis',
-  fallbackCategoryStats: CategoryStat[]
+  type: 'symbols' | 'emojis'
 ): CategoryStat[] {
   const categories = manifest.outputs?.[type]?.byCategory;
   if (!Array.isArray(categories) || categories.length === 0) {
-    return fallbackCategoryStats;
+    return [];
   }
 
   return categories
@@ -108,29 +46,22 @@ function getManifestCategories(
 }
 
 export function generateDataOverview(
-  manifest: DataManifest,
-  versions: AboutVersions,
-  symbolCategoryStats: CategoryStat[],
-  emojiCategoryStats: CategoryStat[]
+  manifest: DataManifest
 ): AboutDataOverview {
   const datasetConfigs = [
     {
       key: 'symbols' as const,
-      label: '符号库',
-      version: versions.symbol,
-      fallbackCategories: symbolCategoryStats
+      label: '符号库'
     },
     {
       key: 'emojis' as const,
-      label: 'Emoji 库',
-      version: versions.emoji,
-      fallbackCategories: emojiCategoryStats
+      label: 'Emoji 库'
     }
   ];
 
-  const datasets = datasetConfigs.map(({ key, label, version, fallbackCategories }) => {
+  const datasets = datasetConfigs.map(({ key, label }) => {
     const dataset = manifest.datasets?.[key];
-    const categories = getManifestCategories(manifest, key, fallbackCategories);
+    const categories = getManifestCategories(manifest, key);
     const online = toNumber(dataset?.online, categories.reduce((sum, category) => sum + category.count, 0));
     const pending = toNumber(dataset?.pending);
     const total = toNumber(dataset?.total, online + pending);
@@ -138,7 +69,6 @@ export function generateDataOverview(
     return {
       key,
       label,
-      version,
       online,
       pending,
       total,

@@ -4,13 +4,6 @@ export const aboutConfig = {
   pageTitle: '关于',
   pageDescription: '了解复制符应用详情',
   
-  // Hero区域
-  hero: {
-    title: '热门分类统计',
-    subtitle: '符号和emoji中数量最多的分类',
-    displayCount: 4 // 显示前4个分类
-  },
-  
   // 产品特色
   features: [
     {
@@ -43,16 +36,6 @@ export const aboutConfig = {
     '点击符号卡片查看详情',
     '点击复制按钮获取符号'
   ],
-  
-  // 版本信息标签
-  versionLabels: {
-    dataVersion: '数据版本',
-    symbolData: '符号数据',
-    emojiData: '表情数据',
-    devStatus: '开发状态',
-    devStatusValue: '开发中',
-    totalSymbols: '已上线条目'
-  },
   
   // 其他作品
   projects: [

@@ -61,7 +61,7 @@ export function DataOverviewSection({ overview }: DataOverviewSectionProps) {
               <div>
                 <h4 className="text-base sm:text-lg font-bold text-gray-900 dark:text-white">{dataset.label}</h4>
                 <p className="text-xs sm:text-sm text-gray-500 dark:text-gray-400">
-                  {dataset.categoryCount} 个分类 · 数据版本 {dataset.version}
+                  {dataset.categoryCount} 个分类
                 </p>
               </div>
               <div className="text-right">
