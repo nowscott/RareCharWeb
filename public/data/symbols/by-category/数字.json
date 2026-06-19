@@ -1,6 +1,6 @@
 {
   "category": "数字",
-  "total": 64,
+  "total": 74,
   "items": [
     {
       "id": "symbol-2150-217",
@@ -1154,6 +1154,216 @@
         "Mathematical Alphanumeric Symbols"
       ],
       "notes": "九宫格矩阵或离散数学中的集合标记。"
+    },
+    {
+      "id": "symbol-3007-1205",
+      "symbol": "〇",
+      "name": "汉字数字零",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "汉字数字零",
+        "数字",
+        "Ideographic Number Zero",
+        "CJK Symbols and Punctuation",
+        "3007",
+        "U+3007",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〇 是汉字数字零，Unicode 编码为 U+3007，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3021-1230",
+      "symbol": "〡",
+      "name": "苏州码子一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子一",
+        "数字",
+        "Hangzhou Numeral One",
+        "CJK Symbols and Punctuation",
+        "3021",
+        "U+3021",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〡 是苏州码子一，Unicode 编码为 U+3021，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3022-1231",
+      "symbol": "〢",
+      "name": "苏州码子二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子二",
+        "数字",
+        "Hangzhou Numeral Two",
+        "CJK Symbols and Punctuation",
+        "3022",
+        "U+3022",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〢 是苏州码子二，Unicode 编码为 U+3022，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3023-1232",
+      "symbol": "〣",
+      "name": "苏州码子三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子三",
+        "数字",
+        "Hangzhou Numeral Three",
+        "CJK Symbols and Punctuation",
+        "3023",
+        "U+3023",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〣 是苏州码子三，Unicode 编码为 U+3023，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3024-1233",
+      "symbol": "〤",
+      "name": "苏州码子四",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子四",
+        "数字",
+        "Hangzhou Numeral Four",
+        "CJK Symbols and Punctuation",
+        "3024",
+        "U+3024",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〤 是苏州码子四，Unicode 编码为 U+3024，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3025-1234",
+      "symbol": "〥",
+      "name": "苏州码子五",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子五",
+        "数字",
+        "Hangzhou Numeral Five",
+        "CJK Symbols and Punctuation",
+        "3025",
+        "U+3025",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〥 是苏州码子五，Unicode 编码为 U+3025，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3026-1235",
+      "symbol": "〦",
+      "name": "苏州码子六",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子六",
+        "数字",
+        "Hangzhou Numeral Six",
+        "CJK Symbols and Punctuation",
+        "3026",
+        "U+3026",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〦 是苏州码子六，Unicode 编码为 U+3026，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3027-1236",
+      "symbol": "〧",
+      "name": "苏州码子七",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子七",
+        "数字",
+        "Hangzhou Numeral Seven",
+        "CJK Symbols and Punctuation",
+        "3027",
+        "U+3027",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〧 是苏州码子七，Unicode 编码为 U+3027，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3028-1237",
+      "symbol": "〨",
+      "name": "苏州码子八",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子八",
+        "数字",
+        "Hangzhou Numeral Eight",
+        "CJK Symbols and Punctuation",
+        "3028",
+        "U+3028",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〨 是苏州码子八，Unicode 编码为 U+3028，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3029-1238",
+      "symbol": "〩",
+      "name": "苏州码子九",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子九",
+        "数字",
+        "Hangzhou Numeral Nine",
+        "CJK Symbols and Punctuation",
+        "3029",
+        "U+3029",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〩 是苏州码子九，Unicode 编码为 U+3029，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
     }
   ]
 }

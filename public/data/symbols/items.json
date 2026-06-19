@@ -1,5 +1,5 @@
 {
-  "total": 1145,
+  "total": 1245,
   "items": [
     {
       "id": "symbol-24-1",
@@ -19468,6 +19468,1951 @@
         "括号"
       ],
       "notes": "⸧ 是右侧向 U 形括号，Unicode 编码为 U+2E27，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e28-1146",
+      "symbol": "⸨",
+      "name": "左双圆括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左双圆括号",
+        "标点",
+        "Left Double Parenthesis",
+        "Supplemental Punctuation",
+        "2E28",
+        "U+2E28",
+        "括号",
+        "引号"
+      ],
+      "notes": "⸨ 是左双圆括号，Unicode 编码为 U+2E28，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e29-1147",
+      "symbol": "⸩",
+      "name": "右双圆括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右双圆括号",
+        "标点",
+        "Right Double Parenthesis",
+        "Supplemental Punctuation",
+        "2E29",
+        "U+2E29",
+        "括号",
+        "引号"
+      ],
+      "notes": "⸩ 是右双圆括号，Unicode 编码为 U+2E29，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e2a-1148",
+      "symbol": "⸪",
+      "name": "上二下一点标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上二下一点标点",
+        "标点",
+        "Two Dots Over One Dot Punctuation",
+        "Supplemental Punctuation",
+        "2E2A",
+        "U+2E2A",
+        "点"
+      ],
+      "notes": "⸪ 是上二下一点标点，Unicode 编码为 U+2E2A，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e2b-1149",
+      "symbol": "⸫",
+      "name": "上一下二点标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上一下二点标点",
+        "标点",
+        "One Dot Over Two Dots Punctuation",
+        "Supplemental Punctuation",
+        "2E2B",
+        "U+2E2B",
+        "点"
+      ],
+      "notes": "⸫ 是上一下二点标点，Unicode 编码为 U+2E2B，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e2c-1150",
+      "symbol": "⸬",
+      "name": "方形四点标点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "方形四点标点",
+        "标点",
+        "Squared Four Dot Punctuation",
+        "Supplemental Punctuation",
+        "2E2C",
+        "U+2E2C",
+        "点"
+      ],
+      "notes": "⸬ 是方形四点标点，Unicode 编码为 U+2E2C，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e2d-1151",
+      "symbol": "⸭",
+      "name": "五点标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "五点标记",
+        "标点",
+        "Five Dot Mark",
+        "Supplemental Punctuation",
+        "2E2D",
+        "U+2E2D",
+        "点"
+      ],
+      "notes": "⸭ 是五点标记，Unicode 编码为 U+2E2D，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e2e-1152",
+      "symbol": "⸮",
+      "name": "反向问号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向问号",
+        "标点",
+        "Reversed Question Mark",
+        "Supplemental Punctuation",
+        "2E2E",
+        "U+2E2E",
+        "问号"
+      ],
+      "notes": "⸮ 是反向问号，Unicode 编码为 U+2E2E，用于表示疑问、感叹或历史文献中的特殊语气标点。"
+    },
+    {
+      "id": "symbol-2e2f-1153",
+      "symbol": "ⸯ",
+      "name": "竖波浪线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖波浪线",
+        "标点",
+        "Vertical Tilde",
+        "Supplemental Punctuation",
+        "2E2F",
+        "U+2E2F"
+      ],
+      "notes": "ⸯ 是竖波浪线，Unicode 编码为 U+2E2F，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e30-1154",
+      "symbol": "⸰",
+      "name": "圆圈点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "圆圈点",
+        "标点",
+        "Ring Point",
+        "Supplemental Punctuation",
+        "2E30",
+        "U+2E30",
+        "点"
+      ],
+      "notes": "⸰ 是圆圈点，Unicode 编码为 U+2E30，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e31-1155",
+      "symbol": "⸱",
+      "name": "分词中点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "分词中点",
+        "标点",
+        "Word Separator Middle Dot",
+        "Supplemental Punctuation",
+        "2E31",
+        "U+2E31",
+        "点"
+      ],
+      "notes": "⸱ 是分词中点，Unicode 编码为 U+2E31，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e32-1156",
+      "symbol": "⸲",
+      "name": "旋转逗号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "旋转逗号",
+        "标点",
+        "Turned Comma",
+        "Supplemental Punctuation",
+        "2E32",
+        "U+2E32",
+        "逗号"
+      ],
+      "notes": "⸲ 是旋转逗号，Unicode 编码为 U+2E32，用于句读、停顿或特定传统文本的标点排版。"
+    },
+    {
+      "id": "symbol-2e33-1157",
+      "symbol": "⸳",
+      "name": "上位点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上位点",
+        "标点",
+        "Raised Dot",
+        "Supplemental Punctuation",
+        "2E33",
+        "U+2E33",
+        "点"
+      ],
+      "notes": "⸳ 是上位点，Unicode 编码为 U+2E33，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e34-1158",
+      "symbol": "⸴",
+      "name": "上位逗号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上位逗号",
+        "标点",
+        "Raised Comma",
+        "Supplemental Punctuation",
+        "2E34",
+        "U+2E34",
+        "逗号"
+      ],
+      "notes": "⸴ 是上位逗号，Unicode 编码为 U+2E34，用于句读、停顿或特定传统文本的标点排版。"
+    },
+    {
+      "id": "symbol-2e35-1159",
+      "symbol": "⸵",
+      "name": "旋转分号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "旋转分号",
+        "标点",
+        "Turned Semicolon",
+        "Supplemental Punctuation",
+        "2E35",
+        "U+2E35"
+      ],
+      "notes": "⸵ 是旋转分号，Unicode 编码为 U+2E35，用于句读、停顿或特定传统文本的标点排版。"
+    },
+    {
+      "id": "symbol-2e36-1160",
+      "symbol": "⸶",
+      "name": "左护剑标",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左护剑标",
+        "标点",
+        "Dagger with Left Guard",
+        "Supplemental Punctuation",
+        "2E36",
+        "U+2E36",
+        "剑标",
+        "脚注符号"
+      ],
+      "notes": "⸶ 是左护剑标，Unicode 编码为 U+2E36，常用于脚注、章节、段落或校勘文本标记。"
+    },
+    {
+      "id": "symbol-2e37-1161",
+      "symbol": "⸷",
+      "name": "右护剑标",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右护剑标",
+        "标点",
+        "Dagger with Right Guard",
+        "Supplemental Punctuation",
+        "2E37",
+        "U+2E37",
+        "剑标",
+        "脚注符号"
+      ],
+      "notes": "⸷ 是右护剑标，Unicode 编码为 U+2E37，常用于脚注、章节、段落或校勘文本标记。"
+    },
+    {
+      "id": "symbol-2e38-1162",
+      "symbol": "⸸",
+      "name": "旋转剑标",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "旋转剑标",
+        "标点",
+        "Turned Dagger",
+        "Supplemental Punctuation",
+        "2E38",
+        "U+2E38",
+        "剑标",
+        "脚注符号"
+      ],
+      "notes": "⸸ 是旋转剑标，Unicode 编码为 U+2E38，常用于脚注、章节、段落或校勘文本标记。"
+    },
+    {
+      "id": "symbol-2e39-1163",
+      "symbol": "⸹",
+      "name": "上半章节符号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上半章节符号",
+        "标点",
+        "Top Half Section Sign",
+        "Supplemental Punctuation",
+        "2E39",
+        "U+2E39"
+      ],
+      "notes": "⸹ 是上半章节符号，Unicode 编码为 U+2E39，常用于脚注、章节、段落或校勘文本标记。"
+    },
+    {
+      "id": "symbol-2e3a-1164",
+      "symbol": "⸺",
+      "name": "双倍长破折号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双倍长破折号",
+        "标点",
+        "Two-Em Dash",
+        "Supplemental Punctuation",
+        "2E3A",
+        "U+2E3A",
+        "破折号",
+        "连字符"
+      ],
+      "notes": "⸺ 是双倍长破折号，Unicode 编码为 U+2E3A，用于文本连接、分隔或专业排版中的横线类标记。"
+    },
+    {
+      "id": "symbol-2e3b-1165",
+      "symbol": "⸻",
+      "name": "三倍长破折号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "三倍长破折号",
+        "标点",
+        "Three-Em Dash",
+        "Supplemental Punctuation",
+        "2E3B",
+        "U+2E3B",
+        "破折号",
+        "连字符"
+      ],
+      "notes": "⸻ 是三倍长破折号，Unicode 编码为 U+2E3B，用于文本连接、分隔或专业排版中的横线类标记。"
+    },
+    {
+      "id": "symbol-2e3c-1166",
+      "symbol": "⸼",
+      "name": "速记句点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "速记句点",
+        "标点",
+        "Stenographic Full Stop",
+        "Supplemental Punctuation",
+        "2E3C",
+        "U+2E3C",
+        "句号"
+      ],
+      "notes": "⸼ 是速记句点，Unicode 编码为 U+2E3C，用于句读、停顿或特定传统文本的标点排版。"
+    },
+    {
+      "id": "symbol-2e3d-1167",
+      "symbol": "⸽",
+      "name": "竖排六点",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "竖排六点",
+        "标点",
+        "Vertical Six Dots",
+        "Supplemental Punctuation",
+        "2E3D",
+        "U+2E3D",
+        "点"
+      ],
+      "notes": "⸽ 是竖排六点，Unicode 编码为 U+2E3D，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e3e-1168",
+      "symbol": "⸾",
+      "name": "摆动竖线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "摆动竖线",
+        "标点",
+        "Wiggly Vertical Line",
+        "Supplemental Punctuation",
+        "2E3E",
+        "U+2E3E"
+      ],
+      "notes": "⸾ 是摆动竖线，Unicode 编码为 U+2E3E，用于文本连接、分隔或专业排版中的横线类标记。"
+    },
+    {
+      "id": "symbol-2e3f-1169",
+      "symbol": "⸿",
+      "name": "章首标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "章首标记",
+        "标点",
+        "Capitulum",
+        "Supplemental Punctuation",
+        "2E3F",
+        "U+2E3F"
+      ],
+      "notes": "⸿ 是章首标记，Unicode 编码为 U+2E3F，常用于脚注、章节、段落或校勘文本标记。"
+    },
+    {
+      "id": "symbol-2e40-1170",
+      "symbol": "⹀",
+      "name": "双连字符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双连字符",
+        "标点",
+        "Double Hyphen",
+        "Supplemental Punctuation",
+        "2E40",
+        "U+2E40",
+        "破折号",
+        "连字符"
+      ],
+      "notes": "⹀ 是双连字符，Unicode 编码为 U+2E40，用于文本连接、分隔或专业排版中的横线类标记。"
+    },
+    {
+      "id": "symbol-2e41-1171",
+      "symbol": "⹁",
+      "name": "反向逗号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向逗号",
+        "标点",
+        "Reversed Comma",
+        "Supplemental Punctuation",
+        "2E41",
+        "U+2E41",
+        "逗号"
+      ],
+      "notes": "⹁ 是反向逗号，Unicode 编码为 U+2E41，用于句读、停顿或特定传统文本的标点排版。"
+    },
+    {
+      "id": "symbol-2e42-1172",
+      "symbol": "⹂",
+      "name": "低位反向双引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "低位反向双引号",
+        "标点",
+        "Double Low-Reversed-9 Quotation Mark",
+        "Supplemental Punctuation",
+        "2E42",
+        "U+2E42",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹂ 是低位反向双引号，Unicode 编码为 U+2E42，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e43-1173",
+      "symbol": "⹃",
+      "name": "左端上翘破折号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左端上翘破折号",
+        "标点",
+        "Dash with Left Upturn",
+        "Supplemental Punctuation",
+        "2E43",
+        "U+2E43",
+        "破折号",
+        "连字符"
+      ],
+      "notes": "⹃ 是左端上翘破折号，Unicode 编码为 U+2E43，用于文本连接、分隔或专业排版中的横线类标记。"
+    },
+    {
+      "id": "symbol-2e44-1174",
+      "symbol": "⹄",
+      "name": "双暂停标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双暂停标记",
+        "标点",
+        "Double Suspension Mark",
+        "Supplemental Punctuation",
+        "2E44",
+        "U+2E44"
+      ],
+      "notes": "⹄ 是双暂停标记，Unicode 编码为 U+2E44，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e45-1175",
+      "symbol": "⹅",
+      "name": "倒置低位卡维卡",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "倒置低位卡维卡",
+        "标点",
+        "Inverted Low Kavyka",
+        "Supplemental Punctuation",
+        "2E45",
+        "U+2E45"
+      ],
+      "notes": "⹅ 是倒置低位卡维卡，Unicode 编码为 U+2E45，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e46-1176",
+      "symbol": "⹆",
+      "name": "上带卡维卡的倒置低位卡维卡",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "上带卡维卡的倒置低位卡维卡",
+        "标点",
+        "Inverted Low Kavyka With Kavyka Above",
+        "Supplemental Punctuation",
+        "2E46",
+        "U+2E46"
+      ],
+      "notes": "⹆ 是上带卡维卡的倒置低位卡维卡，Unicode 编码为 U+2E46，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e47-1177",
+      "symbol": "⹇",
+      "name": "低位卡维卡",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "低位卡维卡",
+        "标点",
+        "Low Kavyka",
+        "Supplemental Punctuation",
+        "2E47",
+        "U+2E47"
+      ],
+      "notes": "⹇ 是低位卡维卡，Unicode 编码为 U+2E47，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e48-1178",
+      "symbol": "⹈",
+      "name": "带点低位卡维卡",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带点低位卡维卡",
+        "标点",
+        "Low Kavyka With Dot",
+        "Supplemental Punctuation",
+        "2E48",
+        "U+2E48",
+        "点"
+      ],
+      "notes": "⹈ 是带点低位卡维卡，Unicode 编码为 U+2E48，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e49-1179",
+      "symbol": "⹉",
+      "name": "双层逗号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双层逗号",
+        "标点",
+        "Double Stacked Comma",
+        "Supplemental Punctuation",
+        "2E49",
+        "U+2E49",
+        "逗号"
+      ],
+      "notes": "⹉ 是双层逗号，Unicode 编码为 U+2E49，用于句读、停顿或特定传统文本的标点排版。"
+    },
+    {
+      "id": "symbol-2e4a-1180",
+      "symbol": "⹊",
+      "name": "点状斜线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "点状斜线",
+        "标点",
+        "Dotted Solidus",
+        "Supplemental Punctuation",
+        "2E4A",
+        "U+2E4A",
+        "点"
+      ],
+      "notes": "⹊ 是点状斜线，Unicode 编码为 U+2E4A，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e4b-1181",
+      "symbol": "⹋",
+      "name": "三重剑标",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "三重剑标",
+        "标点",
+        "Triple Dagger",
+        "Supplemental Punctuation",
+        "2E4B",
+        "U+2E4B",
+        "剑标",
+        "脚注符号"
+      ],
+      "notes": "⹋ 是三重剑标，Unicode 编码为 U+2E4B，常用于脚注、章节、段落或校勘文本标记。"
+    },
+    {
+      "id": "symbol-2e4c-1182",
+      "symbol": "⹌",
+      "name": "中世纪逗号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "中世纪逗号",
+        "标点",
+        "Medieval Comma",
+        "Supplemental Punctuation",
+        "2E4C",
+        "U+2E4C",
+        "逗号"
+      ],
+      "notes": "⹌ 是中世纪逗号，Unicode 编码为 U+2E4C，用于句读、停顿或特定传统文本的标点排版。"
+    },
+    {
+      "id": "symbol-2e4d-1183",
+      "symbol": "⹍",
+      "name": "古典段落符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "古典段落符",
+        "标点",
+        "Paragraphus Mark",
+        "Supplemental Punctuation",
+        "2E4D",
+        "U+2E4D"
+      ],
+      "notes": "⹍ 是古典段落符，Unicode 编码为 U+2E4D，常用于脚注、章节、段落或校勘文本标记。"
+    },
+    {
+      "id": "symbol-2e4e-1184",
+      "symbol": "⹎",
+      "name": "高点句读符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "高点句读符",
+        "标点",
+        "Punctus Elevatus Mark",
+        "Supplemental Punctuation",
+        "2E4E",
+        "U+2E4E"
+      ],
+      "notes": "⹎ 是高点句读符，Unicode 编码为 U+2E4E，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e4f-1185",
+      "symbol": "⹏",
+      "name": "康沃尔诗行分隔符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "康沃尔诗行分隔符",
+        "标点",
+        "Cornish Verse Divider",
+        "Supplemental Punctuation",
+        "2E4F",
+        "U+2E4F"
+      ],
+      "notes": "⹏ 是康沃尔诗行分隔符，Unicode 编码为 U+2E4F，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e50-1186",
+      "symbol": "⹐",
+      "name": "右横十字标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右横十字标记",
+        "标点",
+        "Cross Patty With Right Crossbar",
+        "Supplemental Punctuation",
+        "2E50",
+        "U+2E50"
+      ],
+      "notes": "⹐ 是右横十字标记，Unicode 编码为 U+2E50，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e51-1187",
+      "symbol": "⹑",
+      "name": "左横十字标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左横十字标记",
+        "标点",
+        "Cross Patty With Left Crossbar",
+        "Supplemental Punctuation",
+        "2E51",
+        "U+2E51"
+      ],
+      "notes": "⹑ 是左横十字标记，Unicode 编码为 U+2E51，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e52-1188",
+      "symbol": "⹒",
+      "name": "大写蒂罗和号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "大写蒂罗和号",
+        "标点",
+        "Tironian Sign Capital Et",
+        "Supplemental Punctuation",
+        "2E52",
+        "U+2E52"
+      ],
+      "notes": "⹒ 是大写蒂罗和号，Unicode 编码为 U+2E52，属于补充标点字符，适合专业排版、校勘或文本标注场景。"
+    },
+    {
+      "id": "symbol-2e53-1189",
+      "symbol": "⹓",
+      "name": "中世纪感叹号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "中世纪感叹号",
+        "标点",
+        "Medieval Exclamation Mark",
+        "Supplemental Punctuation",
+        "2E53",
+        "U+2E53",
+        "感叹号"
+      ],
+      "notes": "⹓ 是中世纪感叹号，Unicode 编码为 U+2E53，用于表示疑问、感叹或历史文献中的特殊语气标点。"
+    },
+    {
+      "id": "symbol-2e54-1190",
+      "symbol": "⹔",
+      "name": "中世纪问号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "中世纪问号",
+        "标点",
+        "Medieval Question Mark",
+        "Supplemental Punctuation",
+        "2E54",
+        "U+2E54",
+        "问号"
+      ],
+      "notes": "⹔ 是中世纪问号，Unicode 编码为 U+2E54，用于表示疑问、感叹或历史文献中的特殊语气标点。"
+    },
+    {
+      "id": "symbol-2e55-1191",
+      "symbol": "⹕",
+      "name": "带横左方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带横左方括号",
+        "标点",
+        "Left Square Bracket With Stroke",
+        "Supplemental Punctuation",
+        "2E55",
+        "U+2E55",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹕ 是带横左方括号，Unicode 编码为 U+2E55，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e56-1192",
+      "symbol": "⹖",
+      "name": "带横右方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带横右方括号",
+        "标点",
+        "Right Square Bracket With Stroke",
+        "Supplemental Punctuation",
+        "2E56",
+        "U+2E56",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹖ 是带横右方括号，Unicode 编码为 U+2E56，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e57-1193",
+      "symbol": "⹗",
+      "name": "带双横左方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带双横左方括号",
+        "标点",
+        "Left Square Bracket With Double Stroke",
+        "Supplemental Punctuation",
+        "2E57",
+        "U+2E57",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹗ 是带双横左方括号，Unicode 编码为 U+2E57，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e58-1194",
+      "symbol": "⹘",
+      "name": "带双横右方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "带双横右方括号",
+        "标点",
+        "Right Square Bracket With Double Stroke",
+        "Supplemental Punctuation",
+        "2E58",
+        "U+2E58",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹘ 是带双横右方括号，Unicode 编码为 U+2E58，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e59-1195",
+      "symbol": "⹙",
+      "name": "左圆括号上半部",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左圆括号上半部",
+        "标点",
+        "Top Half Left Parenthesis",
+        "Supplemental Punctuation",
+        "2E59",
+        "U+2E59",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹙ 是左圆括号上半部，Unicode 编码为 U+2E59，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e5a-1196",
+      "symbol": "⹚",
+      "name": "右圆括号上半部",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右圆括号上半部",
+        "标点",
+        "Top Half Right Parenthesis",
+        "Supplemental Punctuation",
+        "2E5A",
+        "U+2E5A",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹚ 是右圆括号上半部，Unicode 编码为 U+2E5A，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e5b-1197",
+      "symbol": "⹛",
+      "name": "左圆括号下半部",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左圆括号下半部",
+        "标点",
+        "Bottom Half Left Parenthesis",
+        "Supplemental Punctuation",
+        "2E5B",
+        "U+2E5B",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹛ 是左圆括号下半部，Unicode 编码为 U+2E5B，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e5c-1198",
+      "symbol": "⹜",
+      "name": "右圆括号下半部",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右圆括号下半部",
+        "标点",
+        "Bottom Half Right Parenthesis",
+        "Supplemental Punctuation",
+        "2E5C",
+        "U+2E5C",
+        "括号",
+        "引号"
+      ],
+      "notes": "⹜ 是右圆括号下半部，Unicode 编码为 U+2E5C，多见于专业排版、古籍转写或校勘文本中的括注标记。"
+    },
+    {
+      "id": "symbol-2e5d-1199",
+      "symbol": "⹝",
+      "name": "斜连字符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "斜连字符",
+        "标点",
+        "Oblique Hyphen",
+        "Supplemental Punctuation",
+        "2E5D",
+        "U+2E5D",
+        "破折号",
+        "连字符"
+      ],
+      "notes": "⹝ 是斜连字符，Unicode 编码为 U+2E5D，用于文本连接、分隔或专业排版中的横线类标记。"
+    },
+    {
+      "id": "symbol-3001-1200",
+      "symbol": "、",
+      "name": "顿号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "顿号",
+        "标点",
+        "Ideographic Comma",
+        "CJK Symbols and Punctuation",
+        "3001",
+        "U+3001",
+        "逗号"
+      ],
+      "notes": "、 是顿号，Unicode 编码为 U+3001，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3002-1201",
+      "symbol": "。",
+      "name": "中文句号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "中文句号",
+        "标点",
+        "Ideographic Full Stop",
+        "CJK Symbols and Punctuation",
+        "3002",
+        "U+3002",
+        "句号"
+      ],
+      "notes": "。 是中文句号，Unicode 编码为 U+3002，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3003-1202",
+      "symbol": "〃",
+      "name": "同上标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "同上标记",
+        "标点",
+        "Ditto Mark",
+        "CJK Symbols and Punctuation",
+        "3003",
+        "U+3003"
+      ],
+      "notes": "〃 是同上标记，Unicode 编码为 U+3003，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3005-1203",
+      "symbol": "々",
+      "name": "汉字重复标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "汉字重复标记",
+        "标点",
+        "Ideographic Iteration Mark",
+        "CJK Symbols and Punctuation",
+        "3005",
+        "U+3005"
+      ],
+      "notes": "々 是汉字重复标记，Unicode 编码为 U+3005，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3006-1204",
+      "symbol": "〆",
+      "name": "汉字收尾标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "汉字收尾标记",
+        "标点",
+        "Ideographic Closing Mark",
+        "CJK Symbols and Punctuation",
+        "3006",
+        "U+3006"
+      ],
+      "notes": "〆 是汉字收尾标记，Unicode 编码为 U+3006，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3007-1205",
+      "symbol": "〇",
+      "name": "汉字数字零",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "汉字数字零",
+        "数字",
+        "Ideographic Number Zero",
+        "CJK Symbols and Punctuation",
+        "3007",
+        "U+3007",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〇 是汉字数字零，Unicode 编码为 U+3007，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3008-1206",
+      "symbol": "〈",
+      "name": "左单书名号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左单书名号",
+        "标点",
+        "Left Angle Bracket",
+        "CJK Symbols and Punctuation",
+        "3008",
+        "U+3008",
+        "括号",
+        "引号"
+      ],
+      "notes": "〈 是左单书名号，Unicode 编码为 U+3008，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3009-1207",
+      "symbol": "〉",
+      "name": "右单书名号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右单书名号",
+        "标点",
+        "Right Angle Bracket",
+        "CJK Symbols and Punctuation",
+        "3009",
+        "U+3009",
+        "括号",
+        "引号"
+      ],
+      "notes": "〉 是右单书名号，Unicode 编码为 U+3009，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-300a-1208",
+      "symbol": "《",
+      "name": "左双书名号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左双书名号",
+        "标点",
+        "Left Double Angle Bracket",
+        "CJK Symbols and Punctuation",
+        "300A",
+        "U+300A",
+        "括号",
+        "引号"
+      ],
+      "notes": "《 是左双书名号，Unicode 编码为 U+300A，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-300b-1209",
+      "symbol": "》",
+      "name": "右双书名号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右双书名号",
+        "标点",
+        "Right Double Angle Bracket",
+        "CJK Symbols and Punctuation",
+        "300B",
+        "U+300B",
+        "括号",
+        "引号"
+      ],
+      "notes": "》 是右双书名号，Unicode 编码为 U+300B，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-300c-1210",
+      "symbol": "「",
+      "name": "左直角引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左直角引号",
+        "标点",
+        "Left Corner Bracket",
+        "CJK Symbols and Punctuation",
+        "300C",
+        "U+300C",
+        "括号",
+        "引号"
+      ],
+      "notes": "「 是左直角引号，Unicode 编码为 U+300C，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-300d-1211",
+      "symbol": "」",
+      "name": "右直角引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右直角引号",
+        "标点",
+        "Right Corner Bracket",
+        "CJK Symbols and Punctuation",
+        "300D",
+        "U+300D",
+        "括号",
+        "引号"
+      ],
+      "notes": "」 是右直角引号，Unicode 编码为 U+300D，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-300e-1212",
+      "symbol": "『",
+      "name": "左空心直角引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左空心直角引号",
+        "标点",
+        "Left White Corner Bracket",
+        "CJK Symbols and Punctuation",
+        "300E",
+        "U+300E",
+        "括号",
+        "引号"
+      ],
+      "notes": "『 是左空心直角引号，Unicode 编码为 U+300E，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-300f-1213",
+      "symbol": "』",
+      "name": "右空心直角引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右空心直角引号",
+        "标点",
+        "Right White Corner Bracket",
+        "CJK Symbols and Punctuation",
+        "300F",
+        "U+300F",
+        "括号",
+        "引号"
+      ],
+      "notes": "』 是右空心直角引号，Unicode 编码为 U+300F，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3010-1214",
+      "symbol": "【",
+      "name": "左黑透镜括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左黑透镜括号",
+        "标点",
+        "Left Black Lenticular Bracket",
+        "CJK Symbols and Punctuation",
+        "3010",
+        "U+3010",
+        "括号",
+        "引号"
+      ],
+      "notes": "【 是左黑透镜括号，Unicode 编码为 U+3010，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3011-1215",
+      "symbol": "】",
+      "name": "右黑透镜括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右黑透镜括号",
+        "标点",
+        "Right Black Lenticular Bracket",
+        "CJK Symbols and Punctuation",
+        "3011",
+        "U+3011",
+        "括号",
+        "引号"
+      ],
+      "notes": "】 是右黑透镜括号，Unicode 编码为 U+3011，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3013-1216",
+      "symbol": "〓",
+      "name": "缺字标记",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "缺字标记",
+        "标点",
+        "Geta Mark",
+        "CJK Symbols and Punctuation",
+        "3013",
+        "U+3013"
+      ],
+      "notes": "〓 是缺字标记，Unicode 编码为 U+3013，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3014-1217",
+      "symbol": "〔",
+      "name": "左龟甲括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左龟甲括号",
+        "标点",
+        "Left Tortoise Shell Bracket",
+        "CJK Symbols and Punctuation",
+        "3014",
+        "U+3014",
+        "括号",
+        "引号"
+      ],
+      "notes": "〔 是左龟甲括号，Unicode 编码为 U+3014，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3015-1218",
+      "symbol": "〕",
+      "name": "右龟甲括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右龟甲括号",
+        "标点",
+        "Right Tortoise Shell Bracket",
+        "CJK Symbols and Punctuation",
+        "3015",
+        "U+3015",
+        "括号",
+        "引号"
+      ],
+      "notes": "〕 是右龟甲括号，Unicode 编码为 U+3015，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3016-1219",
+      "symbol": "〖",
+      "name": "左空心透镜括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左空心透镜括号",
+        "标点",
+        "Left White Lenticular Bracket",
+        "CJK Symbols and Punctuation",
+        "3016",
+        "U+3016",
+        "括号",
+        "引号"
+      ],
+      "notes": "〖 是左空心透镜括号，Unicode 编码为 U+3016，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3017-1220",
+      "symbol": "〗",
+      "name": "右空心透镜括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右空心透镜括号",
+        "标点",
+        "Right White Lenticular Bracket",
+        "CJK Symbols and Punctuation",
+        "3017",
+        "U+3017",
+        "括号",
+        "引号"
+      ],
+      "notes": "〗 是右空心透镜括号，Unicode 编码为 U+3017，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3018-1221",
+      "symbol": "〘",
+      "name": "左空心龟甲括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左空心龟甲括号",
+        "标点",
+        "Left White Tortoise Shell Bracket",
+        "CJK Symbols and Punctuation",
+        "3018",
+        "U+3018",
+        "括号",
+        "引号"
+      ],
+      "notes": "〘 是左空心龟甲括号，Unicode 编码为 U+3018，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3019-1222",
+      "symbol": "〙",
+      "name": "右空心龟甲括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右空心龟甲括号",
+        "标点",
+        "Right White Tortoise Shell Bracket",
+        "CJK Symbols and Punctuation",
+        "3019",
+        "U+3019",
+        "括号",
+        "引号"
+      ],
+      "notes": "〙 是右空心龟甲括号，Unicode 编码为 U+3019，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-301a-1223",
+      "symbol": "〚",
+      "name": "左空心方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "左空心方括号",
+        "标点",
+        "Left White Square Bracket",
+        "CJK Symbols and Punctuation",
+        "301A",
+        "U+301A",
+        "括号",
+        "引号"
+      ],
+      "notes": "〚 是左空心方括号，Unicode 编码为 U+301A，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-301b-1224",
+      "symbol": "〛",
+      "name": "右空心方括号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "右空心方括号",
+        "标点",
+        "Right White Square Bracket",
+        "CJK Symbols and Punctuation",
+        "301B",
+        "U+301B",
+        "括号",
+        "引号"
+      ],
+      "notes": "〛 是右空心方括号，Unicode 编码为 U+301B，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-301c-1225",
+      "symbol": "〜",
+      "name": "波浪线",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "波浪线",
+        "标点",
+        "Wave Dash",
+        "CJK Symbols and Punctuation",
+        "301C",
+        "U+301C",
+        "破折号",
+        "连字符"
+      ],
+      "notes": "〜 是波浪线，Unicode 编码为 U+301C，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-301d-1226",
+      "symbol": "〝",
+      "name": "反向双撇引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "反向双撇引号",
+        "标点",
+        "Reversed Double Prime Quotation Mark",
+        "CJK Symbols and Punctuation",
+        "301D",
+        "U+301D",
+        "括号",
+        "引号"
+      ],
+      "notes": "〝 是反向双撇引号，Unicode 编码为 U+301D，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-301e-1227",
+      "symbol": "〞",
+      "name": "双撇引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "双撇引号",
+        "标点",
+        "Double Prime Quotation Mark",
+        "CJK Symbols and Punctuation",
+        "301E",
+        "U+301E",
+        "括号",
+        "引号"
+      ],
+      "notes": "〞 是双撇引号，Unicode 编码为 U+301E，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-301f-1228",
+      "symbol": "〟",
+      "name": "低位双撇引号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "低位双撇引号",
+        "标点",
+        "Low Double Prime Quotation Mark",
+        "CJK Symbols and Punctuation",
+        "301F",
+        "U+301F",
+        "括号",
+        "引号"
+      ],
+      "notes": "〟 是低位双撇引号，Unicode 编码为 U+301F，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3020-1229",
+      "symbol": "〠",
+      "name": "邮政标志脸",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "邮政标志脸",
+        "标点",
+        "Postal Mark Face",
+        "CJK Symbols and Punctuation",
+        "3020",
+        "U+3020"
+      ],
+      "notes": "〠 是邮政标志脸，Unicode 编码为 U+3020，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
+    },
+    {
+      "id": "symbol-3021-1230",
+      "symbol": "〡",
+      "name": "苏州码子一",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子一",
+        "数字",
+        "Hangzhou Numeral One",
+        "CJK Symbols and Punctuation",
+        "3021",
+        "U+3021",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〡 是苏州码子一，Unicode 编码为 U+3021，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3022-1231",
+      "symbol": "〢",
+      "name": "苏州码子二",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子二",
+        "数字",
+        "Hangzhou Numeral Two",
+        "CJK Symbols and Punctuation",
+        "3022",
+        "U+3022",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〢 是苏州码子二，Unicode 编码为 U+3022，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3023-1232",
+      "symbol": "〣",
+      "name": "苏州码子三",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子三",
+        "数字",
+        "Hangzhou Numeral Three",
+        "CJK Symbols and Punctuation",
+        "3023",
+        "U+3023",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〣 是苏州码子三，Unicode 编码为 U+3023，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3024-1233",
+      "symbol": "〤",
+      "name": "苏州码子四",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子四",
+        "数字",
+        "Hangzhou Numeral Four",
+        "CJK Symbols and Punctuation",
+        "3024",
+        "U+3024",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〤 是苏州码子四，Unicode 编码为 U+3024，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3025-1234",
+      "symbol": "〥",
+      "name": "苏州码子五",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子五",
+        "数字",
+        "Hangzhou Numeral Five",
+        "CJK Symbols and Punctuation",
+        "3025",
+        "U+3025",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〥 是苏州码子五，Unicode 编码为 U+3025，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3026-1235",
+      "symbol": "〦",
+      "name": "苏州码子六",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子六",
+        "数字",
+        "Hangzhou Numeral Six",
+        "CJK Symbols and Punctuation",
+        "3026",
+        "U+3026",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〦 是苏州码子六，Unicode 编码为 U+3026，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3027-1236",
+      "symbol": "〧",
+      "name": "苏州码子七",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子七",
+        "数字",
+        "Hangzhou Numeral Seven",
+        "CJK Symbols and Punctuation",
+        "3027",
+        "U+3027",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〧 是苏州码子七，Unicode 编码为 U+3027，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3028-1237",
+      "symbol": "〨",
+      "name": "苏州码子八",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子八",
+        "数字",
+        "Hangzhou Numeral Eight",
+        "CJK Symbols and Punctuation",
+        "3028",
+        "U+3028",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〨 是苏州码子八，Unicode 编码为 U+3028，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-3029-1238",
+      "symbol": "〩",
+      "name": "苏州码子九",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "苏州码子九",
+        "数字",
+        "Hangzhou Numeral Nine",
+        "CJK Symbols and Punctuation",
+        "3029",
+        "U+3029",
+        "苏州码子",
+        "花码",
+        "中文数字"
+      ],
+      "notes": "〩 是苏州码子九，Unicode 编码为 U+3029，用于传统中文数字、苏州码子或东亚文本中的数字表示。"
+    },
+    {
+      "id": "symbol-302a-1239",
+      "symbol": "〪",
+      "name": "汉字平声调号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "汉字平声调号",
+        "标点",
+        "Ideographic Level Tone Mark",
+        "CJK Symbols and Punctuation",
+        "302A",
+        "U+302A",
+        "声调符号"
+      ],
+      "notes": "〪 是汉字平声调号，Unicode 编码为 U+302A，用于历史汉字文本或语言学材料中标注平声。"
+    },
+    {
+      "id": "symbol-302b-1240",
+      "symbol": "〫",
+      "name": "汉字上声调号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "汉字上声调号",
+        "标点",
+        "Ideographic Rising Tone Mark",
+        "CJK Symbols and Punctuation",
+        "302B",
+        "U+302B",
+        "声调符号"
+      ],
+      "notes": "〫 是汉字上声调号，Unicode 编码为 U+302B，用于历史汉字文本或语言学材料中标注上声。"
+    },
+    {
+      "id": "symbol-302c-1241",
+      "symbol": "〬",
+      "name": "汉字去声调号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "汉字去声调号",
+        "标点",
+        "Ideographic Departing Tone Mark",
+        "CJK Symbols and Punctuation",
+        "302C",
+        "U+302C",
+        "声调符号"
+      ],
+      "notes": "〬 是汉字去声调号，Unicode 编码为 U+302C，用于历史汉字文本或语言学材料中标注去声。"
+    },
+    {
+      "id": "symbol-302d-1242",
+      "symbol": "〭",
+      "name": "汉字入声调号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "汉字入声调号",
+        "标点",
+        "Ideographic Entering Tone Mark",
+        "CJK Symbols and Punctuation",
+        "302D",
+        "U+302D",
+        "声调符号"
+      ],
+      "notes": "〭 是汉字入声调号，Unicode 编码为 U+302D，用于历史汉字文本或语言学材料中标注入声。"
+    },
+    {
+      "id": "symbol-302e-1243",
+      "symbol": "〮",
+      "name": "韩文单点声调符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "韩文单点声调符",
+        "标点",
+        "Hangul Single Dot Tone Mark",
+        "CJK Symbols and Punctuation",
+        "302E",
+        "U+302E",
+        "点",
+        "声调符号"
+      ],
+      "notes": "〮 是韩文单点声调符，Unicode 编码为 U+302E，用于历史韩文文本或语言学材料中的声调标注。"
+    },
+    {
+      "id": "symbol-302f-1244",
+      "symbol": "〯",
+      "name": "韩文双点声调符",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "韩文双点声调符",
+        "标点",
+        "Hangul Double Dot Tone Mark",
+        "CJK Symbols and Punctuation",
+        "302F",
+        "U+302F",
+        "点",
+        "声调符号"
+      ],
+      "notes": "〯 是韩文双点声调符，Unicode 编码为 U+302F，用于历史韩文文本或语言学材料中的声调标注。"
+    },
+    {
+      "id": "symbol-3030-1245",
+      "symbol": "〰",
+      "name": "波浪破折号",
+      "pronunciation": "",
+      "category": [
+        "标点"
+      ],
+      "searchTerms": [
+        "波浪破折号",
+        "标点",
+        "Wavy Dash",
+        "CJK Symbols and Punctuation",
+        "3030",
+        "U+3030",
+        "破折号",
+        "连字符"
+      ],
+      "notes": "〰 是波浪破折号，Unicode 编码为 U+3030，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
     }
   ]
 }
