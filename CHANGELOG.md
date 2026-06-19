@@ -1,3 +1,12 @@
+## [1.12.8](https://github.com/nowscott/RareCharWeb/compare/v1.12.7...v1.12.8) (2026-06-19)
+
+
+### 维护
+
+* **关于页:** 移除热门分类统计和版本信息面板，保留更聚焦的数据概览展示
+* **数据概览:** 隐藏面向维护的数据版本字段，减少 About 页信息噪音
+
+
 ## [1.12.7](https://github.com/nowscott/RareCharWeb/compare/v1.12.6...v1.12.7) (2026-06-19)
 
 
