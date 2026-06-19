@@ -1,6 +1,6 @@
 {
   "category": "字母",
-  "total": 87,
+  "total": 201,
   "items": [
     {
       "id": "symbol-2133-216",
@@ -1631,6 +1631,2626 @@
         "U+214F"
       ],
       "notes": "⅏ 是撒马利亚文本来源符号，Unicode 编码为 U+214F，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
+    },
+    {
+      "id": "symbol-249c-1393",
+      "symbol": "⒜",
+      "name": "带括号小写字母 A",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 A",
+        "字母",
+        "Parenthesized Latin Small Letter A",
+        "Enclosed Alphanumerics",
+        "249C",
+        "U+249C",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒜ 是带括号小写字母 A，Unicode 编码为 U+249C，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-249d-1394",
+      "symbol": "⒝",
+      "name": "带括号小写字母 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 B",
+        "字母",
+        "Parenthesized Latin Small Letter B",
+        "Enclosed Alphanumerics",
+        "249D",
+        "U+249D",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒝ 是带括号小写字母 B，Unicode 编码为 U+249D，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-249e-1395",
+      "symbol": "⒞",
+      "name": "带括号小写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 C",
+        "字母",
+        "Parenthesized Latin Small Letter C",
+        "Enclosed Alphanumerics",
+        "249E",
+        "U+249E",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒞ 是带括号小写字母 C，Unicode 编码为 U+249E，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-249f-1396",
+      "symbol": "⒟",
+      "name": "带括号小写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 D",
+        "字母",
+        "Parenthesized Latin Small Letter D",
+        "Enclosed Alphanumerics",
+        "249F",
+        "U+249F",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒟ 是带括号小写字母 D，Unicode 编码为 U+249F，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a0-1397",
+      "symbol": "⒠",
+      "name": "带括号小写字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 E",
+        "字母",
+        "Parenthesized Latin Small Letter E",
+        "Enclosed Alphanumerics",
+        "24A0",
+        "U+24A0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒠ 是带括号小写字母 E，Unicode 编码为 U+24A0，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a1-1398",
+      "symbol": "⒡",
+      "name": "带括号小写字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 F",
+        "字母",
+        "Parenthesized Latin Small Letter F",
+        "Enclosed Alphanumerics",
+        "24A1",
+        "U+24A1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒡ 是带括号小写字母 F，Unicode 编码为 U+24A1，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a2-1399",
+      "symbol": "⒢",
+      "name": "带括号小写字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 G",
+        "字母",
+        "Parenthesized Latin Small Letter G",
+        "Enclosed Alphanumerics",
+        "24A2",
+        "U+24A2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒢ 是带括号小写字母 G，Unicode 编码为 U+24A2，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a3-1400",
+      "symbol": "⒣",
+      "name": "带括号小写字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 H",
+        "字母",
+        "Parenthesized Latin Small Letter H",
+        "Enclosed Alphanumerics",
+        "24A3",
+        "U+24A3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒣ 是带括号小写字母 H，Unicode 编码为 U+24A3，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a4-1401",
+      "symbol": "⒤",
+      "name": "带括号小写字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 I",
+        "字母",
+        "Parenthesized Latin Small Letter I",
+        "Enclosed Alphanumerics",
+        "24A4",
+        "U+24A4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒤ 是带括号小写字母 I，Unicode 编码为 U+24A4，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a5-1402",
+      "symbol": "⒥",
+      "name": "带括号小写字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 J",
+        "字母",
+        "Parenthesized Latin Small Letter J",
+        "Enclosed Alphanumerics",
+        "24A5",
+        "U+24A5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒥ 是带括号小写字母 J，Unicode 编码为 U+24A5，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a6-1403",
+      "symbol": "⒦",
+      "name": "带括号小写字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 K",
+        "字母",
+        "Parenthesized Latin Small Letter K",
+        "Enclosed Alphanumerics",
+        "24A6",
+        "U+24A6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒦ 是带括号小写字母 K，Unicode 编码为 U+24A6，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a7-1404",
+      "symbol": "⒧",
+      "name": "带括号小写字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 L",
+        "字母",
+        "Parenthesized Latin Small Letter L",
+        "Enclosed Alphanumerics",
+        "24A7",
+        "U+24A7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒧ 是带括号小写字母 L，Unicode 编码为 U+24A7，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a8-1405",
+      "symbol": "⒨",
+      "name": "带括号小写字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 M",
+        "字母",
+        "Parenthesized Latin Small Letter M",
+        "Enclosed Alphanumerics",
+        "24A8",
+        "U+24A8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒨ 是带括号小写字母 M，Unicode 编码为 U+24A8，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24a9-1406",
+      "symbol": "⒩",
+      "name": "带括号小写字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 N",
+        "字母",
+        "Parenthesized Latin Small Letter N",
+        "Enclosed Alphanumerics",
+        "24A9",
+        "U+24A9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒩ 是带括号小写字母 N，Unicode 编码为 U+24A9，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24aa-1407",
+      "symbol": "⒪",
+      "name": "带括号小写字母 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 O",
+        "字母",
+        "Parenthesized Latin Small Letter O",
+        "Enclosed Alphanumerics",
+        "24AA",
+        "U+24AA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒪ 是带括号小写字母 O，Unicode 编码为 U+24AA，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24ab-1408",
+      "symbol": "⒫",
+      "name": "带括号小写字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 P",
+        "字母",
+        "Parenthesized Latin Small Letter P",
+        "Enclosed Alphanumerics",
+        "24AB",
+        "U+24AB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒫ 是带括号小写字母 P，Unicode 编码为 U+24AB，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24ac-1409",
+      "symbol": "⒬",
+      "name": "带括号小写字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 Q",
+        "字母",
+        "Parenthesized Latin Small Letter Q",
+        "Enclosed Alphanumerics",
+        "24AC",
+        "U+24AC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒬ 是带括号小写字母 Q，Unicode 编码为 U+24AC，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24ad-1410",
+      "symbol": "⒭",
+      "name": "带括号小写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 R",
+        "字母",
+        "Parenthesized Latin Small Letter R",
+        "Enclosed Alphanumerics",
+        "24AD",
+        "U+24AD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒭ 是带括号小写字母 R，Unicode 编码为 U+24AD，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24ae-1411",
+      "symbol": "⒮",
+      "name": "带括号小写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 S",
+        "字母",
+        "Parenthesized Latin Small Letter S",
+        "Enclosed Alphanumerics",
+        "24AE",
+        "U+24AE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒮ 是带括号小写字母 S，Unicode 编码为 U+24AE，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24af-1412",
+      "symbol": "⒯",
+      "name": "带括号小写字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 T",
+        "字母",
+        "Parenthesized Latin Small Letter T",
+        "Enclosed Alphanumerics",
+        "24AF",
+        "U+24AF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒯ 是带括号小写字母 T，Unicode 编码为 U+24AF，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b0-1413",
+      "symbol": "⒰",
+      "name": "带括号小写字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 U",
+        "字母",
+        "Parenthesized Latin Small Letter U",
+        "Enclosed Alphanumerics",
+        "24B0",
+        "U+24B0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒰ 是带括号小写字母 U，Unicode 编码为 U+24B0，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b1-1414",
+      "symbol": "⒱",
+      "name": "带括号小写字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 V",
+        "字母",
+        "Parenthesized Latin Small Letter V",
+        "Enclosed Alphanumerics",
+        "24B1",
+        "U+24B1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒱ 是带括号小写字母 V，Unicode 编码为 U+24B1，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b2-1415",
+      "symbol": "⒲",
+      "name": "带括号小写字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 W",
+        "字母",
+        "Parenthesized Latin Small Letter W",
+        "Enclosed Alphanumerics",
+        "24B2",
+        "U+24B2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒲ 是带括号小写字母 W，Unicode 编码为 U+24B2，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b3-1416",
+      "symbol": "⒳",
+      "name": "带括号小写字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 X",
+        "字母",
+        "Parenthesized Latin Small Letter X",
+        "Enclosed Alphanumerics",
+        "24B3",
+        "U+24B3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒳ 是带括号小写字母 X，Unicode 编码为 U+24B3，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b4-1417",
+      "symbol": "⒴",
+      "name": "带括号小写字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 Y",
+        "字母",
+        "Parenthesized Latin Small Letter Y",
+        "Enclosed Alphanumerics",
+        "24B4",
+        "U+24B4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒴ 是带括号小写字母 Y，Unicode 编码为 U+24B4，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b5-1418",
+      "symbol": "⒵",
+      "name": "带括号小写字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号小写字母 Z",
+        "字母",
+        "Parenthesized Latin Small Letter Z",
+        "Enclosed Alphanumerics",
+        "24B5",
+        "U+24B5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "⒵ 是带括号小写字母 Z，Unicode 编码为 U+24B5，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b6-1419",
+      "symbol": "Ⓐ",
+      "name": "带圈大写字母 A",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 A",
+        "字母",
+        "Circled Latin Capital Letter A",
+        "Enclosed Alphanumerics",
+        "24B6",
+        "U+24B6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓐ 是带圈大写字母 A，Unicode 编码为 U+24B6，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b7-1420",
+      "symbol": "Ⓑ",
+      "name": "带圈大写字母 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 B",
+        "字母",
+        "Circled Latin Capital Letter B",
+        "Enclosed Alphanumerics",
+        "24B7",
+        "U+24B7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓑ 是带圈大写字母 B，Unicode 编码为 U+24B7，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b8-1421",
+      "symbol": "Ⓒ",
+      "name": "带圈大写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 C",
+        "字母",
+        "Circled Latin Capital Letter C",
+        "Enclosed Alphanumerics",
+        "24B8",
+        "U+24B8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓒ 是带圈大写字母 C，Unicode 编码为 U+24B8，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24b9-1422",
+      "symbol": "Ⓓ",
+      "name": "带圈大写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 D",
+        "字母",
+        "Circled Latin Capital Letter D",
+        "Enclosed Alphanumerics",
+        "24B9",
+        "U+24B9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓓ 是带圈大写字母 D，Unicode 编码为 U+24B9，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24ba-1423",
+      "symbol": "Ⓔ",
+      "name": "带圈大写字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 E",
+        "字母",
+        "Circled Latin Capital Letter E",
+        "Enclosed Alphanumerics",
+        "24BA",
+        "U+24BA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓔ 是带圈大写字母 E，Unicode 编码为 U+24BA，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24bb-1424",
+      "symbol": "Ⓕ",
+      "name": "带圈大写字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 F",
+        "字母",
+        "Circled Latin Capital Letter F",
+        "Enclosed Alphanumerics",
+        "24BB",
+        "U+24BB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓕ 是带圈大写字母 F，Unicode 编码为 U+24BB，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24bc-1425",
+      "symbol": "Ⓖ",
+      "name": "带圈大写字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 G",
+        "字母",
+        "Circled Latin Capital Letter G",
+        "Enclosed Alphanumerics",
+        "24BC",
+        "U+24BC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓖ 是带圈大写字母 G，Unicode 编码为 U+24BC，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24bd-1426",
+      "symbol": "Ⓗ",
+      "name": "带圈大写字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 H",
+        "字母",
+        "Circled Latin Capital Letter H",
+        "Enclosed Alphanumerics",
+        "24BD",
+        "U+24BD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓗ 是带圈大写字母 H，Unicode 编码为 U+24BD，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24be-1427",
+      "symbol": "Ⓘ",
+      "name": "带圈大写字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 I",
+        "字母",
+        "Circled Latin Capital Letter I",
+        "Enclosed Alphanumerics",
+        "24BE",
+        "U+24BE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓘ 是带圈大写字母 I，Unicode 编码为 U+24BE，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24bf-1428",
+      "symbol": "Ⓙ",
+      "name": "带圈大写字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 J",
+        "字母",
+        "Circled Latin Capital Letter J",
+        "Enclosed Alphanumerics",
+        "24BF",
+        "U+24BF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓙ 是带圈大写字母 J，Unicode 编码为 U+24BF，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c0-1429",
+      "symbol": "Ⓚ",
+      "name": "带圈大写字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 K",
+        "字母",
+        "Circled Latin Capital Letter K",
+        "Enclosed Alphanumerics",
+        "24C0",
+        "U+24C0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓚ 是带圈大写字母 K，Unicode 编码为 U+24C0，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c1-1430",
+      "symbol": "Ⓛ",
+      "name": "带圈大写字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 L",
+        "字母",
+        "Circled Latin Capital Letter L",
+        "Enclosed Alphanumerics",
+        "24C1",
+        "U+24C1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓛ 是带圈大写字母 L，Unicode 编码为 U+24C1，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c2-1431",
+      "symbol": "Ⓜ",
+      "name": "带圈字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈字母 M",
+        "字母",
+        "Circled M",
+        "Enclosed Alphanumerics",
+        "24C2",
+        "U+24C2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓜ 是带圈字母 M，Unicode 编码为 U+24C2，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c3-1432",
+      "symbol": "Ⓝ",
+      "name": "带圈大写字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 N",
+        "字母",
+        "Circled Latin Capital Letter N",
+        "Enclosed Alphanumerics",
+        "24C3",
+        "U+24C3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓝ 是带圈大写字母 N，Unicode 编码为 U+24C3，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c4-1433",
+      "symbol": "Ⓞ",
+      "name": "带圈大写字母 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 O",
+        "字母",
+        "Circled Latin Capital Letter O",
+        "Enclosed Alphanumerics",
+        "24C4",
+        "U+24C4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓞ 是带圈大写字母 O，Unicode 编码为 U+24C4，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c5-1434",
+      "symbol": "Ⓟ",
+      "name": "带圈大写字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 P",
+        "字母",
+        "Circled Latin Capital Letter P",
+        "Enclosed Alphanumerics",
+        "24C5",
+        "U+24C5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓟ 是带圈大写字母 P，Unicode 编码为 U+24C5，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c6-1435",
+      "symbol": "Ⓠ",
+      "name": "带圈大写字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 Q",
+        "字母",
+        "Circled Latin Capital Letter Q",
+        "Enclosed Alphanumerics",
+        "24C6",
+        "U+24C6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓠ 是带圈大写字母 Q，Unicode 编码为 U+24C6，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c7-1436",
+      "symbol": "Ⓡ",
+      "name": "带圈大写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 R",
+        "字母",
+        "Circled Latin Capital Letter R",
+        "Enclosed Alphanumerics",
+        "24C7",
+        "U+24C7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓡ 是带圈大写字母 R，Unicode 编码为 U+24C7，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c8-1437",
+      "symbol": "Ⓢ",
+      "name": "带圈大写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 S",
+        "字母",
+        "Circled Latin Capital Letter S",
+        "Enclosed Alphanumerics",
+        "24C8",
+        "U+24C8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓢ 是带圈大写字母 S，Unicode 编码为 U+24C8，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24c9-1438",
+      "symbol": "Ⓣ",
+      "name": "带圈大写字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 T",
+        "字母",
+        "Circled Latin Capital Letter T",
+        "Enclosed Alphanumerics",
+        "24C9",
+        "U+24C9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓣ 是带圈大写字母 T，Unicode 编码为 U+24C9，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24ca-1439",
+      "symbol": "Ⓤ",
+      "name": "带圈大写字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 U",
+        "字母",
+        "Circled Latin Capital Letter U",
+        "Enclosed Alphanumerics",
+        "24CA",
+        "U+24CA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓤ 是带圈大写字母 U，Unicode 编码为 U+24CA，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24cb-1440",
+      "symbol": "Ⓥ",
+      "name": "带圈大写字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 V",
+        "字母",
+        "Circled Latin Capital Letter V",
+        "Enclosed Alphanumerics",
+        "24CB",
+        "U+24CB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓥ 是带圈大写字母 V，Unicode 编码为 U+24CB，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24cc-1441",
+      "symbol": "Ⓦ",
+      "name": "带圈大写字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 W",
+        "字母",
+        "Circled Latin Capital Letter W",
+        "Enclosed Alphanumerics",
+        "24CC",
+        "U+24CC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓦ 是带圈大写字母 W，Unicode 编码为 U+24CC，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24cd-1442",
+      "symbol": "Ⓧ",
+      "name": "带圈大写字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 X",
+        "字母",
+        "Circled Latin Capital Letter X",
+        "Enclosed Alphanumerics",
+        "24CD",
+        "U+24CD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓧ 是带圈大写字母 X，Unicode 编码为 U+24CD，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24ce-1443",
+      "symbol": "Ⓨ",
+      "name": "带圈大写字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 Y",
+        "字母",
+        "Circled Latin Capital Letter Y",
+        "Enclosed Alphanumerics",
+        "24CE",
+        "U+24CE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓨ 是带圈大写字母 Y，Unicode 编码为 U+24CE，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24cf-1444",
+      "symbol": "Ⓩ",
+      "name": "带圈大写字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈大写字母 Z",
+        "字母",
+        "Circled Latin Capital Letter Z",
+        "Enclosed Alphanumerics",
+        "24CF",
+        "U+24CF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "Ⓩ 是带圈大写字母 Z，Unicode 编码为 U+24CF，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d0-1445",
+      "symbol": "ⓐ",
+      "name": "带圈小写字母 A",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 A",
+        "字母",
+        "Circled Latin Small Letter A",
+        "Enclosed Alphanumerics",
+        "24D0",
+        "U+24D0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓐ 是带圈小写字母 A，Unicode 编码为 U+24D0，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d1-1446",
+      "symbol": "ⓑ",
+      "name": "带圈小写字母 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 B",
+        "字母",
+        "Circled Latin Small Letter B",
+        "Enclosed Alphanumerics",
+        "24D1",
+        "U+24D1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓑ 是带圈小写字母 B，Unicode 编码为 U+24D1，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d2-1447",
+      "symbol": "ⓒ",
+      "name": "带圈小写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 C",
+        "字母",
+        "Circled Latin Small Letter C",
+        "Enclosed Alphanumerics",
+        "24D2",
+        "U+24D2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓒ 是带圈小写字母 C，Unicode 编码为 U+24D2，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d3-1448",
+      "symbol": "ⓓ",
+      "name": "带圈小写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 D",
+        "字母",
+        "Circled Latin Small Letter D",
+        "Enclosed Alphanumerics",
+        "24D3",
+        "U+24D3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓓ 是带圈小写字母 D，Unicode 编码为 U+24D3，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d4-1449",
+      "symbol": "ⓔ",
+      "name": "带圈小写字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 E",
+        "字母",
+        "Circled Latin Small Letter E",
+        "Enclosed Alphanumerics",
+        "24D4",
+        "U+24D4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓔ 是带圈小写字母 E，Unicode 编码为 U+24D4，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d5-1450",
+      "symbol": "ⓕ",
+      "name": "带圈小写字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 F",
+        "字母",
+        "Circled Latin Small Letter F",
+        "Enclosed Alphanumerics",
+        "24D5",
+        "U+24D5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓕ 是带圈小写字母 F，Unicode 编码为 U+24D5，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d6-1451",
+      "symbol": "ⓖ",
+      "name": "带圈小写字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 G",
+        "字母",
+        "Circled Latin Small Letter G",
+        "Enclosed Alphanumerics",
+        "24D6",
+        "U+24D6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓖ 是带圈小写字母 G，Unicode 编码为 U+24D6，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d7-1452",
+      "symbol": "ⓗ",
+      "name": "带圈小写字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 H",
+        "字母",
+        "Circled Latin Small Letter H",
+        "Enclosed Alphanumerics",
+        "24D7",
+        "U+24D7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓗ 是带圈小写字母 H，Unicode 编码为 U+24D7，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d8-1453",
+      "symbol": "ⓘ",
+      "name": "带圈小写字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 I",
+        "字母",
+        "Circled Latin Small Letter I",
+        "Enclosed Alphanumerics",
+        "24D8",
+        "U+24D8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓘ 是带圈小写字母 I，Unicode 编码为 U+24D8，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24d9-1454",
+      "symbol": "ⓙ",
+      "name": "带圈小写字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 J",
+        "字母",
+        "Circled Latin Small Letter J",
+        "Enclosed Alphanumerics",
+        "24D9",
+        "U+24D9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓙ 是带圈小写字母 J，Unicode 编码为 U+24D9，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24da-1455",
+      "symbol": "ⓚ",
+      "name": "带圈小写字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 K",
+        "字母",
+        "Circled Latin Small Letter K",
+        "Enclosed Alphanumerics",
+        "24DA",
+        "U+24DA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓚ 是带圈小写字母 K，Unicode 编码为 U+24DA，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24db-1456",
+      "symbol": "ⓛ",
+      "name": "带圈小写字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 L",
+        "字母",
+        "Circled Latin Small Letter L",
+        "Enclosed Alphanumerics",
+        "24DB",
+        "U+24DB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓛ 是带圈小写字母 L，Unicode 编码为 U+24DB，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24dc-1457",
+      "symbol": "ⓜ",
+      "name": "带圈小写字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 M",
+        "字母",
+        "Circled Latin Small Letter M",
+        "Enclosed Alphanumerics",
+        "24DC",
+        "U+24DC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓜ 是带圈小写字母 M，Unicode 编码为 U+24DC，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24dd-1458",
+      "symbol": "ⓝ",
+      "name": "带圈小写字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 N",
+        "字母",
+        "Circled Latin Small Letter N",
+        "Enclosed Alphanumerics",
+        "24DD",
+        "U+24DD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓝ 是带圈小写字母 N，Unicode 编码为 U+24DD，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24de-1459",
+      "symbol": "ⓞ",
+      "name": "带圈小写字母 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 O",
+        "字母",
+        "Circled Latin Small Letter O",
+        "Enclosed Alphanumerics",
+        "24DE",
+        "U+24DE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓞ 是带圈小写字母 O，Unicode 编码为 U+24DE，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24df-1460",
+      "symbol": "ⓟ",
+      "name": "带圈小写字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 P",
+        "字母",
+        "Circled Latin Small Letter P",
+        "Enclosed Alphanumerics",
+        "24DF",
+        "U+24DF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓟ 是带圈小写字母 P，Unicode 编码为 U+24DF，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e0-1461",
+      "symbol": "ⓠ",
+      "name": "带圈小写字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 Q",
+        "字母",
+        "Circled Latin Small Letter Q",
+        "Enclosed Alphanumerics",
+        "24E0",
+        "U+24E0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓠ 是带圈小写字母 Q，Unicode 编码为 U+24E0，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e1-1462",
+      "symbol": "ⓡ",
+      "name": "带圈小写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 R",
+        "字母",
+        "Circled Latin Small Letter R",
+        "Enclosed Alphanumerics",
+        "24E1",
+        "U+24E1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓡ 是带圈小写字母 R，Unicode 编码为 U+24E1，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e2-1463",
+      "symbol": "ⓢ",
+      "name": "带圈小写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 S",
+        "字母",
+        "Circled Latin Small Letter S",
+        "Enclosed Alphanumerics",
+        "24E2",
+        "U+24E2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓢ 是带圈小写字母 S，Unicode 编码为 U+24E2，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e3-1464",
+      "symbol": "ⓣ",
+      "name": "带圈小写字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 T",
+        "字母",
+        "Circled Latin Small Letter T",
+        "Enclosed Alphanumerics",
+        "24E3",
+        "U+24E3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓣ 是带圈小写字母 T，Unicode 编码为 U+24E3，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e4-1465",
+      "symbol": "ⓤ",
+      "name": "带圈小写字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 U",
+        "字母",
+        "Circled Latin Small Letter U",
+        "Enclosed Alphanumerics",
+        "24E4",
+        "U+24E4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓤ 是带圈小写字母 U，Unicode 编码为 U+24E4，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e5-1466",
+      "symbol": "ⓥ",
+      "name": "带圈小写字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 V",
+        "字母",
+        "Circled Latin Small Letter V",
+        "Enclosed Alphanumerics",
+        "24E5",
+        "U+24E5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓥ 是带圈小写字母 V，Unicode 编码为 U+24E5，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e6-1467",
+      "symbol": "ⓦ",
+      "name": "带圈小写字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 W",
+        "字母",
+        "Circled Latin Small Letter W",
+        "Enclosed Alphanumerics",
+        "24E6",
+        "U+24E6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓦ 是带圈小写字母 W，Unicode 编码为 U+24E6，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e7-1468",
+      "symbol": "ⓧ",
+      "name": "带圈小写字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 X",
+        "字母",
+        "Circled Latin Small Letter X",
+        "Enclosed Alphanumerics",
+        "24E7",
+        "U+24E7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓧ 是带圈小写字母 X，Unicode 编码为 U+24E7，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e8-1469",
+      "symbol": "ⓨ",
+      "name": "带圈小写字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 Y",
+        "字母",
+        "Circled Latin Small Letter Y",
+        "Enclosed Alphanumerics",
+        "24E8",
+        "U+24E8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓨ 是带圈小写字母 Y，Unicode 编码为 U+24E8，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-24e9-1470",
+      "symbol": "ⓩ",
+      "name": "带圈小写字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈小写字母 Z",
+        "字母",
+        "Circled Latin Small Letter Z",
+        "Enclosed Alphanumerics",
+        "24E9",
+        "U+24E9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "ⓩ 是带圈小写字母 Z，Unicode 编码为 U+24E9，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f110-1509",
+      "symbol": "🄐",
+      "name": "带括号大写字母 A",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 A",
+        "字母",
+        "Parenthesized Latin Capital Letter A",
+        "Enclosed Alphanumeric Supplement",
+        "1F110",
+        "U+1F110",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄐 是带括号大写字母 A，Unicode 编码为 U+1F110，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f111-1510",
+      "symbol": "🄑",
+      "name": "带括号大写字母 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 B",
+        "字母",
+        "Parenthesized Latin Capital Letter B",
+        "Enclosed Alphanumeric Supplement",
+        "1F111",
+        "U+1F111",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄑 是带括号大写字母 B，Unicode 编码为 U+1F111，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f112-1511",
+      "symbol": "🄒",
+      "name": "带括号大写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 C",
+        "字母",
+        "Parenthesized Latin Capital Letter C",
+        "Enclosed Alphanumeric Supplement",
+        "1F112",
+        "U+1F112",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄒 是带括号大写字母 C，Unicode 编码为 U+1F112，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f113-1512",
+      "symbol": "🄓",
+      "name": "带括号大写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 D",
+        "字母",
+        "Parenthesized Latin Capital Letter D",
+        "Enclosed Alphanumeric Supplement",
+        "1F113",
+        "U+1F113",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄓 是带括号大写字母 D，Unicode 编码为 U+1F113，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f114-1513",
+      "symbol": "🄔",
+      "name": "带括号大写字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 E",
+        "字母",
+        "Parenthesized Latin Capital Letter E",
+        "Enclosed Alphanumeric Supplement",
+        "1F114",
+        "U+1F114",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄔 是带括号大写字母 E，Unicode 编码为 U+1F114，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f115-1514",
+      "symbol": "🄕",
+      "name": "带括号大写字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 F",
+        "字母",
+        "Parenthesized Latin Capital Letter F",
+        "Enclosed Alphanumeric Supplement",
+        "1F115",
+        "U+1F115",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄕 是带括号大写字母 F，Unicode 编码为 U+1F115，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f116-1515",
+      "symbol": "🄖",
+      "name": "带括号大写字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 G",
+        "字母",
+        "Parenthesized Latin Capital Letter G",
+        "Enclosed Alphanumeric Supplement",
+        "1F116",
+        "U+1F116",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄖 是带括号大写字母 G，Unicode 编码为 U+1F116，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f117-1516",
+      "symbol": "🄗",
+      "name": "带括号大写字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 H",
+        "字母",
+        "Parenthesized Latin Capital Letter H",
+        "Enclosed Alphanumeric Supplement",
+        "1F117",
+        "U+1F117",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄗 是带括号大写字母 H，Unicode 编码为 U+1F117，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f118-1517",
+      "symbol": "🄘",
+      "name": "带括号大写字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 I",
+        "字母",
+        "Parenthesized Latin Capital Letter I",
+        "Enclosed Alphanumeric Supplement",
+        "1F118",
+        "U+1F118",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄘 是带括号大写字母 I，Unicode 编码为 U+1F118，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f119-1518",
+      "symbol": "🄙",
+      "name": "带括号大写字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 J",
+        "字母",
+        "Parenthesized Latin Capital Letter J",
+        "Enclosed Alphanumeric Supplement",
+        "1F119",
+        "U+1F119",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄙 是带括号大写字母 J，Unicode 编码为 U+1F119，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f11a-1519",
+      "symbol": "🄚",
+      "name": "带括号大写字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 K",
+        "字母",
+        "Parenthesized Latin Capital Letter K",
+        "Enclosed Alphanumeric Supplement",
+        "1F11A",
+        "U+1F11A",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄚 是带括号大写字母 K，Unicode 编码为 U+1F11A，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f11b-1520",
+      "symbol": "🄛",
+      "name": "带括号大写字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 L",
+        "字母",
+        "Parenthesized Latin Capital Letter L",
+        "Enclosed Alphanumeric Supplement",
+        "1F11B",
+        "U+1F11B",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄛 是带括号大写字母 L，Unicode 编码为 U+1F11B，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f11c-1521",
+      "symbol": "🄜",
+      "name": "带括号大写字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 M",
+        "字母",
+        "Parenthesized Latin Capital Letter M",
+        "Enclosed Alphanumeric Supplement",
+        "1F11C",
+        "U+1F11C",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄜 是带括号大写字母 M，Unicode 编码为 U+1F11C，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f11d-1522",
+      "symbol": "🄝",
+      "name": "带括号大写字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 N",
+        "字母",
+        "Parenthesized Latin Capital Letter N",
+        "Enclosed Alphanumeric Supplement",
+        "1F11D",
+        "U+1F11D",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄝 是带括号大写字母 N，Unicode 编码为 U+1F11D，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f11e-1523",
+      "symbol": "🄞",
+      "name": "带括号大写字母 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 O",
+        "字母",
+        "Parenthesized Latin Capital Letter O",
+        "Enclosed Alphanumeric Supplement",
+        "1F11E",
+        "U+1F11E",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄞 是带括号大写字母 O，Unicode 编码为 U+1F11E，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f11f-1524",
+      "symbol": "🄟",
+      "name": "带括号大写字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 P",
+        "字母",
+        "Parenthesized Latin Capital Letter P",
+        "Enclosed Alphanumeric Supplement",
+        "1F11F",
+        "U+1F11F",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄟 是带括号大写字母 P，Unicode 编码为 U+1F11F，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f120-1525",
+      "symbol": "🄠",
+      "name": "带括号大写字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 Q",
+        "字母",
+        "Parenthesized Latin Capital Letter Q",
+        "Enclosed Alphanumeric Supplement",
+        "1F120",
+        "U+1F120",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄠 是带括号大写字母 Q，Unicode 编码为 U+1F120，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f121-1526",
+      "symbol": "🄡",
+      "name": "带括号大写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 R",
+        "字母",
+        "Parenthesized Latin Capital Letter R",
+        "Enclosed Alphanumeric Supplement",
+        "1F121",
+        "U+1F121",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄡 是带括号大写字母 R，Unicode 编码为 U+1F121，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f122-1527",
+      "symbol": "🄢",
+      "name": "带括号大写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 S",
+        "字母",
+        "Parenthesized Latin Capital Letter S",
+        "Enclosed Alphanumeric Supplement",
+        "1F122",
+        "U+1F122",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄢 是带括号大写字母 S，Unicode 编码为 U+1F122，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f123-1528",
+      "symbol": "🄣",
+      "name": "带括号大写字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 T",
+        "字母",
+        "Parenthesized Latin Capital Letter T",
+        "Enclosed Alphanumeric Supplement",
+        "1F123",
+        "U+1F123",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄣 是带括号大写字母 T，Unicode 编码为 U+1F123，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f124-1529",
+      "symbol": "🄤",
+      "name": "带括号大写字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 U",
+        "字母",
+        "Parenthesized Latin Capital Letter U",
+        "Enclosed Alphanumeric Supplement",
+        "1F124",
+        "U+1F124",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄤 是带括号大写字母 U，Unicode 编码为 U+1F124，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f125-1530",
+      "symbol": "🄥",
+      "name": "带括号大写字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 V",
+        "字母",
+        "Parenthesized Latin Capital Letter V",
+        "Enclosed Alphanumeric Supplement",
+        "1F125",
+        "U+1F125",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄥 是带括号大写字母 V，Unicode 编码为 U+1F125，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f126-1531",
+      "symbol": "🄦",
+      "name": "带括号大写字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 W",
+        "字母",
+        "Parenthesized Latin Capital Letter W",
+        "Enclosed Alphanumeric Supplement",
+        "1F126",
+        "U+1F126",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄦 是带括号大写字母 W，Unicode 编码为 U+1F126，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f127-1532",
+      "symbol": "🄧",
+      "name": "带括号大写字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 X",
+        "字母",
+        "Parenthesized Latin Capital Letter X",
+        "Enclosed Alphanumeric Supplement",
+        "1F127",
+        "U+1F127",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄧 是带括号大写字母 X，Unicode 编码为 U+1F127，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f128-1533",
+      "symbol": "🄨",
+      "name": "带括号大写字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 Y",
+        "字母",
+        "Parenthesized Latin Capital Letter Y",
+        "Enclosed Alphanumeric Supplement",
+        "1F128",
+        "U+1F128",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄨 是带括号大写字母 Y，Unicode 编码为 U+1F128，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f129-1534",
+      "symbol": "🄩",
+      "name": "带括号大写字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带括号大写字母 Z",
+        "字母",
+        "Parenthesized Latin Capital Letter Z",
+        "Enclosed Alphanumeric Supplement",
+        "1F129",
+        "U+1F129",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ],
+      "notes": "🄩 是带括号大写字母 Z，Unicode 编码为 U+1F129，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f12a-1535",
+      "symbol": "🄪",
+      "name": "龟甲括号大写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "龟甲括号大写字母 S",
+        "字母",
+        "Tortoise Shell Bracketed Latin Capital Letter S",
+        "Enclosed Alphanumeric Supplement",
+        "1F12A",
+        "U+1F12A",
+        "英文字母",
+        "拉丁字母",
+        "字母编号"
+      ],
+      "notes": "🄪 是龟甲括号大写字母 S，Unicode 编码为 U+1F12A，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f12b-1536",
+      "symbol": "🄫",
+      "name": "带圈斜体大写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈斜体大写字母 C",
+        "字母",
+        "Circled Italic Latin Capital Letter C",
+        "Enclosed Alphanumeric Supplement",
+        "1F12B",
+        "U+1F12B",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "🄫 是带圈斜体大写字母 C，Unicode 编码为 U+1F12B，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f12c-1537",
+      "symbol": "🄬",
+      "name": "带圈斜体大写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈斜体大写字母 R",
+        "字母",
+        "Circled Italic Latin Capital Letter R",
+        "Enclosed Alphanumeric Supplement",
+        "1F12C",
+        "U+1F12C",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "🄬 是带圈斜体大写字母 R，Unicode 编码为 U+1F12C，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f12d-1538",
+      "symbol": "🄭",
+      "name": "带圈 CD",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈 CD",
+        "字母",
+        "Circled Cd",
+        "Enclosed Alphanumeric Supplement",
+        "1F12D",
+        "U+1F12D",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "🄭 是带圈 CD，Unicode 编码为 U+1F12D，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f12e-1539",
+      "symbol": "🄮",
+      "name": "带圈 WZ",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈 WZ",
+        "字母",
+        "Circled Wz",
+        "Enclosed Alphanumeric Supplement",
+        "1F12E",
+        "U+1F12E",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ],
+      "notes": "🄮 是带圈 WZ，Unicode 编码为 U+1F12E，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f130-1541",
+      "symbol": "🄰",
+      "name": "方框大写字母 A",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 A",
+        "字母",
+        "Squared Latin Capital Letter A",
+        "Enclosed Alphanumeric Supplement",
+        "1F130",
+        "U+1F130",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ],
+      "notes": "🄰 是方框大写字母 A，Unicode 编码为 U+1F130，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f131-1542",
+      "symbol": "🄱",
+      "name": "方框大写字母 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 B",
+        "字母",
+        "Squared Latin Capital Letter B",
+        "Enclosed Alphanumeric Supplement",
+        "1F131",
+        "U+1F131",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ],
+      "notes": "🄱 是方框大写字母 B，Unicode 编码为 U+1F131，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f132-1543",
+      "symbol": "🄲",
+      "name": "方框大写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 C",
+        "字母",
+        "Squared Latin Capital Letter C",
+        "Enclosed Alphanumeric Supplement",
+        "1F132",
+        "U+1F132",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ],
+      "notes": "🄲 是方框大写字母 C，Unicode 编码为 U+1F132，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f133-1544",
+      "symbol": "🄳",
+      "name": "方框大写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 D",
+        "字母",
+        "Squared Latin Capital Letter D",
+        "Enclosed Alphanumeric Supplement",
+        "1F133",
+        "U+1F133",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ],
+      "notes": "🄳 是方框大写字母 D，Unicode 编码为 U+1F133，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f134-1545",
+      "symbol": "🄴",
+      "name": "方框大写字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 E",
+        "字母",
+        "Squared Latin Capital Letter E",
+        "Enclosed Alphanumeric Supplement",
+        "1F134",
+        "U+1F134",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ],
+      "notes": "🄴 是方框大写字母 E，Unicode 编码为 U+1F134，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
     }
   ]
 }

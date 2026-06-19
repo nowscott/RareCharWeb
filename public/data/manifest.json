@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T09:53:56.166Z",
+  "generatedAt": "2026-06-19T14:12:52.312Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
-      "online": 1345,
-      "pending": 5062,
+      "online": 1545,
+      "pending": 4862,
       "total": 6407
     },
     "emojis": {
@@ -47,7 +47,7 @@
         {
           "id": "货币",
           "name": "货币",
-          "count": 49,
+          "count": 50,
           "file": "symbols/by-category/货币.json"
         },
         {
@@ -65,7 +65,7 @@
         {
           "id": "其他",
           "name": "其他",
-          "count": 15,
+          "count": 17,
           "file": "symbols/by-category/其他.json"
         },
         {
@@ -83,7 +83,7 @@
         {
           "id": "数字",
           "name": "数字",
-          "count": 96,
+          "count": 179,
           "file": "symbols/by-category/数字.json"
         },
         {
@@ -149,7 +149,7 @@
         {
           "id": "字母",
           "name": "字母",
-          "count": 87,
+          "count": 201,
           "file": "symbols/by-category/字母.json"
         }
       ]

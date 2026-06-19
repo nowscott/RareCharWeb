@@ -1,6 +1,6 @@
 {
   "type": "symbols",
-  "total": 1345,
+  "total": 1545,
   "items": {
     "symbol-24-1": {
       "id": "symbol-24-1",
@@ -26057,6 +26057,4991 @@
         "U+246C",
         "带圈数字",
         "圈号数字"
+      ]
+    },
+    "symbol-246d-1346": {
+      "id": "symbol-246d-1346",
+      "value": "⑭",
+      "name": "带圈数字十四",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字十四",
+        "数字",
+        "Circled Number Fourteen",
+        "Enclosed Alphanumerics",
+        "246D",
+        "U+246D",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-246e-1347": {
+      "id": "symbol-246e-1347",
+      "value": "⑮",
+      "name": "带圈数字十五",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字十五",
+        "数字",
+        "Circled Number Fifteen",
+        "Enclosed Alphanumerics",
+        "246E",
+        "U+246E",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-246f-1348": {
+      "id": "symbol-246f-1348",
+      "value": "⑯",
+      "name": "带圈数字十六",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字十六",
+        "数字",
+        "Circled Number Sixteen",
+        "Enclosed Alphanumerics",
+        "246F",
+        "U+246F",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-2470-1349": {
+      "id": "symbol-2470-1349",
+      "value": "⑰",
+      "name": "带圈数字十七",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字十七",
+        "数字",
+        "Circled Number Seventeen",
+        "Enclosed Alphanumerics",
+        "2470",
+        "U+2470",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-2471-1350": {
+      "id": "symbol-2471-1350",
+      "value": "⑱",
+      "name": "带圈数字十八",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字十八",
+        "数字",
+        "Circled Number Eighteen",
+        "Enclosed Alphanumerics",
+        "2471",
+        "U+2471",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-2472-1351": {
+      "id": "symbol-2472-1351",
+      "value": "⑲",
+      "name": "带圈数字十九",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字十九",
+        "数字",
+        "Circled Number Nineteen",
+        "Enclosed Alphanumerics",
+        "2472",
+        "U+2472",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-2473-1352": {
+      "id": "symbol-2473-1352",
+      "value": "⑳",
+      "name": "带圈数字二十",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字二十",
+        "数字",
+        "Circled Number Twenty",
+        "Enclosed Alphanumerics",
+        "2473",
+        "U+2473",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-2474-1353": {
+      "id": "symbol-2474-1353",
+      "value": "⑴",
+      "name": "带括号数字一",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字一",
+        "数字",
+        "Parenthesized Digit One",
+        "Enclosed Alphanumerics",
+        "2474",
+        "U+2474",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2475-1354": {
+      "id": "symbol-2475-1354",
+      "value": "⑵",
+      "name": "带括号数字二",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字二",
+        "数字",
+        "Parenthesized Digit Two",
+        "Enclosed Alphanumerics",
+        "2475",
+        "U+2475",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2476-1355": {
+      "id": "symbol-2476-1355",
+      "value": "⑶",
+      "name": "带括号数字三",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字三",
+        "数字",
+        "Parenthesized Digit Three",
+        "Enclosed Alphanumerics",
+        "2476",
+        "U+2476",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2477-1356": {
+      "id": "symbol-2477-1356",
+      "value": "⑷",
+      "name": "带括号数字四",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字四",
+        "数字",
+        "Parenthesized Digit Four",
+        "Enclosed Alphanumerics",
+        "2477",
+        "U+2477",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2478-1357": {
+      "id": "symbol-2478-1357",
+      "value": "⑸",
+      "name": "带括号数字五",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字五",
+        "数字",
+        "Parenthesized Digit Five",
+        "Enclosed Alphanumerics",
+        "2478",
+        "U+2478",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2479-1358": {
+      "id": "symbol-2479-1358",
+      "value": "⑹",
+      "name": "带括号数字六",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字六",
+        "数字",
+        "Parenthesized Digit Six",
+        "Enclosed Alphanumerics",
+        "2479",
+        "U+2479",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-247a-1359": {
+      "id": "symbol-247a-1359",
+      "value": "⑺",
+      "name": "带括号数字七",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字七",
+        "数字",
+        "Parenthesized Digit Seven",
+        "Enclosed Alphanumerics",
+        "247A",
+        "U+247A",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-247b-1360": {
+      "id": "symbol-247b-1360",
+      "value": "⑻",
+      "name": "带括号数字八",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字八",
+        "数字",
+        "Parenthesized Digit Eight",
+        "Enclosed Alphanumerics",
+        "247B",
+        "U+247B",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-247c-1361": {
+      "id": "symbol-247c-1361",
+      "value": "⑼",
+      "name": "带括号数字九",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字九",
+        "数字",
+        "Parenthesized Digit Nine",
+        "Enclosed Alphanumerics",
+        "247C",
+        "U+247C",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-247d-1362": {
+      "id": "symbol-247d-1362",
+      "value": "⑽",
+      "name": "带括号数字十",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十",
+        "数字",
+        "Parenthesized Number Ten",
+        "Enclosed Alphanumerics",
+        "247D",
+        "U+247D",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-247e-1363": {
+      "id": "symbol-247e-1363",
+      "value": "⑾",
+      "name": "带括号数字十一",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十一",
+        "数字",
+        "Parenthesized Number Eleven",
+        "Enclosed Alphanumerics",
+        "247E",
+        "U+247E",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-247f-1364": {
+      "id": "symbol-247f-1364",
+      "value": "⑿",
+      "name": "带括号数字十二",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十二",
+        "数字",
+        "Parenthesized Number Twelve",
+        "Enclosed Alphanumerics",
+        "247F",
+        "U+247F",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2480-1365": {
+      "id": "symbol-2480-1365",
+      "value": "⒀",
+      "name": "带括号数字十三",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十三",
+        "数字",
+        "Parenthesized Number Thirteen",
+        "Enclosed Alphanumerics",
+        "2480",
+        "U+2480",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2481-1366": {
+      "id": "symbol-2481-1366",
+      "value": "⒁",
+      "name": "带括号数字十四",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十四",
+        "数字",
+        "Parenthesized Number Fourteen",
+        "Enclosed Alphanumerics",
+        "2481",
+        "U+2481",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2482-1367": {
+      "id": "symbol-2482-1367",
+      "value": "⒂",
+      "name": "带括号数字十五",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十五",
+        "数字",
+        "Parenthesized Number Fifteen",
+        "Enclosed Alphanumerics",
+        "2482",
+        "U+2482",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2483-1368": {
+      "id": "symbol-2483-1368",
+      "value": "⒃",
+      "name": "带括号数字十六",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十六",
+        "数字",
+        "Parenthesized Number Sixteen",
+        "Enclosed Alphanumerics",
+        "2483",
+        "U+2483",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2484-1369": {
+      "id": "symbol-2484-1369",
+      "value": "⒄",
+      "name": "带括号数字十七",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十七",
+        "数字",
+        "Parenthesized Number Seventeen",
+        "Enclosed Alphanumerics",
+        "2484",
+        "U+2484",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2485-1370": {
+      "id": "symbol-2485-1370",
+      "value": "⒅",
+      "name": "带括号数字十八",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十八",
+        "数字",
+        "Parenthesized Number Eighteen",
+        "Enclosed Alphanumerics",
+        "2485",
+        "U+2485",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2486-1371": {
+      "id": "symbol-2486-1371",
+      "value": "⒆",
+      "name": "带括号数字十九",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字十九",
+        "数字",
+        "Parenthesized Number Nineteen",
+        "Enclosed Alphanumerics",
+        "2486",
+        "U+2486",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2487-1372": {
+      "id": "symbol-2487-1372",
+      "value": "⒇",
+      "name": "带括号数字二十",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带括号数字二十",
+        "数字",
+        "Parenthesized Number Twenty",
+        "Enclosed Alphanumerics",
+        "2487",
+        "U+2487",
+        "编号",
+        "序号",
+        "列表编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-2488-1373": {
+      "id": "symbol-2488-1373",
+      "value": "⒈",
+      "name": "数字一加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字一加句点",
+        "数字",
+        "Digit One Full Stop",
+        "Enclosed Alphanumerics",
+        "2488",
+        "U+2488",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2489-1374": {
+      "id": "symbol-2489-1374",
+      "value": "⒉",
+      "name": "数字二加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字二加句点",
+        "数字",
+        "Digit Two Full Stop",
+        "Enclosed Alphanumerics",
+        "2489",
+        "U+2489",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-248a-1375": {
+      "id": "symbol-248a-1375",
+      "value": "⒊",
+      "name": "数字三加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字三加句点",
+        "数字",
+        "Digit Three Full Stop",
+        "Enclosed Alphanumerics",
+        "248A",
+        "U+248A",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-248b-1376": {
+      "id": "symbol-248b-1376",
+      "value": "⒋",
+      "name": "数字四加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字四加句点",
+        "数字",
+        "Digit Four Full Stop",
+        "Enclosed Alphanumerics",
+        "248B",
+        "U+248B",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-248c-1377": {
+      "id": "symbol-248c-1377",
+      "value": "⒌",
+      "name": "数字五加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字五加句点",
+        "数字",
+        "Digit Five Full Stop",
+        "Enclosed Alphanumerics",
+        "248C",
+        "U+248C",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-248d-1378": {
+      "id": "symbol-248d-1378",
+      "value": "⒍",
+      "name": "数字六加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字六加句点",
+        "数字",
+        "Digit Six Full Stop",
+        "Enclosed Alphanumerics",
+        "248D",
+        "U+248D",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-248e-1379": {
+      "id": "symbol-248e-1379",
+      "value": "⒎",
+      "name": "数字七加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字七加句点",
+        "数字",
+        "Digit Seven Full Stop",
+        "Enclosed Alphanumerics",
+        "248E",
+        "U+248E",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-248f-1380": {
+      "id": "symbol-248f-1380",
+      "value": "⒏",
+      "name": "数字八加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字八加句点",
+        "数字",
+        "Digit Eight Full Stop",
+        "Enclosed Alphanumerics",
+        "248F",
+        "U+248F",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2490-1381": {
+      "id": "symbol-2490-1381",
+      "value": "⒐",
+      "name": "数字九加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字九加句点",
+        "数字",
+        "Digit Nine Full Stop",
+        "Enclosed Alphanumerics",
+        "2490",
+        "U+2490",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2491-1382": {
+      "id": "symbol-2491-1382",
+      "value": "⒑",
+      "name": "数字十加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十加句点",
+        "数字",
+        "Number Ten Full Stop",
+        "Enclosed Alphanumerics",
+        "2491",
+        "U+2491",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2492-1383": {
+      "id": "symbol-2492-1383",
+      "value": "⒒",
+      "name": "数字十一加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十一加句点",
+        "数字",
+        "Number Eleven Full Stop",
+        "Enclosed Alphanumerics",
+        "2492",
+        "U+2492",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2493-1384": {
+      "id": "symbol-2493-1384",
+      "value": "⒓",
+      "name": "数字十二加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十二加句点",
+        "数字",
+        "Number Twelve Full Stop",
+        "Enclosed Alphanumerics",
+        "2493",
+        "U+2493",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2494-1385": {
+      "id": "symbol-2494-1385",
+      "value": "⒔",
+      "name": "数字十三加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十三加句点",
+        "数字",
+        "Number Thirteen Full Stop",
+        "Enclosed Alphanumerics",
+        "2494",
+        "U+2494",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2495-1386": {
+      "id": "symbol-2495-1386",
+      "value": "⒕",
+      "name": "数字十四加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十四加句点",
+        "数字",
+        "Number Fourteen Full Stop",
+        "Enclosed Alphanumerics",
+        "2495",
+        "U+2495",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2496-1387": {
+      "id": "symbol-2496-1387",
+      "value": "⒖",
+      "name": "数字十五加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十五加句点",
+        "数字",
+        "Number Fifteen Full Stop",
+        "Enclosed Alphanumerics",
+        "2496",
+        "U+2496",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2497-1388": {
+      "id": "symbol-2497-1388",
+      "value": "⒗",
+      "name": "数字十六加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十六加句点",
+        "数字",
+        "Number Sixteen Full Stop",
+        "Enclosed Alphanumerics",
+        "2497",
+        "U+2497",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2498-1389": {
+      "id": "symbol-2498-1389",
+      "value": "⒘",
+      "name": "数字十七加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十七加句点",
+        "数字",
+        "Number Seventeen Full Stop",
+        "Enclosed Alphanumerics",
+        "2498",
+        "U+2498",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-2499-1390": {
+      "id": "symbol-2499-1390",
+      "value": "⒙",
+      "name": "数字十八加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十八加句点",
+        "数字",
+        "Number Eighteen Full Stop",
+        "Enclosed Alphanumerics",
+        "2499",
+        "U+2499",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-249a-1391": {
+      "id": "symbol-249a-1391",
+      "value": "⒚",
+      "name": "数字十九加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字十九加句点",
+        "数字",
+        "Number Nineteen Full Stop",
+        "Enclosed Alphanumerics",
+        "249A",
+        "U+249A",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-249b-1392": {
+      "id": "symbol-249b-1392",
+      "value": "⒛",
+      "name": "数字二十加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字二十加句点",
+        "数字",
+        "Number Twenty Full Stop",
+        "Enclosed Alphanumerics",
+        "249B",
+        "U+249B",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-249c-1393": {
+      "id": "symbol-249c-1393",
+      "value": "⒜",
+      "name": "带括号小写字母 A",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 A",
+        "字母",
+        "Parenthesized Latin Small Letter A",
+        "Enclosed Alphanumerics",
+        "249C",
+        "U+249C",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-249d-1394": {
+      "id": "symbol-249d-1394",
+      "value": "⒝",
+      "name": "带括号小写字母 B",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 B",
+        "字母",
+        "Parenthesized Latin Small Letter B",
+        "Enclosed Alphanumerics",
+        "249D",
+        "U+249D",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-249e-1395": {
+      "id": "symbol-249e-1395",
+      "value": "⒞",
+      "name": "带括号小写字母 C",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 C",
+        "字母",
+        "Parenthesized Latin Small Letter C",
+        "Enclosed Alphanumerics",
+        "249E",
+        "U+249E",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-249f-1396": {
+      "id": "symbol-249f-1396",
+      "value": "⒟",
+      "name": "带括号小写字母 D",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 D",
+        "字母",
+        "Parenthesized Latin Small Letter D",
+        "Enclosed Alphanumerics",
+        "249F",
+        "U+249F",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a0-1397": {
+      "id": "symbol-24a0-1397",
+      "value": "⒠",
+      "name": "带括号小写字母 E",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 E",
+        "字母",
+        "Parenthesized Latin Small Letter E",
+        "Enclosed Alphanumerics",
+        "24A0",
+        "U+24A0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a1-1398": {
+      "id": "symbol-24a1-1398",
+      "value": "⒡",
+      "name": "带括号小写字母 F",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 F",
+        "字母",
+        "Parenthesized Latin Small Letter F",
+        "Enclosed Alphanumerics",
+        "24A1",
+        "U+24A1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a2-1399": {
+      "id": "symbol-24a2-1399",
+      "value": "⒢",
+      "name": "带括号小写字母 G",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 G",
+        "字母",
+        "Parenthesized Latin Small Letter G",
+        "Enclosed Alphanumerics",
+        "24A2",
+        "U+24A2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a3-1400": {
+      "id": "symbol-24a3-1400",
+      "value": "⒣",
+      "name": "带括号小写字母 H",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 H",
+        "字母",
+        "Parenthesized Latin Small Letter H",
+        "Enclosed Alphanumerics",
+        "24A3",
+        "U+24A3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a4-1401": {
+      "id": "symbol-24a4-1401",
+      "value": "⒤",
+      "name": "带括号小写字母 I",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 I",
+        "字母",
+        "Parenthesized Latin Small Letter I",
+        "Enclosed Alphanumerics",
+        "24A4",
+        "U+24A4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a5-1402": {
+      "id": "symbol-24a5-1402",
+      "value": "⒥",
+      "name": "带括号小写字母 J",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 J",
+        "字母",
+        "Parenthesized Latin Small Letter J",
+        "Enclosed Alphanumerics",
+        "24A5",
+        "U+24A5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a6-1403": {
+      "id": "symbol-24a6-1403",
+      "value": "⒦",
+      "name": "带括号小写字母 K",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 K",
+        "字母",
+        "Parenthesized Latin Small Letter K",
+        "Enclosed Alphanumerics",
+        "24A6",
+        "U+24A6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a7-1404": {
+      "id": "symbol-24a7-1404",
+      "value": "⒧",
+      "name": "带括号小写字母 L",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 L",
+        "字母",
+        "Parenthesized Latin Small Letter L",
+        "Enclosed Alphanumerics",
+        "24A7",
+        "U+24A7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a8-1405": {
+      "id": "symbol-24a8-1405",
+      "value": "⒨",
+      "name": "带括号小写字母 M",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 M",
+        "字母",
+        "Parenthesized Latin Small Letter M",
+        "Enclosed Alphanumerics",
+        "24A8",
+        "U+24A8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24a9-1406": {
+      "id": "symbol-24a9-1406",
+      "value": "⒩",
+      "name": "带括号小写字母 N",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 N",
+        "字母",
+        "Parenthesized Latin Small Letter N",
+        "Enclosed Alphanumerics",
+        "24A9",
+        "U+24A9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24aa-1407": {
+      "id": "symbol-24aa-1407",
+      "value": "⒪",
+      "name": "带括号小写字母 O",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 O",
+        "字母",
+        "Parenthesized Latin Small Letter O",
+        "Enclosed Alphanumerics",
+        "24AA",
+        "U+24AA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24ab-1408": {
+      "id": "symbol-24ab-1408",
+      "value": "⒫",
+      "name": "带括号小写字母 P",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 P",
+        "字母",
+        "Parenthesized Latin Small Letter P",
+        "Enclosed Alphanumerics",
+        "24AB",
+        "U+24AB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24ac-1409": {
+      "id": "symbol-24ac-1409",
+      "value": "⒬",
+      "name": "带括号小写字母 Q",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 Q",
+        "字母",
+        "Parenthesized Latin Small Letter Q",
+        "Enclosed Alphanumerics",
+        "24AC",
+        "U+24AC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24ad-1410": {
+      "id": "symbol-24ad-1410",
+      "value": "⒭",
+      "name": "带括号小写字母 R",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 R",
+        "字母",
+        "Parenthesized Latin Small Letter R",
+        "Enclosed Alphanumerics",
+        "24AD",
+        "U+24AD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24ae-1411": {
+      "id": "symbol-24ae-1411",
+      "value": "⒮",
+      "name": "带括号小写字母 S",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 S",
+        "字母",
+        "Parenthesized Latin Small Letter S",
+        "Enclosed Alphanumerics",
+        "24AE",
+        "U+24AE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24af-1412": {
+      "id": "symbol-24af-1412",
+      "value": "⒯",
+      "name": "带括号小写字母 T",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 T",
+        "字母",
+        "Parenthesized Latin Small Letter T",
+        "Enclosed Alphanumerics",
+        "24AF",
+        "U+24AF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24b0-1413": {
+      "id": "symbol-24b0-1413",
+      "value": "⒰",
+      "name": "带括号小写字母 U",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 U",
+        "字母",
+        "Parenthesized Latin Small Letter U",
+        "Enclosed Alphanumerics",
+        "24B0",
+        "U+24B0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24b1-1414": {
+      "id": "symbol-24b1-1414",
+      "value": "⒱",
+      "name": "带括号小写字母 V",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 V",
+        "字母",
+        "Parenthesized Latin Small Letter V",
+        "Enclosed Alphanumerics",
+        "24B1",
+        "U+24B1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24b2-1415": {
+      "id": "symbol-24b2-1415",
+      "value": "⒲",
+      "name": "带括号小写字母 W",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 W",
+        "字母",
+        "Parenthesized Latin Small Letter W",
+        "Enclosed Alphanumerics",
+        "24B2",
+        "U+24B2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24b3-1416": {
+      "id": "symbol-24b3-1416",
+      "value": "⒳",
+      "name": "带括号小写字母 X",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 X",
+        "字母",
+        "Parenthesized Latin Small Letter X",
+        "Enclosed Alphanumerics",
+        "24B3",
+        "U+24B3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24b4-1417": {
+      "id": "symbol-24b4-1417",
+      "value": "⒴",
+      "name": "带括号小写字母 Y",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 Y",
+        "字母",
+        "Parenthesized Latin Small Letter Y",
+        "Enclosed Alphanumerics",
+        "24B4",
+        "U+24B4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24b5-1418": {
+      "id": "symbol-24b5-1418",
+      "value": "⒵",
+      "name": "带括号小写字母 Z",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号小写字母 Z",
+        "字母",
+        "Parenthesized Latin Small Letter Z",
+        "Enclosed Alphanumerics",
+        "24B5",
+        "U+24B5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-24b6-1419": {
+      "id": "symbol-24b6-1419",
+      "value": "Ⓐ",
+      "name": "带圈大写字母 A",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 A",
+        "字母",
+        "Circled Latin Capital Letter A",
+        "Enclosed Alphanumerics",
+        "24B6",
+        "U+24B6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24b7-1420": {
+      "id": "symbol-24b7-1420",
+      "value": "Ⓑ",
+      "name": "带圈大写字母 B",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 B",
+        "字母",
+        "Circled Latin Capital Letter B",
+        "Enclosed Alphanumerics",
+        "24B7",
+        "U+24B7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24b8-1421": {
+      "id": "symbol-24b8-1421",
+      "value": "Ⓒ",
+      "name": "带圈大写字母 C",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 C",
+        "字母",
+        "Circled Latin Capital Letter C",
+        "Enclosed Alphanumerics",
+        "24B8",
+        "U+24B8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24b9-1422": {
+      "id": "symbol-24b9-1422",
+      "value": "Ⓓ",
+      "name": "带圈大写字母 D",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 D",
+        "字母",
+        "Circled Latin Capital Letter D",
+        "Enclosed Alphanumerics",
+        "24B9",
+        "U+24B9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24ba-1423": {
+      "id": "symbol-24ba-1423",
+      "value": "Ⓔ",
+      "name": "带圈大写字母 E",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 E",
+        "字母",
+        "Circled Latin Capital Letter E",
+        "Enclosed Alphanumerics",
+        "24BA",
+        "U+24BA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24bb-1424": {
+      "id": "symbol-24bb-1424",
+      "value": "Ⓕ",
+      "name": "带圈大写字母 F",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 F",
+        "字母",
+        "Circled Latin Capital Letter F",
+        "Enclosed Alphanumerics",
+        "24BB",
+        "U+24BB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24bc-1425": {
+      "id": "symbol-24bc-1425",
+      "value": "Ⓖ",
+      "name": "带圈大写字母 G",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 G",
+        "字母",
+        "Circled Latin Capital Letter G",
+        "Enclosed Alphanumerics",
+        "24BC",
+        "U+24BC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24bd-1426": {
+      "id": "symbol-24bd-1426",
+      "value": "Ⓗ",
+      "name": "带圈大写字母 H",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 H",
+        "字母",
+        "Circled Latin Capital Letter H",
+        "Enclosed Alphanumerics",
+        "24BD",
+        "U+24BD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24be-1427": {
+      "id": "symbol-24be-1427",
+      "value": "Ⓘ",
+      "name": "带圈大写字母 I",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 I",
+        "字母",
+        "Circled Latin Capital Letter I",
+        "Enclosed Alphanumerics",
+        "24BE",
+        "U+24BE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24bf-1428": {
+      "id": "symbol-24bf-1428",
+      "value": "Ⓙ",
+      "name": "带圈大写字母 J",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 J",
+        "字母",
+        "Circled Latin Capital Letter J",
+        "Enclosed Alphanumerics",
+        "24BF",
+        "U+24BF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c0-1429": {
+      "id": "symbol-24c0-1429",
+      "value": "Ⓚ",
+      "name": "带圈大写字母 K",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 K",
+        "字母",
+        "Circled Latin Capital Letter K",
+        "Enclosed Alphanumerics",
+        "24C0",
+        "U+24C0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c1-1430": {
+      "id": "symbol-24c1-1430",
+      "value": "Ⓛ",
+      "name": "带圈大写字母 L",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 L",
+        "字母",
+        "Circled Latin Capital Letter L",
+        "Enclosed Alphanumerics",
+        "24C1",
+        "U+24C1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c2-1431": {
+      "id": "symbol-24c2-1431",
+      "value": "Ⓜ",
+      "name": "带圈字母 M",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈字母 M",
+        "字母",
+        "Circled M",
+        "Enclosed Alphanumerics",
+        "24C2",
+        "U+24C2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c3-1432": {
+      "id": "symbol-24c3-1432",
+      "value": "Ⓝ",
+      "name": "带圈大写字母 N",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 N",
+        "字母",
+        "Circled Latin Capital Letter N",
+        "Enclosed Alphanumerics",
+        "24C3",
+        "U+24C3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c4-1433": {
+      "id": "symbol-24c4-1433",
+      "value": "Ⓞ",
+      "name": "带圈大写字母 O",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 O",
+        "字母",
+        "Circled Latin Capital Letter O",
+        "Enclosed Alphanumerics",
+        "24C4",
+        "U+24C4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c5-1434": {
+      "id": "symbol-24c5-1434",
+      "value": "Ⓟ",
+      "name": "带圈大写字母 P",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 P",
+        "字母",
+        "Circled Latin Capital Letter P",
+        "Enclosed Alphanumerics",
+        "24C5",
+        "U+24C5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c6-1435": {
+      "id": "symbol-24c6-1435",
+      "value": "Ⓠ",
+      "name": "带圈大写字母 Q",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 Q",
+        "字母",
+        "Circled Latin Capital Letter Q",
+        "Enclosed Alphanumerics",
+        "24C6",
+        "U+24C6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c7-1436": {
+      "id": "symbol-24c7-1436",
+      "value": "Ⓡ",
+      "name": "带圈大写字母 R",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 R",
+        "字母",
+        "Circled Latin Capital Letter R",
+        "Enclosed Alphanumerics",
+        "24C7",
+        "U+24C7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c8-1437": {
+      "id": "symbol-24c8-1437",
+      "value": "Ⓢ",
+      "name": "带圈大写字母 S",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 S",
+        "字母",
+        "Circled Latin Capital Letter S",
+        "Enclosed Alphanumerics",
+        "24C8",
+        "U+24C8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24c9-1438": {
+      "id": "symbol-24c9-1438",
+      "value": "Ⓣ",
+      "name": "带圈大写字母 T",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 T",
+        "字母",
+        "Circled Latin Capital Letter T",
+        "Enclosed Alphanumerics",
+        "24C9",
+        "U+24C9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24ca-1439": {
+      "id": "symbol-24ca-1439",
+      "value": "Ⓤ",
+      "name": "带圈大写字母 U",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 U",
+        "字母",
+        "Circled Latin Capital Letter U",
+        "Enclosed Alphanumerics",
+        "24CA",
+        "U+24CA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24cb-1440": {
+      "id": "symbol-24cb-1440",
+      "value": "Ⓥ",
+      "name": "带圈大写字母 V",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 V",
+        "字母",
+        "Circled Latin Capital Letter V",
+        "Enclosed Alphanumerics",
+        "24CB",
+        "U+24CB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24cc-1441": {
+      "id": "symbol-24cc-1441",
+      "value": "Ⓦ",
+      "name": "带圈大写字母 W",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 W",
+        "字母",
+        "Circled Latin Capital Letter W",
+        "Enclosed Alphanumerics",
+        "24CC",
+        "U+24CC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24cd-1442": {
+      "id": "symbol-24cd-1442",
+      "value": "Ⓧ",
+      "name": "带圈大写字母 X",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 X",
+        "字母",
+        "Circled Latin Capital Letter X",
+        "Enclosed Alphanumerics",
+        "24CD",
+        "U+24CD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24ce-1443": {
+      "id": "symbol-24ce-1443",
+      "value": "Ⓨ",
+      "name": "带圈大写字母 Y",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 Y",
+        "字母",
+        "Circled Latin Capital Letter Y",
+        "Enclosed Alphanumerics",
+        "24CE",
+        "U+24CE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24cf-1444": {
+      "id": "symbol-24cf-1444",
+      "value": "Ⓩ",
+      "name": "带圈大写字母 Z",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈大写字母 Z",
+        "字母",
+        "Circled Latin Capital Letter Z",
+        "Enclosed Alphanumerics",
+        "24CF",
+        "U+24CF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d0-1445": {
+      "id": "symbol-24d0-1445",
+      "value": "ⓐ",
+      "name": "带圈小写字母 A",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 A",
+        "字母",
+        "Circled Latin Small Letter A",
+        "Enclosed Alphanumerics",
+        "24D0",
+        "U+24D0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d1-1446": {
+      "id": "symbol-24d1-1446",
+      "value": "ⓑ",
+      "name": "带圈小写字母 B",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 B",
+        "字母",
+        "Circled Latin Small Letter B",
+        "Enclosed Alphanumerics",
+        "24D1",
+        "U+24D1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d2-1447": {
+      "id": "symbol-24d2-1447",
+      "value": "ⓒ",
+      "name": "带圈小写字母 C",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 C",
+        "字母",
+        "Circled Latin Small Letter C",
+        "Enclosed Alphanumerics",
+        "24D2",
+        "U+24D2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d3-1448": {
+      "id": "symbol-24d3-1448",
+      "value": "ⓓ",
+      "name": "带圈小写字母 D",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 D",
+        "字母",
+        "Circled Latin Small Letter D",
+        "Enclosed Alphanumerics",
+        "24D3",
+        "U+24D3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d4-1449": {
+      "id": "symbol-24d4-1449",
+      "value": "ⓔ",
+      "name": "带圈小写字母 E",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 E",
+        "字母",
+        "Circled Latin Small Letter E",
+        "Enclosed Alphanumerics",
+        "24D4",
+        "U+24D4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d5-1450": {
+      "id": "symbol-24d5-1450",
+      "value": "ⓕ",
+      "name": "带圈小写字母 F",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 F",
+        "字母",
+        "Circled Latin Small Letter F",
+        "Enclosed Alphanumerics",
+        "24D5",
+        "U+24D5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d6-1451": {
+      "id": "symbol-24d6-1451",
+      "value": "ⓖ",
+      "name": "带圈小写字母 G",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 G",
+        "字母",
+        "Circled Latin Small Letter G",
+        "Enclosed Alphanumerics",
+        "24D6",
+        "U+24D6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d7-1452": {
+      "id": "symbol-24d7-1452",
+      "value": "ⓗ",
+      "name": "带圈小写字母 H",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 H",
+        "字母",
+        "Circled Latin Small Letter H",
+        "Enclosed Alphanumerics",
+        "24D7",
+        "U+24D7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d8-1453": {
+      "id": "symbol-24d8-1453",
+      "value": "ⓘ",
+      "name": "带圈小写字母 I",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 I",
+        "字母",
+        "Circled Latin Small Letter I",
+        "Enclosed Alphanumerics",
+        "24D8",
+        "U+24D8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24d9-1454": {
+      "id": "symbol-24d9-1454",
+      "value": "ⓙ",
+      "name": "带圈小写字母 J",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 J",
+        "字母",
+        "Circled Latin Small Letter J",
+        "Enclosed Alphanumerics",
+        "24D9",
+        "U+24D9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24da-1455": {
+      "id": "symbol-24da-1455",
+      "value": "ⓚ",
+      "name": "带圈小写字母 K",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 K",
+        "字母",
+        "Circled Latin Small Letter K",
+        "Enclosed Alphanumerics",
+        "24DA",
+        "U+24DA",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24db-1456": {
+      "id": "symbol-24db-1456",
+      "value": "ⓛ",
+      "name": "带圈小写字母 L",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 L",
+        "字母",
+        "Circled Latin Small Letter L",
+        "Enclosed Alphanumerics",
+        "24DB",
+        "U+24DB",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24dc-1457": {
+      "id": "symbol-24dc-1457",
+      "value": "ⓜ",
+      "name": "带圈小写字母 M",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 M",
+        "字母",
+        "Circled Latin Small Letter M",
+        "Enclosed Alphanumerics",
+        "24DC",
+        "U+24DC",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24dd-1458": {
+      "id": "symbol-24dd-1458",
+      "value": "ⓝ",
+      "name": "带圈小写字母 N",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 N",
+        "字母",
+        "Circled Latin Small Letter N",
+        "Enclosed Alphanumerics",
+        "24DD",
+        "U+24DD",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24de-1459": {
+      "id": "symbol-24de-1459",
+      "value": "ⓞ",
+      "name": "带圈小写字母 O",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 O",
+        "字母",
+        "Circled Latin Small Letter O",
+        "Enclosed Alphanumerics",
+        "24DE",
+        "U+24DE",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24df-1460": {
+      "id": "symbol-24df-1460",
+      "value": "ⓟ",
+      "name": "带圈小写字母 P",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 P",
+        "字母",
+        "Circled Latin Small Letter P",
+        "Enclosed Alphanumerics",
+        "24DF",
+        "U+24DF",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e0-1461": {
+      "id": "symbol-24e0-1461",
+      "value": "ⓠ",
+      "name": "带圈小写字母 Q",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 Q",
+        "字母",
+        "Circled Latin Small Letter Q",
+        "Enclosed Alphanumerics",
+        "24E0",
+        "U+24E0",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e1-1462": {
+      "id": "symbol-24e1-1462",
+      "value": "ⓡ",
+      "name": "带圈小写字母 R",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 R",
+        "字母",
+        "Circled Latin Small Letter R",
+        "Enclosed Alphanumerics",
+        "24E1",
+        "U+24E1",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e2-1463": {
+      "id": "symbol-24e2-1463",
+      "value": "ⓢ",
+      "name": "带圈小写字母 S",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 S",
+        "字母",
+        "Circled Latin Small Letter S",
+        "Enclosed Alphanumerics",
+        "24E2",
+        "U+24E2",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e3-1464": {
+      "id": "symbol-24e3-1464",
+      "value": "ⓣ",
+      "name": "带圈小写字母 T",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 T",
+        "字母",
+        "Circled Latin Small Letter T",
+        "Enclosed Alphanumerics",
+        "24E3",
+        "U+24E3",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e4-1465": {
+      "id": "symbol-24e4-1465",
+      "value": "ⓤ",
+      "name": "带圈小写字母 U",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 U",
+        "字母",
+        "Circled Latin Small Letter U",
+        "Enclosed Alphanumerics",
+        "24E4",
+        "U+24E4",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e5-1466": {
+      "id": "symbol-24e5-1466",
+      "value": "ⓥ",
+      "name": "带圈小写字母 V",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 V",
+        "字母",
+        "Circled Latin Small Letter V",
+        "Enclosed Alphanumerics",
+        "24E5",
+        "U+24E5",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e6-1467": {
+      "id": "symbol-24e6-1467",
+      "value": "ⓦ",
+      "name": "带圈小写字母 W",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 W",
+        "字母",
+        "Circled Latin Small Letter W",
+        "Enclosed Alphanumerics",
+        "24E6",
+        "U+24E6",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e7-1468": {
+      "id": "symbol-24e7-1468",
+      "value": "ⓧ",
+      "name": "带圈小写字母 X",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 X",
+        "字母",
+        "Circled Latin Small Letter X",
+        "Enclosed Alphanumerics",
+        "24E7",
+        "U+24E7",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e8-1469": {
+      "id": "symbol-24e8-1469",
+      "value": "ⓨ",
+      "name": "带圈小写字母 Y",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 Y",
+        "字母",
+        "Circled Latin Small Letter Y",
+        "Enclosed Alphanumerics",
+        "24E8",
+        "U+24E8",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24e9-1470": {
+      "id": "symbol-24e9-1470",
+      "value": "ⓩ",
+      "name": "带圈小写字母 Z",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈小写字母 Z",
+        "字母",
+        "Circled Latin Small Letter Z",
+        "Enclosed Alphanumerics",
+        "24E9",
+        "U+24E9",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24ea-1471": {
+      "id": "symbol-24ea-1471",
+      "value": "⓪",
+      "name": "带圈数字零",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈数字零",
+        "数字",
+        "Circled Digit Zero",
+        "Enclosed Alphanumerics",
+        "24EA",
+        "U+24EA",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-24eb-1472": {
+      "id": "symbol-24eb-1472",
+      "value": "⓫",
+      "name": "反白带圈数字十一",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十一",
+        "数字",
+        "Negative Circled Number Eleven",
+        "Enclosed Alphanumerics",
+        "24EB",
+        "U+24EB",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24ec-1473": {
+      "id": "symbol-24ec-1473",
+      "value": "⓬",
+      "name": "反白带圈数字十二",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十二",
+        "数字",
+        "Negative Circled Number Twelve",
+        "Enclosed Alphanumerics",
+        "24EC",
+        "U+24EC",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24ed-1474": {
+      "id": "symbol-24ed-1474",
+      "value": "⓭",
+      "name": "反白带圈数字十三",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十三",
+        "数字",
+        "Negative Circled Number Thirteen",
+        "Enclosed Alphanumerics",
+        "24ED",
+        "U+24ED",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24ee-1475": {
+      "id": "symbol-24ee-1475",
+      "value": "⓮",
+      "name": "反白带圈数字十四",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十四",
+        "数字",
+        "Negative Circled Number Fourteen",
+        "Enclosed Alphanumerics",
+        "24EE",
+        "U+24EE",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24ef-1476": {
+      "id": "symbol-24ef-1476",
+      "value": "⓯",
+      "name": "反白带圈数字十五",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十五",
+        "数字",
+        "Negative Circled Number Fifteen",
+        "Enclosed Alphanumerics",
+        "24EF",
+        "U+24EF",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24f0-1477": {
+      "id": "symbol-24f0-1477",
+      "value": "⓰",
+      "name": "反白带圈数字十六",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十六",
+        "数字",
+        "Negative Circled Number Sixteen",
+        "Enclosed Alphanumerics",
+        "24F0",
+        "U+24F0",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24f1-1478": {
+      "id": "symbol-24f1-1478",
+      "value": "⓱",
+      "name": "反白带圈数字十七",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十七",
+        "数字",
+        "Negative Circled Number Seventeen",
+        "Enclosed Alphanumerics",
+        "24F1",
+        "U+24F1",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24f2-1479": {
+      "id": "symbol-24f2-1479",
+      "value": "⓲",
+      "name": "反白带圈数字十八",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十八",
+        "数字",
+        "Negative Circled Number Eighteen",
+        "Enclosed Alphanumerics",
+        "24F2",
+        "U+24F2",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24f3-1480": {
+      "id": "symbol-24f3-1480",
+      "value": "⓳",
+      "name": "反白带圈数字十九",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字十九",
+        "数字",
+        "Negative Circled Number Nineteen",
+        "Enclosed Alphanumerics",
+        "24F3",
+        "U+24F3",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24f4-1481": {
+      "id": "symbol-24f4-1481",
+      "value": "⓴",
+      "name": "反白带圈数字二十",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字二十",
+        "数字",
+        "Negative Circled Number Twenty",
+        "Enclosed Alphanumerics",
+        "24F4",
+        "U+24F4",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-24f5-1482": {
+      "id": "symbol-24f5-1482",
+      "value": "⓵",
+      "name": "双圈数字一",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字一",
+        "数字",
+        "Double Circled Digit One",
+        "Enclosed Alphanumerics",
+        "24F5",
+        "U+24F5",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24f6-1483": {
+      "id": "symbol-24f6-1483",
+      "value": "⓶",
+      "name": "双圈数字二",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字二",
+        "数字",
+        "Double Circled Digit Two",
+        "Enclosed Alphanumerics",
+        "24F6",
+        "U+24F6",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24f7-1484": {
+      "id": "symbol-24f7-1484",
+      "value": "⓷",
+      "name": "双圈数字三",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字三",
+        "数字",
+        "Double Circled Digit Three",
+        "Enclosed Alphanumerics",
+        "24F7",
+        "U+24F7",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24f8-1485": {
+      "id": "symbol-24f8-1485",
+      "value": "⓸",
+      "name": "双圈数字四",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字四",
+        "数字",
+        "Double Circled Digit Four",
+        "Enclosed Alphanumerics",
+        "24F8",
+        "U+24F8",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24f9-1486": {
+      "id": "symbol-24f9-1486",
+      "value": "⓹",
+      "name": "双圈数字五",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字五",
+        "数字",
+        "Double Circled Digit Five",
+        "Enclosed Alphanumerics",
+        "24F9",
+        "U+24F9",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24fa-1487": {
+      "id": "symbol-24fa-1487",
+      "value": "⓺",
+      "name": "双圈数字六",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字六",
+        "数字",
+        "Double Circled Digit Six",
+        "Enclosed Alphanumerics",
+        "24FA",
+        "U+24FA",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24fb-1488": {
+      "id": "symbol-24fb-1488",
+      "value": "⓻",
+      "name": "双圈数字七",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字七",
+        "数字",
+        "Double Circled Digit Seven",
+        "Enclosed Alphanumerics",
+        "24FB",
+        "U+24FB",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24fc-1489": {
+      "id": "symbol-24fc-1489",
+      "value": "⓼",
+      "name": "双圈数字八",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字八",
+        "数字",
+        "Double Circled Digit Eight",
+        "Enclosed Alphanumerics",
+        "24FC",
+        "U+24FC",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24fd-1490": {
+      "id": "symbol-24fd-1490",
+      "value": "⓽",
+      "name": "双圈数字九",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字九",
+        "数字",
+        "Double Circled Digit Nine",
+        "Enclosed Alphanumerics",
+        "24FD",
+        "U+24FD",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24fe-1491": {
+      "id": "symbol-24fe-1491",
+      "value": "⓾",
+      "name": "双圈数字十",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "双圈数字十",
+        "数字",
+        "Double Circled Number Ten",
+        "Enclosed Alphanumerics",
+        "24FE",
+        "U+24FE",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "双圈"
+      ]
+    },
+    "symbol-24ff-1492": {
+      "id": "symbol-24ff-1492",
+      "value": "⓿",
+      "name": "反白带圈数字零",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "反白带圈数字零",
+        "数字",
+        "Negative Circled Digit Zero",
+        "Enclosed Alphanumerics",
+        "24FF",
+        "U+24FF",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-1f100-1493": {
+      "id": "symbol-1f100-1493",
+      "value": "🄀",
+      "name": "数字零加句点",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字零加句点",
+        "数字",
+        "Digit Zero Full Stop",
+        "Enclosed Alphanumeric Supplement",
+        "1F100",
+        "U+1F100",
+        "编号",
+        "序号",
+        "列表编号",
+        "加句点"
+      ]
+    },
+    "symbol-1f101-1494": {
+      "id": "symbol-1f101-1494",
+      "value": "🄁",
+      "name": "数字零加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字零加逗号",
+        "数字",
+        "Digit Zero Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F101",
+        "U+1F101",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f102-1495": {
+      "id": "symbol-1f102-1495",
+      "value": "🄂",
+      "name": "数字一加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字一加逗号",
+        "数字",
+        "Digit One Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F102",
+        "U+1F102",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f103-1496": {
+      "id": "symbol-1f103-1496",
+      "value": "🄃",
+      "name": "数字二加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字二加逗号",
+        "数字",
+        "Digit Two Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F103",
+        "U+1F103",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f104-1497": {
+      "id": "symbol-1f104-1497",
+      "value": "🄄",
+      "name": "数字三加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字三加逗号",
+        "数字",
+        "Digit Three Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F104",
+        "U+1F104",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f105-1498": {
+      "id": "symbol-1f105-1498",
+      "value": "🄅",
+      "name": "数字四加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字四加逗号",
+        "数字",
+        "Digit Four Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F105",
+        "U+1F105",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f106-1499": {
+      "id": "symbol-1f106-1499",
+      "value": "🄆",
+      "name": "数字五加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字五加逗号",
+        "数字",
+        "Digit Five Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F106",
+        "U+1F106",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f107-1500": {
+      "id": "symbol-1f107-1500",
+      "value": "🄇",
+      "name": "数字六加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字六加逗号",
+        "数字",
+        "Digit Six Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F107",
+        "U+1F107",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f108-1501": {
+      "id": "symbol-1f108-1501",
+      "value": "🄈",
+      "name": "数字七加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字七加逗号",
+        "数字",
+        "Digit Seven Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F108",
+        "U+1F108",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f109-1502": {
+      "id": "symbol-1f109-1502",
+      "value": "🄉",
+      "name": "数字八加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字八加逗号",
+        "数字",
+        "Digit Eight Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F109",
+        "U+1F109",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f10a-1503": {
+      "id": "symbol-1f10a-1503",
+      "value": "🄊",
+      "name": "数字九加逗号",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "数字九加逗号",
+        "数字",
+        "Digit Nine Comma",
+        "Enclosed Alphanumeric Supplement",
+        "1F10A",
+        "U+1F10A",
+        "编号",
+        "序号",
+        "列表编号",
+        "加逗号"
+      ]
+    },
+    "symbol-1f10b-1504": {
+      "id": "symbol-1f10b-1504",
+      "value": "🄋",
+      "name": "装饰无衬线带圈数字零",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "装饰无衬线带圈数字零",
+        "数字",
+        "Dingbat Circled Sans-Serif Digit Zero",
+        "Enclosed Alphanumeric Supplement",
+        "1F10B",
+        "U+1F10B",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-1f10c-1505": {
+      "id": "symbol-1f10c-1505",
+      "value": "🄌",
+      "name": "装饰无衬线反白带圈数字零",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "装饰无衬线反白带圈数字零",
+        "数字",
+        "Dingbat Negative Circled Sans-Serif Digit Zero",
+        "Enclosed Alphanumeric Supplement",
+        "1F10C",
+        "U+1F10C",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号",
+        "反白带圈"
+      ]
+    },
+    "symbol-1f10d-1506": {
+      "id": "symbol-1f10d-1506",
+      "value": "🄍",
+      "name": "带圈斜杠零",
+      "categories": [
+        "数字"
+      ],
+      "primaryCategory": "数字",
+      "files": [
+        "symbols/by-category/数字.json"
+      ],
+      "searchTerms": [
+        "带圈斜杠零",
+        "数字",
+        "Circled Zero With Slash",
+        "Enclosed Alphanumeric Supplement",
+        "1F10D",
+        "U+1F10D",
+        "编号",
+        "序号",
+        "列表编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-1f10e-1507": {
+      "id": "symbol-1f10e-1507",
+      "value": "🄎",
+      "name": "带圈逆时针箭头",
+      "categories": [
+        "其他"
+      ],
+      "primaryCategory": "其他",
+      "files": [
+        "symbols/by-category/其他.json"
+      ],
+      "searchTerms": [
+        "带圈逆时针箭头",
+        "其他",
+        "Circled Anticlockwise Arrow",
+        "Enclosed Alphanumeric Supplement",
+        "1F10E",
+        "U+1F10E",
+        "带圈",
+        "圈号",
+        "箭头",
+        "逆时针"
+      ]
+    },
+    "symbol-1f10f-1508": {
+      "id": "symbol-1f10f-1508",
+      "value": "🄏",
+      "name": "带圈删除线美元符号",
+      "categories": [
+        "货币"
+      ],
+      "primaryCategory": "货币",
+      "files": [
+        "symbols/by-category/货币.json"
+      ],
+      "searchTerms": [
+        "带圈删除线美元符号",
+        "货币",
+        "Circled Dollar Sign With Overlaid Backslash",
+        "Enclosed Alphanumeric Supplement",
+        "1F10F",
+        "U+1F10F",
+        "带圈",
+        "圈号",
+        "美元",
+        "货币符号"
+      ]
+    },
+    "symbol-1f110-1509": {
+      "id": "symbol-1f110-1509",
+      "value": "🄐",
+      "name": "带括号大写字母 A",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 A",
+        "字母",
+        "Parenthesized Latin Capital Letter A",
+        "Enclosed Alphanumeric Supplement",
+        "1F110",
+        "U+1F110",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f111-1510": {
+      "id": "symbol-1f111-1510",
+      "value": "🄑",
+      "name": "带括号大写字母 B",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 B",
+        "字母",
+        "Parenthesized Latin Capital Letter B",
+        "Enclosed Alphanumeric Supplement",
+        "1F111",
+        "U+1F111",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f112-1511": {
+      "id": "symbol-1f112-1511",
+      "value": "🄒",
+      "name": "带括号大写字母 C",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 C",
+        "字母",
+        "Parenthesized Latin Capital Letter C",
+        "Enclosed Alphanumeric Supplement",
+        "1F112",
+        "U+1F112",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f113-1512": {
+      "id": "symbol-1f113-1512",
+      "value": "🄓",
+      "name": "带括号大写字母 D",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 D",
+        "字母",
+        "Parenthesized Latin Capital Letter D",
+        "Enclosed Alphanumeric Supplement",
+        "1F113",
+        "U+1F113",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f114-1513": {
+      "id": "symbol-1f114-1513",
+      "value": "🄔",
+      "name": "带括号大写字母 E",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 E",
+        "字母",
+        "Parenthesized Latin Capital Letter E",
+        "Enclosed Alphanumeric Supplement",
+        "1F114",
+        "U+1F114",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f115-1514": {
+      "id": "symbol-1f115-1514",
+      "value": "🄕",
+      "name": "带括号大写字母 F",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 F",
+        "字母",
+        "Parenthesized Latin Capital Letter F",
+        "Enclosed Alphanumeric Supplement",
+        "1F115",
+        "U+1F115",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f116-1515": {
+      "id": "symbol-1f116-1515",
+      "value": "🄖",
+      "name": "带括号大写字母 G",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 G",
+        "字母",
+        "Parenthesized Latin Capital Letter G",
+        "Enclosed Alphanumeric Supplement",
+        "1F116",
+        "U+1F116",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f117-1516": {
+      "id": "symbol-1f117-1516",
+      "value": "🄗",
+      "name": "带括号大写字母 H",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 H",
+        "字母",
+        "Parenthesized Latin Capital Letter H",
+        "Enclosed Alphanumeric Supplement",
+        "1F117",
+        "U+1F117",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f118-1517": {
+      "id": "symbol-1f118-1517",
+      "value": "🄘",
+      "name": "带括号大写字母 I",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 I",
+        "字母",
+        "Parenthesized Latin Capital Letter I",
+        "Enclosed Alphanumeric Supplement",
+        "1F118",
+        "U+1F118",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f119-1518": {
+      "id": "symbol-1f119-1518",
+      "value": "🄙",
+      "name": "带括号大写字母 J",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 J",
+        "字母",
+        "Parenthesized Latin Capital Letter J",
+        "Enclosed Alphanumeric Supplement",
+        "1F119",
+        "U+1F119",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f11a-1519": {
+      "id": "symbol-1f11a-1519",
+      "value": "🄚",
+      "name": "带括号大写字母 K",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 K",
+        "字母",
+        "Parenthesized Latin Capital Letter K",
+        "Enclosed Alphanumeric Supplement",
+        "1F11A",
+        "U+1F11A",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f11b-1520": {
+      "id": "symbol-1f11b-1520",
+      "value": "🄛",
+      "name": "带括号大写字母 L",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 L",
+        "字母",
+        "Parenthesized Latin Capital Letter L",
+        "Enclosed Alphanumeric Supplement",
+        "1F11B",
+        "U+1F11B",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f11c-1521": {
+      "id": "symbol-1f11c-1521",
+      "value": "🄜",
+      "name": "带括号大写字母 M",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 M",
+        "字母",
+        "Parenthesized Latin Capital Letter M",
+        "Enclosed Alphanumeric Supplement",
+        "1F11C",
+        "U+1F11C",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f11d-1522": {
+      "id": "symbol-1f11d-1522",
+      "value": "🄝",
+      "name": "带括号大写字母 N",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 N",
+        "字母",
+        "Parenthesized Latin Capital Letter N",
+        "Enclosed Alphanumeric Supplement",
+        "1F11D",
+        "U+1F11D",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f11e-1523": {
+      "id": "symbol-1f11e-1523",
+      "value": "🄞",
+      "name": "带括号大写字母 O",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 O",
+        "字母",
+        "Parenthesized Latin Capital Letter O",
+        "Enclosed Alphanumeric Supplement",
+        "1F11E",
+        "U+1F11E",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f11f-1524": {
+      "id": "symbol-1f11f-1524",
+      "value": "🄟",
+      "name": "带括号大写字母 P",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 P",
+        "字母",
+        "Parenthesized Latin Capital Letter P",
+        "Enclosed Alphanumeric Supplement",
+        "1F11F",
+        "U+1F11F",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f120-1525": {
+      "id": "symbol-1f120-1525",
+      "value": "🄠",
+      "name": "带括号大写字母 Q",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 Q",
+        "字母",
+        "Parenthesized Latin Capital Letter Q",
+        "Enclosed Alphanumeric Supplement",
+        "1F120",
+        "U+1F120",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f121-1526": {
+      "id": "symbol-1f121-1526",
+      "value": "🄡",
+      "name": "带括号大写字母 R",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 R",
+        "字母",
+        "Parenthesized Latin Capital Letter R",
+        "Enclosed Alphanumeric Supplement",
+        "1F121",
+        "U+1F121",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f122-1527": {
+      "id": "symbol-1f122-1527",
+      "value": "🄢",
+      "name": "带括号大写字母 S",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 S",
+        "字母",
+        "Parenthesized Latin Capital Letter S",
+        "Enclosed Alphanumeric Supplement",
+        "1F122",
+        "U+1F122",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f123-1528": {
+      "id": "symbol-1f123-1528",
+      "value": "🄣",
+      "name": "带括号大写字母 T",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 T",
+        "字母",
+        "Parenthesized Latin Capital Letter T",
+        "Enclosed Alphanumeric Supplement",
+        "1F123",
+        "U+1F123",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f124-1529": {
+      "id": "symbol-1f124-1529",
+      "value": "🄤",
+      "name": "带括号大写字母 U",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 U",
+        "字母",
+        "Parenthesized Latin Capital Letter U",
+        "Enclosed Alphanumeric Supplement",
+        "1F124",
+        "U+1F124",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f125-1530": {
+      "id": "symbol-1f125-1530",
+      "value": "🄥",
+      "name": "带括号大写字母 V",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 V",
+        "字母",
+        "Parenthesized Latin Capital Letter V",
+        "Enclosed Alphanumeric Supplement",
+        "1F125",
+        "U+1F125",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f126-1531": {
+      "id": "symbol-1f126-1531",
+      "value": "🄦",
+      "name": "带括号大写字母 W",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 W",
+        "字母",
+        "Parenthesized Latin Capital Letter W",
+        "Enclosed Alphanumeric Supplement",
+        "1F126",
+        "U+1F126",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f127-1532": {
+      "id": "symbol-1f127-1532",
+      "value": "🄧",
+      "name": "带括号大写字母 X",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 X",
+        "字母",
+        "Parenthesized Latin Capital Letter X",
+        "Enclosed Alphanumeric Supplement",
+        "1F127",
+        "U+1F127",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f128-1533": {
+      "id": "symbol-1f128-1533",
+      "value": "🄨",
+      "name": "带括号大写字母 Y",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 Y",
+        "字母",
+        "Parenthesized Latin Capital Letter Y",
+        "Enclosed Alphanumeric Supplement",
+        "1F128",
+        "U+1F128",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f129-1534": {
+      "id": "symbol-1f129-1534",
+      "value": "🄩",
+      "name": "带括号大写字母 Z",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带括号大写字母 Z",
+        "字母",
+        "Parenthesized Latin Capital Letter Z",
+        "Enclosed Alphanumeric Supplement",
+        "1F129",
+        "U+1F129",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带括号",
+        "括号编号"
+      ]
+    },
+    "symbol-1f12a-1535": {
+      "id": "symbol-1f12a-1535",
+      "value": "🄪",
+      "name": "龟甲括号大写字母 S",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "龟甲括号大写字母 S",
+        "字母",
+        "Tortoise Shell Bracketed Latin Capital Letter S",
+        "Enclosed Alphanumeric Supplement",
+        "1F12A",
+        "U+1F12A",
+        "英文字母",
+        "拉丁字母",
+        "字母编号"
+      ]
+    },
+    "symbol-1f12b-1536": {
+      "id": "symbol-1f12b-1536",
+      "value": "🄫",
+      "name": "带圈斜体大写字母 C",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈斜体大写字母 C",
+        "字母",
+        "Circled Italic Latin Capital Letter C",
+        "Enclosed Alphanumeric Supplement",
+        "1F12B",
+        "U+1F12B",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-1f12c-1537": {
+      "id": "symbol-1f12c-1537",
+      "value": "🄬",
+      "name": "带圈斜体大写字母 R",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈斜体大写字母 R",
+        "字母",
+        "Circled Italic Latin Capital Letter R",
+        "Enclosed Alphanumeric Supplement",
+        "1F12C",
+        "U+1F12C",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-1f12d-1538": {
+      "id": "symbol-1f12d-1538",
+      "value": "🄭",
+      "name": "带圈 CD",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈 CD",
+        "字母",
+        "Circled Cd",
+        "Enclosed Alphanumeric Supplement",
+        "1F12D",
+        "U+1F12D",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-1f12e-1539": {
+      "id": "symbol-1f12e-1539",
+      "value": "🄮",
+      "name": "带圈 WZ",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "带圈 WZ",
+        "字母",
+        "Circled Wz",
+        "Enclosed Alphanumeric Supplement",
+        "1F12E",
+        "U+1F12E",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "带圈",
+        "圈号"
+      ]
+    },
+    "symbol-1f12f-1540": {
+      "id": "symbol-1f12f-1540",
+      "value": "🄯",
+      "name": "Copyleft 符号",
+      "categories": [
+        "其他"
+      ],
+      "primaryCategory": "其他",
+      "files": [
+        "symbols/by-category/其他.json"
+      ],
+      "searchTerms": [
+        "Copyleft 符号",
+        "其他",
+        "Copyleft Symbol",
+        "Enclosed Alphanumeric Supplement",
+        "1F12F",
+        "U+1F12F",
+        "copyleft",
+        "版权",
+        "开放版权"
+      ]
+    },
+    "symbol-1f130-1541": {
+      "id": "symbol-1f130-1541",
+      "value": "🄰",
+      "name": "方框大写字母 A",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "方框大写字母 A",
+        "字母",
+        "Squared Latin Capital Letter A",
+        "Enclosed Alphanumeric Supplement",
+        "1F130",
+        "U+1F130",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ]
+    },
+    "symbol-1f131-1542": {
+      "id": "symbol-1f131-1542",
+      "value": "🄱",
+      "name": "方框大写字母 B",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "方框大写字母 B",
+        "字母",
+        "Squared Latin Capital Letter B",
+        "Enclosed Alphanumeric Supplement",
+        "1F131",
+        "U+1F131",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ]
+    },
+    "symbol-1f132-1543": {
+      "id": "symbol-1f132-1543",
+      "value": "🄲",
+      "name": "方框大写字母 C",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "方框大写字母 C",
+        "字母",
+        "Squared Latin Capital Letter C",
+        "Enclosed Alphanumeric Supplement",
+        "1F132",
+        "U+1F132",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ]
+    },
+    "symbol-1f133-1544": {
+      "id": "symbol-1f133-1544",
+      "value": "🄳",
+      "name": "方框大写字母 D",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "方框大写字母 D",
+        "字母",
+        "Squared Latin Capital Letter D",
+        "Enclosed Alphanumeric Supplement",
+        "1F133",
+        "U+1F133",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
+      ]
+    },
+    "symbol-1f134-1545": {
+      "id": "symbol-1f134-1545",
+      "value": "🄴",
+      "name": "方框大写字母 E",
+      "categories": [
+        "字母"
+      ],
+      "primaryCategory": "字母",
+      "files": [
+        "symbols/by-category/字母.json"
+      ],
+      "searchTerms": [
+        "方框大写字母 E",
+        "字母",
+        "Squared Latin Capital Letter E",
+        "Enclosed Alphanumeric Supplement",
+        "1F134",
+        "U+1F134",
+        "英文字母",
+        "拉丁字母",
+        "字母编号",
+        "方框字母",
+        "方框"
       ]
     }
   }

@@ -1,6 +1,6 @@
 {
   "category": "其他",
-  "total": 15,
+  "total": 17,
   "items": [
     {
       "id": "symbol-a9-7",
@@ -267,6 +267,49 @@
         "CJK Symbols and Punctuation"
       ],
       "notes": "〒 是邮政符号，主要用于表示日本的邮政系统或与邮政相关的内容。\n\n该符号最常见于日本，用于表示地址栏中的邮政编码或邮政服务。它起源于日本的邮政管理，常见于邮政相关文档、邮寄标签和邮递服务标志中。\n\n〒 符号还可以在其他地方用于象征与邮件、通信和邮政系统相关的事务。\n\n这个符号特别与日本的邮政业务紧密相关，成为其标志之一。"
+    },
+    {
+      "id": "symbol-1f10e-1507",
+      "symbol": "🄎",
+      "name": "带圈逆时针箭头",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "带圈逆时针箭头",
+        "其他",
+        "Circled Anticlockwise Arrow",
+        "Enclosed Alphanumeric Supplement",
+        "1F10E",
+        "U+1F10E",
+        "带圈",
+        "圈号",
+        "箭头",
+        "逆时针"
+      ],
+      "notes": "🄎 是带圈逆时针箭头，Unicode 编码为 U+1F10E，可用于流程、方向或循环含义的图形化标注。"
+    },
+    {
+      "id": "symbol-1f12f-1540",
+      "symbol": "🄯",
+      "name": "Copyleft 符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "Copyleft 符号",
+        "其他",
+        "Copyleft Symbol",
+        "Enclosed Alphanumeric Supplement",
+        "1F12F",
+        "U+1F12F",
+        "copyleft",
+        "版权",
+        "开放版权"
+      ],
+      "notes": "🄯 是 Copyleft 符号，Unicode 编码为 U+1F12F，用于表示 Copyleft 或开放授权相关语境。"
     }
   ]
 }
