@@ -19,24 +19,35 @@ let _symbolsCache: SymbolDataResponse | null = null;
 let _emojiCache: SymbolDataResponse | null = null;
 let _manifestCache: DataManifest | null = null;
 
-interface DataManifest {
+export interface DataManifest {
+  generatedAt?: string;
   datasets?: {
-    symbols?: { version?: unknown };
-    emojis?: { version?: unknown };
+    symbols?: DataManifestDataset;
+    emojis?: DataManifestDataset;
   };
   outputs?: {
     symbols?: {
       items?: string;
-      byCategory?: CategoryShardManifest[];
+      byCategory?: DataManifestCategory[];
     };
     emojis?: {
       items?: string;
-      byCategory?: CategoryShardManifest[];
+      byCategory?: DataManifestCategory[];
     };
   };
 }
 
-interface CategoryShardManifest {
+export interface DataManifestDataset {
+  version?: unknown;
+  online?: unknown;
+  pending?: unknown;
+  total?: unknown;
+}
+
+export interface DataManifestCategory {
+  id?: unknown;
+  name?: unknown;
+  count?: unknown;
   file?: unknown;
 }
 
@@ -61,6 +72,10 @@ async function getManifest(): Promise<DataManifest> {
   }
 
   return _manifestCache;
+}
+
+export async function getLocalDataManifest(): Promise<DataManifest> {
+  return getManifest();
 }
 
 /**
@@ -176,7 +191,7 @@ async function loadEmojisFromCategoryShards(): Promise<EmojiData[]> {
   );
 }
 
-function getShardFiles(shards: CategoryShardManifest[] | undefined): string[] {
+function getShardFiles(shards: DataManifestCategory[] | undefined): string[] {
   return (shards ?? [])
     .map((shard) => shard.file)
     .filter((file): file is string => typeof file === 'string' && file.length > 0);

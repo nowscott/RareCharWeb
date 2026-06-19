@@ -2,10 +2,11 @@
 
 import { NavigationButtons } from '@/components/navigation';
 import { aboutConfig } from '@/lib/about/aboutConfig';
-import { AboutStats, AboutVersions } from '@/lib/about/aboutUtils';
+import { AboutDataOverview, AboutStats, AboutVersions } from '@/lib/about/aboutUtils';
 import { useBackdoorClick, clearCacheAndReload } from '@/lib/about/backdoor';
 import {
   HeroSection,
+  DataOverviewSection,
   FeaturesSection,
   InstructionsSection,
   VersionSection,
@@ -17,9 +18,10 @@ import {
 interface AboutClientProps {
   stats: AboutStats;
   versions: AboutVersions;
+  dataOverview: AboutDataOverview;
 }
 
-export default function AboutClient({ stats, versions }: AboutClientProps) {
+export default function AboutClient({ stats, versions, dataOverview }: AboutClientProps) {
   const handleVersionClick = useBackdoorClick(clearCacheAndReload);
 
   return (
@@ -37,13 +39,15 @@ export default function AboutClient({ stats, versions }: AboutClientProps) {
 
         <HeroSection stats={stats} />
 
+        <DataOverviewSection overview={dataOverview} />
+
         <div className="grid lg:grid-cols-2 gap-6 sm:gap-8 mb-6 sm:mb-8">
           <FeaturesSection />
           <InstructionsSection />
         </div>
 
         <div className="grid lg:grid-cols-2 gap-6 sm:gap-8 mb-6 sm:mb-8">
-          <VersionSection versions={versions} stats={stats} />
+          <VersionSection versions={versions} totalOnline={dataOverview.totalOnline} />
           <ContactSection />
         </div>
 

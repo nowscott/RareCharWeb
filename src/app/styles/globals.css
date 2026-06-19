@@ -70,6 +70,16 @@ body {
   touch-action: manipulation;
 }
 
+.category-scroll {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  touch-action: pan-x;
+}
+
+.category-chip {
+  touch-action: pan-x;
+}
+
 /* 移动端按钮点击效果 */
 @media (hover: none) and (pointer: coarse) {
   button:hover {

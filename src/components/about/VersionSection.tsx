@@ -1,13 +1,13 @@
 import { aboutConfig } from '@/lib/about/aboutConfig';
-import { AboutVersions, AboutStats } from '@/lib/about/aboutUtils';
+import { AboutVersions } from '@/lib/about/aboutUtils';
 
 // 版本信息组件
 interface VersionSectionProps {
   versions: AboutVersions;
-  stats: AboutStats;
+  totalOnline: number;
 }
 
-export function VersionSection({ versions, stats }: VersionSectionProps) {
+export function VersionSection({ versions, totalOnline }: VersionSectionProps) {
   const labels = aboutConfig.versionLabels;
   
   return (
@@ -35,7 +35,7 @@ export function VersionSection({ versions, stats }: VersionSectionProps) {
         </div>
         <div className="flex justify-between items-center py-2 sm:py-3">
           <span className="text-gray-600 dark:text-gray-400 text-sm sm:text-base">{labels.totalSymbols}</span>
-          <span className="font-semibold text-sm sm:text-base">{stats.totalSymbols}+</span>
+          <span className="font-semibold text-sm sm:text-base">{totalOnline.toLocaleString('zh-CN')}+</span>
         </div>
       </div>
     </div>

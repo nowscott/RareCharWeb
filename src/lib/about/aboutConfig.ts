@@ -51,7 +51,7 @@ export const aboutConfig = {
     emojiData: '表情数据',
     devStatus: '开发状态',
     devStatusValue: '开发中',
-    totalSymbols: '符号总数'
+    totalSymbols: '已上线条目'
   },
   
   // 其他作品
