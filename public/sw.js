@@ -10,6 +10,25 @@ const FONT_URLS = [
   'https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css'
 ];
 
+function isHttpRequest(request) {
+  try {
+    const url = new URL(request.url);
+    return url.protocol === 'http:' || url.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
+function isFontRequest(request) {
+  if (request.method !== 'GET' || !isHttpRequest(request)) return false;
+
+  const url = new URL(request.url);
+  return url.hostname === 'f.0211120.xyz' && (
+    url.pathname.includes('/font/') ||
+    /\.(woff2?|ttf|otf)$/i.test(url.pathname)
+  );
+}
+
 // 安装事件 - 预缓存字体资源
 self.addEventListener('install', event => {
   // console.log('[SW] Installing service worker for font caching...');
@@ -55,14 +74,9 @@ self.addEventListener('activate', event => {
 
 // 拦截请求 - 优化字体加载
 self.addEventListener('fetch', event => {
-  const url = event.request.url;
-  
   // 只处理字体相关的请求
-  if (url.includes('f.0211120.xyz/font/') || 
-      url.includes('.woff') || 
-      url.includes('.woff2') || 
-      url.includes('.ttf') || 
-      url.includes('.otf')) {
+  if (isFontRequest(event.request)) {
+    const url = event.request.url;
     
     event.respondWith(
       caches.open(FONT_CACHE_NAME)
@@ -77,16 +91,19 @@ self.addEventListener('fetch', event => {
               // 如果缓存中没有，则从网络获取并缓存
               // console.log('[SW] Fetching font from network:', url);
               return fetch(event.request)
-                .then(response => {
-                  // 检查响应是否有效
-                  if (response.status === 200) {
-                    // 克隆响应用于缓存
-                    const responseClone = response.clone();
-                    cache.put(event.request, responseClone);
-                    // console.log('[SW] Font cached:', url);
-                  }
-                  return response;
-                })
+	                .then(response => {
+	                  // 检查响应是否有效
+	                  if (response.status === 200) {
+	                    // 克隆响应用于缓存
+	                    const responseClone = response.clone();
+	                    return cache.put(event.request, responseClone)
+	                      .catch(error => {
+	                        console.warn('[SW] Failed to cache font:', url, error);
+	                      })
+	                      .then(() => response);
+	                  }
+	                  return response;
+	                })
                 .catch(error => {
                   console.error('[SW] Failed to fetch font:', url, error);
                   // 返回一个空响应避免页面报错

@@ -1,3 +1,11 @@
+## [1.12.2](https://github.com/nowscott/RareCharWeb/compare/v1.12.1...v1.12.2) (2026-06-19)
+
+
+### 问题修复
+
+* **Service Worker:** 仅缓存 http/https 字体请求，避免浏览器扩展的 chrome-extension 请求触发 Cache API 报错
+
+
 ## [1.12.1](https://github.com/nowscott/RareCharWeb/compare/v1.12.0...v1.12.1) (2026-06-19)
 
 
