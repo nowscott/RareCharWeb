@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T05:40:19.713Z",
+  "generatedAt": "2026-06-19T05:57:55.085Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
@@ -222,14 +222,8 @@
         {
           "id": "食物",
           "name": "食物",
-          "count": 129,
+          "count": 130,
           "file": "emojis/by-category/食物.json"
-        },
-        {
-          "id": "水果",
-          "name": "水果",
-          "count": 1,
-          "file": "emojis/by-category/水果.json"
         },
         {
           "id": "天气",

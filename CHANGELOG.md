@@ -1,3 +1,11 @@
+## [1.12.1](https://github.com/nowscott/RareCharWeb/compare/v1.12.0...v1.12.1) (2026-06-19)
+
+
+### 问题修复
+
+* **Emoji 分类:** 将水果类 Emoji 合并回食物分类，避免单独分类数量过少
+
+
 ## [1.12.0](https://github.com/nowscott/RareCharWeb/compare/v1.11.3...v1.12.0) (2026-06-19)
 
 
