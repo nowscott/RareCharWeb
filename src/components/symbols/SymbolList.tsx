@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { SYMBOL_PAGE_SIZE } from '@/lib/core/pagination';
-import { PaginatedSymbolResponse, SymbolData } from '@/lib/core/types';
+import { InitialCategoryData, PaginatedSymbolResponse, SymbolData } from '@/lib/core/types';
 import SymbolCard from './SymbolCard';
 import SymbolDetail from './SymbolDetail';
 
@@ -11,6 +11,7 @@ interface SymbolListProps {
   category: string;
   searchQuery: string;
   initialData: PaginatedSymbolResponse;
+  initialCategoryData?: InitialCategoryData;
   initialSeed: number;
   prefetchCategories?: string[];
   prefetchRequest?: {
@@ -36,11 +37,16 @@ const SymbolList: React.FC<SymbolListProps> = ({
   category,
   searchQuery,
   initialData,
+  initialCategoryData = {},
   initialSeed,
   prefetchCategories = [],
   prefetchRequest
 }) => {
   const initialRequestKey = buildRequestKey(apiEndpoint, 'all', '');
+  const initialCacheEntries = Object.entries(initialCategoryData).map(([initialCategory, data]) => {
+    const categoryRequestKey = buildRequestKey(apiEndpoint, initialCategory, '');
+    return [buildPageKey(categoryRequestKey, data.page), data] as const;
+  });
   const [selectedSymbol, setSelectedSymbol] = useState<SymbolData | null>(null);
   const [allSymbols, setAllSymbols] = useState<SymbolData[]>(initialData.symbols);
   const [currentPage, setCurrentPage] = useState(initialData.page);
@@ -54,7 +60,10 @@ const SymbolList: React.FC<SymbolListProps> = ({
   const sentinelRef = useRef<HTMLDivElement>(null);
   const seedRef = useRef(initialSeed);
   const pageCacheRef = useRef<Map<string, PaginatedSymbolResponse>>(
-    new Map([[buildPageKey(initialRequestKey, initialData.page), initialData]])
+    new Map([
+      [buildPageKey(initialRequestKey, initialData.page), initialData],
+      ...initialCacheEntries
+    ])
   );
   const inflightRequestsRef = useRef<Map<string, Promise<PaginatedSymbolResponse>>>(new Map());
   const activeRequestSeqRef = useRef(0);

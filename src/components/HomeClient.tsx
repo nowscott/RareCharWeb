@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import { CategoryStat, PaginatedSymbolResponse } from '@/lib/core/types';
+import { CategoryStat, InitialCategoryData, PaginatedSymbolResponse } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
 import { SymbolList } from '@/components/symbols';
 import { optimizeSymbolRendering, waitForFontsLoad } from '@/lib/font/fontUtils';
@@ -11,6 +11,7 @@ interface HomeClientProps {
   apiEndpoint: string;
   categories: CategoryStat[];
   initialData: PaginatedSymbolResponse;
+  initialCategoryData?: InitialCategoryData;
   initialSeed: number;
   pageTitle?: string;
   pageDescription?: string;
@@ -20,6 +21,7 @@ export default function HomeClient({
   apiEndpoint,
   categories,
   initialData,
+  initialCategoryData,
   initialSeed,
   pageTitle = "复制符",
   pageDescription = "快速查找特殊符号，一键复制"
@@ -47,7 +49,6 @@ export default function HomeClient({
   const initialPrefetchCategories = useMemo(
     () => categories
       .filter((category) => category.id !== 'all')
-      .slice(0, 6)
       .map((category) => category.id),
     [categories]
   );
@@ -110,6 +111,7 @@ export default function HomeClient({
           category={activeCategory}
           searchQuery={searchQuery}
           initialData={initialData}
+          initialCategoryData={initialCategoryData}
           initialSeed={initialSeed}
           prefetchCategories={initialPrefetchCategories}
           prefetchRequest={prefetchRequest}

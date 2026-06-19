@@ -58,6 +58,8 @@ export interface PaginatedSymbolResponse {
   hasMore: boolean;
 }
 
+export type InitialCategoryData = Record<string, PaginatedSymbolResponse>;
+
 export interface EmojiDataResponse {
   version: string;
   emojis: EmojiData[];

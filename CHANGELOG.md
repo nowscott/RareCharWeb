@@ -1,3 +1,11 @@
+## [1.12.3](https://github.com/nowscott/RareCharWeb/compare/v1.12.2...v1.12.3) (2026-06-19)
+
+
+### 性能优化
+
+* **分类切换:** 首屏预置每个分类约 60 条初始数据，分类切换优先命中客户端缓存
+
+
 ## [1.12.2](https://github.com/nowscott/RareCharWeb/compare/v1.12.1...v1.12.2) (2026-06-19)
 
 
