@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import React from 'react';
 import "./styles/globals.css";
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
+import ChunkLoadRecovery from '@/components/ChunkLoadRecovery';
 import FontHealthChecker from '@/components/FontHealthChecker';
 import RoutePrefetcher from '@/components/RoutePrefetcher';
 
@@ -51,6 +52,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className="antialiased">
+        <ChunkLoadRecovery />
         <ServiceWorkerRegister />
         <RoutePrefetcher />
         {children}

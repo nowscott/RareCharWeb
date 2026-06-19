@@ -1,3 +1,11 @@
+## [1.12.10](https://github.com/nowscott/RareCharWeb/compare/v1.12.9...v1.12.10) (2026-06-19)
+
+
+### 问题修复
+
+* **资源加载:** 增加客户端 chunk 加载失败自动恢复，发布切换期间遇到旧资源 404 时自动刷新一次
+
+
 ## [1.12.9](https://github.com/nowscott/RareCharWeb/compare/v1.12.8...v1.12.9) (2026-06-19)
 
 
