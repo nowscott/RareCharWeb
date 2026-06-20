@@ -1,6 +1,6 @@
 {
   "category": "数字",
-  "total": 179,
+  "total": 188,
   "items": [
     {
       "id": "symbol-2150-217",
@@ -3699,6 +3699,186 @@
         "圈号"
       ],
       "notes": "🄍 是带圈斜杠零，Unicode 编码为 U+1F10D，适合用于列表序号、编号标记、表格编号或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f19b-1648",
+      "symbol": "🆛",
+      "name": "方框 Three D",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 Three D",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F19B",
+        "U+1F19B",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆛 是方框 Three D，Unicode 编码为 U+1F19B，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f19d-1650",
+      "symbol": "🆝",
+      "name": "方框 TWO K",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 TWO K",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F19D",
+        "U+1F19D",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆝 是方框 TWO K，Unicode 编码为 U+1F19D，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f19e-1651",
+      "symbol": "🆞",
+      "name": "方框 Four K",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 Four K",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F19E",
+        "U+1F19E",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆞 是方框 Four K，Unicode 编码为 U+1F19E，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f19f-1652",
+      "symbol": "🆟",
+      "name": "方框 Eight K",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 Eight K",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F19F",
+        "U+1F19F",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆟 是方框 Eight K，Unicode 编码为 U+1F19F，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f1a0-1653",
+      "symbol": "🆠",
+      "name": "方框 Five Point ONE",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 Five Point ONE",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A0",
+        "U+1F1A0",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆠 是方框 Five Point ONE，Unicode 编码为 U+1F1A0，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f1a1-1654",
+      "symbol": "🆡",
+      "name": "方框 Seven Point ONE",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 Seven Point ONE",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A1",
+        "U+1F1A1",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆡 是方框 Seven Point ONE，Unicode 编码为 U+1F1A1，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f1a2-1655",
+      "symbol": "🆢",
+      "name": "方框 Twenty-two Point TWO",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 Twenty-two Point TWO",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A2",
+        "U+1F1A2",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆢 是方框 Twenty-two Point TWO，Unicode 编码为 U+1F1A2，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f1a3-1656",
+      "symbol": "🆣",
+      "name": "方框 Sixty P",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 Sixty P",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A3",
+        "U+1F1A3",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆣 是方框 Sixty P，Unicode 编码为 U+1F1A3，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+    },
+    {
+      "id": "symbol-1f1a4-1657",
+      "symbol": "🆤",
+      "name": "方框 ONE Hundred Twenty P",
+      "pronunciation": "",
+      "category": [
+        "数字"
+      ],
+      "searchTerms": [
+        "方框 ONE Hundred Twenty P",
+        "数字",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A4",
+        "U+1F1A4",
+        "编号",
+        "规格",
+        "标签"
+      ],
+      "notes": "🆤 是方框 ONE Hundred Twenty P，Unicode 编码为 U+1F1A4，适合用于规格标签、编号、清单标记或装饰性数字排版。"
     }
   ]
 }

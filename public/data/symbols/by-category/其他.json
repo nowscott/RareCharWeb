@@ -1,6 +1,6 @@
 {
   "category": "其他",
-  "total": 17,
+  "total": 23,
   "items": [
     {
       "id": "symbol-a9-7",
@@ -310,6 +310,108 @@
         "开放版权"
       ],
       "notes": "🄯 是 Copyleft 符号，Unicode 编码为 U+1F12F，用于表示 Copyleft 或开放授权相关语境。"
+    },
+    {
+      "id": "symbol-1f14e-1571",
+      "symbol": "🅎",
+      "name": "方框 PPV",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "方框 PPV",
+        "其他",
+        "Enclosed Alphanumeric Supplement",
+        "1F14E",
+        "U+1F14E"
+      ],
+      "notes": "🅎 是方框 PPV，Unicode 编码为 U+1F14E，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+    },
+    {
+      "id": "symbol-1f16e-1603",
+      "symbol": "🅮",
+      "name": "带圈 C 带 Overlaid Backslash",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "带圈 C 带 Overlaid Backslash",
+        "其他",
+        "Enclosed Alphanumeric Supplement",
+        "1F16E",
+        "U+1F16E"
+      ],
+      "notes": "🅮 是带圈 C 带 Overlaid Backslash，Unicode 编码为 U+1F16E，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+    },
+    {
+      "id": "symbol-1f16f-1604",
+      "symbol": "🅯",
+      "name": "带圈 Human Figure",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "带圈 Human Figure",
+        "其他",
+        "Enclosed Alphanumeric Supplement",
+        "1F16F",
+        "U+1F16F"
+      ],
+      "notes": "🅯 是带圈 Human Figure，Unicode 编码为 U+1F16F，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+    },
+    {
+      "id": "symbol-1f199-1646",
+      "symbol": "🆙",
+      "name": "UP! 按钮",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "UP! 按钮",
+        "其他",
+        "Enclosed Alphanumeric Supplement",
+        "1F199",
+        "U+1F199"
+      ],
+      "notes": "🆙 是 UP! 按钮，Unicode 编码为 U+1F199，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+    },
+    {
+      "id": "symbol-1f19c-1649",
+      "symbol": "🆜",
+      "name": "方框 Second Screen",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "方框 Second Screen",
+        "其他",
+        "Enclosed Alphanumeric Supplement",
+        "1F19C",
+        "U+1F19C"
+      ],
+      "notes": "🆜 是方框 Second Screen，Unicode 编码为 U+1F19C，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+    },
+    {
+      "id": "symbol-1f1ad-1666",
+      "symbol": "🆭",
+      "name": "掩模作品符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "掩模作品符号",
+        "其他",
+        "Enclosed Alphanumeric Supplement",
+        "1F1AD",
+        "U+1F1AD"
+      ],
+      "notes": "🆭 是掩模作品符号，Unicode 编码为 U+1F1AD，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
     }
   ]
 }

@@ -1,0 +1,7566 @@
+{
+  "category": "箭头",
+  "total": 353,
+  "items": [
+    {
+      "id": "symbol-2191-1693",
+      "symbol": "↑",
+      "name": "向上箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头",
+        "箭头",
+        "Arrows",
+        "2191",
+        "U+2191",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↑ 是向上箭头，Unicode 编码为 U+2191，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2193-1694",
+      "symbol": "↓",
+      "name": "向下箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头",
+        "箭头",
+        "Arrows",
+        "2193",
+        "U+2193",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↓ 是向下箭头，Unicode 编码为 U+2193，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2195-1695",
+      "symbol": "↕",
+      "name": "上下箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上下箭头",
+        "箭头",
+        "Arrows",
+        "2195",
+        "U+2195",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↕ 是上下箭头，Unicode 编码为 U+2195，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2196-1696",
+      "symbol": "↖",
+      "name": "上左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上左箭头",
+        "箭头",
+        "Arrows",
+        "2196",
+        "U+2196",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↖ 是上左箭头，Unicode 编码为 U+2196，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2197-1697",
+      "symbol": "↗",
+      "name": "上右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上右箭头",
+        "箭头",
+        "Arrows",
+        "2197",
+        "U+2197",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↗ 是上右箭头，Unicode 编码为 U+2197，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2198-1698",
+      "symbol": "↘",
+      "name": "下右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "下右箭头",
+        "箭头",
+        "Arrows",
+        "2198",
+        "U+2198",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↘ 是下右箭头，Unicode 编码为 U+2198，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2199-1699",
+      "symbol": "↙",
+      "name": "下左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "下左箭头",
+        "箭头",
+        "Arrows",
+        "2199",
+        "U+2199",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↙ 是下左箭头，Unicode 编码为 U+2199，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-219a-1700",
+      "symbol": "↚",
+      "name": "向左箭头带stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带stroke",
+        "箭头",
+        "向左箭头带Stroke",
+        "Arrows",
+        "219A",
+        "U+219A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↚ 是向左箭头带stroke，Unicode 编码为 U+219A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-219b-1701",
+      "symbol": "↛",
+      "name": "向右箭头带stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带stroke",
+        "箭头",
+        "向右箭头带Stroke",
+        "Arrows",
+        "219B",
+        "U+219B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↛ 是向右箭头带stroke，Unicode 编码为 U+219B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-219c-1702",
+      "symbol": "↜",
+      "name": "向左波浪箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左波浪箭头",
+        "箭头",
+        "Arrows",
+        "219C",
+        "U+219C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↜ 是向左波浪箭头，Unicode 编码为 U+219C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-219d-1703",
+      "symbol": "↝",
+      "name": "向右波浪箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右波浪箭头",
+        "箭头",
+        "Arrows",
+        "219D",
+        "U+219D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↝ 是向右波浪箭头，Unicode 编码为 U+219D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-219e-1704",
+      "symbol": "↞",
+      "name": "向左双头箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左双头箭头",
+        "箭头",
+        "Arrows",
+        "219E",
+        "U+219E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↞ 是向左双头箭头，Unicode 编码为 U+219E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-219f-1705",
+      "symbol": "↟",
+      "name": "向上双头箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上双头箭头",
+        "箭头",
+        "Arrows",
+        "219F",
+        "U+219F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↟ 是向上双头箭头，Unicode 编码为 U+219F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a0-1706",
+      "symbol": "↠",
+      "name": "向右双头箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右双头箭头",
+        "箭头",
+        "Arrows",
+        "21A0",
+        "U+21A0",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↠ 是向右双头箭头，Unicode 编码为 U+21A0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a1-1707",
+      "symbol": "↡",
+      "name": "向下双头箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下双头箭头",
+        "箭头",
+        "Arrows",
+        "21A1",
+        "U+21A1",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↡ 是向下双头箭头，Unicode 编码为 U+21A1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a2-1708",
+      "symbol": "↢",
+      "name": "向左箭头带tail",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带tail",
+        "箭头",
+        "向左箭头带Tail",
+        "Arrows",
+        "21A2",
+        "U+21A2",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↢ 是向左箭头带tail，Unicode 编码为 U+21A2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a3-1709",
+      "symbol": "↣",
+      "name": "向右箭头带tail",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带tail",
+        "箭头",
+        "向右箭头带Tail",
+        "Arrows",
+        "21A3",
+        "U+21A3",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↣ 是向右箭头带tail，Unicode 编码为 U+21A3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a4-1710",
+      "symbol": "↤",
+      "name": "向左箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头frombar",
+        "箭头",
+        "向左箭头fromBar",
+        "Arrows",
+        "21A4",
+        "U+21A4",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↤ 是向左箭头frombar，Unicode 编码为 U+21A4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a5-1711",
+      "symbol": "↥",
+      "name": "向上箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头frombar",
+        "箭头",
+        "向上箭头fromBar",
+        "Arrows",
+        "21A5",
+        "U+21A5",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↥ 是向上箭头frombar，Unicode 编码为 U+21A5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a6-1712",
+      "symbol": "↦",
+      "name": "向右箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头frombar",
+        "箭头",
+        "向右箭头fromBar",
+        "Arrows",
+        "21A6",
+        "U+21A6",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↦ 是向右箭头frombar，Unicode 编码为 U+21A6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a7-1713",
+      "symbol": "↧",
+      "name": "向下箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头frombar",
+        "箭头",
+        "向下箭头fromBar",
+        "Arrows",
+        "21A7",
+        "U+21A7",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↧ 是向下箭头frombar，Unicode 编码为 U+21A7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a8-1714",
+      "symbol": "↨",
+      "name": "上下箭头带base",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上下箭头带base",
+        "箭头",
+        "上下箭头带Base",
+        "Arrows",
+        "21A8",
+        "U+21A8",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↨ 是上下箭头带base，Unicode 编码为 U+21A8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21a9-1715",
+      "symbol": "↩",
+      "name": "右箭头弯向左",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右箭头弯向左",
+        "箭头",
+        "Arrows",
+        "21A9",
+        "U+21A9",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↩ 是右箭头弯向左，Unicode 编码为 U+21A9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21aa-1716",
+      "symbol": "↪",
+      "name": "左箭头弯向右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左箭头弯向右",
+        "箭头",
+        "Arrows",
+        "21AA",
+        "U+21AA",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↪ 是左箭头弯向右，Unicode 编码为 U+21AA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ab-1717",
+      "symbol": "↫",
+      "name": "向左箭头带环形",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带环形",
+        "箭头",
+        "Arrows",
+        "21AB",
+        "U+21AB",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↫ 是向左箭头带环形，Unicode 编码为 U+21AB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ac-1718",
+      "symbol": "↬",
+      "name": "向右箭头带环形",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带环形",
+        "箭头",
+        "Arrows",
+        "21AC",
+        "U+21AC",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↬ 是向右箭头带环形，Unicode 编码为 U+21AC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ad-1719",
+      "symbol": "↭",
+      "name": "左右波浪箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右波浪箭头",
+        "箭头",
+        "Arrows",
+        "21AD",
+        "U+21AD",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↭ 是左右波浪箭头，Unicode 编码为 U+21AD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ae-1720",
+      "symbol": "↮",
+      "name": "左右箭头带stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右箭头带stroke",
+        "箭头",
+        "左右箭头带Stroke",
+        "Arrows",
+        "21AE",
+        "U+21AE",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↮ 是左右箭头带stroke，Unicode 编码为 U+21AE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21af-1721",
+      "symbol": "↯",
+      "name": "向下之字形箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下之字形箭头",
+        "箭头",
+        "Arrows",
+        "21AF",
+        "U+21AF",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↯ 是向下之字形箭头，Unicode 编码为 U+21AF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b0-1722",
+      "symbol": "↰",
+      "name": "向上箭头带尖端向左",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带尖端向左",
+        "箭头",
+        "Arrows",
+        "21B0",
+        "U+21B0",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↰ 是向上箭头带尖端向左，Unicode 编码为 U+21B0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b1-1723",
+      "symbol": "↱",
+      "name": "向上箭头带尖端向右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带尖端向右",
+        "箭头",
+        "Arrows",
+        "21B1",
+        "U+21B1",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↱ 是向上箭头带尖端向右，Unicode 编码为 U+21B1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b2-1724",
+      "symbol": "↲",
+      "name": "向下箭头带尖端向左",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带尖端向左",
+        "箭头",
+        "Arrows",
+        "21B2",
+        "U+21B2",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↲ 是向下箭头带尖端向左，Unicode 编码为 U+21B2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b3-1725",
+      "symbol": "↳",
+      "name": "向下箭头带尖端向右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带尖端向右",
+        "箭头",
+        "Arrows",
+        "21B3",
+        "U+21B3",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↳ 是向下箭头带尖端向右，Unicode 编码为 U+21B3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b4-1726",
+      "symbol": "↴",
+      "name": "向右箭头带corner向下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带corner向下",
+        "箭头",
+        "向右箭头带Corner向下",
+        "Arrows",
+        "21B4",
+        "U+21B4",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↴ 是向右箭头带corner向下，Unicode 编码为 U+21B4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b5-1727",
+      "symbol": "↵",
+      "name": "向下箭头带corner向左",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带corner向左",
+        "箭头",
+        "向下箭头带Corner向左",
+        "Arrows",
+        "21B5",
+        "U+21B5",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↵ 是向下箭头带corner向左，Unicode 编码为 U+21B5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b6-1728",
+      "symbol": "↶",
+      "name": "逆时针上半圆箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "逆时针上半圆箭头",
+        "箭头",
+        "Arrows",
+        "21B6",
+        "U+21B6",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↶ 是逆时针上半圆箭头，Unicode 编码为 U+21B6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b7-1729",
+      "symbol": "↷",
+      "name": "顺时针上半圆箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "顺时针上半圆箭头",
+        "箭头",
+        "Arrows",
+        "21B7",
+        "U+21B7",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↷ 是顺时针上半圆箭头，Unicode 编码为 U+21B7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b8-1730",
+      "symbol": "↸",
+      "name": "西北箭头指向长竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北箭头指向长竖线",
+        "箭头",
+        "Arrows",
+        "21B8",
+        "U+21B8",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↸ 是西北箭头指向长竖线，Unicode 编码为 U+21B8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21b9-1731",
+      "symbol": "↹",
+      "name": "向左箭头指向竖线在上向右箭头指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头指向竖线在上向右箭头指向竖线",
+        "箭头",
+        "Arrows",
+        "21B9",
+        "U+21B9",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↹ 是向左箭头指向竖线在上向右箭头指向竖线，Unicode 编码为 U+21B9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ba-1732",
+      "symbol": "↺",
+      "name": "逆时针开口圆形箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "逆时针开口圆形箭头",
+        "箭头",
+        "Arrows",
+        "21BA",
+        "U+21BA",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↺ 是逆时针开口圆形箭头，Unicode 编码为 U+21BA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21bb-1733",
+      "symbol": "↻",
+      "name": "顺时针开口圆形箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "顺时针开口圆形箭头",
+        "箭头",
+        "Arrows",
+        "21BB",
+        "U+21BB",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↻ 是顺时针开口圆形箭头，Unicode 编码为 U+21BB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21bc-1734",
+      "symbol": "↼",
+      "name": "向左鱼叉箭头带倒钩向上",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩向上",
+        "箭头",
+        "Arrows",
+        "21BC",
+        "U+21BC",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↼ 是向左鱼叉箭头带倒钩向上，Unicode 编码为 U+21BC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21bd-1735",
+      "symbol": "↽",
+      "name": "向左鱼叉箭头带倒钩向下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩向下",
+        "箭头",
+        "Arrows",
+        "21BD",
+        "U+21BD",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↽ 是向左鱼叉箭头带倒钩向下，Unicode 编码为 U+21BD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21be-1736",
+      "symbol": "↾",
+      "name": "向上鱼叉箭头带倒钩向右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩向右",
+        "箭头",
+        "Arrows",
+        "21BE",
+        "U+21BE",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↾ 是向上鱼叉箭头带倒钩向右，Unicode 编码为 U+21BE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21bf-1737",
+      "symbol": "↿",
+      "name": "向上鱼叉箭头带倒钩向左",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩向左",
+        "箭头",
+        "Arrows",
+        "21BF",
+        "U+21BF",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "↿ 是向上鱼叉箭头带倒钩向左，Unicode 编码为 U+21BF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c0-1738",
+      "symbol": "⇀",
+      "name": "向右鱼叉箭头带倒钩向上",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩向上",
+        "箭头",
+        "Arrows",
+        "21C0",
+        "U+21C0",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇀ 是向右鱼叉箭头带倒钩向上，Unicode 编码为 U+21C0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c1-1739",
+      "symbol": "⇁",
+      "name": "向右鱼叉箭头带倒钩向下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩向下",
+        "箭头",
+        "Arrows",
+        "21C1",
+        "U+21C1",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇁ 是向右鱼叉箭头带倒钩向下，Unicode 编码为 U+21C1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c2-1740",
+      "symbol": "⇂",
+      "name": "向下鱼叉箭头带倒钩向右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩向右",
+        "箭头",
+        "Arrows",
+        "21C2",
+        "U+21C2",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇂ 是向下鱼叉箭头带倒钩向右，Unicode 编码为 U+21C2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c3-1741",
+      "symbol": "⇃",
+      "name": "向下鱼叉箭头带倒钩向左",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩向左",
+        "箭头",
+        "Arrows",
+        "21C3",
+        "U+21C3",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇃ 是向下鱼叉箭头带倒钩向左，Unicode 编码为 U+21C3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c4-1742",
+      "symbol": "⇄",
+      "name": "向右箭头在上向左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头在上向左箭头",
+        "箭头",
+        "Arrows",
+        "21C4",
+        "U+21C4",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇄ 是向右箭头在上向左箭头，Unicode 编码为 U+21C4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c5-1743",
+      "symbol": "⇅",
+      "name": "向上箭头向左of向下箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头向左of向下箭头",
+        "箭头",
+        "Arrows",
+        "21C5",
+        "U+21C5",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇅ 是向上箭头向左of向下箭头，Unicode 编码为 U+21C5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c6-1744",
+      "symbol": "⇆",
+      "name": "向左箭头在上向右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头在上向右箭头",
+        "箭头",
+        "Arrows",
+        "21C6",
+        "U+21C6",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇆ 是向左箭头在上向右箭头，Unicode 编码为 U+21C6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c7-1745",
+      "symbol": "⇇",
+      "name": "向左成对箭头s",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左成对箭头s",
+        "箭头",
+        "Arrows",
+        "21C7",
+        "U+21C7",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇇ 是向左成对箭头s，Unicode 编码为 U+21C7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c8-1746",
+      "symbol": "⇈",
+      "name": "向上成对箭头s",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上成对箭头s",
+        "箭头",
+        "Arrows",
+        "21C8",
+        "U+21C8",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇈ 是向上成对箭头s，Unicode 编码为 U+21C8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21c9-1747",
+      "symbol": "⇉",
+      "name": "向右成对箭头s",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右成对箭头s",
+        "箭头",
+        "Arrows",
+        "21C9",
+        "U+21C9",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇉ 是向右成对箭头s，Unicode 编码为 U+21C9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ca-1748",
+      "symbol": "⇊",
+      "name": "向下成对箭头s",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下成对箭头s",
+        "箭头",
+        "Arrows",
+        "21CA",
+        "U+21CA",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇊ 是向下成对箭头s，Unicode 编码为 U+21CA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21cb-1749",
+      "symbol": "⇋",
+      "name": "向左鱼叉箭头在上向右鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头在上向右鱼叉箭头",
+        "箭头",
+        "Arrows",
+        "21CB",
+        "U+21CB",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇋ 是向左鱼叉箭头在上向右鱼叉箭头，Unicode 编码为 U+21CB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21cd-1750",
+      "symbol": "⇍",
+      "name": "向左双线箭头带stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左双线箭头带stroke",
+        "箭头",
+        "向左双线箭头带Stroke",
+        "Arrows",
+        "21CD",
+        "U+21CD",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇍ 是向左双线箭头带stroke，Unicode 编码为 U+21CD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ce-1751",
+      "symbol": "⇎",
+      "name": "左右双线箭头带stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右双线箭头带stroke",
+        "箭头",
+        "左右双线箭头带Stroke",
+        "Arrows",
+        "21CE",
+        "U+21CE",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇎ 是左右双线箭头带stroke，Unicode 编码为 U+21CE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21cf-1752",
+      "symbol": "⇏",
+      "name": "向右双线箭头带stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右双线箭头带stroke",
+        "箭头",
+        "向右双线箭头带Stroke",
+        "Arrows",
+        "21CF",
+        "U+21CF",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇏ 是向右双线箭头带stroke，Unicode 编码为 U+21CF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d0-1753",
+      "symbol": "⇐",
+      "name": "向左双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左双线箭头",
+        "箭头",
+        "Arrows",
+        "21D0",
+        "U+21D0",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇐ 是向左双线箭头，Unicode 编码为 U+21D0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d1-1754",
+      "symbol": "⇑",
+      "name": "向上双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上双线箭头",
+        "箭头",
+        "Arrows",
+        "21D1",
+        "U+21D1",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇑ 是向上双线箭头，Unicode 编码为 U+21D1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d2-1755",
+      "symbol": "⇒",
+      "name": "向右双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右双线箭头",
+        "箭头",
+        "Arrows",
+        "21D2",
+        "U+21D2",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇒ 是向右双线箭头，Unicode 编码为 U+21D2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d3-1756",
+      "symbol": "⇓",
+      "name": "向下双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下双线箭头",
+        "箭头",
+        "Arrows",
+        "21D3",
+        "U+21D3",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇓ 是向下双线箭头，Unicode 编码为 U+21D3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d4-1757",
+      "symbol": "⇔",
+      "name": "左右双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右双线箭头",
+        "箭头",
+        "Arrows",
+        "21D4",
+        "U+21D4",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇔ 是左右双线箭头，Unicode 编码为 U+21D4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d5-1758",
+      "symbol": "⇕",
+      "name": "上下双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上下双线箭头",
+        "箭头",
+        "Arrows",
+        "21D5",
+        "U+21D5",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇕ 是上下双线箭头，Unicode 编码为 U+21D5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d6-1759",
+      "symbol": "⇖",
+      "name": "西北双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北双线箭头",
+        "箭头",
+        "Arrows",
+        "21D6",
+        "U+21D6",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇖ 是西北双线箭头，Unicode 编码为 U+21D6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d7-1760",
+      "symbol": "⇗",
+      "name": "东北双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东北双线箭头",
+        "箭头",
+        "Arrows",
+        "21D7",
+        "U+21D7",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇗ 是东北双线箭头，Unicode 编码为 U+21D7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d8-1761",
+      "symbol": "⇘",
+      "name": "东南双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东南双线箭头",
+        "箭头",
+        "Arrows",
+        "21D8",
+        "U+21D8",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇘ 是东南双线箭头，Unicode 编码为 U+21D8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21d9-1762",
+      "symbol": "⇙",
+      "name": "西南双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西南双线箭头",
+        "箭头",
+        "Arrows",
+        "21D9",
+        "U+21D9",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇙ 是西南双线箭头，Unicode 编码为 U+21D9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21da-1763",
+      "symbol": "⇚",
+      "name": "向左三重箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左三重箭头",
+        "箭头",
+        "Arrows",
+        "21DA",
+        "U+21DA",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇚ 是向左三重箭头，Unicode 编码为 U+21DA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21db-1764",
+      "symbol": "⇛",
+      "name": "向右三重箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右三重箭头",
+        "箭头",
+        "Arrows",
+        "21DB",
+        "U+21DB",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇛ 是向右三重箭头，Unicode 编码为 U+21DB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21dc-1765",
+      "symbol": "⇜",
+      "name": "向左squiggle箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左squiggle箭头",
+        "箭头",
+        "向左Squiggle箭头",
+        "Arrows",
+        "21DC",
+        "U+21DC",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇜ 是向左squiggle箭头，Unicode 编码为 U+21DC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21dd-1766",
+      "symbol": "⇝",
+      "name": "向右squiggle箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右squiggle箭头",
+        "箭头",
+        "向右Squiggle箭头",
+        "Arrows",
+        "21DD",
+        "U+21DD",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇝ 是向右squiggle箭头，Unicode 编码为 U+21DD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21de-1767",
+      "symbol": "⇞",
+      "name": "向上箭头带双线stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带双线stroke",
+        "箭头",
+        "向上箭头带双线Stroke",
+        "Arrows",
+        "21DE",
+        "U+21DE",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇞ 是向上箭头带双线stroke，Unicode 编码为 U+21DE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21df-1768",
+      "symbol": "⇟",
+      "name": "向下箭头带双线stroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带双线stroke",
+        "箭头",
+        "向下箭头带双线Stroke",
+        "Arrows",
+        "21DF",
+        "U+21DF",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇟ 是向下箭头带双线stroke，Unicode 编码为 U+21DF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e0-1769",
+      "symbol": "⇠",
+      "name": "向左dashed箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左dashed箭头",
+        "箭头",
+        "向左Dashed箭头",
+        "Arrows",
+        "21E0",
+        "U+21E0",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇠ 是向左dashed箭头，Unicode 编码为 U+21E0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e1-1770",
+      "symbol": "⇡",
+      "name": "向上dashed箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上dashed箭头",
+        "箭头",
+        "向上Dashed箭头",
+        "Arrows",
+        "21E1",
+        "U+21E1",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇡ 是向上dashed箭头，Unicode 编码为 U+21E1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e2-1771",
+      "symbol": "⇢",
+      "name": "向右dashed箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右dashed箭头",
+        "箭头",
+        "向右Dashed箭头",
+        "Arrows",
+        "21E2",
+        "U+21E2",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇢ 是向右dashed箭头，Unicode 编码为 U+21E2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e3-1772",
+      "symbol": "⇣",
+      "name": "向下dashed箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下dashed箭头",
+        "箭头",
+        "向下Dashed箭头",
+        "Arrows",
+        "21E3",
+        "U+21E3",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇣ 是向下dashed箭头，Unicode 编码为 U+21E3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e4-1773",
+      "symbol": "⇤",
+      "name": "向左箭头指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头指向竖线",
+        "箭头",
+        "Arrows",
+        "21E4",
+        "U+21E4",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇤ 是向左箭头指向竖线，Unicode 编码为 U+21E4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e5-1774",
+      "symbol": "⇥",
+      "name": "向右箭头指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头指向竖线",
+        "箭头",
+        "Arrows",
+        "21E5",
+        "U+21E5",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇥ 是向右箭头指向竖线，Unicode 编码为 U+21E5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e6-1775",
+      "symbol": "⇦",
+      "name": "向左空心箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左空心箭头",
+        "箭头",
+        "Arrows",
+        "21E6",
+        "U+21E6",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇦ 是向左空心箭头，Unicode 编码为 U+21E6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e7-1776",
+      "symbol": "⇧",
+      "name": "向上空心箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上空心箭头",
+        "箭头",
+        "Arrows",
+        "21E7",
+        "U+21E7",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇧ 是向上空心箭头，Unicode 编码为 U+21E7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e8-1777",
+      "symbol": "⇨",
+      "name": "向右空心箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右空心箭头",
+        "箭头",
+        "Arrows",
+        "21E8",
+        "U+21E8",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇨ 是向右空心箭头，Unicode 编码为 U+21E8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21e9-1778",
+      "symbol": "⇩",
+      "name": "向下空心箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下空心箭头",
+        "箭头",
+        "Arrows",
+        "21E9",
+        "U+21E9",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇩ 是向下空心箭头，Unicode 编码为 U+21E9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ea-1779",
+      "symbol": "⇪",
+      "name": "向上空心箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上空心箭头frombar",
+        "箭头",
+        "向上空心箭头fromBar",
+        "Arrows",
+        "21EA",
+        "U+21EA",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇪ 是向上空心箭头frombar，Unicode 编码为 U+21EA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21eb-1780",
+      "symbol": "⇫",
+      "name": "向上空心箭头onpedestal",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上空心箭头onpedestal",
+        "箭头",
+        "向上空心箭头OnPedestal",
+        "Arrows",
+        "21EB",
+        "U+21EB",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇫ 是向上空心箭头onpedestal，Unicode 编码为 U+21EB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ec-1781",
+      "symbol": "⇬",
+      "name": "向上空心箭头onpedestal带horizontalbar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上空心箭头onpedestal带horizontalbar",
+        "箭头",
+        "向上空心箭头OnPedestal带HorizontalBar",
+        "Arrows",
+        "21EC",
+        "U+21EC",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇬ 是向上空心箭头onpedestal带horizontalbar，Unicode 编码为 U+21EC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ed-1782",
+      "symbol": "⇭",
+      "name": "向上空心箭头onpedestal带verticalbar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上空心箭头onpedestal带verticalbar",
+        "箭头",
+        "向上空心箭头OnPedestal带VerticalBar",
+        "Arrows",
+        "21ED",
+        "U+21ED",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇭ 是向上空心箭头onpedestal带verticalbar，Unicode 编码为 U+21ED，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ee-1783",
+      "symbol": "⇮",
+      "name": "向上空心双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上空心双线箭头",
+        "箭头",
+        "Arrows",
+        "21EE",
+        "U+21EE",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇮ 是向上空心双线箭头，Unicode 编码为 U+21EE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ef-1784",
+      "symbol": "⇯",
+      "name": "向上空心双线箭头onpedestal",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上空心双线箭头onpedestal",
+        "箭头",
+        "向上空心双线箭头OnPedestal",
+        "Arrows",
+        "21EF",
+        "U+21EF",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇯ 是向上空心双线箭头onpedestal，Unicode 编码为 U+21EF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f0-1785",
+      "symbol": "⇰",
+      "name": "向右空心箭头fromwall",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右空心箭头fromwall",
+        "箭头",
+        "向右空心箭头fromWall",
+        "Arrows",
+        "21F0",
+        "U+21F0",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇰ 是向右空心箭头fromwall，Unicode 编码为 U+21F0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f1-1786",
+      "symbol": "⇱",
+      "name": "西北箭头tocorner",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北箭头tocorner",
+        "箭头",
+        "西北箭头ToCorner",
+        "Arrows",
+        "21F1",
+        "U+21F1",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇱ 是西北箭头tocorner，Unicode 编码为 U+21F1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f2-1787",
+      "symbol": "⇲",
+      "name": "东南箭头tocorner",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东南箭头tocorner",
+        "箭头",
+        "东南箭头ToCorner",
+        "Arrows",
+        "21F2",
+        "U+21F2",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇲ 是东南箭头tocorner，Unicode 编码为 U+21F2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f3-1788",
+      "symbol": "⇳",
+      "name": "上下空心箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上下空心箭头",
+        "箭头",
+        "Arrows",
+        "21F3",
+        "U+21F3",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇳ 是上下空心箭头，Unicode 编码为 U+21F3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f4-1789",
+      "symbol": "⇴",
+      "name": "右箭头带小circle",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右箭头带小circle",
+        "箭头",
+        "右箭头带小Circle",
+        "Arrows",
+        "21F4",
+        "U+21F4",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇴ 是右箭头带小circle，Unicode 编码为 U+21F4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f5-1790",
+      "symbol": "⇵",
+      "name": "向下箭头向左of向上箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头向左of向上箭头",
+        "箭头",
+        "Arrows",
+        "21F5",
+        "U+21F5",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇵ 是向下箭头向左of向上箭头，Unicode 编码为 U+21F5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f6-1791",
+      "symbol": "⇶",
+      "name": "Three向右箭头s",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Three向右箭头s",
+        "箭头",
+        "Arrows",
+        "21F6",
+        "U+21F6",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇶ 是 Three向右箭头s，Unicode 编码为 U+21F6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f7-1792",
+      "symbol": "⇷",
+      "name": "向左箭头带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带verticalstroke",
+        "箭头",
+        "向左箭头带VerticalStroke",
+        "Arrows",
+        "21F7",
+        "U+21F7",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇷ 是向左箭头带verticalstroke，Unicode 编码为 U+21F7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f8-1793",
+      "symbol": "⇸",
+      "name": "向右箭头带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带verticalstroke",
+        "箭头",
+        "向右箭头带VerticalStroke",
+        "Arrows",
+        "21F8",
+        "U+21F8",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇸ 是向右箭头带verticalstroke，Unicode 编码为 U+21F8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21f9-1794",
+      "symbol": "⇹",
+      "name": "左右箭头带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右箭头带verticalstroke",
+        "箭头",
+        "左右箭头带VerticalStroke",
+        "Arrows",
+        "21F9",
+        "U+21F9",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇹ 是左右箭头带verticalstroke，Unicode 编码为 U+21F9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21fa-1795",
+      "symbol": "⇺",
+      "name": "向左箭头带双线verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带双线verticalstroke",
+        "箭头",
+        "向左箭头带双线VerticalStroke",
+        "Arrows",
+        "21FA",
+        "U+21FA",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇺ 是向左箭头带双线verticalstroke，Unicode 编码为 U+21FA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21fb-1796",
+      "symbol": "⇻",
+      "name": "向右箭头带双线verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带双线verticalstroke",
+        "箭头",
+        "向右箭头带双线VerticalStroke",
+        "Arrows",
+        "21FB",
+        "U+21FB",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇻ 是向右箭头带双线verticalstroke，Unicode 编码为 U+21FB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21fc-1797",
+      "symbol": "⇼",
+      "name": "左右箭头带双线verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右箭头带双线verticalstroke",
+        "箭头",
+        "左右箭头带双线VerticalStroke",
+        "Arrows",
+        "21FC",
+        "U+21FC",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇼ 是左右箭头带双线verticalstroke，Unicode 编码为 U+21FC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21fd-1798",
+      "symbol": "⇽",
+      "name": "向左openheaded箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左openheaded箭头",
+        "箭头",
+        "向左OpenHeaded箭头",
+        "Arrows",
+        "21FD",
+        "U+21FD",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇽ 是向左openheaded箭头，Unicode 编码为 U+21FD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21fe-1799",
+      "symbol": "⇾",
+      "name": "向右openheaded箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右openheaded箭头",
+        "箭头",
+        "向右OpenHeaded箭头",
+        "Arrows",
+        "21FE",
+        "U+21FE",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇾ 是向右openheaded箭头，Unicode 编码为 U+21FE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-21ff-1800",
+      "symbol": "⇿",
+      "name": "左右openheaded箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右openheaded箭头",
+        "箭头",
+        "左右OpenHeaded箭头",
+        "Arrows",
+        "21FF",
+        "U+21FF",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⇿ 是左右openheaded箭头，Unicode 编码为 U+21FF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f0-1801",
+      "symbol": "⟰",
+      "name": "向上quadruple箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上quadruple箭头",
+        "箭头",
+        "向上Quadruple箭头",
+        "Supplemental Arrows-A",
+        "27F0",
+        "U+27F0",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟰ 是向上quadruple箭头，Unicode 编码为 U+27F0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f1-1802",
+      "symbol": "⟱",
+      "name": "向下quadruple箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下quadruple箭头",
+        "箭头",
+        "向下Quadruple箭头",
+        "Supplemental Arrows-A",
+        "27F1",
+        "U+27F1",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟱ 是向下quadruple箭头，Unicode 编码为 U+27F1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f2-1803",
+      "symbol": "⟲",
+      "name": "逆时针gappedcircle箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "逆时针gappedcircle箭头",
+        "箭头",
+        "逆时针GappedCircle箭头",
+        "Supplemental Arrows-A",
+        "27F2",
+        "U+27F2",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟲ 是逆时针gappedcircle箭头，Unicode 编码为 U+27F2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f3-1804",
+      "symbol": "⟳",
+      "name": "顺时针gappedcircle箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "顺时针gappedcircle箭头",
+        "箭头",
+        "顺时针GappedCircle箭头",
+        "Supplemental Arrows-A",
+        "27F3",
+        "U+27F3",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟳ 是顺时针gappedcircle箭头，Unicode 编码为 U+27F3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f4-1805",
+      "symbol": "⟴",
+      "name": "右箭头带circledplus",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右箭头带circledplus",
+        "箭头",
+        "右箭头带CircledPlus",
+        "Supplemental Arrows-A",
+        "27F4",
+        "U+27F4",
+        "方向",
+        "指示",
+        "流程",
+        "arrow",
+        "带圈"
+      ],
+      "notes": "⟴ 是右箭头带circledplus，Unicode 编码为 U+27F4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f5-1806",
+      "symbol": "⟵",
+      "name": "Long向左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向左箭头",
+        "箭头",
+        "Supplemental Arrows-A",
+        "27F5",
+        "U+27F5",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟵ 是 Long向左箭头，Unicode 编码为 U+27F5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f6-1807",
+      "symbol": "⟶",
+      "name": "Long向右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向右箭头",
+        "箭头",
+        "Supplemental Arrows-A",
+        "27F6",
+        "U+27F6",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟶ 是 Long向右箭头，Unicode 编码为 U+27F6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f7-1808",
+      "symbol": "⟷",
+      "name": "Long左右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long左右箭头",
+        "箭头",
+        "Supplemental Arrows-A",
+        "27F7",
+        "U+27F7",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟷ 是 Long左右箭头，Unicode 编码为 U+27F7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f8-1809",
+      "symbol": "⟸",
+      "name": "Long向左双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向左双线箭头",
+        "箭头",
+        "Supplemental Arrows-A",
+        "27F8",
+        "U+27F8",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟸ 是 Long向左双线箭头，Unicode 编码为 U+27F8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27f9-1810",
+      "symbol": "⟹",
+      "name": "Long向右双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向右双线箭头",
+        "箭头",
+        "Supplemental Arrows-A",
+        "27F9",
+        "U+27F9",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟹ 是 Long向右双线箭头，Unicode 编码为 U+27F9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27fa-1811",
+      "symbol": "⟺",
+      "name": "Long左右双线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long左右双线箭头",
+        "箭头",
+        "Supplemental Arrows-A",
+        "27FA",
+        "U+27FA",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟺ 是 Long左右双线箭头，Unicode 编码为 U+27FA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27fb-1812",
+      "symbol": "⟻",
+      "name": "Long向左箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向左箭头frombar",
+        "箭头",
+        "Long向左箭头fromBar",
+        "Supplemental Arrows-A",
+        "27FB",
+        "U+27FB",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟻ 是 Long向左箭头frombar，Unicode 编码为 U+27FB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27fc-1813",
+      "symbol": "⟼",
+      "name": "Long向右箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向右箭头frombar",
+        "箭头",
+        "Long向右箭头fromBar",
+        "Supplemental Arrows-A",
+        "27FC",
+        "U+27FC",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟼ 是 Long向右箭头frombar，Unicode 编码为 U+27FC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27fd-1814",
+      "symbol": "⟽",
+      "name": "Long向左双线箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向左双线箭头frombar",
+        "箭头",
+        "Long向左双线箭头fromBar",
+        "Supplemental Arrows-A",
+        "27FD",
+        "U+27FD",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟽ 是 Long向左双线箭头frombar，Unicode 编码为 U+27FD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27fe-1815",
+      "symbol": "⟾",
+      "name": "Long向右双线箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向右双线箭头frombar",
+        "箭头",
+        "Long向右双线箭头fromBar",
+        "Supplemental Arrows-A",
+        "27FE",
+        "U+27FE",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟾ 是 Long向右双线箭头frombar，Unicode 编码为 U+27FE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-27ff-1816",
+      "symbol": "⟿",
+      "name": "Long向右squiggle箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Long向右squiggle箭头",
+        "箭头",
+        "Long向右Squiggle箭头",
+        "Supplemental Arrows-A",
+        "27FF",
+        "U+27FF",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⟿ 是 Long向右squiggle箭头，Unicode 编码为 U+27FF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2900-1817",
+      "symbol": "⤀",
+      "name": "向右twoheaded箭头带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右twoheaded箭头带verticalstroke",
+        "箭头",
+        "向右TwoHeaded箭头带VerticalStroke",
+        "Supplemental Arrows-B",
+        "2900",
+        "U+2900",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤀ 是向右twoheaded箭头带verticalstroke，Unicode 编码为 U+2900，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2901-1818",
+      "symbol": "⤁",
+      "name": "向右twoheaded箭头带双线verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右twoheaded箭头带双线verticalstroke",
+        "箭头",
+        "向右TwoHeaded箭头带双线VerticalStroke",
+        "Supplemental Arrows-B",
+        "2901",
+        "U+2901",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤁ 是向右twoheaded箭头带双线verticalstroke，Unicode 编码为 U+2901，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2902-1819",
+      "symbol": "⤂",
+      "name": "向左双线箭头带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左双线箭头带verticalstroke",
+        "箭头",
+        "向左双线箭头带VerticalStroke",
+        "Supplemental Arrows-B",
+        "2902",
+        "U+2902",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤂ 是向左双线箭头带verticalstroke，Unicode 编码为 U+2902，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2903-1820",
+      "symbol": "⤃",
+      "name": "向右双线箭头带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右双线箭头带verticalstroke",
+        "箭头",
+        "向右双线箭头带VerticalStroke",
+        "Supplemental Arrows-B",
+        "2903",
+        "U+2903",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤃ 是向右双线箭头带verticalstroke，Unicode 编码为 U+2903，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2904-1821",
+      "symbol": "⤄",
+      "name": "左右双线箭头带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右双线箭头带verticalstroke",
+        "箭头",
+        "左右双线箭头带VerticalStroke",
+        "Supplemental Arrows-B",
+        "2904",
+        "U+2904",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤄ 是左右双线箭头带verticalstroke，Unicode 编码为 U+2904，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2905-1822",
+      "symbol": "⤅",
+      "name": "向右twoheaded箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右twoheaded箭头frombar",
+        "箭头",
+        "向右TwoHeaded箭头fromBar",
+        "Supplemental Arrows-B",
+        "2905",
+        "U+2905",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤅ 是向右twoheaded箭头frombar，Unicode 编码为 U+2905，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2906-1823",
+      "symbol": "⤆",
+      "name": "向左双线箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左双线箭头frombar",
+        "箭头",
+        "向左双线箭头fromBar",
+        "Supplemental Arrows-B",
+        "2906",
+        "U+2906",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤆ 是向左双线箭头frombar，Unicode 编码为 U+2906，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2907-1824",
+      "symbol": "⤇",
+      "name": "向右双线箭头frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右双线箭头frombar",
+        "箭头",
+        "向右双线箭头fromBar",
+        "Supplemental Arrows-B",
+        "2907",
+        "U+2907",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤇ 是向右双线箭头frombar，Unicode 编码为 U+2907，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2908-1825",
+      "symbol": "⤈",
+      "name": "向下箭头带horizontalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带horizontalstroke",
+        "箭头",
+        "向下箭头带HorizontalStroke",
+        "Supplemental Arrows-B",
+        "2908",
+        "U+2908",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤈ 是向下箭头带horizontalstroke，Unicode 编码为 U+2908，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2909-1826",
+      "symbol": "⤉",
+      "name": "向上箭头带horizontalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带horizontalstroke",
+        "箭头",
+        "向上箭头带HorizontalStroke",
+        "Supplemental Arrows-B",
+        "2909",
+        "U+2909",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤉ 是向上箭头带horizontalstroke，Unicode 编码为 U+2909，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-290a-1827",
+      "symbol": "⤊",
+      "name": "向上三重箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上三重箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "290A",
+        "U+290A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤊ 是向上三重箭头，Unicode 编码为 U+290A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-290b-1828",
+      "symbol": "⤋",
+      "name": "向下三重箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下三重箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "290B",
+        "U+290B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤋ 是向下三重箭头，Unicode 编码为 U+290B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-290c-1829",
+      "symbol": "⤌",
+      "name": "向左双线dash箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左双线dash箭头",
+        "箭头",
+        "向左双线Dash箭头",
+        "Supplemental Arrows-B",
+        "290C",
+        "U+290C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤌ 是向左双线dash箭头，Unicode 编码为 U+290C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-290d-1830",
+      "symbol": "⤍",
+      "name": "向右双线dash箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右双线dash箭头",
+        "箭头",
+        "向右双线Dash箭头",
+        "Supplemental Arrows-B",
+        "290D",
+        "U+290D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤍ 是向右双线dash箭头，Unicode 编码为 U+290D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-290e-1831",
+      "symbol": "⤎",
+      "name": "向左三重dash箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左三重dash箭头",
+        "箭头",
+        "向左三重Dash箭头",
+        "Supplemental Arrows-B",
+        "290E",
+        "U+290E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤎ 是向左三重dash箭头，Unicode 编码为 U+290E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-290f-1832",
+      "symbol": "⤏",
+      "name": "向右三重dash箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右三重dash箭头",
+        "箭头",
+        "向右三重Dash箭头",
+        "Supplemental Arrows-B",
+        "290F",
+        "U+290F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤏ 是向右三重dash箭头，Unicode 编码为 U+290F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2910-1833",
+      "symbol": "⤐",
+      "name": "向右twoheaded三重dash箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右twoheaded三重dash箭头",
+        "箭头",
+        "向右TwoHeaded三重Dash箭头",
+        "Supplemental Arrows-B",
+        "2910",
+        "U+2910",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤐ 是向右twoheaded三重dash箭头，Unicode 编码为 U+2910，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2911-1834",
+      "symbol": "⤑",
+      "name": "向右箭头带dottedstem",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带dottedstem",
+        "箭头",
+        "向右箭头带DottedStem",
+        "Supplemental Arrows-B",
+        "2911",
+        "U+2911",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤑ 是向右箭头带dottedstem，Unicode 编码为 U+2911，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2912-1835",
+      "symbol": "⤒",
+      "name": "向上箭头指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2912",
+        "U+2912",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤒ 是向上箭头指向竖线，Unicode 编码为 U+2912，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2913-1836",
+      "symbol": "⤓",
+      "name": "向下箭头指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2913",
+        "U+2913",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤓ 是向下箭头指向竖线，Unicode 编码为 U+2913，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2914-1837",
+      "symbol": "⤔",
+      "name": "向右箭头带tail带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带tail带verticalstroke",
+        "箭头",
+        "向右箭头带Tail带VerticalStroke",
+        "Supplemental Arrows-B",
+        "2914",
+        "U+2914",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤔ 是向右箭头带tail带verticalstroke，Unicode 编码为 U+2914，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2915-1838",
+      "symbol": "⤕",
+      "name": "向右箭头带tail带双线verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带tail带双线verticalstroke",
+        "箭头",
+        "向右箭头带Tail带双线VerticalStroke",
+        "Supplemental Arrows-B",
+        "2915",
+        "U+2915",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤕ 是向右箭头带tail带双线verticalstroke，Unicode 编码为 U+2915，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2916-1839",
+      "symbol": "⤖",
+      "name": "向右twoheaded箭头带tail",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右twoheaded箭头带tail",
+        "箭头",
+        "向右TwoHeaded箭头带Tail",
+        "Supplemental Arrows-B",
+        "2916",
+        "U+2916",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤖ 是向右twoheaded箭头带tail，Unicode 编码为 U+2916，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2917-1840",
+      "symbol": "⤗",
+      "name": "向右twoheaded箭头带tail带verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右twoheaded箭头带tail带verticalstroke",
+        "箭头",
+        "向右TwoHeaded箭头带Tail带VerticalStroke",
+        "Supplemental Arrows-B",
+        "2917",
+        "U+2917",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤗ 是向右twoheaded箭头带tail带verticalstroke，Unicode 编码为 U+2917，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2918-1841",
+      "symbol": "⤘",
+      "name": "向右twoheaded箭头带tail带双线verticalstroke",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右twoheaded箭头带tail带双线verticalstroke",
+        "箭头",
+        "向右TwoHeaded箭头带Tail带双线VerticalStroke",
+        "Supplemental Arrows-B",
+        "2918",
+        "U+2918",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤘ 是向右twoheaded箭头带tail带双线verticalstroke，Unicode 编码为 U+2918，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2919-1842",
+      "symbol": "⤙",
+      "name": "向左箭头tail",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头tail",
+        "箭头",
+        "向左箭头Tail",
+        "Supplemental Arrows-B",
+        "2919",
+        "U+2919",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤙ 是向左箭头tail，Unicode 编码为 U+2919，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-291a-1843",
+      "symbol": "⤚",
+      "name": "向右箭头tail",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头tail",
+        "箭头",
+        "向右箭头Tail",
+        "Supplemental Arrows-B",
+        "291A",
+        "U+291A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤚ 是向右箭头tail，Unicode 编码为 U+291A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-291b-1844",
+      "symbol": "⤛",
+      "name": "向左双线箭头tail",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左双线箭头tail",
+        "箭头",
+        "向左双线箭头Tail",
+        "Supplemental Arrows-B",
+        "291B",
+        "U+291B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤛ 是向左双线箭头tail，Unicode 编码为 U+291B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-291c-1845",
+      "symbol": "⤜",
+      "name": "向右双线箭头tail",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右双线箭头tail",
+        "箭头",
+        "向右双线箭头Tail",
+        "Supplemental Arrows-B",
+        "291C",
+        "U+291C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤜ 是向右双线箭头tail，Unicode 编码为 U+291C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-291d-1846",
+      "symbol": "⤝",
+      "name": "向左箭头to黑色diamond",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头to黑色diamond",
+        "箭头",
+        "向左箭头To黑色Diamond",
+        "Supplemental Arrows-B",
+        "291D",
+        "U+291D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤝ 是向左箭头to黑色diamond，Unicode 编码为 U+291D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-291e-1847",
+      "symbol": "⤞",
+      "name": "向右箭头to黑色diamond",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头to黑色diamond",
+        "箭头",
+        "向右箭头To黑色Diamond",
+        "Supplemental Arrows-B",
+        "291E",
+        "U+291E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤞ 是向右箭头to黑色diamond，Unicode 编码为 U+291E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-291f-1848",
+      "symbol": "⤟",
+      "name": "向左箭头frombarto黑色diamond",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头frombarto黑色diamond",
+        "箭头",
+        "向左箭头fromBarTo黑色Diamond",
+        "Supplemental Arrows-B",
+        "291F",
+        "U+291F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤟ 是向左箭头frombarto黑色diamond，Unicode 编码为 U+291F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2920-1849",
+      "symbol": "⤠",
+      "name": "向右箭头frombarto黑色diamond",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头frombarto黑色diamond",
+        "箭头",
+        "向右箭头fromBarTo黑色Diamond",
+        "Supplemental Arrows-B",
+        "2920",
+        "U+2920",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤠ 是向右箭头frombarto黑色diamond，Unicode 编码为 U+2920，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2921-1850",
+      "symbol": "⤡",
+      "name": "西北and东南箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北and东南箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2921",
+        "U+2921",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤡ 是西北and东南箭头，Unicode 编码为 U+2921，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2922-1851",
+      "symbol": "⤢",
+      "name": "东北and西南箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东北and西南箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2922",
+        "U+2922",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤢ 是东北and西南箭头，Unicode 编码为 U+2922，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2923-1852",
+      "symbol": "⤣",
+      "name": "西北箭头带hook",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北箭头带hook",
+        "箭头",
+        "西北箭头带Hook",
+        "Supplemental Arrows-B",
+        "2923",
+        "U+2923",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤣ 是西北箭头带hook，Unicode 编码为 U+2923，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2924-1853",
+      "symbol": "⤤",
+      "name": "东北箭头带hook",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东北箭头带hook",
+        "箭头",
+        "东北箭头带Hook",
+        "Supplemental Arrows-B",
+        "2924",
+        "U+2924",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤤ 是东北箭头带hook，Unicode 编码为 U+2924，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2925-1854",
+      "symbol": "⤥",
+      "name": "东南箭头带hook",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东南箭头带hook",
+        "箭头",
+        "东南箭头带Hook",
+        "Supplemental Arrows-B",
+        "2925",
+        "U+2925",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤥ 是东南箭头带hook，Unicode 编码为 U+2925，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2926-1855",
+      "symbol": "⤦",
+      "name": "西南箭头带hook",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西南箭头带hook",
+        "箭头",
+        "西南箭头带Hook",
+        "Supplemental Arrows-B",
+        "2926",
+        "U+2926",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤦ 是西南箭头带hook，Unicode 编码为 U+2926，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2927-1856",
+      "symbol": "⤧",
+      "name": "西北箭头and东北箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北箭头and东北箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2927",
+        "U+2927",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤧ 是西北箭头and东北箭头，Unicode 编码为 U+2927，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2928-1857",
+      "symbol": "⤨",
+      "name": "东北箭头and东南箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东北箭头and东南箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2928",
+        "U+2928",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤨ 是东北箭头and东南箭头，Unicode 编码为 U+2928，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2929-1858",
+      "symbol": "⤩",
+      "name": "东南箭头and西南箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东南箭头and西南箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2929",
+        "U+2929",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤩ 是东南箭头and西南箭头，Unicode 编码为 U+2929，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-292a-1859",
+      "symbol": "⤪",
+      "name": "西南箭头and西北箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西南箭头and西北箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "292A",
+        "U+292A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤪ 是西南箭头and西北箭头，Unicode 编码为 U+292A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-292b-1860",
+      "symbol": "⤫",
+      "name": "Rising Diagonal Crossing Falling Diagonal",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Rising Diagonal Crossing Falling Diagonal",
+        "箭头",
+        "Supplemental Arrows-B",
+        "292B",
+        "U+292B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤫ 是 Rising Diagonal Crossing Falling Diagonal，Unicode 编码为 U+292B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-292c-1861",
+      "symbol": "⤬",
+      "name": "Falling Diagonal Crossing Rising Diagonal",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Falling Diagonal Crossing Rising Diagonal",
+        "箭头",
+        "Supplemental Arrows-B",
+        "292C",
+        "U+292C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤬ 是 Falling Diagonal Crossing Rising Diagonal，Unicode 编码为 U+292C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-292d-1862",
+      "symbol": "⤭",
+      "name": "东南箭头crossing东北箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东南箭头crossing东北箭头",
+        "箭头",
+        "东南箭头Crossing东北箭头",
+        "Supplemental Arrows-B",
+        "292D",
+        "U+292D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤭ 是东南箭头crossing东北箭头，Unicode 编码为 U+292D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-292e-1863",
+      "symbol": "⤮",
+      "name": "东北箭头crossing东南箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东北箭头crossing东南箭头",
+        "箭头",
+        "东北箭头Crossing东南箭头",
+        "Supplemental Arrows-B",
+        "292E",
+        "U+292E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤮ 是东北箭头crossing东南箭头，Unicode 编码为 U+292E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-292f-1864",
+      "symbol": "⤯",
+      "name": "Fallingdiagonalcrossing东北箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Fallingdiagonalcrossing东北箭头",
+        "箭头",
+        "FallingDiagonalCrossing东北箭头",
+        "Supplemental Arrows-B",
+        "292F",
+        "U+292F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤯ 是 Fallingdiagonalcrossing东北箭头，Unicode 编码为 U+292F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2930-1865",
+      "symbol": "⤰",
+      "name": "Risingdiagonalcrossing东南箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Risingdiagonalcrossing东南箭头",
+        "箭头",
+        "RisingDiagonalCrossing东南箭头",
+        "Supplemental Arrows-B",
+        "2930",
+        "U+2930",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤰ 是 Risingdiagonalcrossing东南箭头，Unicode 编码为 U+2930，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2931-1866",
+      "symbol": "⤱",
+      "name": "东北箭头crossing西北箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东北箭头crossing西北箭头",
+        "箭头",
+        "东北箭头Crossing西北箭头",
+        "Supplemental Arrows-B",
+        "2931",
+        "U+2931",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤱ 是东北箭头crossing西北箭头，Unicode 编码为 U+2931，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2932-1867",
+      "symbol": "⤲",
+      "name": "西北箭头crossing东北箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北箭头crossing东北箭头",
+        "箭头",
+        "西北箭头Crossing东北箭头",
+        "Supplemental Arrows-B",
+        "2932",
+        "U+2932",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤲ 是西北箭头crossing东北箭头，Unicode 编码为 U+2932，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2933-1868",
+      "symbol": "⤳",
+      "name": "波浪箭头指向directly右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "波浪箭头指向directly右",
+        "箭头",
+        "波浪箭头指向Directly右",
+        "Supplemental Arrows-B",
+        "2933",
+        "U+2933",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤳ 是波浪箭头指向directly右，Unicode 编码为 U+2933，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2934-1869",
+      "symbol": "⤴",
+      "name": "右箭头弯向上",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右箭头弯向上",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2934",
+        "U+2934",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤴ 是右箭头弯向上，Unicode 编码为 U+2934，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2935-1870",
+      "symbol": "⤵",
+      "name": "右箭头弯向下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右箭头弯向下",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2935",
+        "U+2935",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤵ 是右箭头弯向下，Unicode 编码为 U+2935，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2936-1871",
+      "symbol": "⤶",
+      "name": "箭头指向向下再弯向向左",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "箭头指向向下再弯向向左",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2936",
+        "U+2936",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤶ 是箭头指向向下再弯向向左，Unicode 编码为 U+2936，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2937-1872",
+      "symbol": "⤷",
+      "name": "箭头指向向下再弯向向右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "箭头指向向下再弯向向右",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2937",
+        "U+2937",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤷ 是箭头指向向下再弯向向右，Unicode 编码为 U+2937，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2938-1873",
+      "symbol": "⤸",
+      "name": "右sidearc顺时针箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右sidearc顺时针箭头",
+        "箭头",
+        "右SideArc顺时针箭头",
+        "Supplemental Arrows-B",
+        "2938",
+        "U+2938",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤸ 是右sidearc顺时针箭头，Unicode 编码为 U+2938，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2939-1874",
+      "symbol": "⤹",
+      "name": "左sidearc逆时针箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左sidearc逆时针箭头",
+        "箭头",
+        "左SideArc逆时针箭头",
+        "Supplemental Arrows-B",
+        "2939",
+        "U+2939",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤹ 是左sidearc逆时针箭头，Unicode 编码为 U+2939，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-293a-1875",
+      "symbol": "⤺",
+      "name": "Toparc逆时针箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Toparc逆时针箭头",
+        "箭头",
+        "TopArc逆时针箭头",
+        "Supplemental Arrows-B",
+        "293A",
+        "U+293A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤺ 是 Toparc逆时针箭头，Unicode 编码为 U+293A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-293b-1876",
+      "symbol": "⤻",
+      "name": "Bottomarc逆时针箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Bottomarc逆时针箭头",
+        "箭头",
+        "BottomArc逆时针箭头",
+        "Supplemental Arrows-B",
+        "293B",
+        "U+293B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤻ 是 Bottomarc逆时针箭头，Unicode 编码为 U+293B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-293c-1877",
+      "symbol": "⤼",
+      "name": "Toparc顺时针箭头带minus",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Toparc顺时针箭头带minus",
+        "箭头",
+        "TopArc顺时针箭头带Minus",
+        "Supplemental Arrows-B",
+        "293C",
+        "U+293C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤼ 是 Toparc顺时针箭头带minus，Unicode 编码为 U+293C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-293d-1878",
+      "symbol": "⤽",
+      "name": "Toparc逆时针箭头带plus",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Toparc逆时针箭头带plus",
+        "箭头",
+        "TopArc逆时针箭头带Plus",
+        "Supplemental Arrows-B",
+        "293D",
+        "U+293D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤽ 是 Toparc逆时针箭头带plus，Unicode 编码为 U+293D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-293e-1879",
+      "symbol": "⤾",
+      "name": "Lower右semicircular顺时针箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Lower右semicircular顺时针箭头",
+        "箭头",
+        "Lower右Semicircular顺时针箭头",
+        "Supplemental Arrows-B",
+        "293E",
+        "U+293E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤾ 是 Lower右semicircular顺时针箭头，Unicode 编码为 U+293E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-293f-1880",
+      "symbol": "⤿",
+      "name": "Lower左semicircular逆时针箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Lower左semicircular逆时针箭头",
+        "箭头",
+        "Lower左Semicircular逆时针箭头",
+        "Supplemental Arrows-B",
+        "293F",
+        "U+293F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⤿ 是 Lower左semicircular逆时针箭头，Unicode 编码为 U+293F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2940-1881",
+      "symbol": "⥀",
+      "name": "逆时针closedcircle箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "逆时针closedcircle箭头",
+        "箭头",
+        "逆时针ClosedCircle箭头",
+        "Supplemental Arrows-B",
+        "2940",
+        "U+2940",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥀ 是逆时针closedcircle箭头，Unicode 编码为 U+2940，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2941-1882",
+      "symbol": "⥁",
+      "name": "顺时针closedcircle箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "顺时针closedcircle箭头",
+        "箭头",
+        "顺时针ClosedCircle箭头",
+        "Supplemental Arrows-B",
+        "2941",
+        "U+2941",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥁ 是顺时针closedcircle箭头，Unicode 编码为 U+2941，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2942-1883",
+      "symbol": "⥂",
+      "name": "向右箭头在上方short向左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头在上方short向左箭头",
+        "箭头",
+        "向右箭头在上方Short向左箭头",
+        "Supplemental Arrows-B",
+        "2942",
+        "U+2942",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥂ 是向右箭头在上方short向左箭头，Unicode 编码为 U+2942，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2943-1884",
+      "symbol": "⥃",
+      "name": "向左箭头在上方short向右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头在上方short向右箭头",
+        "箭头",
+        "向左箭头在上方Short向右箭头",
+        "Supplemental Arrows-B",
+        "2943",
+        "U+2943",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥃ 是向左箭头在上方short向右箭头，Unicode 编码为 U+2943，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2944-1885",
+      "symbol": "⥄",
+      "name": "Short向右箭头在上方向左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Short向右箭头在上方向左箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2944",
+        "U+2944",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥄ 是 Short向右箭头在上方向左箭头，Unicode 编码为 U+2944，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2945-1886",
+      "symbol": "⥅",
+      "name": "向右箭头带plus在下方",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带plus在下方",
+        "箭头",
+        "向右箭头带Plus在下方",
+        "Supplemental Arrows-B",
+        "2945",
+        "U+2945",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥅ 是向右箭头带plus在下方，Unicode 编码为 U+2945，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2946-1887",
+      "symbol": "⥆",
+      "name": "向左箭头带plus在下方",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带plus在下方",
+        "箭头",
+        "向左箭头带Plus在下方",
+        "Supplemental Arrows-B",
+        "2946",
+        "U+2946",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥆ 是向左箭头带plus在下方，Unicode 编码为 U+2946，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2947-1888",
+      "symbol": "⥇",
+      "name": "向右箭头穿过x",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头穿过x",
+        "箭头",
+        "向右箭头穿过X",
+        "Supplemental Arrows-B",
+        "2947",
+        "U+2947",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥇ 是向右箭头穿过x，Unicode 编码为 U+2947，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2948-1889",
+      "symbol": "⥈",
+      "name": "左右箭头穿过小circle",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右箭头穿过小circle",
+        "箭头",
+        "左右箭头穿过小Circle",
+        "Supplemental Arrows-B",
+        "2948",
+        "U+2948",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥈ 是左右箭头穿过小circle，Unicode 编码为 U+2948，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2949-1890",
+      "symbol": "⥉",
+      "name": "向上twoheaded箭头from小circle",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上twoheaded箭头from小circle",
+        "箭头",
+        "向上TwoHeaded箭头from小Circle",
+        "Supplemental Arrows-B",
+        "2949",
+        "U+2949",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥉ 是向上twoheaded箭头from小circle，Unicode 编码为 U+2949，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-294a-1891",
+      "symbol": "⥊",
+      "name": "左倒钩上右倒钩下鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左倒钩上右倒钩下鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "294A",
+        "U+294A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥊ 是左倒钩上右倒钩下鱼叉箭头，Unicode 编码为 U+294A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-294b-1892",
+      "symbol": "⥋",
+      "name": "左倒钩下右倒钩上鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左倒钩下右倒钩上鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "294B",
+        "U+294B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥋ 是左倒钩下右倒钩上鱼叉箭头，Unicode 编码为 U+294B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-294c-1893",
+      "symbol": "⥌",
+      "name": "上倒钩右下倒钩左鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上倒钩右下倒钩左鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "294C",
+        "U+294C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥌ 是上倒钩右下倒钩左鱼叉箭头，Unicode 编码为 U+294C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-294d-1894",
+      "symbol": "⥍",
+      "name": "上倒钩左下倒钩右鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上倒钩左下倒钩右鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "294D",
+        "U+294D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥍ 是上倒钩左下倒钩右鱼叉箭头，Unicode 编码为 U+294D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-294e-1895",
+      "symbol": "⥎",
+      "name": "左倒钩上右倒钩上鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左倒钩上右倒钩上鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "294E",
+        "U+294E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥎ 是左倒钩上右倒钩上鱼叉箭头，Unicode 编码为 U+294E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-294f-1896",
+      "symbol": "⥏",
+      "name": "上倒钩右下倒钩右鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上倒钩右下倒钩右鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "294F",
+        "U+294F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥏ 是上倒钩右下倒钩右鱼叉箭头，Unicode 编码为 U+294F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2950-1897",
+      "symbol": "⥐",
+      "name": "左倒钩下右倒钩下鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左倒钩下右倒钩下鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2950",
+        "U+2950",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥐ 是左倒钩下右倒钩下鱼叉箭头，Unicode 编码为 U+2950，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2951-1898",
+      "symbol": "⥑",
+      "name": "上倒钩左下倒钩左鱼叉箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上倒钩左下倒钩左鱼叉箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2951",
+        "U+2951",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥑ 是上倒钩左下倒钩左鱼叉箭头，Unicode 编码为 U+2951，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2952-1899",
+      "symbol": "⥒",
+      "name": "向左鱼叉箭头带倒钩上指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩上指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2952",
+        "U+2952",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥒ 是向左鱼叉箭头带倒钩上指向竖线，Unicode 编码为 U+2952，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2953-1900",
+      "symbol": "⥓",
+      "name": "向右鱼叉箭头带倒钩上指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩上指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2953",
+        "U+2953",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥓ 是向右鱼叉箭头带倒钩上指向竖线，Unicode 编码为 U+2953，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2954-1901",
+      "symbol": "⥔",
+      "name": "向上鱼叉箭头带倒钩右指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩右指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2954",
+        "U+2954",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥔ 是向上鱼叉箭头带倒钩右指向竖线，Unicode 编码为 U+2954，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2955-1902",
+      "symbol": "⥕",
+      "name": "向下鱼叉箭头带倒钩右指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩右指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2955",
+        "U+2955",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥕ 是向下鱼叉箭头带倒钩右指向竖线，Unicode 编码为 U+2955，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2956-1903",
+      "symbol": "⥖",
+      "name": "向左鱼叉箭头带倒钩下指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩下指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2956",
+        "U+2956",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥖ 是向左鱼叉箭头带倒钩下指向竖线，Unicode 编码为 U+2956，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2957-1904",
+      "symbol": "⥗",
+      "name": "向右鱼叉箭头带倒钩下指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩下指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2957",
+        "U+2957",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥗ 是向右鱼叉箭头带倒钩下指向竖线，Unicode 编码为 U+2957，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2958-1905",
+      "symbol": "⥘",
+      "name": "向上鱼叉箭头带倒钩左指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩左指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2958",
+        "U+2958",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥘ 是向上鱼叉箭头带倒钩左指向竖线，Unicode 编码为 U+2958，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2959-1906",
+      "symbol": "⥙",
+      "name": "向下鱼叉箭头带倒钩左指向竖线",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩左指向竖线",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2959",
+        "U+2959",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥙ 是向下鱼叉箭头带倒钩左指向竖线，Unicode 编码为 U+2959，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-295a-1907",
+      "symbol": "⥚",
+      "name": "向左鱼叉箭头带倒钩上frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩上frombar",
+        "箭头",
+        "向左鱼叉箭头带倒钩上fromBar",
+        "Supplemental Arrows-B",
+        "295A",
+        "U+295A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥚ 是向左鱼叉箭头带倒钩上frombar，Unicode 编码为 U+295A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-295b-1908",
+      "symbol": "⥛",
+      "name": "向右鱼叉箭头带倒钩上frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩上frombar",
+        "箭头",
+        "向右鱼叉箭头带倒钩上fromBar",
+        "Supplemental Arrows-B",
+        "295B",
+        "U+295B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥛ 是向右鱼叉箭头带倒钩上frombar，Unicode 编码为 U+295B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-295c-1909",
+      "symbol": "⥜",
+      "name": "向上鱼叉箭头带倒钩右frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩右frombar",
+        "箭头",
+        "向上鱼叉箭头带倒钩右fromBar",
+        "Supplemental Arrows-B",
+        "295C",
+        "U+295C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥜ 是向上鱼叉箭头带倒钩右frombar，Unicode 编码为 U+295C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-295d-1910",
+      "symbol": "⥝",
+      "name": "向下鱼叉箭头带倒钩右frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩右frombar",
+        "箭头",
+        "向下鱼叉箭头带倒钩右fromBar",
+        "Supplemental Arrows-B",
+        "295D",
+        "U+295D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥝ 是向下鱼叉箭头带倒钩右frombar，Unicode 编码为 U+295D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-295e-1911",
+      "symbol": "⥞",
+      "name": "向左鱼叉箭头带倒钩下frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩下frombar",
+        "箭头",
+        "向左鱼叉箭头带倒钩下fromBar",
+        "Supplemental Arrows-B",
+        "295E",
+        "U+295E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥞ 是向左鱼叉箭头带倒钩下frombar，Unicode 编码为 U+295E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-295f-1912",
+      "symbol": "⥟",
+      "name": "向右鱼叉箭头带倒钩下frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩下frombar",
+        "箭头",
+        "向右鱼叉箭头带倒钩下fromBar",
+        "Supplemental Arrows-B",
+        "295F",
+        "U+295F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥟ 是向右鱼叉箭头带倒钩下frombar，Unicode 编码为 U+295F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2960-1913",
+      "symbol": "⥠",
+      "name": "向上鱼叉箭头带倒钩左frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩左frombar",
+        "箭头",
+        "向上鱼叉箭头带倒钩左fromBar",
+        "Supplemental Arrows-B",
+        "2960",
+        "U+2960",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥠ 是向上鱼叉箭头带倒钩左frombar，Unicode 编码为 U+2960，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2961-1914",
+      "symbol": "⥡",
+      "name": "向下鱼叉箭头带倒钩左frombar",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩左frombar",
+        "箭头",
+        "向下鱼叉箭头带倒钩左fromBar",
+        "Supplemental Arrows-B",
+        "2961",
+        "U+2961",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥡ 是向下鱼叉箭头带倒钩左frombar，Unicode 编码为 U+2961，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2962-1915",
+      "symbol": "⥢",
+      "name": "向左鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩下",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2962",
+        "U+2962",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥢ 是向左鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩下，Unicode 编码为 U+2962，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2963-1916",
+      "symbol": "⥣",
+      "name": "向上鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
+        "箭头",
+        "向上鱼叉箭头带倒钩左Beside向上鱼叉箭头带倒钩右",
+        "Supplemental Arrows-B",
+        "2963",
+        "U+2963",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥣ 是向上鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右，Unicode 编码为 U+2963，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2964-1917",
+      "symbol": "⥤",
+      "name": "向右鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩下",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2964",
+        "U+2964",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥤ 是向右鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩下，Unicode 编码为 U+2964，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2965-1918",
+      "symbol": "⥥",
+      "name": "向下鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
+        "箭头",
+        "向下鱼叉箭头带倒钩左Beside向下鱼叉箭头带倒钩右",
+        "Supplemental Arrows-B",
+        "2965",
+        "U+2965",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥥ 是向下鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右，Unicode 编码为 U+2965，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2966-1919",
+      "symbol": "⥦",
+      "name": "向左鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩上",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩上",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2966",
+        "U+2966",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥦ 是向左鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩上，Unicode 编码为 U+2966，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2967-1920",
+      "symbol": "⥧",
+      "name": "向左鱼叉箭头带倒钩下在上方向右鱼叉箭头带倒钩下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩下在上方向右鱼叉箭头带倒钩下",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2967",
+        "U+2967",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥧ 是向左鱼叉箭头带倒钩下在上方向右鱼叉箭头带倒钩下，Unicode 编码为 U+2967，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2968-1921",
+      "symbol": "⥨",
+      "name": "向右鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩上",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩上",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2968",
+        "U+2968",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥨ 是向右鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩上，Unicode 编码为 U+2968，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2969-1922",
+      "symbol": "⥩",
+      "name": "向右鱼叉箭头带倒钩下在上方向左鱼叉箭头带倒钩下",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩下在上方向左鱼叉箭头带倒钩下",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2969",
+        "U+2969",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥩ 是向右鱼叉箭头带倒钩下在上方向左鱼叉箭头带倒钩下，Unicode 编码为 U+2969，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-296a-1923",
+      "symbol": "⥪",
+      "name": "向左鱼叉箭头带倒钩上在上方longdash",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩上在上方longdash",
+        "箭头",
+        "向左鱼叉箭头带倒钩上在上方LongDash",
+        "Supplemental Arrows-B",
+        "296A",
+        "U+296A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥪ 是向左鱼叉箭头带倒钩上在上方longdash，Unicode 编码为 U+296A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-296b-1924",
+      "symbol": "⥫",
+      "name": "向左鱼叉箭头带倒钩下在下方longdash",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左鱼叉箭头带倒钩下在下方longdash",
+        "箭头",
+        "向左鱼叉箭头带倒钩下在下方LongDash",
+        "Supplemental Arrows-B",
+        "296B",
+        "U+296B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥫ 是向左鱼叉箭头带倒钩下在下方longdash，Unicode 编码为 U+296B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-296c-1925",
+      "symbol": "⥬",
+      "name": "向右鱼叉箭头带倒钩上在上方longdash",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩上在上方longdash",
+        "箭头",
+        "向右鱼叉箭头带倒钩上在上方LongDash",
+        "Supplemental Arrows-B",
+        "296C",
+        "U+296C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥬ 是向右鱼叉箭头带倒钩上在上方longdash，Unicode 编码为 U+296C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-296d-1926",
+      "symbol": "⥭",
+      "name": "向右鱼叉箭头带倒钩下在下方longdash",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右鱼叉箭头带倒钩下在下方longdash",
+        "箭头",
+        "向右鱼叉箭头带倒钩下在下方LongDash",
+        "Supplemental Arrows-B",
+        "296D",
+        "U+296D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥭ 是向右鱼叉箭头带倒钩下在下方longdash，Unicode 编码为 U+296D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-296e-1927",
+      "symbol": "⥮",
+      "name": "向上鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
+        "箭头",
+        "向上鱼叉箭头带倒钩左Beside向下鱼叉箭头带倒钩右",
+        "Supplemental Arrows-B",
+        "296E",
+        "U+296E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥮ 是向上鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右，Unicode 编码为 U+296E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-296f-1928",
+      "symbol": "⥯",
+      "name": "向下鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
+        "箭头",
+        "向下鱼叉箭头带倒钩左Beside向上鱼叉箭头带倒钩右",
+        "Supplemental Arrows-B",
+        "296F",
+        "U+296F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥯ 是向下鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右，Unicode 编码为 U+296F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2970-1929",
+      "symbol": "⥰",
+      "name": "右双线箭头带roundedhead",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右双线箭头带roundedhead",
+        "箭头",
+        "右双线箭头带RoundedHead",
+        "Supplemental Arrows-B",
+        "2970",
+        "U+2970",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥰ 是右双线箭头带roundedhead，Unicode 编码为 U+2970，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2971-1930",
+      "symbol": "⥱",
+      "name": "Equalssign在上方向右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Equalssign在上方向右箭头",
+        "箭头",
+        "EqualsSign在上方向右箭头",
+        "Supplemental Arrows-B",
+        "2971",
+        "U+2971",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥱ 是 Equalssign在上方向右箭头，Unicode 编码为 U+2971，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2972-1931",
+      "symbol": "⥲",
+      "name": "Tildeoperator在上方向右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "Tildeoperator在上方向右箭头",
+        "箭头",
+        "TildeOperator在上方向右箭头",
+        "Supplemental Arrows-B",
+        "2972",
+        "U+2972",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥲ 是 Tildeoperator在上方向右箭头，Unicode 编码为 U+2972，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2973-1932",
+      "symbol": "⥳",
+      "name": "向左箭头在上方tildeoperator",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头在上方tildeoperator",
+        "箭头",
+        "向左箭头在上方TildeOperator",
+        "Supplemental Arrows-B",
+        "2973",
+        "U+2973",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥳ 是向左箭头在上方tildeoperator，Unicode 编码为 U+2973，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2974-1933",
+      "symbol": "⥴",
+      "name": "向右箭头在上方tildeoperator",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头在上方tildeoperator",
+        "箭头",
+        "向右箭头在上方TildeOperator",
+        "Supplemental Arrows-B",
+        "2974",
+        "U+2974",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥴ 是向右箭头在上方tildeoperator，Unicode 编码为 U+2974，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2975-1934",
+      "symbol": "⥵",
+      "name": "向右箭头在上方almostequalto",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头在上方almostequalto",
+        "箭头",
+        "向右箭头在上方AlmostEqualTo",
+        "Supplemental Arrows-B",
+        "2975",
+        "U+2975",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥵ 是向右箭头在上方almostequalto，Unicode 编码为 U+2975，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2976-1935",
+      "symbol": "⥶",
+      "name": "小于号在上方向左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "小于号在上方向左箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2976",
+        "U+2976",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥶ 是小于号在上方向左箭头，Unicode 编码为 U+2976，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2977-1936",
+      "symbol": "⥷",
+      "name": "向左箭头穿过小于号",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头穿过小于号",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2977",
+        "U+2977",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥷ 是向左箭头穿过小于号，Unicode 编码为 U+2977，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2978-1937",
+      "symbol": "⥸",
+      "name": "大于号在上方向右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "大于号在上方向右箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2978",
+        "U+2978",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥸ 是大于号在上方向右箭头，Unicode 编码为 U+2978，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2979-1938",
+      "symbol": "⥹",
+      "name": "子集在上方向右箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "子集在上方向右箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "2979",
+        "U+2979",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥹ 是子集在上方向右箭头，Unicode 编码为 U+2979，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-297a-1939",
+      "symbol": "⥺",
+      "name": "向左箭头穿过子集",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头穿过子集",
+        "箭头",
+        "Supplemental Arrows-B",
+        "297A",
+        "U+297A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥺ 是向左箭头穿过子集，Unicode 编码为 U+297A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-297b-1940",
+      "symbol": "⥻",
+      "name": "超集在上方向左箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "超集在上方向左箭头",
+        "箭头",
+        "Supplemental Arrows-B",
+        "297B",
+        "U+297B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥻ 是超集在上方向左箭头，Unicode 编码为 U+297B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-297c-1941",
+      "symbol": "⥼",
+      "name": "左鱼尾",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左鱼尾",
+        "箭头",
+        "Supplemental Arrows-B",
+        "297C",
+        "U+297C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥼ 是左鱼尾，Unicode 编码为 U+297C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-297d-1942",
+      "symbol": "⥽",
+      "name": "右鱼尾",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右鱼尾",
+        "箭头",
+        "Supplemental Arrows-B",
+        "297D",
+        "U+297D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥽ 是右鱼尾，Unicode 编码为 U+297D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-297e-1943",
+      "symbol": "⥾",
+      "name": "上鱼尾",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上鱼尾",
+        "箭头",
+        "Supplemental Arrows-B",
+        "297E",
+        "U+297E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥾ 是上鱼尾，Unicode 编码为 U+297E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-297f-1944",
+      "symbol": "⥿",
+      "name": "下鱼尾",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "下鱼尾",
+        "箭头",
+        "Supplemental Arrows-B",
+        "297F",
+        "U+297F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "⥿ 是下鱼尾，Unicode 编码为 U+297F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f800-1945",
+      "symbol": "🠀",
+      "name": "向左箭头带小三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带小三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F800",
+        "U+1F800",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠀 是向左箭头带小三角箭头尖，Unicode 编码为 U+1F800，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f801-1946",
+      "symbol": "🠁",
+      "name": "向上箭头带小三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带小三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F801",
+        "U+1F801",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠁 是向上箭头带小三角箭头尖，Unicode 编码为 U+1F801，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f802-1947",
+      "symbol": "🠂",
+      "name": "向右箭头带小三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带小三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F802",
+        "U+1F802",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠂 是向右箭头带小三角箭头尖，Unicode 编码为 U+1F802，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f803-1948",
+      "symbol": "🠃",
+      "name": "向下箭头带小三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带小三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F803",
+        "U+1F803",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠃 是向下箭头带小三角箭头尖，Unicode 编码为 U+1F803，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f804-1949",
+      "symbol": "🠄",
+      "name": "向左箭头带中等三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带中等三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F804",
+        "U+1F804",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠄 是向左箭头带中等三角箭头尖，Unicode 编码为 U+1F804，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f805-1950",
+      "symbol": "🠅",
+      "name": "向上箭头带中等三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带中等三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F805",
+        "U+1F805",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠅 是向上箭头带中等三角箭头尖，Unicode 编码为 U+1F805，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f806-1951",
+      "symbol": "🠆",
+      "name": "向右箭头带中等三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带中等三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F806",
+        "U+1F806",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠆 是向右箭头带中等三角箭头尖，Unicode 编码为 U+1F806，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f807-1952",
+      "symbol": "🠇",
+      "name": "向下箭头带中等三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带中等三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F807",
+        "U+1F807",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠇 是向下箭头带中等三角箭头尖，Unicode 编码为 U+1F807，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f808-1953",
+      "symbol": "🠈",
+      "name": "向左箭头带大三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带大三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F808",
+        "U+1F808",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠈 是向左箭头带大三角箭头尖，Unicode 编码为 U+1F808，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f809-1954",
+      "symbol": "🠉",
+      "name": "向上箭头带大三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带大三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F809",
+        "U+1F809",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠉 是向上箭头带大三角箭头尖，Unicode 编码为 U+1F809，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f80a-1955",
+      "symbol": "🠊",
+      "name": "向右箭头带大三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带大三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F80A",
+        "U+1F80A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠊 是向右箭头带大三角箭头尖，Unicode 编码为 U+1F80A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f80b-1956",
+      "symbol": "🠋",
+      "name": "向下箭头带大三角箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带大三角箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F80B",
+        "U+1F80B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠋 是向下箭头带大三角箭头尖，Unicode 编码为 U+1F80B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f810-1957",
+      "symbol": "🠐",
+      "name": "向左箭头带小等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带小等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F810",
+        "U+1F810",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠐 是向左箭头带小等边箭头尖，Unicode 编码为 U+1F810，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f811-1958",
+      "symbol": "🠑",
+      "name": "向上箭头带小等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带小等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F811",
+        "U+1F811",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠑 是向上箭头带小等边箭头尖，Unicode 编码为 U+1F811，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f812-1959",
+      "symbol": "🠒",
+      "name": "向右箭头带小等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带小等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F812",
+        "U+1F812",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠒 是向右箭头带小等边箭头尖，Unicode 编码为 U+1F812，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f813-1960",
+      "symbol": "🠓",
+      "name": "向下箭头带小等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带小等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F813",
+        "U+1F813",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠓 是向下箭头带小等边箭头尖，Unicode 编码为 U+1F813，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f814-1961",
+      "symbol": "🠔",
+      "name": "向左箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F814",
+        "U+1F814",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠔 是向左箭头带等边箭头尖，Unicode 编码为 U+1F814，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f815-1962",
+      "symbol": "🠕",
+      "name": "向上箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F815",
+        "U+1F815",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠕 是向上箭头带等边箭头尖，Unicode 编码为 U+1F815，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f816-1963",
+      "symbol": "🠖",
+      "name": "向右箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F816",
+        "U+1F816",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠖 是向右箭头带等边箭头尖，Unicode 编码为 U+1F816，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f817-1964",
+      "symbol": "🠗",
+      "name": "向下箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F817",
+        "U+1F817",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠗 是向下箭头带等边箭头尖，Unicode 编码为 U+1F817，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f818-1965",
+      "symbol": "🠘",
+      "name": "粗向左箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向左箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F818",
+        "U+1F818",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠘 是粗向左箭头带等边箭头尖，Unicode 编码为 U+1F818，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f819-1966",
+      "symbol": "🠙",
+      "name": "粗向上箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向上箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F819",
+        "U+1F819",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠙 是粗向上箭头带等边箭头尖，Unicode 编码为 U+1F819，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f81a-1967",
+      "symbol": "🠚",
+      "name": "粗向右箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向右箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F81A",
+        "U+1F81A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠚 是粗向右箭头带等边箭头尖，Unicode 编码为 U+1F81A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f81b-1968",
+      "symbol": "🠛",
+      "name": "粗向下箭头带等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向下箭头带等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F81B",
+        "U+1F81B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠛 是粗向下箭头带等边箭头尖，Unicode 编码为 U+1F81B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f81c-1969",
+      "symbol": "🠜",
+      "name": "粗向左箭头带大等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向左箭头带大等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F81C",
+        "U+1F81C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠜 是粗向左箭头带大等边箭头尖，Unicode 编码为 U+1F81C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f81d-1970",
+      "symbol": "🠝",
+      "name": "粗向上箭头带大等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向上箭头带大等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F81D",
+        "U+1F81D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠝 是粗向上箭头带大等边箭头尖，Unicode 编码为 U+1F81D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f81e-1971",
+      "symbol": "🠞",
+      "name": "粗向右箭头带大等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向右箭头带大等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F81E",
+        "U+1F81E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠞 是粗向右箭头带大等边箭头尖，Unicode 编码为 U+1F81E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f81f-1972",
+      "symbol": "🠟",
+      "name": "粗向下箭头带大等边箭头尖",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗向下箭头带大等边箭头尖",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F81F",
+        "U+1F81F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠟 是粗向下箭头带大等边箭头尖，Unicode 编码为 U+1F81F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f820-1973",
+      "symbol": "🠠",
+      "name": "向左三角头箭头带窄箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左三角头箭头带窄箭杆",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F820",
+        "U+1F820",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠠 是向左三角头箭头带窄箭杆，Unicode 编码为 U+1F820，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f821-1974",
+      "symbol": "🠡",
+      "name": "向上三角头箭头带窄箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上三角头箭头带窄箭杆",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F821",
+        "U+1F821",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠡 是向上三角头箭头带窄箭杆，Unicode 编码为 U+1F821，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f822-1975",
+      "symbol": "🠢",
+      "name": "向右三角头箭头带窄箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右三角头箭头带窄箭杆",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F822",
+        "U+1F822",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠢 是向右三角头箭头带窄箭杆，Unicode 编码为 U+1F822，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f823-1976",
+      "symbol": "🠣",
+      "name": "向下三角头箭头带窄箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下三角头箭头带窄箭杆",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F823",
+        "U+1F823",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠣 是向下三角头箭头带窄箭杆，Unicode 编码为 U+1F823，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f824-1977",
+      "symbol": "🠤",
+      "name": "向左三角头箭头带中等箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左三角头箭头带中等箭杆",
+        "箭头",
+        "向左三角头箭头带中等箭杆",
+        "Supplemental Arrows-C",
+        "1F824",
+        "U+1F824",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠤 是向左三角头箭头带中等箭杆，Unicode 编码为 U+1F824，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f825-1978",
+      "symbol": "🠥",
+      "name": "向上三角头箭头带中等箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上三角头箭头带中等箭杆",
+        "箭头",
+        "向上三角头箭头带中等箭杆",
+        "Supplemental Arrows-C",
+        "1F825",
+        "U+1F825",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠥 是向上三角头箭头带中等箭杆，Unicode 编码为 U+1F825，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f826-1979",
+      "symbol": "🠦",
+      "name": "向右三角头箭头带中等箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右三角头箭头带中等箭杆",
+        "箭头",
+        "向右三角头箭头带中等箭杆",
+        "Supplemental Arrows-C",
+        "1F826",
+        "U+1F826",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠦 是向右三角头箭头带中等箭杆，Unicode 编码为 U+1F826，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f827-1980",
+      "symbol": "🠧",
+      "name": "向下三角头箭头带中等箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下三角头箭头带中等箭杆",
+        "箭头",
+        "向下三角头箭头带中等箭杆",
+        "Supplemental Arrows-C",
+        "1F827",
+        "U+1F827",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠧 是向下三角头箭头带中等箭杆，Unicode 编码为 U+1F827，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f828-1981",
+      "symbol": "🠨",
+      "name": "向左三角头箭头带粗体箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左三角头箭头带粗体箭杆",
+        "箭头",
+        "向左三角头箭头带粗体箭杆",
+        "Supplemental Arrows-C",
+        "1F828",
+        "U+1F828",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠨 是向左三角头箭头带粗体箭杆，Unicode 编码为 U+1F828，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f829-1982",
+      "symbol": "🠩",
+      "name": "向上三角头箭头带粗体箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上三角头箭头带粗体箭杆",
+        "箭头",
+        "向上三角头箭头带粗体箭杆",
+        "Supplemental Arrows-C",
+        "1F829",
+        "U+1F829",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠩 是向上三角头箭头带粗体箭杆，Unicode 编码为 U+1F829，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f82a-1983",
+      "symbol": "🠪",
+      "name": "向右三角头箭头带粗体箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右三角头箭头带粗体箭杆",
+        "箭头",
+        "向右三角头箭头带粗体箭杆",
+        "Supplemental Arrows-C",
+        "1F82A",
+        "U+1F82A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠪 是向右三角头箭头带粗体箭杆，Unicode 编码为 U+1F82A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f82b-1984",
+      "symbol": "🠫",
+      "name": "向下三角头箭头带粗体箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下三角头箭头带粗体箭杆",
+        "箭头",
+        "向下三角头箭头带粗体箭杆",
+        "Supplemental Arrows-C",
+        "1F82B",
+        "U+1F82B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠫 是向下三角头箭头带粗体箭杆，Unicode 编码为 U+1F82B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f82c-1985",
+      "symbol": "🠬",
+      "name": "向左三角头箭头带粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左三角头箭头带粗箭杆",
+        "箭头",
+        "向左三角头箭头带粗箭杆",
+        "Supplemental Arrows-C",
+        "1F82C",
+        "U+1F82C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠬 是向左三角头箭头带粗箭杆，Unicode 编码为 U+1F82C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f82d-1986",
+      "symbol": "🠭",
+      "name": "向上三角头箭头带粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上三角头箭头带粗箭杆",
+        "箭头",
+        "向上三角头箭头带粗箭杆",
+        "Supplemental Arrows-C",
+        "1F82D",
+        "U+1F82D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠭 是向上三角头箭头带粗箭杆，Unicode 编码为 U+1F82D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f82e-1987",
+      "symbol": "🠮",
+      "name": "向右三角头箭头带粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右三角头箭头带粗箭杆",
+        "箭头",
+        "向右三角头箭头带粗箭杆",
+        "Supplemental Arrows-C",
+        "1F82E",
+        "U+1F82E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠮 是向右三角头箭头带粗箭杆，Unicode 编码为 U+1F82E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f82f-1988",
+      "symbol": "🠯",
+      "name": "向下三角头箭头带粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下三角头箭头带粗箭杆",
+        "箭头",
+        "向下三角头箭头带粗箭杆",
+        "Supplemental Arrows-C",
+        "1F82F",
+        "U+1F82F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠯 是向下三角头箭头带粗箭杆，Unicode 编码为 U+1F82F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f830-1989",
+      "symbol": "🠰",
+      "name": "向左三角头箭头带特粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左三角头箭头带特粗箭杆",
+        "箭头",
+        "向左三角头箭头带特粗箭杆",
+        "Supplemental Arrows-C",
+        "1F830",
+        "U+1F830",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠰 是向左三角头箭头带特粗箭杆，Unicode 编码为 U+1F830，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f831-1990",
+      "symbol": "🠱",
+      "name": "向上三角头箭头带特粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上三角头箭头带特粗箭杆",
+        "箭头",
+        "向上三角头箭头带特粗箭杆",
+        "Supplemental Arrows-C",
+        "1F831",
+        "U+1F831",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠱 是向上三角头箭头带特粗箭杆，Unicode 编码为 U+1F831，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f832-1991",
+      "symbol": "🠲",
+      "name": "向右三角头箭头带特粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右三角头箭头带特粗箭杆",
+        "箭头",
+        "向右三角头箭头带特粗箭杆",
+        "Supplemental Arrows-C",
+        "1F832",
+        "U+1F832",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠲 是向右三角头箭头带特粗箭杆，Unicode 编码为 U+1F832，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f833-1992",
+      "symbol": "🠳",
+      "name": "向下三角头箭头带特粗箭杆",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下三角头箭头带特粗箭杆",
+        "箭头",
+        "向下三角头箭头带特粗箭杆",
+        "Supplemental Arrows-C",
+        "1F833",
+        "U+1F833",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠳 是向下三角头箭头带特粗箭杆，Unicode 编码为 U+1F833，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f834-1993",
+      "symbol": "🠴",
+      "name": "向左指示牌箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左指示牌箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F834",
+        "U+1F834",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠴 是向左指示牌箭头，Unicode 编码为 U+1F834，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f835-1994",
+      "symbol": "🠵",
+      "name": "向上指示牌箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上指示牌箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F835",
+        "U+1F835",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠵 是向上指示牌箭头，Unicode 编码为 U+1F835，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f836-1995",
+      "symbol": "🠶",
+      "name": "向右指示牌箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右指示牌箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F836",
+        "U+1F836",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠶 是向右指示牌箭头，Unicode 编码为 U+1F836，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f837-1996",
+      "symbol": "🠷",
+      "name": "向下指示牌箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下指示牌箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F837",
+        "U+1F837",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠷 是向下指示牌箭头，Unicode 编码为 U+1F837，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f838-1997",
+      "symbol": "🠸",
+      "name": "向左方框箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左方框箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F838",
+        "U+1F838",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠸 是向左方框箭头，Unicode 编码为 U+1F838，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f839-1998",
+      "symbol": "🠹",
+      "name": "向上方框箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上方框箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F839",
+        "U+1F839",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠹 是向上方框箭头，Unicode 编码为 U+1F839，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f83a-1999",
+      "symbol": "🠺",
+      "name": "向右方框箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右方框箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F83A",
+        "U+1F83A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠺 是向右方框箭头，Unicode 编码为 U+1F83A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f83b-2000",
+      "symbol": "🠻",
+      "name": "向下方框箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下方框箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F83B",
+        "U+1F83B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠻 是向下方框箭头，Unicode 编码为 U+1F83B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f83c-2001",
+      "symbol": "🠼",
+      "name": "向左压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F83C",
+        "U+1F83C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠼 是向左压缩箭头，Unicode 编码为 U+1F83C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f83d-2002",
+      "symbol": "🠽",
+      "name": "向上压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F83D",
+        "U+1F83D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠽 是向上压缩箭头，Unicode 编码为 U+1F83D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f83e-2003",
+      "symbol": "🠾",
+      "name": "向右压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F83E",
+        "U+1F83E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠾 是向右压缩箭头，Unicode 编码为 U+1F83E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f83f-2004",
+      "symbol": "🠿",
+      "name": "向下压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F83F",
+        "U+1F83F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🠿 是向下压缩箭头，Unicode 编码为 U+1F83F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f840-2005",
+      "symbol": "🡀",
+      "name": "向左粗压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左粗压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F840",
+        "U+1F840",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡀 是向左粗压缩箭头，Unicode 编码为 U+1F840，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f841-2006",
+      "symbol": "🡁",
+      "name": "向上粗压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上粗压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F841",
+        "U+1F841",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡁 是向上粗压缩箭头，Unicode 编码为 U+1F841，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f842-2007",
+      "symbol": "🡂",
+      "name": "向右粗压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右粗压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F842",
+        "U+1F842",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡂 是向右粗压缩箭头，Unicode 编码为 U+1F842，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f843-2008",
+      "symbol": "🡃",
+      "name": "向下粗压缩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下粗压缩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F843",
+        "U+1F843",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡃 是向下粗压缩箭头，Unicode 编码为 U+1F843，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f844-2009",
+      "symbol": "🡄",
+      "name": "向左粗箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左粗箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F844",
+        "U+1F844",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡄 是向左粗箭头，Unicode 编码为 U+1F844，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f845-2010",
+      "symbol": "🡅",
+      "name": "向上粗箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上粗箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F845",
+        "U+1F845",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡅 是向上粗箭头，Unicode 编码为 U+1F845，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f846-2011",
+      "symbol": "🡆",
+      "name": "向右粗箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右粗箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F846",
+        "U+1F846",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡆 是向右粗箭头，Unicode 编码为 U+1F846，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f847-2012",
+      "symbol": "🡇",
+      "name": "向下粗箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下粗箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F847",
+        "U+1F847",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡇 是向下粗箭头，Unicode 编码为 U+1F847，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f850-2013",
+      "symbol": "🡐",
+      "name": "向左无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向左无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F850",
+        "U+1F850",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡐 是向左无衬线箭头，Unicode 编码为 U+1F850，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f851-2014",
+      "symbol": "🡑",
+      "name": "向上无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向上无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F851",
+        "U+1F851",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡑 是向上无衬线箭头，Unicode 编码为 U+1F851，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f852-2015",
+      "symbol": "🡒",
+      "name": "向右无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向右无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F852",
+        "U+1F852",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡒 是向右无衬线箭头，Unicode 编码为 U+1F852，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f853-2016",
+      "symbol": "🡓",
+      "name": "向下无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "向下无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F853",
+        "U+1F853",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡓 是向下无衬线箭头，Unicode 编码为 U+1F853，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f854-2017",
+      "symbol": "🡔",
+      "name": "西北无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西北无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F854",
+        "U+1F854",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡔 是西北无衬线箭头，Unicode 编码为 U+1F854，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f855-2018",
+      "symbol": "🡕",
+      "name": "东北无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东北无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F855",
+        "U+1F855",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡕 是东北无衬线箭头，Unicode 编码为 U+1F855，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f856-2019",
+      "symbol": "🡖",
+      "name": "东南无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "东南无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F856",
+        "U+1F856",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡖 是东南无衬线箭头，Unicode 编码为 U+1F856，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f857-2020",
+      "symbol": "🡗",
+      "name": "西南无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "西南无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F857",
+        "U+1F857",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡗 是西南无衬线箭头，Unicode 编码为 U+1F857，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f858-2021",
+      "symbol": "🡘",
+      "name": "左右无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左右无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F858",
+        "U+1F858",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡘 是左右无衬线箭头，Unicode 编码为 U+1F858，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f859-2022",
+      "symbol": "🡙",
+      "name": "上下无衬线箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "上下无衬线箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F859",
+        "U+1F859",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡙 是上下无衬线箭头，Unicode 编码为 U+1F859，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f860-2023",
+      "symbol": "🡠",
+      "name": "宽头向左细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向左细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F860",
+        "U+1F860",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡠 是宽头向左细倒钩箭头，Unicode 编码为 U+1F860，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f861-2024",
+      "symbol": "🡡",
+      "name": "宽头向上细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向上细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F861",
+        "U+1F861",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡡 是宽头向上细倒钩箭头，Unicode 编码为 U+1F861，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f862-2025",
+      "symbol": "🡢",
+      "name": "宽头向右细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向右细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F862",
+        "U+1F862",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡢 是宽头向右细倒钩箭头，Unicode 编码为 U+1F862，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f863-2026",
+      "symbol": "🡣",
+      "name": "宽头向下细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向下细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F863",
+        "U+1F863",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡣 是宽头向下细倒钩箭头，Unicode 编码为 U+1F863，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f864-2027",
+      "symbol": "🡤",
+      "name": "宽头西北细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头西北细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F864",
+        "U+1F864",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡤 是宽头西北细倒钩箭头，Unicode 编码为 U+1F864，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f865-2028",
+      "symbol": "🡥",
+      "name": "宽头东北细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头东北细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F865",
+        "U+1F865",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡥 是宽头东北细倒钩箭头，Unicode 编码为 U+1F865，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f866-2029",
+      "symbol": "🡦",
+      "name": "宽头东南细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头东南细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F866",
+        "U+1F866",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡦 是宽头东南细倒钩箭头，Unicode 编码为 U+1F866，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f867-2030",
+      "symbol": "🡧",
+      "name": "宽头西南细倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头西南细倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F867",
+        "U+1F867",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡧 是宽头西南细倒钩箭头，Unicode 编码为 U+1F867，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f868-2031",
+      "symbol": "🡨",
+      "name": "宽头向左倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向左倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F868",
+        "U+1F868",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡨 是宽头向左倒钩箭头，Unicode 编码为 U+1F868，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f869-2032",
+      "symbol": "🡩",
+      "name": "宽头向上倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向上倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F869",
+        "U+1F869",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡩 是宽头向上倒钩箭头，Unicode 编码为 U+1F869，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f86a-2033",
+      "symbol": "🡪",
+      "name": "宽头向右倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向右倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F86A",
+        "U+1F86A",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡪 是宽头向右倒钩箭头，Unicode 编码为 U+1F86A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f86b-2034",
+      "symbol": "🡫",
+      "name": "宽头向下倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向下倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F86B",
+        "U+1F86B",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡫 是宽头向下倒钩箭头，Unicode 编码为 U+1F86B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f86c-2035",
+      "symbol": "🡬",
+      "name": "宽头西北倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头西北倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F86C",
+        "U+1F86C",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡬 是宽头西北倒钩箭头，Unicode 编码为 U+1F86C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f86d-2036",
+      "symbol": "🡭",
+      "name": "宽头东北倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头东北倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F86D",
+        "U+1F86D",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡭 是宽头东北倒钩箭头，Unicode 编码为 U+1F86D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f86e-2037",
+      "symbol": "🡮",
+      "name": "宽头东南倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头东南倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F86E",
+        "U+1F86E",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡮 是宽头东南倒钩箭头，Unicode 编码为 U+1F86E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f86f-2038",
+      "symbol": "🡯",
+      "name": "宽头西南倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头西南倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F86F",
+        "U+1F86F",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡯 是宽头西南倒钩箭头，Unicode 编码为 U+1F86F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f870-2039",
+      "symbol": "🡰",
+      "name": "宽头向左中等倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向左中等倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F870",
+        "U+1F870",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡰 是宽头向左中等倒钩箭头，Unicode 编码为 U+1F870，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f871-2040",
+      "symbol": "🡱",
+      "name": "宽头向上中等倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向上中等倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F871",
+        "U+1F871",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡱 是宽头向上中等倒钩箭头，Unicode 编码为 U+1F871，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f872-2041",
+      "symbol": "🡲",
+      "name": "宽头向右中等倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向右中等倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F872",
+        "U+1F872",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡲 是宽头向右中等倒钩箭头，Unicode 编码为 U+1F872，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f873-2042",
+      "symbol": "🡳",
+      "name": "宽头向下中等倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头向下中等倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F873",
+        "U+1F873",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡳 是宽头向下中等倒钩箭头，Unicode 编码为 U+1F873，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f874-2043",
+      "symbol": "🡴",
+      "name": "宽头西北中等倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头西北中等倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F874",
+        "U+1F874",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡴 是宽头西北中等倒钩箭头，Unicode 编码为 U+1F874，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f875-2044",
+      "symbol": "🡵",
+      "name": "宽头东北中等倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头东北中等倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F875",
+        "U+1F875",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡵 是宽头东北中等倒钩箭头，Unicode 编码为 U+1F875，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-1f876-2045",
+      "symbol": "🡶",
+      "name": "宽头东南中等倒钩箭头",
+      "pronunciation": "",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "宽头东南中等倒钩箭头",
+        "箭头",
+        "Supplemental Arrows-C",
+        "1F876",
+        "U+1F876",
+        "方向",
+        "指示",
+        "流程",
+        "arrow"
+      ],
+      "notes": "🡶 是宽头东南中等倒钩箭头，Unicode 编码为 U+1F876，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    }
+  ]
+}

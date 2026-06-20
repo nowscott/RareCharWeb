@@ -1,6 +1,6 @@
 {
   "category": "字母",
-  "total": 201,
+  "total": 333,
   "items": [
     {
       "id": "symbol-2133-216",
@@ -4251,6 +4251,2647 @@
         "方框"
       ],
       "notes": "🄴 是方框大写字母 E，Unicode 编码为 U+1F134，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f135-1546",
+      "symbol": "🄵",
+      "name": "方框大写字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 F",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F135",
+        "U+1F135",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄵 是方框大写字母 F，Unicode 编码为 U+1F135，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f136-1547",
+      "symbol": "🄶",
+      "name": "方框大写字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 G",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F136",
+        "U+1F136",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄶 是方框大写字母 G，Unicode 编码为 U+1F136，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f137-1548",
+      "symbol": "🄷",
+      "name": "方框大写字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 H",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F137",
+        "U+1F137",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄷 是方框大写字母 H，Unicode 编码为 U+1F137，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f138-1549",
+      "symbol": "🄸",
+      "name": "方框大写字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 I",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F138",
+        "U+1F138",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄸 是方框大写字母 I，Unicode 编码为 U+1F138，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f139-1550",
+      "symbol": "🄹",
+      "name": "方框大写字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 J",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F139",
+        "U+1F139",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄹 是方框大写字母 J，Unicode 编码为 U+1F139，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f13a-1551",
+      "symbol": "🄺",
+      "name": "方框大写字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 K",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F13A",
+        "U+1F13A",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄺 是方框大写字母 K，Unicode 编码为 U+1F13A，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f13b-1552",
+      "symbol": "🄻",
+      "name": "方框大写字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 L",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F13B",
+        "U+1F13B",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄻 是方框大写字母 L，Unicode 编码为 U+1F13B，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f13c-1553",
+      "symbol": "🄼",
+      "name": "方框大写字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 M",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F13C",
+        "U+1F13C",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄼 是方框大写字母 M，Unicode 编码为 U+1F13C，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f13d-1554",
+      "symbol": "🄽",
+      "name": "方框大写字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 N",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F13D",
+        "U+1F13D",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄽 是方框大写字母 N，Unicode 编码为 U+1F13D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f13e-1555",
+      "symbol": "🄾",
+      "name": "方框大写字母 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 O",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F13E",
+        "U+1F13E",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄾 是方框大写字母 O，Unicode 编码为 U+1F13E，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f13f-1556",
+      "symbol": "🄿",
+      "name": "方框大写字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 P",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F13F",
+        "U+1F13F",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🄿 是方框大写字母 P，Unicode 编码为 U+1F13F，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f140-1557",
+      "symbol": "🅀",
+      "name": "方框大写字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 Q",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F140",
+        "U+1F140",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅀 是方框大写字母 Q，Unicode 编码为 U+1F140，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f141-1558",
+      "symbol": "🅁",
+      "name": "方框大写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 R",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F141",
+        "U+1F141",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅁 是方框大写字母 R，Unicode 编码为 U+1F141，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f142-1559",
+      "symbol": "🅂",
+      "name": "方框大写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 S",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F142",
+        "U+1F142",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅂 是方框大写字母 S，Unicode 编码为 U+1F142，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f143-1560",
+      "symbol": "🅃",
+      "name": "方框大写字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 T",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F143",
+        "U+1F143",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅃 是方框大写字母 T，Unicode 编码为 U+1F143，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f144-1561",
+      "symbol": "🅄",
+      "name": "方框大写字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 U",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F144",
+        "U+1F144",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅄 是方框大写字母 U，Unicode 编码为 U+1F144，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f145-1562",
+      "symbol": "🅅",
+      "name": "方框大写字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 V",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F145",
+        "U+1F145",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅅 是方框大写字母 V，Unicode 编码为 U+1F145，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f146-1563",
+      "symbol": "🅆",
+      "name": "方框大写字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 W",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F146",
+        "U+1F146",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅆 是方框大写字母 W，Unicode 编码为 U+1F146，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f147-1564",
+      "symbol": "🅇",
+      "name": "方框大写字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 X",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F147",
+        "U+1F147",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅇 是方框大写字母 X，Unicode 编码为 U+1F147，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f148-1565",
+      "symbol": "🅈",
+      "name": "方框大写字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 Y",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F148",
+        "U+1F148",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅈 是方框大写字母 Y，Unicode 编码为 U+1F148，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f149-1566",
+      "symbol": "🅉",
+      "name": "方框大写字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框大写字母 Z",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F149",
+        "U+1F149",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅉 是方框大写字母 Z，Unicode 编码为 U+1F149，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f14a-1567",
+      "symbol": "🅊",
+      "name": "方框 HV",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 HV",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F14A",
+        "U+1F14A",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅊 是方框 HV，Unicode 编码为 U+1F14A，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f14b-1568",
+      "symbol": "🅋",
+      "name": "方框 MV",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 MV",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F14B",
+        "U+1F14B",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅋 是方框 MV，Unicode 编码为 U+1F14B，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f14c-1569",
+      "symbol": "🅌",
+      "name": "方框 SD",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 SD",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F14C",
+        "U+1F14C",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅌 是方框 SD，Unicode 编码为 U+1F14C，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f14d-1570",
+      "symbol": "🅍",
+      "name": "方框 SS",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 SS",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F14D",
+        "U+1F14D",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅍 是方框 SS，Unicode 编码为 U+1F14D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f14f-1572",
+      "symbol": "🅏",
+      "name": "方框 WC",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 WC",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F14F",
+        "U+1F14F",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅏 是方框 WC，Unicode 编码为 U+1F14F，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f150-1573",
+      "symbol": "🅐",
+      "name": "反白带圈大写字母 A",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 A",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F150",
+        "U+1F150",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅐 是反白带圈大写字母 A，Unicode 编码为 U+1F150，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f151-1574",
+      "symbol": "🅑",
+      "name": "反白带圈大写字母 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 B",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F151",
+        "U+1F151",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅑 是反白带圈大写字母 B，Unicode 编码为 U+1F151，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f152-1575",
+      "symbol": "🅒",
+      "name": "反白带圈大写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 C",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F152",
+        "U+1F152",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅒 是反白带圈大写字母 C，Unicode 编码为 U+1F152，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f153-1576",
+      "symbol": "🅓",
+      "name": "反白带圈大写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 D",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F153",
+        "U+1F153",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅓 是反白带圈大写字母 D，Unicode 编码为 U+1F153，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f154-1577",
+      "symbol": "🅔",
+      "name": "反白带圈大写字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 E",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F154",
+        "U+1F154",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅔 是反白带圈大写字母 E，Unicode 编码为 U+1F154，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f155-1578",
+      "symbol": "🅕",
+      "name": "反白带圈大写字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 F",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F155",
+        "U+1F155",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅕 是反白带圈大写字母 F，Unicode 编码为 U+1F155，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f156-1579",
+      "symbol": "🅖",
+      "name": "反白带圈大写字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 G",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F156",
+        "U+1F156",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅖 是反白带圈大写字母 G，Unicode 编码为 U+1F156，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f157-1580",
+      "symbol": "🅗",
+      "name": "反白带圈大写字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 H",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F157",
+        "U+1F157",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅗 是反白带圈大写字母 H，Unicode 编码为 U+1F157，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f158-1581",
+      "symbol": "🅘",
+      "name": "反白带圈大写字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 I",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F158",
+        "U+1F158",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅘 是反白带圈大写字母 I，Unicode 编码为 U+1F158，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f159-1582",
+      "symbol": "🅙",
+      "name": "反白带圈大写字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 J",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F159",
+        "U+1F159",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅙 是反白带圈大写字母 J，Unicode 编码为 U+1F159，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f15a-1583",
+      "symbol": "🅚",
+      "name": "反白带圈大写字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 K",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F15A",
+        "U+1F15A",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅚 是反白带圈大写字母 K，Unicode 编码为 U+1F15A，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f15b-1584",
+      "symbol": "🅛",
+      "name": "反白带圈大写字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 L",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F15B",
+        "U+1F15B",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅛 是反白带圈大写字母 L，Unicode 编码为 U+1F15B，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f15c-1585",
+      "symbol": "🅜",
+      "name": "反白带圈大写字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 M",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F15C",
+        "U+1F15C",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅜 是反白带圈大写字母 M，Unicode 编码为 U+1F15C，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f15d-1586",
+      "symbol": "🅝",
+      "name": "反白带圈大写字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 N",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F15D",
+        "U+1F15D",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅝 是反白带圈大写字母 N，Unicode 编码为 U+1F15D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f15e-1587",
+      "symbol": "🅞",
+      "name": "反白带圈大写字母 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 O",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F15E",
+        "U+1F15E",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅞 是反白带圈大写字母 O，Unicode 编码为 U+1F15E，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f15f-1588",
+      "symbol": "🅟",
+      "name": "反白带圈大写字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 P",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F15F",
+        "U+1F15F",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅟 是反白带圈大写字母 P，Unicode 编码为 U+1F15F，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f160-1589",
+      "symbol": "🅠",
+      "name": "反白带圈大写字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 Q",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F160",
+        "U+1F160",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅠 是反白带圈大写字母 Q，Unicode 编码为 U+1F160，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f161-1590",
+      "symbol": "🅡",
+      "name": "反白带圈大写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 R",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F161",
+        "U+1F161",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅡 是反白带圈大写字母 R，Unicode 编码为 U+1F161，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f162-1591",
+      "symbol": "🅢",
+      "name": "反白带圈大写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 S",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F162",
+        "U+1F162",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅢 是反白带圈大写字母 S，Unicode 编码为 U+1F162，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f163-1592",
+      "symbol": "🅣",
+      "name": "反白带圈大写字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 T",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F163",
+        "U+1F163",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅣 是反白带圈大写字母 T，Unicode 编码为 U+1F163，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f164-1593",
+      "symbol": "🅤",
+      "name": "反白带圈大写字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 U",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F164",
+        "U+1F164",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅤 是反白带圈大写字母 U，Unicode 编码为 U+1F164，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f165-1594",
+      "symbol": "🅥",
+      "name": "反白带圈大写字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 V",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F165",
+        "U+1F165",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅥 是反白带圈大写字母 V，Unicode 编码为 U+1F165，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f166-1595",
+      "symbol": "🅦",
+      "name": "反白带圈大写字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 W",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F166",
+        "U+1F166",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅦 是反白带圈大写字母 W，Unicode 编码为 U+1F166，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f167-1596",
+      "symbol": "🅧",
+      "name": "反白带圈大写字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 X",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F167",
+        "U+1F167",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅧 是反白带圈大写字母 X，Unicode 编码为 U+1F167，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f168-1597",
+      "symbol": "🅨",
+      "name": "反白带圈大写字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 Y",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F168",
+        "U+1F168",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅨 是反白带圈大写字母 Y，Unicode 编码为 U+1F168，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f169-1598",
+      "symbol": "🅩",
+      "name": "反白带圈大写字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白带圈大写字母 Z",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F169",
+        "U+1F169",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅩 是反白带圈大写字母 Z，Unicode 编码为 U+1F169，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f16a-1599",
+      "symbol": "🅪",
+      "name": "上标 MC 符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "上标 MC 符号",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F16A",
+        "U+1F16A",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅪 是上标 MC 符号，Unicode 编码为 U+1F16A，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f16b-1600",
+      "symbol": "🅫",
+      "name": "上标 MD 符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "上标 MD 符号",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F16B",
+        "U+1F16B",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅫 是上标 MD 符号，Unicode 编码为 U+1F16B，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f16c-1601",
+      "symbol": "🅬",
+      "name": "上标 MR 符号",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "上标 MR 符号",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F16C",
+        "U+1F16C",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅬 是上标 MR 符号，Unicode 编码为 U+1F16C，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f16d-1602",
+      "symbol": "🅭",
+      "name": "带圈 CC",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "带圈 CC",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F16D",
+        "U+1F16D",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅭 是带圈 CC，Unicode 编码为 U+1F16D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f170-1605",
+      "symbol": "🅰",
+      "name": "A 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "A 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F170",
+        "U+1F170",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅰 是 A 按钮，Unicode 编码为 U+1F170，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f171-1606",
+      "symbol": "🅱",
+      "name": "B 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "B 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F171",
+        "U+1F171",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅱 是 B 按钮，Unicode 编码为 U+1F171，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f172-1607",
+      "symbol": "🅲",
+      "name": "反白方框大写字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 C",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F172",
+        "U+1F172",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅲 是反白方框大写字母 C，Unicode 编码为 U+1F172，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f173-1608",
+      "symbol": "🅳",
+      "name": "反白方框大写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 D",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F173",
+        "U+1F173",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅳 是反白方框大写字母 D，Unicode 编码为 U+1F173，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f174-1609",
+      "symbol": "🅴",
+      "name": "反白方框大写字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 E",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F174",
+        "U+1F174",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅴 是反白方框大写字母 E，Unicode 编码为 U+1F174，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f175-1610",
+      "symbol": "🅵",
+      "name": "反白方框大写字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 F",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F175",
+        "U+1F175",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅵 是反白方框大写字母 F，Unicode 编码为 U+1F175，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f176-1611",
+      "symbol": "🅶",
+      "name": "反白方框大写字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 G",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F176",
+        "U+1F176",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅶 是反白方框大写字母 G，Unicode 编码为 U+1F176，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f177-1612",
+      "symbol": "🅷",
+      "name": "反白方框大写字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 H",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F177",
+        "U+1F177",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅷 是反白方框大写字母 H，Unicode 编码为 U+1F177，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f178-1613",
+      "symbol": "🅸",
+      "name": "反白方框大写字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 I",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F178",
+        "U+1F178",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅸 是反白方框大写字母 I，Unicode 编码为 U+1F178，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f179-1614",
+      "symbol": "🅹",
+      "name": "反白方框大写字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 J",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F179",
+        "U+1F179",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅹 是反白方框大写字母 J，Unicode 编码为 U+1F179，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f17a-1615",
+      "symbol": "🅺",
+      "name": "反白方框大写字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 K",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F17A",
+        "U+1F17A",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅺 是反白方框大写字母 K，Unicode 编码为 U+1F17A，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f17b-1616",
+      "symbol": "🅻",
+      "name": "反白方框大写字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 L",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F17B",
+        "U+1F17B",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅻 是反白方框大写字母 L，Unicode 编码为 U+1F17B，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f17c-1617",
+      "symbol": "🅼",
+      "name": "反白方框大写字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 M",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F17C",
+        "U+1F17C",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅼 是反白方框大写字母 M，Unicode 编码为 U+1F17C，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f17d-1618",
+      "symbol": "🅽",
+      "name": "反白方框大写字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 N",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F17D",
+        "U+1F17D",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅽 是反白方框大写字母 N，Unicode 编码为 U+1F17D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f17e-1619",
+      "symbol": "🅾",
+      "name": "O 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "O 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F17E",
+        "U+1F17E",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅾 是 O 按钮，Unicode 编码为 U+1F17E，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f17f-1620",
+      "symbol": "🅿",
+      "name": "P 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "P 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F17F",
+        "U+1F17F",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🅿 是 P 按钮，Unicode 编码为 U+1F17F，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f180-1621",
+      "symbol": "🆀",
+      "name": "反白方框大写字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 Q",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F180",
+        "U+1F180",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆀 是反白方框大写字母 Q，Unicode 编码为 U+1F180，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f181-1622",
+      "symbol": "🆁",
+      "name": "反白方框大写字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 R",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F181",
+        "U+1F181",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆁 是反白方框大写字母 R，Unicode 编码为 U+1F181，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f182-1623",
+      "symbol": "🆂",
+      "name": "反白方框大写字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 S",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F182",
+        "U+1F182",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆂 是反白方框大写字母 S，Unicode 编码为 U+1F182，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f183-1624",
+      "symbol": "🆃",
+      "name": "反白方框大写字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 T",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F183",
+        "U+1F183",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆃 是反白方框大写字母 T，Unicode 编码为 U+1F183，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f184-1625",
+      "symbol": "🆄",
+      "name": "反白方框大写字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 U",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F184",
+        "U+1F184",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆄 是反白方框大写字母 U，Unicode 编码为 U+1F184，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f185-1626",
+      "symbol": "🆅",
+      "name": "反白方框大写字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 V",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F185",
+        "U+1F185",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆅 是反白方框大写字母 V，Unicode 编码为 U+1F185，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f186-1627",
+      "symbol": "🆆",
+      "name": "反白方框大写字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 W",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F186",
+        "U+1F186",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆆 是反白方框大写字母 W，Unicode 编码为 U+1F186，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f187-1628",
+      "symbol": "🆇",
+      "name": "反白方框大写字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 X",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F187",
+        "U+1F187",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆇 是反白方框大写字母 X，Unicode 编码为 U+1F187，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f188-1629",
+      "symbol": "🆈",
+      "name": "反白方框大写字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 Y",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F188",
+        "U+1F188",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆈 是反白方框大写字母 Y，Unicode 编码为 U+1F188，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f189-1630",
+      "symbol": "🆉",
+      "name": "反白方框大写字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框大写字母 Z",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F189",
+        "U+1F189",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆉 是反白方框大写字母 Z，Unicode 编码为 U+1F189，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f18a-1631",
+      "symbol": "🆊",
+      "name": "交叉反白方框大写字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "交叉反白方框大写字母 P",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F18A",
+        "U+1F18A",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆊 是交叉反白方框大写字母 P，Unicode 编码为 U+1F18A，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f18b-1632",
+      "symbol": "🆋",
+      "name": "反白方框 IC",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框 IC",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F18B",
+        "U+1F18B",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆋 是反白方框 IC，Unicode 编码为 U+1F18B，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f18c-1633",
+      "symbol": "🆌",
+      "name": "反白方框 PA",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框 PA",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F18C",
+        "U+1F18C",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆌 是反白方框 PA，Unicode 编码为 U+1F18C，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f18d-1634",
+      "symbol": "🆍",
+      "name": "反白方框 SA",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框 SA",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F18D",
+        "U+1F18D",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆍 是反白方框 SA，Unicode 编码为 U+1F18D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f18e-1635",
+      "symbol": "🆎",
+      "name": "AB 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "AB 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F18E",
+        "U+1F18E",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆎 是 AB 按钮，Unicode 编码为 U+1F18E，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f18f-1636",
+      "symbol": "🆏",
+      "name": "反白方框 WC",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "反白方框 WC",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F18F",
+        "U+1F18F",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆏 是反白方框 WC，Unicode 编码为 U+1F18F，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f190-1637",
+      "symbol": "🆐",
+      "name": "Square DJ",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "Square DJ",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F190",
+        "U+1F190",
+        "拉丁字母",
+        "按钮",
+        "标签",
+        "方框"
+      ],
+      "notes": "🆐 是 Square DJ，Unicode 编码为 U+1F190，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f191-1638",
+      "symbol": "🆑",
+      "name": "CL 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "CL 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F191",
+        "U+1F191",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆑 是 CL 按钮，Unicode 编码为 U+1F191，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f192-1639",
+      "symbol": "🆒",
+      "name": "Cool 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "Cool 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F192",
+        "U+1F192",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆒 是 Cool 按钮，Unicode 编码为 U+1F192，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f193-1640",
+      "symbol": "🆓",
+      "name": "Free 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "Free 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F193",
+        "U+1F193",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆓 是 Free 按钮，Unicode 编码为 U+1F193，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f194-1641",
+      "symbol": "🆔",
+      "name": "ID 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "ID 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F194",
+        "U+1F194",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆔 是 ID 按钮，Unicode 编码为 U+1F194，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f195-1642",
+      "symbol": "🆕",
+      "name": "NEW 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "NEW 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F195",
+        "U+1F195",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆕 是 NEW 按钮，Unicode 编码为 U+1F195，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f196-1643",
+      "symbol": "🆖",
+      "name": "NG 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "NG 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F196",
+        "U+1F196",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆖 是 NG 按钮，Unicode 编码为 U+1F196，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f197-1644",
+      "symbol": "🆗",
+      "name": "OK 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "OK 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F197",
+        "U+1F197",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆗 是 OK 按钮，Unicode 编码为 U+1F197，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f198-1645",
+      "symbol": "🆘",
+      "name": "SOS 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "SOS 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F198",
+        "U+1F198",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆘 是 SOS 按钮，Unicode 编码为 U+1F198，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f19a-1647",
+      "symbol": "🆚",
+      "name": "VS 按钮",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "VS 按钮",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F19A",
+        "U+1F19A",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆚 是 VS 按钮，Unicode 编码为 U+1F19A，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1a5-1658",
+      "symbol": "🆥",
+      "name": "方框小写字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框小写字母 D",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A5",
+        "U+1F1A5",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆥 是方框小写字母 D，Unicode 编码为 U+1F1A5，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1a6-1659",
+      "symbol": "🆦",
+      "name": "方框 HC",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 HC",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A6",
+        "U+1F1A6",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆦 是方框 HC，Unicode 编码为 U+1F1A6，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1a7-1660",
+      "symbol": "🆧",
+      "name": "方框 HDR",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 HDR",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A7",
+        "U+1F1A7",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆧 是方框 HDR，Unicode 编码为 U+1F1A7，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1a8-1661",
+      "symbol": "🆨",
+      "name": "方框 Hi-res",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 Hi-res",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A8",
+        "U+1F1A8",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆨 是方框 Hi-res，Unicode 编码为 U+1F1A8，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1a9-1662",
+      "symbol": "🆩",
+      "name": "方框 Lossless",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 Lossless",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1A9",
+        "U+1F1A9",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆩 是方框 Lossless，Unicode 编码为 U+1F1A9，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1aa-1663",
+      "symbol": "🆪",
+      "name": "方框 SHV",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 SHV",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1AA",
+        "U+1F1AA",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆪 是方框 SHV，Unicode 编码为 U+1F1AA，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ab-1664",
+      "symbol": "🆫",
+      "name": "方框 UHD",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 UHD",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1AB",
+        "U+1F1AB",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆫 是方框 UHD，Unicode 编码为 U+1F1AB，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ac-1665",
+      "symbol": "🆬",
+      "name": "方框 VOD",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "方框 VOD",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1AC",
+        "U+1F1AC",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🆬 是方框 VOD，Unicode 编码为 U+1F1AC，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1e6-1667",
+      "symbol": "🇦",
+      "name": "区域指示字母 A",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 A",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1E6",
+        "U+1F1E6",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇦 是区域指示字母 A，Unicode 编码为 U+1F1E6，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1e7-1668",
+      "symbol": "🇧",
+      "name": "区域指示字母 B",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 B",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1E7",
+        "U+1F1E7",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇧 是区域指示字母 B，Unicode 编码为 U+1F1E7，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1e8-1669",
+      "symbol": "🇨",
+      "name": "区域指示字母 C",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 C",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1E8",
+        "U+1F1E8",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇨 是区域指示字母 C，Unicode 编码为 U+1F1E8，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1e9-1670",
+      "symbol": "🇩",
+      "name": "区域指示字母 D",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 D",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1E9",
+        "U+1F1E9",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇩 是区域指示字母 D，Unicode 编码为 U+1F1E9，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ea-1671",
+      "symbol": "🇪",
+      "name": "区域指示字母 E",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 E",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1EA",
+        "U+1F1EA",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇪 是区域指示字母 E，Unicode 编码为 U+1F1EA，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1eb-1672",
+      "symbol": "🇫",
+      "name": "区域指示字母 F",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 F",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1EB",
+        "U+1F1EB",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇫 是区域指示字母 F，Unicode 编码为 U+1F1EB，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ec-1673",
+      "symbol": "🇬",
+      "name": "区域指示字母 G",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 G",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1EC",
+        "U+1F1EC",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇬 是区域指示字母 G，Unicode 编码为 U+1F1EC，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ed-1674",
+      "symbol": "🇭",
+      "name": "区域指示字母 H",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 H",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1ED",
+        "U+1F1ED",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇭 是区域指示字母 H，Unicode 编码为 U+1F1ED，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ee-1675",
+      "symbol": "🇮",
+      "name": "区域指示字母 I",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 I",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1EE",
+        "U+1F1EE",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇮 是区域指示字母 I，Unicode 编码为 U+1F1EE，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ef-1676",
+      "symbol": "🇯",
+      "name": "区域指示字母 J",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 J",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1EF",
+        "U+1F1EF",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇯 是区域指示字母 J，Unicode 编码为 U+1F1EF，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f0-1677",
+      "symbol": "🇰",
+      "name": "区域指示字母 K",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 K",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F0",
+        "U+1F1F0",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇰 是区域指示字母 K，Unicode 编码为 U+1F1F0，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f1-1678",
+      "symbol": "🇱",
+      "name": "区域指示字母 L",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 L",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F1",
+        "U+1F1F1",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇱 是区域指示字母 L，Unicode 编码为 U+1F1F1，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f2-1679",
+      "symbol": "🇲",
+      "name": "区域指示字母 M",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 M",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F2",
+        "U+1F1F2",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇲 是区域指示字母 M，Unicode 编码为 U+1F1F2，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f3-1680",
+      "symbol": "🇳",
+      "name": "区域指示字母 N",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 N",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F3",
+        "U+1F1F3",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇳 是区域指示字母 N，Unicode 编码为 U+1F1F3，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f4-1681",
+      "symbol": "🇴",
+      "name": "区域指示字母 O",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 O",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F4",
+        "U+1F1F4",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇴 是区域指示字母 O，Unicode 编码为 U+1F1F4，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f5-1682",
+      "symbol": "🇵",
+      "name": "区域指示字母 P",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 P",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F5",
+        "U+1F1F5",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇵 是区域指示字母 P，Unicode 编码为 U+1F1F5，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f6-1683",
+      "symbol": "🇶",
+      "name": "区域指示字母 Q",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 Q",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F6",
+        "U+1F1F6",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇶 是区域指示字母 Q，Unicode 编码为 U+1F1F6，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f7-1684",
+      "symbol": "🇷",
+      "name": "区域指示字母 R",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 R",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F7",
+        "U+1F1F7",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇷 是区域指示字母 R，Unicode 编码为 U+1F1F7，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f8-1685",
+      "symbol": "🇸",
+      "name": "区域指示字母 S",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 S",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F8",
+        "U+1F1F8",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇸 是区域指示字母 S，Unicode 编码为 U+1F1F8，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1f9-1686",
+      "symbol": "🇹",
+      "name": "区域指示字母 T",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 T",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1F9",
+        "U+1F1F9",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇹 是区域指示字母 T，Unicode 编码为 U+1F1F9，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1fa-1687",
+      "symbol": "🇺",
+      "name": "区域指示字母 U",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 U",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1FA",
+        "U+1F1FA",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇺 是区域指示字母 U，Unicode 编码为 U+1F1FA，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1fb-1688",
+      "symbol": "🇻",
+      "name": "区域指示字母 V",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 V",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1FB",
+        "U+1F1FB",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇻 是区域指示字母 V，Unicode 编码为 U+1F1FB，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1fc-1689",
+      "symbol": "🇼",
+      "name": "区域指示字母 W",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 W",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1FC",
+        "U+1F1FC",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇼 是区域指示字母 W，Unicode 编码为 U+1F1FC，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1fd-1690",
+      "symbol": "🇽",
+      "name": "区域指示字母 X",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 X",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1FD",
+        "U+1F1FD",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇽 是区域指示字母 X，Unicode 编码为 U+1F1FD，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1fe-1691",
+      "symbol": "🇾",
+      "name": "区域指示字母 Y",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 Y",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1FE",
+        "U+1F1FE",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇾 是区域指示字母 Y，Unicode 编码为 U+1F1FE，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
+    },
+    {
+      "id": "symbol-1f1ff-1692",
+      "symbol": "🇿",
+      "name": "区域指示字母 Z",
+      "pronunciation": "",
+      "category": [
+        "字母"
+      ],
+      "searchTerms": [
+        "区域指示字母 Z",
+        "字母",
+        "Enclosed Alphanumeric Supplement",
+        "1F1FF",
+        "U+1F1FF",
+        "拉丁字母",
+        "按钮",
+        "标签"
+      ],
+      "notes": "🇿 是区域指示字母 Z，Unicode 编码为 U+1F1FF，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
     }
   ]
 }
