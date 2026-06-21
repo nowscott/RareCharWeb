@@ -328,7 +328,7 @@ html.lenis-scrolling .liquid-card:active {
 }
 
 .category-chip {
-  touch-action: pan-x;
+  touch-action: manipulation;
 }
 
 /* 移动端按钮点击效果 */

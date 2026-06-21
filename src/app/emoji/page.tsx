@@ -37,6 +37,7 @@ export default async function EmojiPage() {
 
   return (
     <HomeClient
+      key="emojis"
       apiEndpoint="/api/emoji"
       categories={categories}
       initialData={initialData}

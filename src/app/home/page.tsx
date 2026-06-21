@@ -37,6 +37,7 @@ export default async function Home() {
 
   return (
     <HomeClient
+      key="symbols"
       apiEndpoint="/api/symbols"
       categories={categories}
       initialData={initialData}

@@ -120,6 +120,7 @@ export default function HomeClient({
         </div>
 
         <SymbolList
+          key={apiEndpoint}
           apiEndpoint={apiEndpoint}
           category={activeCategory}
           searchQuery={searchQuery}

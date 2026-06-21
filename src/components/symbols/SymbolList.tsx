@@ -162,6 +162,11 @@ const SymbolList: React.FC<SymbolListProps> = ({
     if (loadedRequestKey === requestKey) return;
 
     hasRequestedDynamicDataRef.current = true;
+    setSelectedSymbol(null);
+    setAllSymbols([]);
+    setCurrentPage(1);
+    setHasMore(false);
+    setLoadingMore(false);
     const controller = new AbortController();
 
     fetchPage(category, searchQuery, 1, controller.signal)
