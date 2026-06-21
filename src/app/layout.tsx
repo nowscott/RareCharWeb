@@ -30,14 +30,23 @@ export default function RootLayout({
           href="https://f.0211120.xyz/font/%E5%BE%97%E6%84%8F%E9%BB%91/result.css" 
           crossOrigin="anonymous"
         />
-        <link 
-          rel="stylesheet" 
-          href="https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css" 
+        <link
+          rel="preload"
+          href="/fonts/noto-serif/noto-serif-symbols.ttf"
+          as="font"
+          type="font/ttf"
           crossOrigin="anonymous"
         />
         <link
           rel="preload"
-          href="/fonts/noto-serif/noto-serif-symbols.ttf"
+          href="/fonts/noto-sans-symbols-2/NotoSansSymbols2-Regular.ttf"
+          as="font"
+          type="font/ttf"
+          crossOrigin="anonymous"
+        />
+        <link
+          rel="preload"
+          href="/fonts/noto-sans-math/NotoSansMath-Regular.ttf"
           as="font"
           type="font/ttf"
           crossOrigin="anonymous"

@@ -7,8 +7,9 @@ const FONT_CACHE_NAME = 'rarechar-fonts-cache';
 // 需要缓存的字体资源
 const FONT_URLS = [
   'https://f.0211120.xyz/font/得意黑/result.css',
-  'https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css',
-  '/fonts/noto-serif/noto-serif-symbols.ttf'
+  '/fonts/noto-serif/noto-serif-symbols.ttf',
+  '/fonts/noto-sans-symbols-2/NotoSansSymbols2-Regular.ttf',
+  '/fonts/noto-sans-math/NotoSansMath-Regular.ttf'
 ];
 
 function isHttpRequest(request) {
@@ -161,11 +162,11 @@ self.addEventListener('message', event => {
       caches.delete(FONT_CACHE_NAME)
         .then(() => {
           // console.log('[SW] Font cache cleared');
-          event.ports[0].postMessage({ success: true });
+          event.ports?.[0]?.postMessage({ success: true });
         })
         .catch(error => {
           console.error('[SW] Failed to clear font cache:', error);
-          event.ports[0].postMessage({ success: false, error });
+          event.ports?.[0]?.postMessage({ success: false, error: String(error) });
         })
     );
   }
@@ -175,10 +176,14 @@ self.addEventListener('message', event => {
       caches.open(FONT_CACHE_NAME)
         .then(cache => cache.keys())
         .then(keys => {
-          event.ports[0].postMessage({
+          event.ports?.[0]?.postMessage({
             cacheSize: keys.length,
             cachedUrls: keys.map(req => req.url)
           });
+        })
+        .catch(error => {
+          console.error('[SW] Failed to inspect font cache:', error);
+          event.ports?.[0]?.postMessage({ cacheSize: 0, cachedUrls: [], error: String(error) });
         })
     );
   }

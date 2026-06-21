@@ -30,19 +30,19 @@ export enum DeviceType {
 // 字体配置常量 - 优化后的系统字体优先策略
 const FONT_STACKS: Record<DeviceType, FontStack> = {
   [DeviceType.IOS]: {
-    primary: ['Apple Color Emoji', 'Apple Symbols', 'Noto Sans Symbols 2'],
+    primary: ['Apple Color Emoji', 'Apple Symbols', 'Noto Sans Symbols 2', 'Noto Sans Math'],
     fallback: ['Noto Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Serif', 'sans-serif', 'Symbola', 'system-ui', '-apple-system','Smiley Sans Oblique']
   },
   [DeviceType.ANDROID]: {
-    primary: ['Noto Color Emoji', 'Noto Sans Symbols 2', 'Roboto'],
+    primary: ['Noto Color Emoji', 'Noto Sans Symbols 2', 'Noto Sans Math', 'Roboto'],
     fallback: ['Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Serif', 'sans-serif', 'Symbola', 'DejaVu Sans','Smiley Sans Oblique']
   },
   [DeviceType.DESKTOP]: {
-    primary: ['Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Sans Symbols 2'],
+    primary: ['Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Sans Symbols 2', 'Noto Sans Math'],
     fallback: ['Noto Color Emoji', 'Twemoji Mozilla', 'Apple Symbols', 'Noto Serif', 'sans-serif', 'Symbola', 'DejaVu Sans', 'Arial Unicode MS','Smiley Sans Oblique']
   },
   [DeviceType.UNKNOWN]: {
-    primary: ['Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Sans Symbols 2'],
+    primary: ['Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Sans Symbols 2', 'Noto Sans Math'],
     fallback: ['Noto Color Emoji', 'Twemoji Mozilla', 'Noto Serif', 'sans-serif', 'Symbola', 'system-ui','Smiley Sans Oblique']
   }
 };

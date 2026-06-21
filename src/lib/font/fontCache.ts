@@ -17,12 +17,13 @@ interface FontConfig {
   url?: string;
   fallback: string[];
   preload: boolean;
+  sampleText?: string;
 }
 
 // 字体缓存持续时间（24小时）
 const FONT_CACHE_DURATION = 24 * 60 * 60 * 1000;
 const FONT_CACHE_KEY = 'rarechar_font_cache';
-const FONT_CACHE_VERSION = '1.0.0';
+const FONT_CACHE_VERSION = '1.1.0';
 
 // 关键字体配置
 const CRITICAL_FONTS: FontConfig[] = [
@@ -34,9 +35,15 @@ const CRITICAL_FONTS: FontConfig[] = [
   },
   {
     name: 'Noto Sans Symbols 2',
-    url: 'https://f.0211120.xyz/font/Noto%20Sans%20Symbols%202/result.css',
     fallback: ['Apple Symbols', 'Segoe UI Symbol', 'sans-serif'],
-    preload: true
+    preload: true,
+    sampleText: '🂡🜁⬢⯌'
+  },
+  {
+    name: 'Noto Sans Math',
+    fallback: ['Noto Sans Symbols 2', 'Apple Symbols', 'Segoe UI Symbol', 'serif'],
+    preload: true,
+    sampleText: '⟎⟏∀∑𝔸'
   }
 ];
 
@@ -200,7 +207,7 @@ export const preloadFont = async (fontConfig: FontConfig): Promise<boolean> => {
 
     // 使用Font Loading API确保字体加载
     if ('fonts' in document) {
-      await document.fonts.load(`16px "${fontConfig.name}"`);
+      await document.fonts.load(`16px "${fontConfig.name}"`, fontConfig.sampleText);
     }
 
     // 标记为已加载

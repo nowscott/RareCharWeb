@@ -1,3 +1,12 @@
+## [1.13.7](https://github.com/nowscott/RareCharWeb/compare/v1.13.6...v1.13.7) (2026-06-21)
+
+
+### 问题修复
+
+* **字体:** 本地托管 Noto Sans Symbols 2 与 Noto Sans Math，提升特殊符号、数学符号和数学字母的字形覆盖，修复 U+27CE/U+27CF 显示为方框的问题
+* **Service Worker:** 加固字体缓存消息处理，避免缺少消息端口或缓存检查失败时产生额外 console 报错
+
+
 ## [1.13.6](https://github.com/nowscott/RareCharWeb/compare/v1.13.5...v1.13.6) (2026-06-21)
 
 
