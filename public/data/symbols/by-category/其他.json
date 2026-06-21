@@ -1,6 +1,6 @@
 {
   "category": "其他",
-  "total": 23,
+  "total": 38,
   "items": [
     {
       "id": "symbol-a9-7",
@@ -412,6 +412,276 @@
         "U+1F1AD"
       ],
       "notes": "🆭 是掩模作品符号，Unicode 编码为 U+1F1AD，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+    },
+    {
+      "id": "symbol-2b7e-2239",
+      "symbol": "⭾",
+      "name": "水平制表键",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "水平制表键",
+        "其他",
+        "Horizontal Tab Key",
+        "Miscellaneous Symbols and Arrows",
+        "2B7E",
+        "U+2B7E"
+      ],
+      "notes": "⭾ 是水平制表键，Unicode 编码为 U+2B7E，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2b7f-2240",
+      "symbol": "⭿",
+      "name": "垂直制表键",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "垂直制表键",
+        "其他",
+        "Vertical Tab Key",
+        "Miscellaneous Symbols and Arrows",
+        "2B7F",
+        "U+2B7F"
+      ],
+      "notes": "⭿ 是垂直制表键，Unicode 编码为 U+2B7F，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2b90-2257",
+      "symbol": "⮐",
+      "name": "回车左",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "回车左",
+        "其他",
+        "Return Left",
+        "Miscellaneous Symbols and Arrows",
+        "2B90",
+        "U+2B90"
+      ],
+      "notes": "⮐ 是回车左，Unicode 编码为 U+2B90，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2b91-2258",
+      "symbol": "⮑",
+      "name": "回车右",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "回车右",
+        "其他",
+        "Return Right",
+        "Miscellaneous Symbols and Arrows",
+        "2B91",
+        "U+2B91"
+      ],
+      "notes": "⮑ 是回车右，Unicode 编码为 U+2B91，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2b92-2259",
+      "symbol": "⮒",
+      "name": "换行左",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "换行左",
+        "其他",
+        "Newline Left",
+        "Miscellaneous Symbols and Arrows",
+        "2B92",
+        "U+2B92"
+      ],
+      "notes": "⮒ 是换行左，Unicode 编码为 U+2B92，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2b93-2260",
+      "symbol": "⮓",
+      "name": "换行右",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "换行右",
+        "其他",
+        "Newline Right",
+        "Miscellaneous Symbols and Arrows",
+        "2B93",
+        "U+2B93"
+      ],
+      "notes": "⮓ 是换行右，Unicode 编码为 U+2B93，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2b96-2263",
+      "symbol": "⮖",
+      "name": "等号带无限符号在上方",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "等号带无限符号在上方",
+        "其他",
+        "Equals Sign With Infinity Above",
+        "Miscellaneous Symbols and Arrows",
+        "2B96",
+        "U+2B96"
+      ],
+      "notes": "⮖ 是等号带无限符号在上方，Unicode 编码为 U+2B96，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2b97-2264",
+      "symbol": "⮗",
+      "name": "符号表示甲型电子",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "符号表示甲型电子",
+        "其他",
+        "Symbol For Type A Electronics",
+        "Miscellaneous Symbols and Arrows",
+        "2B97",
+        "U+2B97"
+      ],
+      "notes": "⮗ 是符号表示甲型电子，Unicode 编码为 U+2B97，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2bd1-2322",
+      "symbol": "⯑",
+      "name": "不确定符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "不确定符号",
+        "其他",
+        "Uncertainty Sign",
+        "Miscellaneous Symbols and Arrows",
+        "2BD1",
+        "U+2BD1"
+      ],
+      "notes": "⯑ 是不确定符号，Unicode 编码为 U+2BD1，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2bd2-2323",
+      "symbol": "⯒",
+      "name": "分组标记",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "分组标记",
+        "其他",
+        "Group Mark",
+        "Miscellaneous Symbols and Arrows",
+        "2BD2",
+        "U+2BD2"
+      ],
+      "notes": "⯒ 是分组标记，Unicode 编码为 U+2BD2，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2bfa-2363",
+      "symbol": "⯺",
+      "name": "联合符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "联合符号",
+        "其他",
+        "United Symbol",
+        "Miscellaneous Symbols and Arrows",
+        "2BFA",
+        "U+2BFA"
+      ],
+      "notes": "⯺ 是联合符号，Unicode 编码为 U+2BFA，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2bfb-2364",
+      "symbol": "⯻",
+      "name": "分离符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "分离符号",
+        "其他",
+        "Separated Symbol",
+        "Miscellaneous Symbols and Arrows",
+        "2BFB",
+        "U+2BFB"
+      ],
+      "notes": "⯻ 是分离符号，Unicode 编码为 U+2BFB，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2bfc-2365",
+      "symbol": "⯼",
+      "name": "双重符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "双重符号",
+        "其他",
+        "Doubled Symbol",
+        "Miscellaneous Symbols and Arrows",
+        "2BFC",
+        "U+2BFC"
+      ],
+      "notes": "⯼ 是双重符号，Unicode 编码为 U+2BFC，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2bfd-2366",
+      "symbol": "⯽",
+      "name": "通过符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "通过符号",
+        "其他",
+        "Passed Symbol",
+        "Miscellaneous Symbols and Arrows",
+        "2BFD",
+        "U+2BFD"
+      ],
+      "notes": "⯽ 是通过符号，Unicode 编码为 U+2BFD，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2bff-2368",
+      "symbol": "⯿",
+      "name": "赫尔施赖伯暂停符号",
+      "pronunciation": "",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "赫尔施赖伯暂停符号",
+        "其他",
+        "Hellschreiber暂停符号",
+        "Miscellaneous Symbols and Arrows",
+        "2BFF",
+        "U+2BFF"
+      ],
+      "notes": "⯿ 是赫尔施赖伯暂停符号，Unicode 编码为 U+2BFF，适合在技术标识、键盘提示或特殊排版场景中使用。"
     }
   ]
 }

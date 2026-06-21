@@ -1,6 +1,6 @@
 {
   "category": "天文",
-  "total": 24,
+  "total": 54,
   "items": [
     {
       "id": "symbol-2604-340",
@@ -461,6 +461,547 @@
         "Miscellaneous Symbols and Arrows"
       ],
       "notes": "⭐ 是五角星符号，常用于表示明星、荣誉、成就或象征性意义。\n\n在文化中，⭐ 常用来代表明星或名人，象征光辉、成功和崇拜。例如，影视行业中的明星常用⭐符号表示。\n\n在宗教和神话中，⭐ 也象征着神圣的指引和光明，如基督教中的五芒星代表神的庇佑。\n\n在设计中，⭐ 经常作为装饰元素，表示卓越、领导力或高贵的品质，广泛应用于奖项、徽章、标志等。\n\n作为一种普遍的符号，⭐ 可以在多个领域中表达光辉、希望和成就的主题。"
+    },
+    {
+      "id": "symbol-2bc9-2314",
+      "symbol": "⯉",
+      "name": "海王星形式二",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "海王星形式二",
+        "天文",
+        "Neptune形式二",
+        "Miscellaneous Symbols and Arrows",
+        "2BC9",
+        "U+2BC9"
+      ],
+      "notes": "⯉ 是海王星形式二，Unicode 编码为 U+2BC9，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bd3-2324",
+      "symbol": "⯓",
+      "name": "冥王星形式二",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "冥王星形式二",
+        "天文",
+        "Pluto形式二",
+        "Miscellaneous Symbols and Arrows",
+        "2BD3",
+        "U+2BD3"
+      ],
+      "notes": "⯓ 是冥王星形式二，Unicode 编码为 U+2BD3，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bd4-2325",
+      "symbol": "⯔",
+      "name": "冥王星形式三",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "冥王星形式三",
+        "天文",
+        "Pluto形式三",
+        "Miscellaneous Symbols and Arrows",
+        "2BD4",
+        "U+2BD4"
+      ],
+      "notes": "⯔ 是冥王星形式三，Unicode 编码为 U+2BD4，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bd5-2326",
+      "symbol": "⯕",
+      "name": "冥王星形式四",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "冥王星形式四",
+        "天文",
+        "Pluto形式四",
+        "Miscellaneous Symbols and Arrows",
+        "2BD5",
+        "U+2BD5"
+      ],
+      "notes": "⯕ 是冥王星形式四，Unicode 编码为 U+2BD5，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bd6-2327",
+      "symbol": "⯖",
+      "name": "冥王星形式五",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "冥王星形式五",
+        "天文",
+        "Pluto形式五",
+        "Miscellaneous Symbols and Arrows",
+        "2BD6",
+        "U+2BD6"
+      ],
+      "notes": "⯖ 是冥王星形式五，Unicode 编码为 U+2BD6，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bd7-2328",
+      "symbol": "⯗",
+      "name": "外冥王星",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "外冥王星",
+        "天文",
+        "Transpluto",
+        "Miscellaneous Symbols and Arrows",
+        "2BD7",
+        "U+2BD7"
+      ],
+      "notes": "⯗ 是外冥王星，Unicode 编码为 U+2BD7，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bd8-2329",
+      "symbol": "⯘",
+      "name": "普洛塞庇娜",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "普洛塞庇娜",
+        "天文",
+        "Proserpina",
+        "Miscellaneous Symbols and Arrows",
+        "2BD8",
+        "U+2BD8"
+      ],
+      "notes": "⯘ 是普洛塞庇娜，Unicode 编码为 U+2BD8，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bd9-2330",
+      "symbol": "⯙",
+      "name": "阿斯特赖亚",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "阿斯特赖亚",
+        "天文",
+        "Astraea",
+        "Miscellaneous Symbols and Arrows",
+        "2BD9",
+        "U+2BD9"
+      ],
+      "notes": "⯙ 是阿斯特赖亚，Unicode 编码为 U+2BD9，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bda-2331",
+      "symbol": "⯚",
+      "name": "健神星",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "健神星",
+        "天文",
+        "Hygiea",
+        "Miscellaneous Symbols and Arrows",
+        "2BDA",
+        "U+2BDA"
+      ],
+      "notes": "⯚ 是健神星，Unicode 编码为 U+2BDA，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bdb-2332",
+      "symbol": "⯛",
+      "name": "福卢斯",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "福卢斯",
+        "天文",
+        "Pholus",
+        "Miscellaneous Symbols and Arrows",
+        "2BDB",
+        "U+2BDB"
+      ],
+      "notes": "⯛ 是福卢斯，Unicode 编码为 U+2BDB，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bdc-2333",
+      "symbol": "⯜",
+      "name": "涅索斯",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "涅索斯",
+        "天文",
+        "Nessus",
+        "Miscellaneous Symbols and Arrows",
+        "2BDC",
+        "U+2BDC"
+      ],
+      "notes": "⯜ 是涅索斯，Unicode 编码为 U+2BDC，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bdd-2334",
+      "symbol": "⯝",
+      "name": "白色月亮塞勒涅",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "白色月亮塞勒涅",
+        "天文",
+        "White Moon Selena",
+        "Miscellaneous Symbols and Arrows",
+        "2BDD",
+        "U+2BDD"
+      ],
+      "notes": "⯝ 是白色月亮塞勒涅，Unicode 编码为 U+2BDD，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bdf-2336",
+      "symbol": "⯟",
+      "name": "真光月阿尔塔",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "真光月阿尔塔",
+        "天文",
+        "True细MoonArta",
+        "True Light Moon Arta",
+        "Miscellaneous Symbols and Arrows",
+        "2BDF",
+        "U+2BDF"
+      ],
+      "notes": "⯟ 是真光月阿尔塔，Unicode 编码为 U+2BDF，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be0-2337",
+      "symbol": "⯠",
+      "name": "丘比多",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "丘比多",
+        "天文",
+        "Cupido",
+        "Miscellaneous Symbols and Arrows",
+        "2BE0",
+        "U+2BE0"
+      ],
+      "notes": "⯠ 是丘比多，Unicode 编码为 U+2BE0，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be1-2338",
+      "symbol": "⯡",
+      "name": "哈迪斯",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "哈迪斯",
+        "天文",
+        "Hades",
+        "Miscellaneous Symbols and Arrows",
+        "2BE1",
+        "U+2BE1"
+      ],
+      "notes": "⯡ 是哈迪斯，Unicode 编码为 U+2BE1，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be2-2339",
+      "symbol": "⯢",
+      "name": "宙斯",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "宙斯",
+        "天文",
+        "Zeus",
+        "Miscellaneous Symbols and Arrows",
+        "2BE2",
+        "U+2BE2"
+      ],
+      "notes": "⯢ 是宙斯，Unicode 编码为 U+2BE2，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be3-2340",
+      "symbol": "⯣",
+      "name": "克洛诺斯",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "克洛诺斯",
+        "天文",
+        "Kronos",
+        "Miscellaneous Symbols and Arrows",
+        "2BE3",
+        "U+2BE3"
+      ],
+      "notes": "⯣ 是克洛诺斯，Unicode 编码为 U+2BE3，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be4-2341",
+      "symbol": "⯤",
+      "name": "阿波罗",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "阿波罗",
+        "天文",
+        "Apollon",
+        "Miscellaneous Symbols and Arrows",
+        "2BE4",
+        "U+2BE4"
+      ],
+      "notes": "⯤ 是阿波罗，Unicode 编码为 U+2BE4，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be5-2342",
+      "symbol": "⯥",
+      "name": "阿德墨托斯",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "阿德墨托斯",
+        "天文",
+        "Admetos",
+        "Miscellaneous Symbols and Arrows",
+        "2BE5",
+        "U+2BE5"
+      ],
+      "notes": "⯥ 是阿德墨托斯，Unicode 编码为 U+2BE5，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be6-2343",
+      "symbol": "⯦",
+      "name": "伏尔甘",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "伏尔甘",
+        "天文",
+        "Vulcanus",
+        "Miscellaneous Symbols and Arrows",
+        "2BE6",
+        "U+2BE6"
+      ],
+      "notes": "⯦ 是伏尔甘，Unicode 编码为 U+2BE6，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2be7-2344",
+      "symbol": "⯧",
+      "name": "波塞冬",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "波塞冬",
+        "天文",
+        "Poseidon",
+        "Miscellaneous Symbols and Arrows",
+        "2BE7",
+        "U+2BE7"
+      ],
+      "notes": "⯧ 是波塞冬，Unicode 编码为 U+2BE7，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf0-2353",
+      "symbol": "⯰",
+      "name": "阋神星形式一",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "阋神星形式一",
+        "天文",
+        "Eris形式一",
+        "Miscellaneous Symbols and Arrows",
+        "2BF0",
+        "U+2BF0"
+      ],
+      "notes": "⯰ 是阋神星形式一，Unicode 编码为 U+2BF0，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf1-2354",
+      "symbol": "⯱",
+      "name": "阋神星形式二",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "阋神星形式二",
+        "天文",
+        "Eris形式二",
+        "Miscellaneous Symbols and Arrows",
+        "2BF1",
+        "U+2BF1"
+      ],
+      "notes": "⯱ 是阋神星形式二，Unicode 编码为 U+2BF1，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf2-2355",
+      "symbol": "⯲",
+      "name": "塞德娜",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "塞德娜",
+        "天文",
+        "Sedna",
+        "Miscellaneous Symbols and Arrows",
+        "2BF2",
+        "U+2BF2"
+      ],
+      "notes": "⯲ 是塞德娜，Unicode 编码为 U+2BF2，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf3-2356",
+      "symbol": "⯳",
+      "name": "俄罗斯占星符号二十分相",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "俄罗斯占星符号二十分相",
+        "天文",
+        "Russian Astrological Symbol Vigintile",
+        "Miscellaneous Symbols and Arrows",
+        "2BF3",
+        "U+2BF3"
+      ],
+      "notes": "⯳ 是俄罗斯占星符号二十分相，Unicode 编码为 U+2BF3，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf4-2357",
+      "symbol": "⯴",
+      "name": "俄罗斯占星符号九分相",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "俄罗斯占星符号九分相",
+        "天文",
+        "Russian Astrological Symbol Novile",
+        "Miscellaneous Symbols and Arrows",
+        "2BF4",
+        "U+2BF4"
+      ],
+      "notes": "⯴ 是俄罗斯占星符号九分相，Unicode 编码为 U+2BF4，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf5-2358",
+      "symbol": "⯵",
+      "name": "俄罗斯占星符号五分相",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "俄罗斯占星符号五分相",
+        "天文",
+        "Russian Astrological Symbol Quintile",
+        "Miscellaneous Symbols and Arrows",
+        "2BF5",
+        "U+2BF5"
+      ],
+      "notes": "⯵ 是俄罗斯占星符号五分相，Unicode 编码为 U+2BF5，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf6-2359",
+      "symbol": "⯶",
+      "name": "俄罗斯占星符号双九分相",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "俄罗斯占星符号双九分相",
+        "天文",
+        "Russian Astrological Symbol Binovile",
+        "Miscellaneous Symbols and Arrows",
+        "2BF6",
+        "U+2BF6"
+      ],
+      "notes": "⯶ 是俄罗斯占星符号双九分相，Unicode 编码为 U+2BF6，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf7-2360",
+      "symbol": "⯷",
+      "name": "俄罗斯占星符号七分相",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "俄罗斯占星符号七分相",
+        "天文",
+        "Russian Astrological Symbol Sentagon",
+        "Miscellaneous Symbols and Arrows",
+        "2BF7",
+        "U+2BF7"
+      ],
+      "notes": "⯷ 是俄罗斯占星符号七分相，Unicode 编码为 U+2BF7，常用于天文、占星或星象相关文本中的专用标记。"
+    },
+    {
+      "id": "symbol-2bf8-2361",
+      "symbol": "⯸",
+      "name": "俄罗斯占星符号十三分相",
+      "pronunciation": "",
+      "category": [
+        "天文"
+      ],
+      "searchTerms": [
+        "俄罗斯占星符号十三分相",
+        "天文",
+        "Russian Astrological Symbol Tredecile",
+        "Miscellaneous Symbols and Arrows",
+        "2BF8",
+        "U+2BF8"
+      ],
+      "notes": "⯸ 是俄罗斯占星符号十三分相，Unicode 编码为 U+2BF8，常用于天文、占星或星象相关文本中的专用标记。"
     }
   ]
 }

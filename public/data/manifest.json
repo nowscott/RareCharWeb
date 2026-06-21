@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-20T04:20:24.676Z",
+  "generatedAt": "2026-06-21T00:15:03.816Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
-      "online": 2045,
-      "pending": 4362,
+      "online": 2545,
+      "pending": 3862,
       "total": 6407
     },
     "emojis": {
@@ -53,7 +53,7 @@
         {
           "id": "箭头",
           "name": "箭头",
-          "count": 353,
+          "count": 563,
           "file": "symbols/by-category/箭头.json"
         },
         {
@@ -71,7 +71,7 @@
         {
           "id": "其他",
           "name": "其他",
-          "count": 23,
+          "count": 38,
           "file": "symbols/by-category/其他.json"
         },
         {
@@ -83,7 +83,7 @@
         {
           "id": "数学",
           "name": "数学",
-          "count": 48,
+          "count": 227,
           "file": "symbols/by-category/数学.json"
         },
         {
@@ -101,7 +101,7 @@
         {
           "id": "天文",
           "name": "天文",
-          "count": 24,
+          "count": 54,
           "file": "symbols/by-category/天文.json"
         },
         {
@@ -131,7 +131,7 @@
         {
           "id": "形状",
           "name": "形状",
-          "count": 38,
+          "count": 104,
           "file": "symbols/by-category/形状.json"
         },
         {

@@ -1,6 +1,6 @@
 {
   "category": "形状",
-  "total": 38,
+  "total": 104,
   "items": [
     {
       "id": "symbol-25a0-299",
@@ -685,6 +685,1190 @@
         "Geometric Shapes"
       ],
       "notes": "待补充完整"
+    },
+    {
+      "id": "symbol-2b12-2134",
+      "symbol": "⬒",
+      "name": "方形带上半半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带上半半黑色",
+        "形状",
+        "Square with Top Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B12",
+        "U+2B12"
+      ],
+      "notes": "⬒ 是方形带上半半黑色，Unicode 编码为 U+2B12，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b13-2135",
+      "symbol": "⬓",
+      "name": "方形带下半半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带下半半黑色",
+        "形状",
+        "Square with Bottom Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B13",
+        "U+2B13"
+      ],
+      "notes": "⬓ 是方形带下半半黑色，Unicode 编码为 U+2B13，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b14-2136",
+      "symbol": "⬔",
+      "name": "方形带右上对角半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带右上对角半黑色",
+        "形状",
+        "Square with Upper Right Diagonal Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B14",
+        "U+2B14"
+      ],
+      "notes": "⬔ 是方形带右上对角半黑色，Unicode 编码为 U+2B14，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b15-2137",
+      "symbol": "⬕",
+      "name": "方形带下左对角半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带下左对角半黑色",
+        "形状",
+        "Square with Lower Left Diagonal Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B15",
+        "U+2B15"
+      ],
+      "notes": "⬕ 是方形带下左对角半黑色，Unicode 编码为 U+2B15，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b16-2138",
+      "symbol": "⬖",
+      "name": "菱形带左半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "菱形带左半黑色",
+        "形状",
+        "Diamond with Left Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B16",
+        "U+2B16"
+      ],
+      "notes": "⬖ 是菱形带左半黑色，Unicode 编码为 U+2B16，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b17-2139",
+      "symbol": "⬗",
+      "name": "菱形带右半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "菱形带右半黑色",
+        "形状",
+        "Diamond with Right Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B17",
+        "U+2B17"
+      ],
+      "notes": "⬗ 是菱形带右半黑色，Unicode 编码为 U+2B17，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b18-2140",
+      "symbol": "⬘",
+      "name": "菱形带上半半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "菱形带上半半黑色",
+        "形状",
+        "Diamond with Top Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B18",
+        "U+2B18"
+      ],
+      "notes": "⬘ 是菱形带上半半黑色，Unicode 编码为 U+2B18，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b19-2141",
+      "symbol": "⬙",
+      "name": "菱形带下半半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "菱形带下半半黑色",
+        "形状",
+        "Diamond with Bottom Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2B19",
+        "U+2B19"
+      ],
+      "notes": "⬙ 是菱形带下半半黑色，Unicode 编码为 U+2B19，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b1a-2142",
+      "symbol": "⬚",
+      "name": "点状方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "点状方形",
+        "形状",
+        "Dotted Square",
+        "Miscellaneous Symbols and Arrows",
+        "2B1A",
+        "U+2B1A"
+      ],
+      "notes": "⬚ 是点状方形，Unicode 编码为 U+2B1A，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b1b-2143",
+      "symbol": "⬛",
+      "name": "黑色大方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色大方形",
+        "形状",
+        "Black Large Square",
+        "Miscellaneous Symbols and Arrows",
+        "2B1B",
+        "U+2B1B"
+      ],
+      "notes": "⬛ 是黑色大方形，Unicode 编码为 U+2B1B，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b1c-2144",
+      "symbol": "⬜",
+      "name": "白色大方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色大方形",
+        "形状",
+        "White Large Square",
+        "Miscellaneous Symbols and Arrows",
+        "2B1C",
+        "U+2B1C"
+      ],
+      "notes": "⬜ 是白色大方形，Unicode 编码为 U+2B1C，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b1d-2145",
+      "symbol": "⬝",
+      "name": "黑色特小方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色特小方形",
+        "形状",
+        "Black Very Small Square",
+        "Miscellaneous Symbols and Arrows",
+        "2B1D",
+        "U+2B1D"
+      ],
+      "notes": "⬝ 是黑色特小方形，Unicode 编码为 U+2B1D，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b1e-2146",
+      "symbol": "⬞",
+      "name": "白色特小方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色特小方形",
+        "形状",
+        "White Very Small Square",
+        "Miscellaneous Symbols and Arrows",
+        "2B1E",
+        "U+2B1E"
+      ],
+      "notes": "⬞ 是白色特小方形，Unicode 编码为 U+2B1E，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b1f-2147",
+      "symbol": "⬟",
+      "name": "黑色五边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色五边形",
+        "形状",
+        "Black Pentagon",
+        "Miscellaneous Symbols and Arrows",
+        "2B1F",
+        "U+2B1F"
+      ],
+      "notes": "⬟ 是黑色五边形，Unicode 编码为 U+2B1F，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b20-2148",
+      "symbol": "⬠",
+      "name": "白色五边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色五边形",
+        "形状",
+        "White Pentagon",
+        "Miscellaneous Symbols and Arrows",
+        "2B20",
+        "U+2B20"
+      ],
+      "notes": "⬠ 是白色五边形，Unicode 编码为 U+2B20，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b21-2149",
+      "symbol": "⬡",
+      "name": "白色六边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色六边形",
+        "形状",
+        "White Hexagon",
+        "Miscellaneous Symbols and Arrows",
+        "2B21",
+        "U+2B21"
+      ],
+      "notes": "⬡ 是白色六边形，Unicode 编码为 U+2B21，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b22-2150",
+      "symbol": "⬢",
+      "name": "黑色六边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色六边形",
+        "形状",
+        "Black Hexagon",
+        "Miscellaneous Symbols and Arrows",
+        "2B22",
+        "U+2B22"
+      ],
+      "notes": "⬢ 是黑色六边形，Unicode 编码为 U+2B22，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b23-2151",
+      "symbol": "⬣",
+      "name": "水平黑色六边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "水平黑色六边形",
+        "形状",
+        "Horizontal Black Hexagon",
+        "Miscellaneous Symbols and Arrows",
+        "2B23",
+        "U+2B23"
+      ],
+      "notes": "⬣ 是水平黑色六边形，Unicode 编码为 U+2B23，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b24-2152",
+      "symbol": "⬤",
+      "name": "黑色大圆形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色大圆形",
+        "形状",
+        "Black Large Circle",
+        "Miscellaneous Symbols and Arrows",
+        "2B24",
+        "U+2B24"
+      ],
+      "notes": "⬤ 是黑色大圆形，Unicode 编码为 U+2B24，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b25-2153",
+      "symbol": "⬥",
+      "name": "黑色中等菱形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等菱形",
+        "形状",
+        "Black Medium Diamond",
+        "Miscellaneous Symbols and Arrows",
+        "2B25",
+        "U+2B25"
+      ],
+      "notes": "⬥ 是黑色中等菱形，Unicode 编码为 U+2B25，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b26-2154",
+      "symbol": "⬦",
+      "name": "白色中等菱形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色中等菱形",
+        "形状",
+        "White Medium Diamond",
+        "Miscellaneous Symbols and Arrows",
+        "2B26",
+        "U+2B26"
+      ],
+      "notes": "⬦ 是白色中等菱形，Unicode 编码为 U+2B26，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b27-2155",
+      "symbol": "⬧",
+      "name": "黑色中等菱形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等菱形",
+        "形状",
+        "Black Medium Lozenge",
+        "Miscellaneous Symbols and Arrows",
+        "2B27",
+        "U+2B27"
+      ],
+      "notes": "⬧ 是黑色中等菱形，Unicode 编码为 U+2B27，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b28-2156",
+      "symbol": "⬨",
+      "name": "白色中等菱形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色中等菱形",
+        "形状",
+        "White Medium Lozenge",
+        "Miscellaneous Symbols and Arrows",
+        "2B28",
+        "U+2B28"
+      ],
+      "notes": "⬨ 是白色中等菱形，Unicode 编码为 U+2B28，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b29-2157",
+      "symbol": "⬩",
+      "name": "黑色小菱形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色小菱形",
+        "形状",
+        "Black Small Diamond",
+        "Miscellaneous Symbols and Arrows",
+        "2B29",
+        "U+2B29"
+      ],
+      "notes": "⬩ 是黑色小菱形，Unicode 编码为 U+2B29，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b2a-2158",
+      "symbol": "⬪",
+      "name": "黑色小菱形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色小菱形",
+        "形状",
+        "Black Small Lozenge",
+        "Miscellaneous Symbols and Arrows",
+        "2B2A",
+        "U+2B2A"
+      ],
+      "notes": "⬪ 是黑色小菱形，Unicode 编码为 U+2B2A，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b2b-2159",
+      "symbol": "⬫",
+      "name": "白色小菱形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色小菱形",
+        "形状",
+        "White Small Lozenge",
+        "Miscellaneous Symbols and Arrows",
+        "2B2B",
+        "U+2B2B"
+      ],
+      "notes": "⬫ 是白色小菱形，Unicode 编码为 U+2B2B，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b2c-2160",
+      "symbol": "⬬",
+      "name": "黑色水平椭圆",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色水平椭圆",
+        "形状",
+        "Black Horizontal Ellipse",
+        "Miscellaneous Symbols and Arrows",
+        "2B2C",
+        "U+2B2C"
+      ],
+      "notes": "⬬ 是黑色水平椭圆，Unicode 编码为 U+2B2C，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b2d-2161",
+      "symbol": "⬭",
+      "name": "白色水平椭圆",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色水平椭圆",
+        "形状",
+        "White Horizontal Ellipse",
+        "Miscellaneous Symbols and Arrows",
+        "2B2D",
+        "U+2B2D"
+      ],
+      "notes": "⬭ 是白色水平椭圆，Unicode 编码为 U+2B2D，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b2e-2162",
+      "symbol": "⬮",
+      "name": "黑色垂直椭圆",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色垂直椭圆",
+        "形状",
+        "Black Vertical Ellipse",
+        "Miscellaneous Symbols and Arrows",
+        "2B2E",
+        "U+2B2E"
+      ],
+      "notes": "⬮ 是黑色垂直椭圆，Unicode 编码为 U+2B2E，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b2f-2163",
+      "symbol": "⬯",
+      "name": "白色垂直椭圆",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色垂直椭圆",
+        "形状",
+        "White Vertical Ellipse",
+        "Miscellaneous Symbols and Arrows",
+        "2B2F",
+        "U+2B2F"
+      ],
+      "notes": "⬯ 是白色垂直椭圆，Unicode 编码为 U+2B2F，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b51-2196",
+      "symbol": "⭑",
+      "name": "黑色小星形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色小星形",
+        "形状",
+        "Black Small Star",
+        "Miscellaneous Symbols and Arrows",
+        "2B51",
+        "U+2B51"
+      ],
+      "notes": "⭑ 是黑色小星形，Unicode 编码为 U+2B51，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b52-2197",
+      "symbol": "⭒",
+      "name": "白色小星形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色小星形",
+        "形状",
+        "White Small Star",
+        "Miscellaneous Symbols and Arrows",
+        "2B52",
+        "U+2B52"
+      ],
+      "notes": "⭒ 是白色小星形，Unicode 编码为 U+2B52，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b53-2198",
+      "symbol": "⭓",
+      "name": "黑色右指向五边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色右指向五边形",
+        "形状",
+        "Black Right-Pointing Pentagon",
+        "Miscellaneous Symbols and Arrows",
+        "2B53",
+        "U+2B53"
+      ],
+      "notes": "⭓ 是黑色右指向五边形，Unicode 编码为 U+2B53，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b54-2199",
+      "symbol": "⭔",
+      "name": "白色右指向五边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色右指向五边形",
+        "形状",
+        "White Right-Pointing Pentagon",
+        "Miscellaneous Symbols and Arrows",
+        "2B54",
+        "U+2B54"
+      ],
+      "notes": "⭔ 是白色右指向五边形，Unicode 编码为 U+2B54，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b55-2200",
+      "symbol": "⭕",
+      "name": "红色空心圆形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "红色空心圆形",
+        "形状",
+        "Hollow Red Circle",
+        "Miscellaneous Symbols and Arrows",
+        "2B55",
+        "U+2B55"
+      ],
+      "notes": "⭕ 是红色空心圆形，Unicode 编码为 U+2B55，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b56-2201",
+      "symbol": "⭖",
+      "name": "粗椭圆带椭圆内部",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗椭圆带椭圆内部",
+        "形状",
+        "Heavy Oval with Oval Inside",
+        "Miscellaneous Symbols and Arrows",
+        "2B56",
+        "U+2B56"
+      ],
+      "notes": "⭖ 是粗椭圆带椭圆内部，Unicode 编码为 U+2B56，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b57-2202",
+      "symbol": "⭗",
+      "name": "粗圆形带圆形内部",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗圆形带圆形内部",
+        "形状",
+        "Heavy Circle with Circle Inside",
+        "Miscellaneous Symbols and Arrows",
+        "2B57",
+        "U+2B57"
+      ],
+      "notes": "⭗ 是粗圆形带圆形内部，Unicode 编码为 U+2B57，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b58-2203",
+      "symbol": "⭘",
+      "name": "粗圆形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗圆形",
+        "形状",
+        "Heavy Circle",
+        "Miscellaneous Symbols and Arrows",
+        "2B58",
+        "U+2B58"
+      ],
+      "notes": "⭘ 是粗圆形，Unicode 编码为 U+2B58，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2b59-2204",
+      "symbol": "⭙",
+      "name": "粗带圈斜十字",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗带圈斜十字",
+        "形状",
+        "Heavy Circled Saltire",
+        "Miscellaneous Symbols and Arrows",
+        "2B59",
+        "U+2B59"
+      ],
+      "notes": "⭙ 是粗带圈斜十字，Unicode 编码为 U+2B59，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bba-2299",
+      "symbol": "⮺",
+      "name": "重叠白色方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "重叠白色方形",
+        "形状",
+        "Overlapping White Squares",
+        "Miscellaneous Symbols and Arrows",
+        "2BBA",
+        "U+2BBA"
+      ],
+      "notes": "⮺ 是重叠白色方形，Unicode 编码为 U+2BBA，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bbb-2300",
+      "symbol": "⮻",
+      "name": "重叠黑白方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "重叠黑白方形",
+        "形状"
+      ],
+      "notes": "⮻ 是重叠黑白方形，Unicode 编码为 U+2BBB，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bbc-2301",
+      "symbol": "⮼",
+      "name": "重叠黑色方形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "重叠黑色方形",
+        "形状",
+        "Overlapping Black Squares",
+        "Miscellaneous Symbols and Arrows",
+        "2BBC",
+        "U+2BBC"
+      ],
+      "notes": "⮼ 是重叠黑色方形，Unicode 编码为 U+2BBC，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bbd-2302",
+      "symbol": "⮽",
+      "name": "投票框带细叉号",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "投票框带细叉号",
+        "形状",
+        "Ballot Box with Light X",
+        "Miscellaneous Symbols and Arrows",
+        "2BBD",
+        "U+2BBD"
+      ],
+      "notes": "⮽ 是投票框带细叉号，Unicode 编码为 U+2BBD，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bbe-2303",
+      "symbol": "⮾",
+      "name": "带圈叉号",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带圈叉号",
+        "形状",
+        "Circled X",
+        "Miscellaneous Symbols and Arrows",
+        "2BBE",
+        "U+2BBE"
+      ],
+      "notes": "⮾ 是带圈叉号，Unicode 编码为 U+2BBE，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bbf-2304",
+      "symbol": "⮿",
+      "name": "带圈粗体叉号",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带圈粗体叉号",
+        "形状",
+        "Circled Bold X",
+        "Miscellaneous Symbols and Arrows",
+        "2BBF",
+        "U+2BBF"
+      ],
+      "notes": "⮿ 是带圈粗体叉号，Unicode 编码为 U+2BBF，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc0-2305",
+      "symbol": "⯀",
+      "name": "黑色方形居中",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色方形居中",
+        "形状",
+        "Black Square Centred",
+        "Miscellaneous Symbols and Arrows",
+        "2BC0",
+        "U+2BC0"
+      ],
+      "notes": "⯀ 是黑色方形居中，Unicode 编码为 U+2BC0，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc1-2306",
+      "symbol": "⯁",
+      "name": "黑色菱形居中",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色菱形居中",
+        "形状",
+        "Black Diamond Centred",
+        "Miscellaneous Symbols and Arrows",
+        "2BC1",
+        "U+2BC1"
+      ],
+      "notes": "⯁ 是黑色菱形居中，Unicode 编码为 U+2BC1，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc2-2307",
+      "symbol": "⯂",
+      "name": "旋转黑色五边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "旋转黑色五边形",
+        "形状",
+        "Turned黑色五边形",
+        "Miscellaneous Symbols and Arrows",
+        "2BC2",
+        "U+2BC2"
+      ],
+      "notes": "⯂ 是旋转黑色五边形，Unicode 编码为 U+2BC2，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc3-2308",
+      "symbol": "⯃",
+      "name": "水平黑色八边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "水平黑色八边形",
+        "形状",
+        "Horizontal Black Octagon",
+        "Miscellaneous Symbols and Arrows",
+        "2BC3",
+        "U+2BC3"
+      ],
+      "notes": "⯃ 是水平黑色八边形，Unicode 编码为 U+2BC3，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc4-2309",
+      "symbol": "⯄",
+      "name": "黑色八边形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色八边形",
+        "形状",
+        "Black Octagon",
+        "Miscellaneous Symbols and Arrows",
+        "2BC4",
+        "U+2BC4"
+      ],
+      "notes": "⯄ 是黑色八边形，Unicode 编码为 U+2BC4，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc5-2310",
+      "symbol": "⯅",
+      "name": "黑色中等上指向三角形居中",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等上指向三角形居中",
+        "形状",
+        "Black Medium Up-Pointing Triangle Centred",
+        "Miscellaneous Symbols and Arrows",
+        "2BC5",
+        "U+2BC5"
+      ],
+      "notes": "⯅ 是黑色中等上指向三角形居中，Unicode 编码为 U+2BC5，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc6-2311",
+      "symbol": "⯆",
+      "name": "黑色中等下指向三角形居中",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等下指向三角形居中",
+        "形状",
+        "Black Medium Down-Pointing Triangle Centred",
+        "Miscellaneous Symbols and Arrows",
+        "2BC6",
+        "U+2BC6"
+      ],
+      "notes": "⯆ 是黑色中等下指向三角形居中，Unicode 编码为 U+2BC6，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc7-2312",
+      "symbol": "⯇",
+      "name": "黑色中等左指向三角形居中",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等左指向三角形居中",
+        "形状",
+        "Black Medium Left-Pointing Triangle Centred",
+        "Miscellaneous Symbols and Arrows",
+        "2BC7",
+        "U+2BC7"
+      ],
+      "notes": "⯇ 是黑色中等左指向三角形居中，Unicode 编码为 U+2BC7，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bc8-2313",
+      "symbol": "⯈",
+      "name": "黑色中等右指向三角形居中",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等右指向三角形居中",
+        "形状",
+        "Black Medium Right-Pointing Triangle Centred",
+        "Miscellaneous Symbols and Arrows",
+        "2BC8",
+        "U+2BC8"
+      ],
+      "notes": "⯈ 是黑色中等右指向三角形居中，Unicode 编码为 U+2BC8，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bca-2315",
+      "symbol": "⯊",
+      "name": "上半半黑色圆形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上半半黑色圆形",
+        "形状",
+        "Top Half Black Circle",
+        "Miscellaneous Symbols and Arrows",
+        "2BCA",
+        "U+2BCA"
+      ],
+      "notes": "⯊ 是上半半黑色圆形，Unicode 编码为 U+2BCA，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bcb-2316",
+      "symbol": "⯋",
+      "name": "下半半黑色圆形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下半半黑色圆形",
+        "形状",
+        "Bottom Half Black Circle",
+        "Miscellaneous Symbols and Arrows",
+        "2BCB",
+        "U+2BCB"
+      ],
+      "notes": "⯋ 是下半半黑色圆形，Unicode 编码为 U+2BCB，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bcc-2317",
+      "symbol": "⯌",
+      "name": "细四尖黑色尖角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细四尖黑色尖角",
+        "形状",
+        "Light Four Pointed Black Cusp",
+        "Miscellaneous Symbols and Arrows",
+        "2BCC",
+        "U+2BCC"
+      ],
+      "notes": "⯌ 是细四尖黑色尖角，Unicode 编码为 U+2BCC，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bcd-2318",
+      "symbol": "⯍",
+      "name": "旋转细四尖黑色尖角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "旋转细四尖黑色尖角",
+        "形状",
+        "Rotated细FourPointed黑色尖角",
+        "Miscellaneous Symbols and Arrows",
+        "2BCD",
+        "U+2BCD"
+      ],
+      "notes": "⯍ 是旋转细四尖黑色尖角，Unicode 编码为 U+2BCD，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bce-2319",
+      "symbol": "⯎",
+      "name": "白色四尖尖角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色四尖尖角",
+        "形状",
+        "White Four Pointed Cusp",
+        "Miscellaneous Symbols and Arrows",
+        "2BCE",
+        "U+2BCE"
+      ],
+      "notes": "⯎ 是白色四尖尖角，Unicode 编码为 U+2BCE，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bcf-2320",
+      "symbol": "⯏",
+      "name": "旋转白色四尖尖角",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "旋转白色四尖尖角",
+        "形状",
+        "Rotated白色FourPointed尖角",
+        "Miscellaneous Symbols and Arrows",
+        "2BCF",
+        "U+2BCF"
+      ],
+      "notes": "⯏ 是旋转白色四尖尖角，Unicode 编码为 U+2BCF，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bd0-2321",
+      "symbol": "⯐",
+      "name": "方形位置指示符",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形位置指示符",
+        "形状",
+        "Square Position Indicator",
+        "Miscellaneous Symbols and Arrows",
+        "2BD0",
+        "U+2BD0"
+      ],
+      "notes": "⯐ 是方形位置指示符，Unicode 编码为 U+2BD0，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bde-2335",
+      "symbol": "⯞",
+      "name": "黑色菱形十字上",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色菱形十字上",
+        "形状",
+        "Black Diamond on Cross",
+        "Miscellaneous Symbols and Arrows",
+        "2BDE",
+        "U+2BDE"
+      ],
+      "notes": "⯞ 是黑色菱形十字上，Unicode 编码为 U+2BDE，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2be8-2345",
+      "symbol": "⯨",
+      "name": "左半黑色星形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左半黑色星形",
+        "形状",
+        "Left Half black Star",
+        "Miscellaneous Symbols and Arrows",
+        "2BE8",
+        "U+2BE8"
+      ],
+      "notes": "⯨ 是左半黑色星形，Unicode 编码为 U+2BE8，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2be9-2346",
+      "symbol": "⯩",
+      "name": "右半黑色星形",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "右半黑色星形",
+        "形状",
+        "Right Half black Star",
+        "Miscellaneous Symbols and Arrows",
+        "2BE9",
+        "U+2BE9"
+      ],
+      "notes": "⯩ 是右半黑色星形，Unicode 编码为 U+2BE9，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2bea-2347",
+      "symbol": "⯪",
+      "name": "星形带左半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "星形带左半黑色",
+        "形状",
+        "Star with Left Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2BEA",
+        "U+2BEA"
+      ],
+      "notes": "⯪ 是星形带左半黑色，Unicode 编码为 U+2BEA，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-2beb-2348",
+      "symbol": "⯫",
+      "name": "星形带右半黑色",
+      "pronunciation": "",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "星形带右半黑色",
+        "形状",
+        "Star with right Half Black",
+        "Miscellaneous Symbols and Arrows",
+        "2BEB",
+        "U+2BEB"
+      ],
+      "notes": "⯫ 是星形带右半黑色，Unicode 编码为 U+2BEB，适合用于几何图形、图例标注、状态提示或装饰性排版。"
     }
   ]
 }

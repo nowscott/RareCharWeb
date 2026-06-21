@@ -1,6 +1,6 @@
 {
   "category": "数学",
-  "total": 48,
+  "total": 227,
   "items": [
     {
       "id": "symbol-ac-9",
@@ -869,6 +869,3224 @@
         "数学字母"
       ],
       "notes": "⅀ 是双线体 N 元求和符号，Unicode 编码为 U+2140，常用于数学、物理或逻辑表达中的专用符号。"
+    },
+    {
+      "id": "symbol-2bf9-2362",
+      "symbol": "⯹",
+      "name": "等号带无限符号在下方",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "等号带无限符号在下方",
+        "数学",
+        "Equals Sign with Infinity Below",
+        "Miscellaneous Symbols and Arrows",
+        "2BF9",
+        "U+2BF9"
+      ],
+      "notes": "⯹ 是等号带无限符号在下方，Unicode 编码为 U+2BF9，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2bfe-2367",
+      "symbol": "⯾",
+      "name": "反向右角",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "反向右角",
+        "数学",
+        "Reversed Right Angle",
+        "Miscellaneous Symbols and Arrows",
+        "2BFE",
+        "U+2BFE"
+      ],
+      "notes": "⯾ 是反向右角，Unicode 编码为 U+2BFE，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2200-2369",
+      "symbol": "∀",
+      "name": "全称量词",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "全称量词",
+        "数学",
+        "For All",
+        "Mathematical Operators",
+        "2200",
+        "U+2200"
+      ],
+      "notes": "∀ 是全称量词，Unicode 编码为 U+2200，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2201-2370",
+      "symbol": "∁",
+      "name": "补集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "补集",
+        "数学",
+        "Complement",
+        "Mathematical Operators",
+        "2201",
+        "U+2201"
+      ],
+      "notes": "∁ 是补集，Unicode 编码为 U+2201，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2203-2371",
+      "symbol": "∃",
+      "name": "存在量词",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "存在量词",
+        "数学",
+        "There Exists",
+        "Mathematical Operators",
+        "2203",
+        "U+2203"
+      ],
+      "notes": "∃ 是存在量词，Unicode 编码为 U+2203，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2204-2372",
+      "symbol": "∄",
+      "name": "不存在量词",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不存在量词",
+        "数学",
+        "There Does Not Exist",
+        "Mathematical Operators",
+        "2204",
+        "U+2204"
+      ],
+      "notes": "∄ 是不存在量词，Unicode 编码为 U+2204，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2206-2373",
+      "symbol": "∆",
+      "name": "增量符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "增量符号",
+        "数学",
+        "Increment",
+        "Mathematical Operators",
+        "2206",
+        "U+2206"
+      ],
+      "notes": "∆ 是增量符号，Unicode 编码为 U+2206，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2207-2374",
+      "symbol": "∇",
+      "name": "劈形算子",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "劈形算子",
+        "数学",
+        "Nabla",
+        "Mathematical Operators",
+        "2207",
+        "U+2207"
+      ],
+      "notes": "∇ 是劈形算子，Unicode 编码为 U+2207，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-220a-2375",
+      "symbol": "∊",
+      "name": "小属于符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "小属于符号",
+        "数学",
+        "Small Element Of",
+        "Mathematical Operators",
+        "220A",
+        "U+220A"
+      ],
+      "notes": "∊ 是小属于符号，Unicode 编码为 U+220A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-220b-2376",
+      "symbol": "∋",
+      "name": "包含元素符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "包含元素符号",
+        "数学",
+        "Contains As Member",
+        "Mathematical Operators",
+        "220B",
+        "U+220B"
+      ],
+      "notes": "∋ 是包含元素符号，Unicode 编码为 U+220B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-220c-2377",
+      "symbol": "∌",
+      "name": "不包含元素符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不包含元素符号",
+        "数学",
+        "Does Not Contain As Member",
+        "Mathematical Operators",
+        "220C",
+        "U+220C"
+      ],
+      "notes": "∌ 是不包含元素符号，Unicode 编码为 U+220C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-220d-2378",
+      "symbol": "∍",
+      "name": "小包含元素符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "小包含元素符号",
+        "数学",
+        "Small Contains As Member",
+        "Mathematical Operators",
+        "220D",
+        "U+220D"
+      ],
+      "notes": "∍ 是小包含元素符号，Unicode 编码为 U+220D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-220e-2379",
+      "symbol": "∎",
+      "name": "证明结束符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "证明结束符号",
+        "数学",
+        "End of Proof",
+        "Mathematical Operators",
+        "220E",
+        "U+220E"
+      ],
+      "notes": "∎ 是证明结束符号，Unicode 编码为 U+220E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2210-2380",
+      "symbol": "∐",
+      "name": "多元余积",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多元余积",
+        "数学",
+        "N-Ary Coproduct",
+        "Mathematical Operators",
+        "2210",
+        "U+2210"
+      ],
+      "notes": "∐ 是多元余积，Unicode 编码为 U+2210，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2211-2381",
+      "symbol": "∑",
+      "name": "多元求和",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多元求和",
+        "数学",
+        "N-Ary Summation",
+        "Mathematical Operators",
+        "2211",
+        "U+2211"
+      ],
+      "notes": "∑ 是多元求和，Unicode 编码为 U+2211，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2212-2382",
+      "symbol": "−",
+      "name": "减号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "减号",
+        "数学",
+        "Minus Sign",
+        "Mathematical Operators",
+        "2212",
+        "U+2212"
+      ],
+      "notes": "− 是减号，Unicode 编码为 U+2212，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2213-2383",
+      "symbol": "∓",
+      "name": "减或加号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "减或加号",
+        "数学",
+        "Minus-or-Plus Sign",
+        "Mathematical Operators",
+        "2213",
+        "U+2213"
+      ],
+      "notes": "∓ 是减或加号，Unicode 编码为 U+2213，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2214-2384",
+      "symbol": "∔",
+      "name": "点加号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "点加号",
+        "数学",
+        "Dot Plus",
+        "Mathematical Operators",
+        "2214",
+        "U+2214"
+      ],
+      "notes": "∔ 是点加号，Unicode 编码为 U+2214，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2215-2385",
+      "symbol": "∕",
+      "name": "除法斜线",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "除法斜线",
+        "数学",
+        "Division Slash",
+        "Mathematical Operators",
+        "2215",
+        "U+2215"
+      ],
+      "notes": "∕ 是除法斜线，Unicode 编码为 U+2215，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2216-2386",
+      "symbol": "∖",
+      "name": "集合差号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "集合差号",
+        "数学",
+        "Set Minus",
+        "Mathematical Operators",
+        "2216",
+        "U+2216"
+      ],
+      "notes": "∖ 是集合差号，Unicode 编码为 U+2216，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2217-2387",
+      "symbol": "∗",
+      "name": "星号运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "星号运算符",
+        "数学",
+        "Asterisk Operator",
+        "Mathematical Operators",
+        "2217",
+        "U+2217"
+      ],
+      "notes": "∗ 是星号运算符，Unicode 编码为 U+2217，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2218-2388",
+      "symbol": "∘",
+      "name": "环运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "环运算符",
+        "数学",
+        "Ring Operator",
+        "Mathematical Operators",
+        "2218",
+        "U+2218"
+      ],
+      "notes": "∘ 是环运算符，Unicode 编码为 U+2218，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2219-2389",
+      "symbol": "∙",
+      "name": "点运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "点运算符",
+        "数学",
+        "Bullet Operator",
+        "Mathematical Operators",
+        "2219",
+        "U+2219"
+      ],
+      "notes": "∙ 是点运算符，Unicode 编码为 U+2219，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-221b-2390",
+      "symbol": "∛",
+      "name": "立方根",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "立方根",
+        "数学",
+        "Cube Root",
+        "Mathematical Operators",
+        "221B",
+        "U+221B"
+      ],
+      "notes": "∛ 是立方根，Unicode 编码为 U+221B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-221c-2391",
+      "symbol": "∜",
+      "name": "四次方根",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "四次方根",
+        "数学",
+        "Fourth Root",
+        "Mathematical Operators",
+        "221C",
+        "U+221C"
+      ],
+      "notes": "∜ 是四次方根，Unicode 编码为 U+221C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-221d-2392",
+      "symbol": "∝",
+      "name": "正比于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "正比于",
+        "数学",
+        "Proportional To",
+        "Mathematical Operators",
+        "221D",
+        "U+221D"
+      ],
+      "notes": "∝ 是正比于，Unicode 编码为 U+221D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-221f-2393",
+      "symbol": "∟",
+      "name": "直角",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "直角",
+        "数学",
+        "Right Angle",
+        "Mathematical Operators",
+        "221F",
+        "U+221F"
+      ],
+      "notes": "∟ 是直角，Unicode 编码为 U+221F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2220-2394",
+      "symbol": "∠",
+      "name": "角",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "角",
+        "数学",
+        "Angle",
+        "Mathematical Operators",
+        "2220",
+        "U+2220"
+      ],
+      "notes": "∠ 是角，Unicode 编码为 U+2220，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2221-2395",
+      "symbol": "∡",
+      "name": "测量角",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "测量角",
+        "数学",
+        "Measured Angle",
+        "Mathematical Operators",
+        "2221",
+        "U+2221"
+      ],
+      "notes": "∡ 是测量角，Unicode 编码为 U+2221，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2222-2396",
+      "symbol": "∢",
+      "name": "球面角",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "球面角",
+        "数学",
+        "Spherical Angle",
+        "Mathematical Operators",
+        "2222",
+        "U+2222"
+      ],
+      "notes": "∢ 是球面角，Unicode 编码为 U+2222，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2223-2397",
+      "symbol": "∣",
+      "name": "整除",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "整除",
+        "数学",
+        "Divides",
+        "Mathematical Operators",
+        "2223",
+        "U+2223"
+      ],
+      "notes": "∣ 是整除，Unicode 编码为 U+2223，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2224-2398",
+      "symbol": "∤",
+      "name": "不整除",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不整除",
+        "数学",
+        "Does Not Divide",
+        "Mathematical Operators",
+        "2224",
+        "U+2224"
+      ],
+      "notes": "∤ 是不整除，Unicode 编码为 U+2224，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2225-2399",
+      "symbol": "∥",
+      "name": "平行于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "平行于",
+        "数学",
+        "Parallel To",
+        "Mathematical Operators",
+        "2225",
+        "U+2225"
+      ],
+      "notes": "∥ 是平行于，Unicode 编码为 U+2225，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2226-2400",
+      "symbol": "∦",
+      "name": "不平行于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不平行于",
+        "数学",
+        "Not Parallel To",
+        "Mathematical Operators",
+        "2226",
+        "U+2226"
+      ],
+      "notes": "∦ 是不平行于，Unicode 编码为 U+2226，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2229-2401",
+      "symbol": "∩",
+      "name": "交集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "交集",
+        "数学",
+        "Intersection",
+        "Mathematical Operators",
+        "2229",
+        "U+2229"
+      ],
+      "notes": "∩ 是交集，Unicode 编码为 U+2229，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-222a-2402",
+      "symbol": "∪",
+      "name": "并集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "并集",
+        "数学",
+        "Union",
+        "Mathematical Operators",
+        "222A",
+        "U+222A"
+      ],
+      "notes": "∪ 是并集，Unicode 编码为 U+222A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-222c-2403",
+      "symbol": "∬",
+      "name": "二重积分",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "二重积分",
+        "数学",
+        "Double Integral",
+        "Mathematical Operators",
+        "222C",
+        "U+222C"
+      ],
+      "notes": "∬ 是二重积分，Unicode 编码为 U+222C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-222d-2404",
+      "symbol": "∭",
+      "name": "三重积分",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "三重积分",
+        "数学",
+        "Triple Integral",
+        "Mathematical Operators",
+        "222D",
+        "U+222D"
+      ],
+      "notes": "∭ 是三重积分，Unicode 编码为 U+222D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-222f-2405",
+      "symbol": "∯",
+      "name": "曲面积分",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "曲面积分",
+        "数学",
+        "Surface Integral",
+        "Mathematical Operators",
+        "222F",
+        "U+222F"
+      ],
+      "notes": "∯ 是曲面积分，Unicode 编码为 U+222F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2230-2406",
+      "symbol": "∰",
+      "name": "体积分",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "体积分",
+        "数学",
+        "Volume Integral",
+        "Mathematical Operators",
+        "2230",
+        "U+2230"
+      ],
+      "notes": "∰ 是体积分，Unicode 编码为 U+2230，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2231-2407",
+      "symbol": "∱",
+      "name": "顺时针积分",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "顺时针积分",
+        "数学",
+        "Clockwise Integral",
+        "Mathematical Operators",
+        "2231",
+        "U+2231"
+      ],
+      "notes": "∱ 是顺时针积分，Unicode 编码为 U+2231，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2232-2408",
+      "symbol": "∲",
+      "name": "顺时针围道积分",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "顺时针围道积分",
+        "数学",
+        "Clockwise Contour Integral",
+        "Mathematical Operators",
+        "2232",
+        "U+2232"
+      ],
+      "notes": "∲ 是顺时针围道积分，Unicode 编码为 U+2232，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2233-2409",
+      "symbol": "∳",
+      "name": "逆时针围道积分",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "逆时针围道积分",
+        "数学",
+        "Anticlockwise Contour Integral",
+        "Mathematical Operators",
+        "2233",
+        "U+2233"
+      ],
+      "notes": "∳ 是逆时针围道积分，Unicode 编码为 U+2233，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2236-2410",
+      "symbol": "∶",
+      "name": "比号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "比号",
+        "数学",
+        "Ratio",
+        "Mathematical Operators",
+        "2236",
+        "U+2236"
+      ],
+      "notes": "∶ 是比号，Unicode 编码为 U+2236，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2237-2411",
+      "symbol": "∷",
+      "name": "比例号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "比例号",
+        "数学",
+        "Proportion",
+        "Mathematical Operators",
+        "2237",
+        "U+2237"
+      ],
+      "notes": "∷ 是比例号，Unicode 编码为 U+2237，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2238-2412",
+      "symbol": "∸",
+      "name": "点减号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "点减号",
+        "数学",
+        "Dot Minus",
+        "Mathematical Operators",
+        "2238",
+        "U+2238"
+      ],
+      "notes": "∸ 是点减号，Unicode 编码为 U+2238，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2239-2413",
+      "symbol": "∹",
+      "name": "超量符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "超量符号",
+        "数学",
+        "Excess",
+        "Mathematical Operators",
+        "2239",
+        "U+2239"
+      ],
+      "notes": "∹ 是超量符号，Unicode 编码为 U+2239，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-223a-2414",
+      "symbol": "∺",
+      "name": "几何比例",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "几何比例",
+        "数学",
+        "Geometric Proportion",
+        "Mathematical Operators",
+        "223A",
+        "U+223A"
+      ],
+      "notes": "∺ 是几何比例，Unicode 编码为 U+223A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-223b-2415",
+      "symbol": "∻",
+      "name": "位似符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "位似符号",
+        "数学",
+        "Homothetic",
+        "Mathematical Operators",
+        "223B",
+        "U+223B"
+      ],
+      "notes": "∻ 是位似符号，Unicode 编码为 U+223B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-223c-2416",
+      "symbol": "∼",
+      "name": "波浪运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "波浪运算符",
+        "数学",
+        "Tilde Operator",
+        "Mathematical Operators",
+        "223C",
+        "U+223C"
+      ],
+      "notes": "∼ 是波浪运算符，Unicode 编码为 U+223C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-223d-2417",
+      "symbol": "∽",
+      "name": "反向波浪号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "反向波浪号",
+        "数学",
+        "Reversed Tilde",
+        "Mathematical Operators",
+        "223D",
+        "U+223D"
+      ],
+      "notes": "∽ 是反向波浪号，Unicode 编码为 U+223D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-223e-2418",
+      "symbol": "∾",
+      "name": "倒懒形符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "倒懒形符号",
+        "数学"
+      ],
+      "notes": "∾ 是倒懒形符号，Unicode 编码为 U+223E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-223f-2419",
+      "symbol": "∿",
+      "name": "正弦波",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "正弦波",
+        "数学",
+        "Sine Wave",
+        "Mathematical Operators",
+        "223F",
+        "U+223F"
+      ],
+      "notes": "∿ 是正弦波，Unicode 编码为 U+223F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2240-2420",
+      "symbol": "≀",
+      "name": "圈积",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "圈积",
+        "数学",
+        "Wreath Product",
+        "Mathematical Operators",
+        "2240",
+        "U+2240"
+      ],
+      "notes": "≀ 是圈积，Unicode 编码为 U+2240，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2241-2421",
+      "symbol": "≁",
+      "name": "非波浪号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "非波浪号",
+        "数学",
+        "Not Tilde",
+        "Mathematical Operators",
+        "2241",
+        "U+2241"
+      ],
+      "notes": "≁ 是非波浪号，Unicode 编码为 U+2241，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2242-2422",
+      "symbol": "≂",
+      "name": "减波浪号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "减波浪号",
+        "数学",
+        "Minus Tilde",
+        "Mathematical Operators",
+        "2242",
+        "U+2242"
+      ],
+      "notes": "≂ 是减波浪号，Unicode 编码为 U+2242，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2243-2423",
+      "symbol": "≃",
+      "name": "渐近等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "渐近等于",
+        "数学",
+        "Asymptotically Equal To",
+        "Mathematical Operators",
+        "2243",
+        "U+2243"
+      ],
+      "notes": "≃ 是渐近等于，Unicode 编码为 U+2243，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2244-2424",
+      "symbol": "≄",
+      "name": "不渐近等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不渐近等于",
+        "数学",
+        "Not Asymptotically Equal To",
+        "Mathematical Operators",
+        "2244",
+        "U+2244"
+      ],
+      "notes": "≄ 是不渐近等于，Unicode 编码为 U+2244，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2246-2425",
+      "symbol": "≆",
+      "name": "近似但不实际等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "近似但不实际等于",
+        "数学",
+        "Approximately But Not Actually Equal To",
+        "Mathematical Operators",
+        "2246",
+        "U+2246"
+      ],
+      "notes": "≆ 是近似但不实际等于，Unicode 编码为 U+2246，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2247-2426",
+      "symbol": "≇",
+      "name": "既不近似也不实际等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既不近似也不实际等于",
+        "数学",
+        "Neither Approximately nor Actually Equal To",
+        "Mathematical Operators",
+        "2247",
+        "U+2247"
+      ],
+      "notes": "≇ 是既不近似也不实际等于，Unicode 编码为 U+2247，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2249-2427",
+      "symbol": "≉",
+      "name": "不约等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不约等于",
+        "数学",
+        "Not Almost Equal To",
+        "Mathematical Operators",
+        "2249",
+        "U+2249"
+      ],
+      "notes": "≉ 是不约等于，Unicode 编码为 U+2249，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-224b-2428",
+      "symbol": "≋",
+      "name": "三重波浪号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "三重波浪号",
+        "数学",
+        "Triple Tilde",
+        "Mathematical Operators",
+        "224B",
+        "U+224B"
+      ],
+      "notes": "≋ 是三重波浪号，Unicode 编码为 U+224B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-224d-2429",
+      "symbol": "≍",
+      "name": "等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "等价于",
+        "数学",
+        "Equivalent To",
+        "Mathematical Operators",
+        "224D",
+        "U+224D"
+      ],
+      "notes": "≍ 是等价于，Unicode 编码为 U+224D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-224e-2430",
+      "symbol": "≎",
+      "name": "几何等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "几何等价于",
+        "数学",
+        "Geometrically Equivalent To",
+        "Mathematical Operators",
+        "224E",
+        "U+224E"
+      ],
+      "notes": "≎ 是几何等价于，Unicode 编码为 U+224E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-224f-2431",
+      "symbol": "≏",
+      "name": "差异符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "差异符号",
+        "数学",
+        "Difference Between",
+        "Mathematical Operators",
+        "224F",
+        "U+224F"
+      ],
+      "notes": "≏ 是差异符号，Unicode 编码为 U+224F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2250-2432",
+      "symbol": "≐",
+      "name": "趋近极限",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "趋近极限",
+        "数学",
+        "Approaches the Limit",
+        "Mathematical Operators",
+        "2250",
+        "U+2250"
+      ],
+      "notes": "≐ 是趋近极限，Unicode 编码为 U+2250，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2251-2433",
+      "symbol": "≑",
+      "name": "几何等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "几何等于",
+        "数学",
+        "Geometrically Equal To",
+        "Mathematical Operators",
+        "2251",
+        "U+2251"
+      ],
+      "notes": "≑ 是几何等于，Unicode 编码为 U+2251，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2253-2434",
+      "symbol": "≓",
+      "name": "像或近似等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "像或近似等于",
+        "数学",
+        "Image of or Approximately Equal To",
+        "Mathematical Operators",
+        "2253",
+        "U+2253"
+      ],
+      "notes": "≓ 是像或近似等于，Unicode 编码为 U+2253，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2254-2435",
+      "symbol": "≔",
+      "name": "冒号等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "冒号等于",
+        "数学",
+        "Colon Equals",
+        "Mathematical Operators",
+        "2254",
+        "U+2254"
+      ],
+      "notes": "≔ 是冒号等于，Unicode 编码为 U+2254，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2255-2436",
+      "symbol": "≕",
+      "name": "等于冒号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "等于冒号",
+        "数学",
+        "Equals Colon",
+        "Mathematical Operators",
+        "2255",
+        "U+2255"
+      ],
+      "notes": "≕ 是等于冒号，Unicode 编码为 U+2255，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2256-2437",
+      "symbol": "≖",
+      "name": "等号内带圆圈",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "等号内带圆圈",
+        "数学",
+        "Ring In Equal To",
+        "Mathematical Operators",
+        "2256",
+        "U+2256"
+      ],
+      "notes": "≖ 是等号内带圆圈，Unicode 编码为 U+2256，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2257-2438",
+      "symbol": "≗",
+      "name": "圆圈等号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "圆圈等号",
+        "数学",
+        "Ring Equal To",
+        "Mathematical Operators",
+        "2257",
+        "U+2257"
+      ],
+      "notes": "≗ 是圆圈等号，Unicode 编码为 U+2257，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2258-2439",
+      "symbol": "≘",
+      "name": "对应于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "对应于",
+        "数学",
+        "Corresponds To",
+        "Mathematical Operators",
+        "2258",
+        "U+2258"
+      ],
+      "notes": "≘ 是对应于，Unicode 编码为 U+2258，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2259-2440",
+      "symbol": "≙",
+      "name": "估计等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "估计等于",
+        "数学",
+        "Estimates",
+        "Mathematical Operators",
+        "2259",
+        "U+2259"
+      ],
+      "notes": "≙ 是估计等于，Unicode 编码为 U+2259，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-225a-2441",
+      "symbol": "≚",
+      "name": "等角于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "等角于",
+        "数学",
+        "Equiangular To",
+        "Mathematical Operators",
+        "225A",
+        "U+225A"
+      ],
+      "notes": "≚ 是等角于，Unicode 编码为 U+225A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-225b-2442",
+      "symbol": "≛",
+      "name": "星号等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "星号等于",
+        "数学",
+        "Star Equals",
+        "Mathematical Operators",
+        "225B",
+        "U+225B"
+      ],
+      "notes": "≛ 是星号等于，Unicode 编码为 U+225B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-225c-2443",
+      "symbol": "≜",
+      "name": "定义增量等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "定义增量等于",
+        "数学",
+        "Delta Equal To",
+        "Mathematical Operators",
+        "225C",
+        "U+225C"
+      ],
+      "notes": "≜ 是定义增量等于，Unicode 编码为 U+225C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-225d-2444",
+      "symbol": "≝",
+      "name": "按定义等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "按定义等于",
+        "数学",
+        "Equal To By Definition",
+        "Mathematical Operators",
+        "225D",
+        "U+225D"
+      ],
+      "notes": "≝ 是按定义等于，Unicode 编码为 U+225D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-225e-2445",
+      "symbol": "≞",
+      "name": "测量为",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "测量为",
+        "数学",
+        "Measured By",
+        "Mathematical Operators",
+        "225E",
+        "U+225E"
+      ],
+      "notes": "≞ 是测量为，Unicode 编码为 U+225E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-225f-2446",
+      "symbol": "≟",
+      "name": "疑问等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "疑问等于",
+        "数学",
+        "Questioned Equal To",
+        "Mathematical Operators",
+        "225F",
+        "U+225F"
+      ],
+      "notes": "≟ 是疑问等于，Unicode 编码为 U+225F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2262-2447",
+      "symbol": "≢",
+      "name": "不恒等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不恒等于",
+        "数学",
+        "Not Identical To",
+        "Mathematical Operators",
+        "2262",
+        "U+2262"
+      ],
+      "notes": "≢ 是不恒等于，Unicode 编码为 U+2262，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2263-2448",
+      "symbol": "≣",
+      "name": "严格等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "严格等价于",
+        "数学",
+        "Strictly Equivalent To",
+        "Mathematical Operators",
+        "2263",
+        "U+2263"
+      ],
+      "notes": "≣ 是严格等价于，Unicode 编码为 U+2263，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2264-2449",
+      "symbol": "≤",
+      "name": "小于或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "小于或等于",
+        "数学",
+        "Less-Than or Equal To",
+        "Mathematical Operators",
+        "2264",
+        "U+2264"
+      ],
+      "notes": "≤ 是小于或等于，Unicode 编码为 U+2264，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2265-2450",
+      "symbol": "≥",
+      "name": "大于或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "大于或等于",
+        "数学",
+        "Greater-Than or Equal To",
+        "Mathematical Operators",
+        "2265",
+        "U+2265"
+      ],
+      "notes": "≥ 是大于或等于，Unicode 编码为 U+2265，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2266-2451",
+      "symbol": "≦",
+      "name": "小于在等号上",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "小于在等号上",
+        "数学",
+        "Less-Than Over Equal To",
+        "Mathematical Operators",
+        "2266",
+        "U+2266"
+      ],
+      "notes": "≦ 是小于在等号上，Unicode 编码为 U+2266，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2267-2452",
+      "symbol": "≧",
+      "name": "大于在等号上",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "大于在等号上",
+        "数学",
+        "Greater-Than Over Equal To",
+        "Mathematical Operators",
+        "2267",
+        "U+2267"
+      ],
+      "notes": "≧ 是大于在等号上，Unicode 编码为 U+2267，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2268-2453",
+      "symbol": "≨",
+      "name": "小于但不等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "小于但不等于",
+        "数学",
+        "Less-Than But Not Equal To",
+        "Mathematical Operators",
+        "2268",
+        "U+2268"
+      ],
+      "notes": "≨ 是小于但不等于，Unicode 编码为 U+2268，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2269-2454",
+      "symbol": "≩",
+      "name": "大于但不等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "大于但不等于",
+        "数学",
+        "Greater-Than But Not Equal To",
+        "Mathematical Operators",
+        "2269",
+        "U+2269"
+      ],
+      "notes": "≩ 是大于但不等于，Unicode 编码为 U+2269，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-226a-2455",
+      "symbol": "≪",
+      "name": "远小于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "远小于",
+        "数学",
+        "Much Less-Than",
+        "Mathematical Operators",
+        "226A",
+        "U+226A"
+      ],
+      "notes": "≪ 是远小于，Unicode 编码为 U+226A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-226b-2456",
+      "symbol": "≫",
+      "name": "远大于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "远大于",
+        "数学",
+        "Much Greater-Than",
+        "Mathematical Operators",
+        "226B",
+        "U+226B"
+      ],
+      "notes": "≫ 是远大于，Unicode 编码为 U+226B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-226c-2457",
+      "symbol": "≬",
+      "name": "介于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "介于",
+        "数学",
+        "Between",
+        "Mathematical Operators",
+        "226C",
+        "U+226C"
+      ],
+      "notes": "≬ 是介于，Unicode 编码为 U+226C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-226d-2458",
+      "symbol": "≭",
+      "name": "不等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不等价于",
+        "数学",
+        "Not Equivalent To",
+        "Mathematical Operators",
+        "226D",
+        "U+226D"
+      ],
+      "notes": "≭ 是不等价于，Unicode 编码为 U+226D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-226e-2459",
+      "symbol": "≮",
+      "name": "不小于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不小于",
+        "数学",
+        "Not Less-Than",
+        "Mathematical Operators",
+        "226E",
+        "U+226E"
+      ],
+      "notes": "≮ 是不小于，Unicode 编码为 U+226E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-226f-2460",
+      "symbol": "≯",
+      "name": "不大于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不大于",
+        "数学",
+        "Not Greater-Than",
+        "Mathematical Operators",
+        "226F",
+        "U+226F"
+      ],
+      "notes": "≯ 是不大于，Unicode 编码为 U+226F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2270-2461",
+      "symbol": "≰",
+      "name": "既不小于也不等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既不小于也不等于",
+        "数学",
+        "Neither Less-Than nor Equal To",
+        "Mathematical Operators",
+        "2270",
+        "U+2270"
+      ],
+      "notes": "≰ 是既不小于也不等于，Unicode 编码为 U+2270，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2271-2462",
+      "symbol": "≱",
+      "name": "既不大于也不等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既不大于也不等于",
+        "数学",
+        "Neither Greater-Than nor Equal To",
+        "Mathematical Operators",
+        "2271",
+        "U+2271"
+      ],
+      "notes": "≱ 是既不大于也不等于，Unicode 编码为 U+2271，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2272-2463",
+      "symbol": "≲",
+      "name": "小于或等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "小于或等价于",
+        "数学",
+        "Less-Than or Equivalent To",
+        "Mathematical Operators",
+        "2272",
+        "U+2272"
+      ],
+      "notes": "≲ 是小于或等价于，Unicode 编码为 U+2272，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2273-2464",
+      "symbol": "≳",
+      "name": "大于或等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "大于或等价于",
+        "数学",
+        "Greater-Than or Equivalent To",
+        "Mathematical Operators",
+        "2273",
+        "U+2273"
+      ],
+      "notes": "≳ 是大于或等价于，Unicode 编码为 U+2273，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2274-2465",
+      "symbol": "≴",
+      "name": "既不小于也不等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既不小于也不等价于",
+        "数学",
+        "Neither Less-Than nor Equivalent To",
+        "Mathematical Operators",
+        "2274",
+        "U+2274"
+      ],
+      "notes": "≴ 是既不小于也不等价于，Unicode 编码为 U+2274，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2275-2466",
+      "symbol": "≵",
+      "name": "既不大于也不等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既不大于也不等价于",
+        "数学",
+        "Neither Greater-Than nor Equivalent To",
+        "Mathematical Operators",
+        "2275",
+        "U+2275"
+      ],
+      "notes": "≵ 是既不大于也不等价于，Unicode 编码为 U+2275，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2276-2467",
+      "symbol": "≶",
+      "name": "小于或大于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "小于或大于",
+        "数学",
+        "Less-Than or Greater-Than",
+        "Mathematical Operators",
+        "2276",
+        "U+2276"
+      ],
+      "notes": "≶ 是小于或大于，Unicode 编码为 U+2276，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2277-2468",
+      "symbol": "≷",
+      "name": "大于或小于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "大于或小于",
+        "数学",
+        "Greater-Than or Less-Than",
+        "Mathematical Operators",
+        "2277",
+        "U+2277"
+      ],
+      "notes": "≷ 是大于或小于，Unicode 编码为 U+2277，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2278-2469",
+      "symbol": "≸",
+      "name": "既不小于也不大于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既不小于也不大于",
+        "数学",
+        "Neither Less-Than nor Greater-Than",
+        "Mathematical Operators",
+        "2278",
+        "U+2278"
+      ],
+      "notes": "≸ 是既不小于也不大于，Unicode 编码为 U+2278，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2279-2470",
+      "symbol": "≹",
+      "name": "既不大于也不小于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既不大于也不小于",
+        "数学",
+        "Neither Greater-Than nor Less-Than",
+        "Mathematical Operators",
+        "2279",
+        "U+2279"
+      ],
+      "notes": "≹ 是既不大于也不小于，Unicode 编码为 U+2279，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-227a-2471",
+      "symbol": "≺",
+      "name": "先于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "先于",
+        "数学",
+        "Precedes",
+        "Mathematical Operators",
+        "227A",
+        "U+227A"
+      ],
+      "notes": "≺ 是先于，Unicode 编码为 U+227A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-227b-2472",
+      "symbol": "≻",
+      "name": "后于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "后于",
+        "数学",
+        "Succeeds",
+        "Mathematical Operators",
+        "227B",
+        "U+227B"
+      ],
+      "notes": "≻ 是后于，Unicode 编码为 U+227B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-227c-2473",
+      "symbol": "≼",
+      "name": "先于或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "先于或等于",
+        "数学",
+        "Precedes or Equal To",
+        "Mathematical Operators",
+        "227C",
+        "U+227C"
+      ],
+      "notes": "≼ 是先于或等于，Unicode 编码为 U+227C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-227d-2474",
+      "symbol": "≽",
+      "name": "后于或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "后于或等于",
+        "数学",
+        "Succeeds or Equal To",
+        "Mathematical Operators",
+        "227D",
+        "U+227D"
+      ],
+      "notes": "≽ 是后于或等于，Unicode 编码为 U+227D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-227e-2475",
+      "symbol": "≾",
+      "name": "先于或等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "先于或等价于",
+        "数学",
+        "Precedes or Equivalent To",
+        "Mathematical Operators",
+        "227E",
+        "U+227E"
+      ],
+      "notes": "≾ 是先于或等价于，Unicode 编码为 U+227E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-227f-2476",
+      "symbol": "≿",
+      "name": "后于或等价于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "后于或等价于",
+        "数学",
+        "Succeeds or Equivalent To",
+        "Mathematical Operators",
+        "227F",
+        "U+227F"
+      ],
+      "notes": "≿ 是后于或等价于，Unicode 编码为 U+227F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2280-2477",
+      "symbol": "⊀",
+      "name": "不先于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不先于",
+        "数学",
+        "Does Not Precede",
+        "Mathematical Operators",
+        "2280",
+        "U+2280"
+      ],
+      "notes": "⊀ 是不先于，Unicode 编码为 U+2280，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2281-2478",
+      "symbol": "⊁",
+      "name": "不后于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不后于",
+        "数学",
+        "Does Not Succeed",
+        "Mathematical Operators",
+        "2281",
+        "U+2281"
+      ],
+      "notes": "⊁ 是不后于，Unicode 编码为 U+2281，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2284-2479",
+      "symbol": "⊄",
+      "name": "不是子集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不是子集",
+        "数学",
+        "Not a Subset Of",
+        "Mathematical Operators",
+        "2284",
+        "U+2284"
+      ],
+      "notes": "⊄ 是不是子集，Unicode 编码为 U+2284，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2285-2480",
+      "symbol": "⊅",
+      "name": "不是超集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不是超集",
+        "数学",
+        "Not a Superset Of",
+        "Mathematical Operators",
+        "2285",
+        "U+2285"
+      ],
+      "notes": "⊅ 是不是超集，Unicode 编码为 U+2285，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2288-2481",
+      "symbol": "⊈",
+      "name": "既非子集也不等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既非子集也不等于",
+        "数学",
+        "Neither a Subset of nor Equal To",
+        "Mathematical Operators",
+        "2288",
+        "U+2288"
+      ],
+      "notes": "⊈ 是既非子集也不等于，Unicode 编码为 U+2288，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2289-2482",
+      "symbol": "⊉",
+      "name": "既非超集也不等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "既非超集也不等于",
+        "数学",
+        "Neither a Superset of nor Equal To",
+        "Mathematical Operators",
+        "2289",
+        "U+2289"
+      ],
+      "notes": "⊉ 是既非超集也不等于，Unicode 编码为 U+2289，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-228a-2483",
+      "symbol": "⊊",
+      "name": "真子集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "真子集",
+        "数学",
+        "Subset of with Not Equal To",
+        "Mathematical Operators",
+        "228A",
+        "U+228A"
+      ],
+      "notes": "⊊ 是真子集，Unicode 编码为 U+228A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-228b-2484",
+      "symbol": "⊋",
+      "name": "真超集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "真超集",
+        "数学",
+        "Superset of with Not Equal To",
+        "Mathematical Operators",
+        "228B",
+        "U+228B"
+      ],
+      "notes": "⊋ 是真超集，Unicode 编码为 U+228B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-228c-2485",
+      "symbol": "⊌",
+      "name": "多重集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多重集",
+        "数学",
+        "Multiset",
+        "Mathematical Operators",
+        "228C",
+        "U+228C"
+      ],
+      "notes": "⊌ 是多重集，Unicode 编码为 U+228C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-228d-2486",
+      "symbol": "⊍",
+      "name": "多重集乘法",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多重集乘法",
+        "数学",
+        "Multiset Multiplication",
+        "Mathematical Operators",
+        "228D",
+        "U+228D"
+      ],
+      "notes": "⊍ 是多重集乘法，Unicode 编码为 U+228D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-228e-2487",
+      "symbol": "⊎",
+      "name": "多重集并集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多重集并集",
+        "数学",
+        "Multiset Union",
+        "Mathematical Operators",
+        "228E",
+        "U+228E"
+      ],
+      "notes": "⊎ 是多重集并集，Unicode 编码为 U+228E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-228f-2488",
+      "symbol": "⊏",
+      "name": "方形像",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方形像",
+        "数学",
+        "Square Image Of",
+        "Mathematical Operators",
+        "228F",
+        "U+228F"
+      ],
+      "notes": "⊏ 是方形像，Unicode 编码为 U+228F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2290-2489",
+      "symbol": "⊐",
+      "name": "方形原像",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方形原像",
+        "数学",
+        "Square Original Of",
+        "Mathematical Operators",
+        "2290",
+        "U+2290"
+      ],
+      "notes": "⊐ 是方形原像，Unicode 编码为 U+2290，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2291-2490",
+      "symbol": "⊑",
+      "name": "方形像或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方形像或等于",
+        "数学",
+        "Square Image of or Equal To",
+        "Mathematical Operators",
+        "2291",
+        "U+2291"
+      ],
+      "notes": "⊑ 是方形像或等于，Unicode 编码为 U+2291，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2292-2491",
+      "symbol": "⊒",
+      "name": "方形原像或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方形原像或等于",
+        "数学",
+        "Square Original of or Equal To",
+        "Mathematical Operators",
+        "2292",
+        "U+2292"
+      ],
+      "notes": "⊒ 是方形原像或等于，Unicode 编码为 U+2292，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2293-2492",
+      "symbol": "⊓",
+      "name": "方形交",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方形交",
+        "数学",
+        "Square Cap",
+        "Mathematical Operators",
+        "2293",
+        "U+2293"
+      ],
+      "notes": "⊓ 是方形交，Unicode 编码为 U+2293，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2294-2493",
+      "symbol": "⊔",
+      "name": "方形并",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方形并",
+        "数学",
+        "Square Cup",
+        "Mathematical Operators",
+        "2294",
+        "U+2294"
+      ],
+      "notes": "⊔ 是方形并，Unicode 编码为 U+2294，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2295-2494",
+      "symbol": "⊕",
+      "name": "带圈加号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈加号",
+        "数学",
+        "Circled Plus",
+        "Mathematical Operators",
+        "2295",
+        "U+2295"
+      ],
+      "notes": "⊕ 是带圈加号，Unicode 编码为 U+2295，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2296-2495",
+      "symbol": "⊖",
+      "name": "带圈减号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈减号",
+        "数学",
+        "Circled Minus",
+        "Mathematical Operators",
+        "2296",
+        "U+2296"
+      ],
+      "notes": "⊖ 是带圈减号，Unicode 编码为 U+2296，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2297-2496",
+      "symbol": "⊗",
+      "name": "带圈乘号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈乘号",
+        "数学",
+        "Circled Times",
+        "Mathematical Operators",
+        "2297",
+        "U+2297"
+      ],
+      "notes": "⊗ 是带圈乘号，Unicode 编码为 U+2297，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2298-2497",
+      "symbol": "⊘",
+      "name": "带圈除法斜线",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈除法斜线",
+        "数学",
+        "Circled Division Slash",
+        "Mathematical Operators",
+        "2298",
+        "U+2298"
+      ],
+      "notes": "⊘ 是带圈除法斜线，Unicode 编码为 U+2298，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-2299-2498",
+      "symbol": "⊙",
+      "name": "带圈点运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈点运算符",
+        "数学",
+        "Circled Dot Operator",
+        "Mathematical Operators",
+        "2299",
+        "U+2299"
+      ],
+      "notes": "⊙ 是带圈点运算符，Unicode 编码为 U+2299，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-229a-2499",
+      "symbol": "⊚",
+      "name": "带圈环运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈环运算符",
+        "数学",
+        "Circled Ring Operator",
+        "Mathematical Operators",
+        "229A",
+        "U+229A"
+      ],
+      "notes": "⊚ 是带圈环运算符，Unicode 编码为 U+229A，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-229b-2500",
+      "symbol": "⊛",
+      "name": "带圈星号运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈星号运算符",
+        "数学",
+        "Circled Asterisk Operator",
+        "Mathematical Operators",
+        "229B",
+        "U+229B"
+      ],
+      "notes": "⊛ 是带圈星号运算符，Unicode 编码为 U+229B，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-229c-2501",
+      "symbol": "⊜",
+      "name": "带圈等号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈等号",
+        "数学",
+        "Circled Equals",
+        "Mathematical Operators",
+        "229C",
+        "U+229C"
+      ],
+      "notes": "⊜ 是带圈等号，Unicode 编码为 U+229C，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-229d-2502",
+      "symbol": "⊝",
+      "name": "带圈短横",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带圈短横",
+        "数学",
+        "Circled Dash",
+        "Mathematical Operators",
+        "229D",
+        "U+229D"
+      ],
+      "notes": "⊝ 是带圈短横，Unicode 编码为 U+229D，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-229e-2503",
+      "symbol": "⊞",
+      "name": "方框加号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方框加号",
+        "数学",
+        "Squared Plus",
+        "Mathematical Operators",
+        "229E",
+        "U+229E"
+      ],
+      "notes": "⊞ 是方框加号，Unicode 编码为 U+229E，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-229f-2504",
+      "symbol": "⊟",
+      "name": "方框减号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方框减号",
+        "数学",
+        "Squared Minus",
+        "Mathematical Operators",
+        "229F",
+        "U+229F"
+      ],
+      "notes": "⊟ 是方框减号，Unicode 编码为 U+229F，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a0-2505",
+      "symbol": "⊠",
+      "name": "方框乘号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方框乘号",
+        "数学",
+        "Squared Times",
+        "Mathematical Operators",
+        "22A0",
+        "U+22A0"
+      ],
+      "notes": "⊠ 是方框乘号，Unicode 编码为 U+22A0，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a1-2506",
+      "symbol": "⊡",
+      "name": "方框点运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "方框点运算符",
+        "数学",
+        "Squared Dot Operator",
+        "Mathematical Operators",
+        "22A1",
+        "U+22A1"
+      ],
+      "notes": "⊡ 是方框点运算符，Unicode 编码为 U+22A1，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a2-2507",
+      "symbol": "⊢",
+      "name": "右钉符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "右钉符",
+        "数学",
+        "Right Tack",
+        "Mathematical Operators",
+        "22A2",
+        "U+22A2"
+      ],
+      "notes": "⊢ 是右钉符，Unicode 编码为 U+22A2，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a3-2508",
+      "symbol": "⊣",
+      "name": "左钉符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "左钉符",
+        "数学",
+        "Left Tack",
+        "Mathematical Operators",
+        "22A3",
+        "U+22A3"
+      ],
+      "notes": "⊣ 是左钉符，Unicode 编码为 U+22A3，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a4-2509",
+      "symbol": "⊤",
+      "name": "下钉符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "下钉符",
+        "数学",
+        "Down Tack",
+        "Mathematical Operators",
+        "22A4",
+        "U+22A4"
+      ],
+      "notes": "⊤ 是下钉符，Unicode 编码为 U+22A4，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a5-2510",
+      "symbol": "⊥",
+      "name": "上钉符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "上钉符",
+        "数学",
+        "Up Tack",
+        "Mathematical Operators",
+        "22A5",
+        "U+22A5"
+      ],
+      "notes": "⊥ 是上钉符，Unicode 编码为 U+22A5，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a6-2511",
+      "symbol": "⊦",
+      "name": "断言符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "断言符",
+        "数学",
+        "Assertion",
+        "Mathematical Operators",
+        "22A6",
+        "U+22A6"
+      ],
+      "notes": "⊦ 是断言符，Unicode 编码为 U+22A6，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a7-2512",
+      "symbol": "⊧",
+      "name": "满足符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "满足符",
+        "数学",
+        "Models",
+        "Mathematical Operators",
+        "22A7",
+        "U+22A7"
+      ],
+      "notes": "⊧ 是满足符，Unicode 编码为 U+22A7，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a8-2513",
+      "symbol": "⊨",
+      "name": "真值符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "真值符",
+        "数学",
+        "True",
+        "Mathematical Operators",
+        "22A8",
+        "U+22A8"
+      ],
+      "notes": "⊨ 是真值符，Unicode 编码为 U+22A8，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22a9-2514",
+      "symbol": "⊩",
+      "name": "强制符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "强制符",
+        "数学",
+        "Forces",
+        "Mathematical Operators",
+        "22A9",
+        "U+22A9"
+      ],
+      "notes": "⊩ 是强制符，Unicode 编码为 U+22A9，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22aa-2515",
+      "symbol": "⊪",
+      "name": "三竖线右转门",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "三竖线右转门",
+        "数学",
+        "Triple Vertical Bar Right Turnstile",
+        "Mathematical Operators",
+        "22AA",
+        "U+22AA"
+      ],
+      "notes": "⊪ 是三竖线右转门，Unicode 编码为 U+22AA，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22ab-2516",
+      "symbol": "⊫",
+      "name": "双竖线双右转门",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "双竖线双右转门",
+        "数学",
+        "Double Vertical Bar Double Right Turnstile",
+        "Mathematical Operators",
+        "22AB",
+        "U+22AB"
+      ],
+      "notes": "⊫ 是双竖线双右转门，Unicode 编码为 U+22AB，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22ac-2517",
+      "symbol": "⊬",
+      "name": "不能证明",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不能证明",
+        "数学",
+        "Does Not Prove",
+        "Mathematical Operators",
+        "22AC",
+        "U+22AC"
+      ],
+      "notes": "⊬ 是不能证明，Unicode 编码为 U+22AC，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22ad-2518",
+      "symbol": "⊭",
+      "name": "非真",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "非真",
+        "数学",
+        "Not True",
+        "Mathematical Operators",
+        "22AD",
+        "U+22AD"
+      ],
+      "notes": "⊭ 是非真，Unicode 编码为 U+22AD，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22ae-2519",
+      "symbol": "⊮",
+      "name": "不强制",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "不强制",
+        "数学",
+        "Does Not Force",
+        "Mathematical Operators",
+        "22AE",
+        "U+22AE"
+      ],
+      "notes": "⊮ 是不强制，Unicode 编码为 U+22AE，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22af-2520",
+      "symbol": "⊯",
+      "name": "否定双竖线双右转门",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "否定双竖线双右转门",
+        "数学",
+        "Negated Double Vertical Bar Double Right Turnstile",
+        "Mathematical Operators",
+        "22AF",
+        "U+22AF"
+      ],
+      "notes": "⊯ 是否定双竖线双右转门，Unicode 编码为 U+22AF，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b0-2521",
+      "symbol": "⊰",
+      "name": "关系下先于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "关系下先于",
+        "数学",
+        "Precedes Under Relation",
+        "Mathematical Operators",
+        "22B0",
+        "U+22B0"
+      ],
+      "notes": "⊰ 是关系下先于，Unicode 编码为 U+22B0，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b1-2522",
+      "symbol": "⊱",
+      "name": "关系下后于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "关系下后于",
+        "数学",
+        "Succeeds Under Relation",
+        "Mathematical Operators",
+        "22B1",
+        "U+22B1"
+      ],
+      "notes": "⊱ 是关系下后于，Unicode 编码为 U+22B1，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b2-2523",
+      "symbol": "⊲",
+      "name": "正规子群",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "正规子群",
+        "数学",
+        "Normal Subgroup Of",
+        "Mathematical Operators",
+        "22B2",
+        "U+22B2"
+      ],
+      "notes": "⊲ 是正规子群，Unicode 编码为 U+22B2，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b3-2524",
+      "symbol": "⊳",
+      "name": "包含正规子群",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "包含正规子群",
+        "数学",
+        "Contains As Normal Subgroup",
+        "Mathematical Operators",
+        "22B3",
+        "U+22B3"
+      ],
+      "notes": "⊳ 是包含正规子群，Unicode 编码为 U+22B3，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b4-2525",
+      "symbol": "⊴",
+      "name": "正规子群或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "正规子群或等于",
+        "数学",
+        "Normal Subgroup of or Equal To",
+        "Mathematical Operators",
+        "22B4",
+        "U+22B4"
+      ],
+      "notes": "⊴ 是正规子群或等于，Unicode 编码为 U+22B4，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b5-2526",
+      "symbol": "⊵",
+      "name": "包含正规子群或等于",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "包含正规子群或等于",
+        "数学",
+        "Contains As Normal Subgroup or Equal To",
+        "Mathematical Operators",
+        "22B5",
+        "U+22B5"
+      ],
+      "notes": "⊵ 是包含正规子群或等于，Unicode 编码为 U+22B5，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b6-2527",
+      "symbol": "⊶",
+      "name": "原像",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "原像",
+        "数学",
+        "Original Of",
+        "Mathematical Operators",
+        "22B6",
+        "U+22B6"
+      ],
+      "notes": "⊶ 是原像，Unicode 编码为 U+22B6，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b7-2528",
+      "symbol": "⊷",
+      "name": "像",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "像",
+        "数学",
+        "Image Of",
+        "Mathematical Operators",
+        "22B7",
+        "U+22B7"
+      ],
+      "notes": "⊷ 是像，Unicode 编码为 U+22B7，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b8-2529",
+      "symbol": "⊸",
+      "name": "多重映射",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多重映射",
+        "数学",
+        "Multimap",
+        "Mathematical Operators",
+        "22B8",
+        "U+22B8"
+      ],
+      "notes": "⊸ 是多重映射，Unicode 编码为 U+22B8，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22b9-2530",
+      "symbol": "⊹",
+      "name": "埃尔米特共轭矩阵",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "埃尔米特共轭矩阵",
+        "数学",
+        "Hermitian Conjugate Matrix",
+        "Mathematical Operators",
+        "22B9",
+        "U+22B9"
+      ],
+      "notes": "⊹ 是埃尔米特共轭矩阵，Unicode 编码为 U+22B9，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22ba-2531",
+      "symbol": "⊺",
+      "name": "插入运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "插入运算符",
+        "数学",
+        "Intercalate",
+        "Mathematical Operators",
+        "22BA",
+        "U+22BA"
+      ],
+      "notes": "⊺ 是插入运算符，Unicode 编码为 U+22BA，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22bb-2532",
+      "symbol": "⊻",
+      "name": "异或",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "异或",
+        "数学",
+        "Xor",
+        "Mathematical Operators",
+        "22BB",
+        "U+22BB"
+      ],
+      "notes": "⊻ 是异或，Unicode 编码为 U+22BB，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22bc-2533",
+      "symbol": "⊼",
+      "name": "与非",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "与非",
+        "数学",
+        "Nand",
+        "Mathematical Operators",
+        "22BC",
+        "U+22BC"
+      ],
+      "notes": "⊼ 是与非，Unicode 编码为 U+22BC，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22bd-2534",
+      "symbol": "⊽",
+      "name": "或非",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "或非",
+        "数学",
+        "Nor",
+        "Mathematical Operators",
+        "22BD",
+        "U+22BD"
+      ],
+      "notes": "⊽ 是或非，Unicode 编码为 U+22BD，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22be-2535",
+      "symbol": "⊾",
+      "name": "带弧直角",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "带弧直角",
+        "数学",
+        "Right Angle with Arc",
+        "Mathematical Operators",
+        "22BE",
+        "U+22BE"
+      ],
+      "notes": "⊾ 是带弧直角，Unicode 编码为 U+22BE，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22bf-2536",
+      "symbol": "⊿",
+      "name": "直角三角形",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "直角三角形",
+        "数学",
+        "Right Triangle",
+        "Mathematical Operators",
+        "22BF",
+        "U+22BF"
+      ],
+      "notes": "⊿ 是直角三角形，Unicode 编码为 U+22BF，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c0-2537",
+      "symbol": "⋀",
+      "name": "多元逻辑与",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多元逻辑与",
+        "数学",
+        "N-Ary Logical And",
+        "Mathematical Operators",
+        "22C0",
+        "U+22C0"
+      ],
+      "notes": "⋀ 是多元逻辑与，Unicode 编码为 U+22C0，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c1-2538",
+      "symbol": "⋁",
+      "name": "多元逻辑或",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多元逻辑或",
+        "数学",
+        "N-Ary Logical Or",
+        "Mathematical Operators",
+        "22C1",
+        "U+22C1"
+      ],
+      "notes": "⋁ 是多元逻辑或，Unicode 编码为 U+22C1，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c2-2539",
+      "symbol": "⋂",
+      "name": "多元交集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多元交集",
+        "数学",
+        "N-Ary Intersection",
+        "Mathematical Operators",
+        "22C2",
+        "U+22C2"
+      ],
+      "notes": "⋂ 是多元交集，Unicode 编码为 U+22C2，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c3-2540",
+      "symbol": "⋃",
+      "name": "多元并集",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "多元并集",
+        "数学",
+        "N-Ary Union",
+        "Mathematical Operators",
+        "22C3",
+        "U+22C3"
+      ],
+      "notes": "⋃ 是多元并集，Unicode 编码为 U+22C3，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c4-2541",
+      "symbol": "⋄",
+      "name": "菱形运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "菱形运算符",
+        "数学",
+        "Diamond Operator",
+        "Mathematical Operators",
+        "22C4",
+        "U+22C4"
+      ],
+      "notes": "⋄ 是菱形运算符，Unicode 编码为 U+22C4，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c5-2542",
+      "symbol": "⋅",
+      "name": "点运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "点运算符",
+        "数学",
+        "Dot Operator",
+        "Mathematical Operators",
+        "22C5",
+        "U+22C5"
+      ],
+      "notes": "⋅ 是点运算符，Unicode 编码为 U+22C5，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c6-2543",
+      "symbol": "⋆",
+      "name": "星号运算符",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "星号运算符",
+        "数学",
+        "Star Operator",
+        "Mathematical Operators",
+        "22C6",
+        "U+22C6"
+      ],
+      "notes": "⋆ 是星号运算符，Unicode 编码为 U+22C6，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c7-2544",
+      "symbol": "⋇",
+      "name": "除乘号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "除乘号",
+        "数学",
+        "Division Times",
+        "Mathematical Operators",
+        "22C7",
+        "U+22C7"
+      ],
+      "notes": "⋇ 是除乘号，Unicode 编码为 U+22C7，常用于数学公式、集合关系、逻辑表达或专业排版。"
+    },
+    {
+      "id": "symbol-22c8-2545",
+      "symbol": "⋈",
+      "name": "蝴蝶结符号",
+      "pronunciation": "",
+      "category": [
+        "数学"
+      ],
+      "searchTerms": [
+        "蝴蝶结符号",
+        "数学",
+        "Bowtie",
+        "Mathematical Operators",
+        "22C8",
+        "U+22C8"
+      ],
+      "notes": "⋈ 是蝴蝶结符号，Unicode 编码为 U+22C8，常用于数学公式、集合关系、逻辑表达或专业排版。"
     }
   ]
 }
