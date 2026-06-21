@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-21T00:15:03.816Z",
+  "generatedAt": "2026-06-21T00:34:16.049Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
-      "online": 2545,
-      "pending": 3862,
+      "online": 3345,
+      "pending": 3062,
       "total": 6407
     },
     "emojis": {
@@ -83,7 +83,7 @@
         {
           "id": "数学",
           "name": "数学",
-          "count": 227,
+          "count": 1027,
           "file": "symbols/by-category/数学.json"
         },
         {
