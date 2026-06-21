@@ -61,11 +61,7 @@ html {
 
 body {
   min-height: 100vh;
-  background:
-    radial-gradient(circle at 12% 8%, var(--liquid-glow-blue), transparent 34rem),
-    radial-gradient(circle at 88% 14%, var(--liquid-glow-orange), transparent 30rem),
-    radial-gradient(circle at 50% 100%, var(--liquid-glow-purple), transparent 42rem),
-    linear-gradient(135deg, var(--liquid-page-start), var(--liquid-page-mid) 48%, var(--liquid-page-end));
+  background: var(--liquid-page-mid);
   color: var(--foreground);
   font-family: 'Smiley Sans Oblique', Arial, Helvetica, sans-serif;
   font-weight: 500;
@@ -86,18 +82,27 @@ body {
   isolation: isolate;
   min-height: 100vh;
   overflow-x: hidden;
+  background: transparent;
+}
+
+.liquid-page::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  pointer-events: none;
   background:
     radial-gradient(circle at 12% 8%, var(--liquid-glow-blue), transparent 34rem),
     radial-gradient(circle at 88% 14%, var(--liquid-glow-orange), transparent 30rem),
     radial-gradient(circle at 50% 100%, var(--liquid-glow-purple), transparent 42rem),
     linear-gradient(135deg, var(--liquid-page-start), var(--liquid-page-mid) 48%, var(--liquid-page-end));
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 
 .liquid-page::after {
   content: "";
-  position: absolute;
+  position: fixed;
   inset: 0;
   z-index: -1;
   pointer-events: none;
@@ -247,6 +252,25 @@ html.lenis-scrolling .liquid-card:active {
     background: rgba(30, 41, 59, 0.52);
   }
 
+  .category-chip-shell {
+    color: rgba(248, 250, 252, 0.96);
+    border-color: rgba(255, 255, 255, 0.28);
+    background: rgba(15, 23, 42, 0.3);
+    box-shadow: none;
+  }
+
+  .category-chip-shell:hover {
+    background: rgba(30, 41, 59, 0.42);
+    border-color: rgba(255, 255, 255, 0.38);
+  }
+
+  .category-chip-active {
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.32);
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.82), rgba(6, 182, 212, 0.64));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.24);
+  }
+
   .stable-glass {
     background:
       linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.03)),
@@ -322,13 +346,47 @@ html.lenis-scrolling .liquid-card:active {
 }
 
 .category-scroll {
-  -webkit-overflow-scrolling: touch;
+  background: transparent;
+  box-shadow: none;
+  filter: none;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
   overscroll-behavior-x: contain;
   touch-action: pan-x;
+  scrollbar-width: none;
+}
+
+.category-scroll::-webkit-scrollbar {
+  display: none;
 }
 
 .category-chip {
   touch-action: manipulation;
+}
+
+.category-chip-shell {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  border-radius: 9999px;
+  color: rgba(15, 23, 42, 0.96);
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  background: rgba(255, 255, 255, 0.28);
+  box-shadow: none;
+  transition: background-color 120ms ease, border-color 120ms ease, color 120ms ease, transform 120ms ease;
+}
+
+.category-chip-shell:hover {
+  background: rgba(255, 255, 255, 0.38);
+  border-color: rgba(255, 255, 255, 0.84);
+}
+
+.category-chip-active {
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.68);
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.86), rgba(6, 182, 212, 0.74));
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.42);
 }
 
 /* 移动端按钮点击效果 */

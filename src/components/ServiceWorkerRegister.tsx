@@ -46,6 +46,15 @@ export default function ServiceWorkerRegister() {
 
     // 检查浏览器是否支持Service Worker
     if ('serviceWorker' in navigator) {
+      if (process.env.NODE_ENV !== 'production') {
+        navigator.serviceWorker.getRegistrations()
+          .then((registrations) => Promise.all(registrations.map((registration) => registration.unregister())))
+          .catch((error) => {
+            console.warn('[SW] Failed to unregister service workers in development:', error);
+          });
+        return;
+      }
+
       registerServiceWorker();
     } else {
       console.warn('[SW] Service Worker not supported in this browser');
