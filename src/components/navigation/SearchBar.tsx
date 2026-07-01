@@ -13,7 +13,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ value, onSearch }) => {
 
   return (
     <div className="w-full max-w-xl mx-auto">
-      <LiquidGlassSurface variant="pill" fullWidth>
+      <LiquidGlassSurface variant="pill" fullWidth className="search-glass">
         <div className="relative">
           <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
             <svg className="w-4 h-4 sm:w-5 sm:h-5 text-sky-600/80 dark:text-sky-300/80" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
@@ -24,7 +24,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ value, onSearch }) => {
             id={inputId}
             name="search"
             type="search"
-            className="liquid-input liquid-focus block w-full p-3 sm:p-4 pl-10 sm:pl-12 pr-4 text-sm sm:text-base text-gray-950 placeholder:text-slate-500/80 bg-transparent dark:text-white dark:placeholder:text-slate-300/70 [&::-webkit-search-cancel-button]:appearance-none [&::-webkit-search-decoration]:appearance-none"
+            className="liquid-input block w-full p-3 sm:p-4 pl-10 sm:pl-12 pr-4 text-sm sm:text-base text-gray-950 placeholder:text-slate-500/80 bg-transparent dark:text-white dark:placeholder:text-slate-300/70 [&::-webkit-search-cancel-button]:appearance-none [&::-webkit-search-decoration]:appearance-none"
             placeholder="输入检索词，实时显示结果..."
             value={value}
             onChange={(e) => onSearch(e.target.value)}

@@ -1,3 +1,11 @@
+## [1.13.8](https://github.com/nowscott/RareCharWeb/compare/v1.13.7...v1.13.8) (2026-07-01)
+
+
+### 问题修复
+
+* **搜索框:** 将焦点高亮从输入框矩形盒子迁移到圆角玻璃容器，避免选中搜索框时出现直角边框并遮挡视觉层
+
+
 ## [1.13.7](https://github.com/nowscott/RareCharWeb/compare/v1.13.6...v1.13.7) (2026-06-21)
 
 
