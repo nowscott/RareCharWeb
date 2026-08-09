@@ -1,6 +1,6 @@
 {
   "category": "行为",
-  "total": 771,
+  "total": 780,
   "items": [
     {
       "id": "emoji-1f931-876",
@@ -611,15 +611,16 @@
     {
       "id": "emoji-1f9d1-200d-1fa70-925",
       "emoji": "🧑‍🩰",
-      "name": "Ballet Dancer",
+      "name": "芭蕾舞者",
       "category": "行为",
       "keywords": [
+        "芭蕾舞者",
         "Ballet Dancer",
         "芭蕾舞演员",
         "活动与运动",
         "行为"
       ],
-      "text": "可用于表达「Ballet Dancer」相关含义。"
+      "text": "🧑‍🩰 可用于表达“芭蕾舞者”相关含义。"
     },
     {
       "id": "emoji-1f483-926",
@@ -10816,6 +10817,150 @@
       ],
       "text": "可用于表达「女生摔跤」的较深肤色、中等-深肤色变体。",
       "variantBase": "🤼‍♀️"
+    },
+    {
+      "id": "symbol-1f5e9-6009",
+      "emoji": "🗩",
+      "name": "右对话气泡",
+      "category": "行为",
+      "keywords": [
+        "右对话气泡",
+        "Right Speech Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E9",
+        "U+1F5E9",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「右对话气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ea-6010",
+      "emoji": "🗪",
+      "name": "双对话图标",
+      "category": "行为",
+      "keywords": [
+        "双对话图标",
+        "Two Speech Bubbles",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EA",
+        "U+1F5EA",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「双对话图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5eb-6011",
+      "emoji": "🗫",
+      "name": "三对话图标",
+      "category": "行为",
+      "keywords": [
+        "三对话图标",
+        "Three Speech Bubbles",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EB",
+        "U+1F5EB",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「三对话图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ec-6012",
+      "emoji": "🗬",
+      "name": "左思考气泡",
+      "category": "行为",
+      "keywords": [
+        "左思考气泡",
+        "Left Thought Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EC",
+        "U+1F5EC",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「左思考气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ed-6013",
+      "emoji": "🗭",
+      "name": "右思考气泡",
+      "category": "行为",
+      "keywords": [
+        "右思考气泡",
+        "Right Thought Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5ED",
+        "U+1F5ED",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「右思考气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ee-6014",
+      "emoji": "🗮",
+      "name": "左愤怒气泡",
+      "category": "行为",
+      "keywords": [
+        "左愤怒气泡",
+        "Left Anger Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EE",
+        "U+1F5EE",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「左愤怒气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f0-6016",
+      "emoji": "🗰",
+      "name": "心情气泡",
+      "category": "行为",
+      "keywords": [
+        "心情气泡",
+        "Mood Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F0",
+        "U+1F5F0",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「心情气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f1-6017",
+      "emoji": "🗱",
+      "name": "闪电心情气泡",
+      "category": "行为",
+      "keywords": [
+        "闪电心情气泡",
+        "Lightning Mood Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F1",
+        "U+1F5F1",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「闪电心情气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f2-6018",
+      "emoji": "🗲",
+      "name": "闪电心情",
+      "category": "行为",
+      "keywords": [
+        "闪电心情",
+        "Lightning Mood",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F2",
+        "U+1F5F2",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「闪电心情」相关含义。"
     }
   ]
 }

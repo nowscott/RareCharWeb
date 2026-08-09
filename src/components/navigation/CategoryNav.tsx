@@ -12,14 +12,12 @@ interface CategoryInfo {
 interface CategoryNavProps {
   activeCategory: string;
   onSelectCategory: (category: string) => void;
-  onPrefetchCategory?: (category: string) => void;
   categories: CategoryInfo[]; // 动态生成的分类列表
 }
 
 const CategoryNav: React.FC<CategoryNavProps> = ({
   activeCategory,
   onSelectCategory,
-  onPrefetchCategory,
   categories = []
 }) => {
   const [expanded, setExpanded] = useState(false);
@@ -46,9 +44,6 @@ const CategoryNav: React.FC<CategoryNavProps> = ({
               key={category.id}
               type="button"
               onClick={() => onSelectCategory(category.id)}
-              onFocus={() => onPrefetchCategory?.(category.id)}
-              onPointerEnter={() => onPrefetchCategory?.(category.id)}
-              onTouchStart={() => onPrefetchCategory?.(category.id)}
               className={`category-chip category-chip-shell liquid-focus px-3 py-2 sm:px-4 sm:py-2 text-sm sm:text-base font-medium whitespace-nowrap ${activeCategory === category.id
                 ? 'category-chip-active text-white'
                 : 'liquid-text-muted active:scale-95'

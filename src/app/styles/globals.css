@@ -191,16 +191,6 @@ body {
   position: relative;
   overflow: hidden;
   border-radius: 1.5rem;
-  transition: transform 180ms ease, filter 180ms ease;
-}
-
-.liquid-card:hover {
-  transform: translateY(-4px);
-  filter: drop-shadow(0 18px 32px rgba(15, 23, 42, 0.16));
-}
-
-.liquid-card:active {
-  transform: translateY(-1px) scale(0.99);
 }
 
 .liquid-nav-button {
@@ -256,25 +246,11 @@ html.lenis-scrolling .stable-glass-card {
   backdrop-filter: none;
 }
 
-html.is-lenis-scrolling .liquid-card,
-html.is-lenis-scrolling .liquid-card:hover,
-html.is-lenis-scrolling .liquid-card:active,
-html.lenis-scrolling .liquid-card,
-html.lenis-scrolling .liquid-card:hover,
-html.lenis-scrolling .liquid-card:active {
-  transform: none;
-  filter: none;
-}
-
 @media (prefers-color-scheme: dark) {
   .liquid-page::after {
     background:
       radial-gradient(circle at 20% 28%, rgba(56, 189, 248, 0.12), transparent 17rem),
       radial-gradient(circle at 78% 58%, rgba(168, 85, 247, 0.14), transparent 20rem);
-  }
-
-  .liquid-card:hover {
-    filter: drop-shadow(0 18px 34px rgba(0, 0, 0, 0.38));
   }
 
   .liquid-subcard {

@@ -6,7 +6,6 @@
       "id": "symbol-b0-11",
       "symbol": "°",
       "name": "度数",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -22,7 +21,6 @@
       "id": "symbol-b0-46-12",
       "symbol": "°F",
       "name": "华氏度",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -41,7 +39,6 @@
       "id": "symbol-b0-43-13",
       "symbol": "°C",
       "name": "摄氏度",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -60,7 +57,6 @@
       "id": "symbol-2032-125",
       "symbol": "′",
       "name": "单撇号",
-      "pronunciation": "",
       "category": [
         "单位",
         "数学"
@@ -80,7 +76,6 @@
       "id": "symbol-2033-126",
       "symbol": "″",
       "name": "双撇号",
-      "pronunciation": "",
       "category": [
         "单位",
         "数学"
@@ -100,7 +95,6 @@
       "id": "symbol-2108-207",
       "symbol": "℈",
       "name": "药衡",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -118,7 +112,6 @@
       "id": "symbol-2113-208",
       "symbol": "ℓ",
       "name": "拉丁l",
-      "pronunciation": "",
       "category": [
         "数学",
         "单位"
@@ -138,7 +131,6 @@
       "id": "symbol-2125-214",
       "symbol": "℥",
       "name": "盎司",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -156,7 +148,6 @@
       "id": "symbol-2127-215",
       "symbol": "℧",
       "name": "姆欧",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -174,7 +165,6 @@
       "id": "symbol-338e-765",
       "symbol": "㎎",
       "name": "毫克",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -190,7 +180,6 @@
       "id": "symbol-338f-766",
       "symbol": "㎏",
       "name": "千克",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -206,7 +195,6 @@
       "id": "symbol-3399-767",
       "symbol": "㎙",
       "name": "飞米",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -222,7 +210,6 @@
       "id": "symbol-339a-768",
       "symbol": "㎚",
       "name": "纳米",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -238,7 +225,6 @@
       "id": "symbol-339b-769",
       "symbol": "㎛",
       "name": "微米",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -254,7 +240,6 @@
       "id": "symbol-339c-770",
       "symbol": "㎜",
       "name": "毫米",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -270,7 +255,6 @@
       "id": "symbol-339d-771",
       "symbol": "㎝",
       "name": "厘米",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -286,7 +270,6 @@
       "id": "symbol-339e-772",
       "symbol": "㎞",
       "name": "千米",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -302,7 +285,6 @@
       "id": "symbol-33c4-773",
       "symbol": "㏄",
       "name": "毫升",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -318,7 +300,6 @@
       "id": "symbol-33ce-774",
       "symbol": "㏎",
       "name": "千米",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -334,7 +315,6 @@
       "id": "symbol-33d5-777",
       "symbol": "㏕",
       "name": "英里",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -350,7 +330,6 @@
       "id": "symbol-2103-1264",
       "symbol": "℃",
       "name": "摄氏度符号",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -369,7 +348,6 @@
       "id": "symbol-2109-1265",
       "symbol": "℉",
       "name": "华氏度符号",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -388,7 +366,6 @@
       "id": "symbol-2126-1287",
       "symbol": "Ω",
       "name": "欧姆符号",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -408,7 +385,6 @@
       "id": "symbol-212a-1290",
       "symbol": "K",
       "name": "开尔文符号",
-      "pronunciation": "",
       "category": [
         "单位"
       ],
@@ -428,7 +404,6 @@
       "id": "symbol-212b-1291",
       "symbol": "Å",
       "name": "埃符号",
-      "pronunciation": "",
       "category": [
         "单位"
       ],

@@ -5,7 +5,6 @@ import "./styles/globals.css";
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 import ChunkLoadRecovery from '@/components/ChunkLoadRecovery';
 import FontHealthChecker from '@/components/FontHealthChecker';
-import RoutePrefetcher from '@/components/RoutePrefetcher';
 import SmoothScrollProvider from '@/components/SmoothScrollProvider';
 
 export const metadata: Metadata = {
@@ -65,7 +64,6 @@ export default function RootLayout({
         <SmoothScrollProvider>
           <ChunkLoadRecovery />
           <ServiceWorkerRegister />
-          <RoutePrefetcher />
           {children}
           <FontHealthChecker />
         </SmoothScrollProvider>

@@ -1,6 +1,6 @@
 {
   "category": "物品",
-  "total": 302,
+  "total": 364,
   "items": [
     {
       "id": "emoji-1f380-76",
@@ -1230,15 +1230,16 @@
     {
       "id": "emoji-1f4c0-1493",
       "emoji": "📀",
-      "name": "DVD",
+      "name": "DVD光盘",
       "category": "物品",
       "keywords": [
+        "DVD光盘",
         "DVD",
         "Dvd",
         "IT & AV",
         "物品"
       ],
-      "text": "可用于表达「DVD」相关含义。"
+      "text": "📀 可用于表达“DVD光盘”相关含义。"
     },
     {
       "id": "emoji-1f3a5-1494",
@@ -3639,6 +3640,998 @@
         "物品"
       ],
       "text": "可用于表达药物、医疗、健康或治疗。"
+    },
+    {
+      "id": "symbol-260f-4506",
+      "emoji": "☏",
+      "name": "白色电话",
+      "category": "物品",
+      "keywords": [
+        "白色电话",
+        "White Telephone",
+        "Miscellaneous Symbols",
+        "260F",
+        "U+260F",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「白色电话」相关含义。"
+    },
+    {
+      "id": "symbol-1f398-5416",
+      "emoji": "🎘",
+      "name": "带插孔的音乐键盘",
+      "category": "物品",
+      "keywords": [
+        "带插孔的音乐键盘",
+        "Musical Keyboard with Jacks",
+        "Miscellaneous Symbols and Pictographs",
+        "1F398",
+        "U+1F398",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「带插孔的音乐键盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f39c-5420",
+      "emoji": "🎜",
+      "name": "上行连梁音符",
+      "category": "物品",
+      "keywords": [
+        "上行连梁音符",
+        "Beamed Ascending Musical Notes",
+        "Miscellaneous Symbols and Pictographs",
+        "1F39C",
+        "U+1F39C",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「上行连梁音符」相关含义。"
+    },
+    {
+      "id": "symbol-1f39d-5421",
+      "emoji": "🎝",
+      "name": "下行连梁音符",
+      "category": "物品",
+      "keywords": [
+        "下行连梁音符",
+        "Beamed Descending Musical Notes",
+        "Miscellaneous Symbols and Pictographs",
+        "1F39D",
+        "U+1F39D",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「下行连梁音符」相关含义。"
+    },
+    {
+      "id": "symbol-1f4fe-5774",
+      "emoji": "📾",
+      "name": "便携式立体声设备",
+      "category": "物品",
+      "keywords": [
+        "便携式立体声设备",
+        "Portable Stereo",
+        "Miscellaneous Symbols and Pictographs",
+        "1F4FE",
+        "U+1F4FE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便携式立体声设备」相关含义。"
+    },
+    {
+      "id": "symbol-1f568-5880",
+      "emoji": "🕨",
+      "name": "右向扬声器",
+      "category": "物品",
+      "keywords": [
+        "右向扬声器",
+        "Right Speaker",
+        "Miscellaneous Symbols and Pictographs",
+        "1F568",
+        "U+1F568",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「右向扬声器」相关含义。"
+    },
+    {
+      "id": "symbol-1f569-5881",
+      "emoji": "🕩",
+      "name": "单声波右向扬声器",
+      "category": "物品",
+      "keywords": [
+        "单声波右向扬声器",
+        "Right Speaker with One Sound Wave",
+        "Miscellaneous Symbols and Pictographs",
+        "1F569",
+        "U+1F569",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「单声波右向扬声器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56a-5882",
+      "emoji": "🕪",
+      "name": "三声波右向扬声器",
+      "category": "物品",
+      "keywords": [
+        "三声波右向扬声器",
+        "Right Speaker with Three Sound Waves",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56A",
+        "U+1F56A",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「三声波右向扬声器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56b-5883",
+      "emoji": "🕫",
+      "name": "扩音器",
+      "category": "物品",
+      "keywords": [
+        "扩音器",
+        "Bullhorn",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56B",
+        "U+1F56B",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「扩音器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56c-5884",
+      "emoji": "🕬",
+      "name": "带声波扩音器",
+      "category": "物品",
+      "keywords": [
+        "带声波扩音器",
+        "Bullhorn with Sound Waves",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56C",
+        "U+1F56C",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「带声波扩音器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56d-5885",
+      "emoji": "🕭",
+      "name": "响铃",
+      "category": "物品",
+      "keywords": [
+        "响铃",
+        "Ringing Bell",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56D",
+        "U+1F56D",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「响铃」相关含义。"
+    },
+    {
+      "id": "symbol-1f56e-5886",
+      "emoji": "🕮",
+      "name": "书本",
+      "category": "物品",
+      "keywords": [
+        "书本",
+        "Book",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56E",
+        "U+1F56E",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「书本」相关含义。"
+    },
+    {
+      "id": "symbol-1f57b-5899",
+      "emoji": "🕻",
+      "name": "左手持电话听筒",
+      "category": "物品",
+      "keywords": [
+        "左手持电话听筒",
+        "Left Hand Telephone Receiver",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57B",
+        "U+1F57B",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「左手持电话听筒」相关含义。"
+    },
+    {
+      "id": "symbol-1f57c-5900",
+      "emoji": "🕼",
+      "name": "带页面电话听筒",
+      "category": "物品",
+      "keywords": [
+        "带页面电话听筒",
+        "Telephone Receiver with Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57C",
+        "U+1F57C",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「带页面电话听筒」相关含义。"
+    },
+    {
+      "id": "symbol-1f57d-5901",
+      "emoji": "🕽",
+      "name": "右手持电话听筒",
+      "category": "物品",
+      "keywords": [
+        "右手持电话听筒",
+        "Right Hand Telephone Receiver",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57D",
+        "U+1F57D",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「右手持电话听筒」相关含义。"
+    },
+    {
+      "id": "symbol-1f57e-5902",
+      "emoji": "🕾",
+      "name": "白色按键电话",
+      "category": "物品",
+      "keywords": [
+        "白色按键电话",
+        "White Touchtone Telephone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57E",
+        "U+1F57E",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「白色按键电话」相关含义。"
+    },
+    {
+      "id": "symbol-1f57f-5903",
+      "emoji": "🕿",
+      "name": "黑色按键电话",
+      "category": "物品",
+      "keywords": [
+        "黑色按键电话",
+        "Black Touchtone Telephone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57F",
+        "U+1F57F",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色按键电话」相关含义。"
+    },
+    {
+      "id": "symbol-1f580-5904",
+      "emoji": "🖀",
+      "name": "调制解调器上的电话",
+      "category": "物品",
+      "keywords": [
+        "调制解调器上的电话",
+        "Telephone On Top of Modem",
+        "Miscellaneous Symbols and Pictographs",
+        "1F580",
+        "U+1F580",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「调制解调器上的电话」相关含义。"
+    },
+    {
+      "id": "symbol-1f581-5905",
+      "emoji": "🖁",
+      "name": "翻盖手机",
+      "category": "物品",
+      "keywords": [
+        "翻盖手机",
+        "Clamshell Mobile Phone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F581",
+        "U+1F581",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「翻盖手机」相关含义。"
+    },
+    {
+      "id": "symbol-1f582-5906",
+      "emoji": "🖂",
+      "name": "信封背面",
+      "category": "物品",
+      "keywords": [
+        "信封背面",
+        "Back of Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F582",
+        "U+1F582",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「信封背面」相关含义。"
+    },
+    {
+      "id": "symbol-1f583-5907",
+      "emoji": "🖃",
+      "name": "贴邮票信封",
+      "category": "物品",
+      "keywords": [
+        "贴邮票信封",
+        "Stamped Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F583",
+        "U+1F583",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「贴邮票信封」相关含义。"
+    },
+    {
+      "id": "symbol-1f584-5908",
+      "emoji": "🖄",
+      "name": "闪电信封",
+      "category": "物品",
+      "keywords": [
+        "闪电信封",
+        "Envelope with Lightning",
+        "Miscellaneous Symbols and Pictographs",
+        "1F584",
+        "U+1F584",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「闪电信封」相关含义。"
+    },
+    {
+      "id": "symbol-1f585-5909",
+      "emoji": "🖅",
+      "name": "飞行信封",
+      "category": "物品",
+      "keywords": [
+        "飞行信封",
+        "Flying Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F585",
+        "U+1F585",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「飞行信封」相关含义。"
+    },
+    {
+      "id": "symbol-1f586-5910",
+      "emoji": "🖆",
+      "name": "邮票信封上的笔",
+      "category": "物品",
+      "keywords": [
+        "邮票信封上的笔",
+        "Pen Over Stamped Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F586",
+        "U+1F586",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「邮票信封上的笔」相关含义。"
+    },
+    {
+      "id": "symbol-1f588-5912",
+      "emoji": "🖈",
+      "name": "黑色图钉",
+      "category": "物品",
+      "keywords": [
+        "黑色图钉",
+        "Black Pushpin",
+        "Miscellaneous Symbols and Pictographs",
+        "1F588",
+        "U+1F588",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色图钉」相关含义。"
+    },
+    {
+      "id": "symbol-1f589-5913",
+      "emoji": "🖉",
+      "name": "左下铅笔",
+      "category": "物品",
+      "keywords": [
+        "左下铅笔",
+        "Lower Left Pencil",
+        "Miscellaneous Symbols and Pictographs",
+        "1F589",
+        "U+1F589",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「左下铅笔」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a6-5942",
+      "emoji": "🖦",
+      "name": "键盘与鼠标",
+      "category": "物品",
+      "keywords": [
+        "键盘与鼠标",
+        "Keyboard and Mouse",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A6",
+        "U+1F5A6",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「键盘与鼠标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a7-5943",
+      "emoji": "🖧",
+      "name": "三联网电脑",
+      "category": "物品",
+      "keywords": [
+        "三联网电脑",
+        "Three Networked Computers",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A7",
+        "U+1F5A7",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「三联网电脑」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a9-5945",
+      "emoji": "🖩",
+      "name": "袖珍计算器",
+      "category": "物品",
+      "keywords": [
+        "袖珍计算器",
+        "Pocket Calculator",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A9",
+        "U+1F5A9",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「袖珍计算器」相关含义。"
+    },
+    {
+      "id": "symbol-1f5aa-5946",
+      "emoji": "🖪",
+      "name": "黑色硬壳软盘磁盘",
+      "category": "物品",
+      "keywords": [
+        "黑色硬壳软盘磁盘",
+        "Black Hard Shell Floppy Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AA",
+        "U+1F5AA",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色硬壳软盘磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ab-5947",
+      "emoji": "🖫",
+      "name": "白色硬壳软盘磁盘",
+      "category": "物品",
+      "keywords": [
+        "白色硬壳软盘磁盘",
+        "White Hard Shell Floppy Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AB",
+        "U+1F5AB",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「白色硬壳软盘磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ac-5948",
+      "emoji": "🖬",
+      "name": "软壳软盘磁盘",
+      "category": "物品",
+      "keywords": [
+        "软壳软盘磁盘",
+        "Soft Shell Floppy Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AC",
+        "U+1F5AC",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「软壳软盘磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ad-5949",
+      "emoji": "🖭",
+      "name": "磁带盒",
+      "category": "物品",
+      "keywords": [
+        "磁带盒",
+        "Tape Cartridge",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AD",
+        "U+1F5AD",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「磁带盒」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ae-5950",
+      "emoji": "🖮",
+      "name": "有线键盘",
+      "category": "物品",
+      "keywords": [
+        "有线键盘",
+        "Wired Keyboard",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AE",
+        "U+1F5AE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「有线键盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5af-5951",
+      "emoji": "🖯",
+      "name": "单键鼠标",
+      "category": "物品",
+      "keywords": [
+        "单键鼠标",
+        "One Button Mouse",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AF",
+        "U+1F5AF",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「单键鼠标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b0-5952",
+      "emoji": "🖰",
+      "name": "双键鼠标",
+      "category": "物品",
+      "keywords": [
+        "双键鼠标",
+        "Two Button Mouse",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B0",
+        "U+1F5B0",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「双键鼠标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b3-5955",
+      "emoji": "🖳",
+      "name": "旧式个人电脑",
+      "category": "物品",
+      "keywords": [
+        "旧式个人电脑",
+        "Old Personal Computer",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B3",
+        "U+1F5B3",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「旧式个人电脑」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b4-5956",
+      "emoji": "🖴",
+      "name": "硬磁盘",
+      "category": "物品",
+      "keywords": [
+        "硬磁盘",
+        "Hard Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B4",
+        "U+1F5B4",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「硬磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b5-5957",
+      "emoji": "🖵",
+      "name": "显示屏",
+      "category": "物品",
+      "keywords": [
+        "显示屏",
+        "Screen",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B5",
+        "U+1F5B5",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「显示屏」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b6-5958",
+      "emoji": "🖶",
+      "name": "打印机图标",
+      "category": "物品",
+      "keywords": [
+        "打印机图标",
+        "Printer Icon",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B6",
+        "U+1F5B6",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「打印机图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b7-5959",
+      "emoji": "🖷",
+      "name": "传真图标",
+      "category": "物品",
+      "keywords": [
+        "传真图标",
+        "Fax Icon",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B7",
+        "U+1F5B7",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「传真图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b8-5960",
+      "emoji": "🖸",
+      "name": "光学光盘图标",
+      "category": "物品",
+      "keywords": [
+        "光学光盘图标",
+        "Optical Disc Icon",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B8",
+        "U+1F5B8",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「光学光盘图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b9-5961",
+      "emoji": "🖹",
+      "name": "文档带文字",
+      "category": "物品",
+      "keywords": [
+        "文档带文字",
+        "Document with Text",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B9",
+        "U+1F5B9",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档带文字」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ba-5962",
+      "emoji": "🖺",
+      "name": "文档带文字与图片",
+      "category": "物品",
+      "keywords": [
+        "文档带文字与图片",
+        "Document with Text and Picture",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BA",
+        "U+1F5BA",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档带文字与图片」相关含义。"
+    },
+    {
+      "id": "symbol-1f5bb-5963",
+      "emoji": "🖻",
+      "name": "文档带图片",
+      "category": "物品",
+      "keywords": [
+        "文档带图片",
+        "Document with Picture",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BB",
+        "U+1F5BB",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档带图片」相关含义。"
+    },
+    {
+      "id": "symbol-1f5bd-5965",
+      "emoji": "🖽",
+      "name": "边框带分格",
+      "category": "物品",
+      "keywords": [
+        "边框带分格",
+        "Frame with Tiles",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BD",
+        "U+1F5BD",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「边框带分格」相关含义。"
+    },
+    {
+      "id": "symbol-1f5be-5966",
+      "emoji": "🖾",
+      "name": "边框带一叉号",
+      "category": "物品",
+      "keywords": [
+        "边框带一叉号",
+        "Frame with an X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BE",
+        "U+1F5BE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「边框带一叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5bf-5967",
+      "emoji": "🖿",
+      "name": "黑色文件夹",
+      "category": "物品",
+      "keywords": [
+        "黑色文件夹",
+        "Black Folder",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BF",
+        "U+1F5BF",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色文件夹」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c0-5968",
+      "emoji": "🗀",
+      "name": "文件夹",
+      "category": "物品",
+      "keywords": [
+        "文件夹",
+        "Folder",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C0",
+        "U+1F5C0",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文件夹」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c1-5969",
+      "emoji": "🗁",
+      "name": "打开文件夹",
+      "category": "物品",
+      "keywords": [
+        "打开文件夹",
+        "Open Folder",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C1",
+        "U+1F5C1",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「打开文件夹」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c5-5973",
+      "emoji": "🗅",
+      "name": "空白便笺",
+      "category": "物品",
+      "keywords": [
+        "空白便笺",
+        "Empty Note",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C5",
+        "U+1F5C5",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白便笺」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c6-5974",
+      "emoji": "🗆",
+      "name": "空白便笺页面",
+      "category": "物品",
+      "keywords": [
+        "空白便笺页面",
+        "Empty Note Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C6",
+        "U+1F5C6",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白便笺页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c7-5975",
+      "emoji": "🗇",
+      "name": "空白便笺本",
+      "category": "物品",
+      "keywords": [
+        "空白便笺本",
+        "Empty Note Pad",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C7",
+        "U+1F5C7",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白便笺本」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c8-5976",
+      "emoji": "🗈",
+      "name": "便笺",
+      "category": "物品",
+      "keywords": [
+        "便笺",
+        "Note",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C8",
+        "U+1F5C8",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便笺」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c9-5977",
+      "emoji": "🗉",
+      "name": "便笺页面",
+      "category": "物品",
+      "keywords": [
+        "便笺页面",
+        "Note Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C9",
+        "U+1F5C9",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便笺页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ca-5978",
+      "emoji": "🗊",
+      "name": "便笺本",
+      "category": "物品",
+      "keywords": [
+        "便笺本",
+        "Note Pad",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CA",
+        "U+1F5CA",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便笺本」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cb-5979",
+      "emoji": "🗋",
+      "name": "空白文档",
+      "category": "物品",
+      "keywords": [
+        "空白文档",
+        "Empty Document",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CB",
+        "U+1F5CB",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白文档」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cc-5980",
+      "emoji": "🗌",
+      "name": "空白页面",
+      "category": "物品",
+      "keywords": [
+        "空白页面",
+        "Empty Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CC",
+        "U+1F5CC",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cd-5981",
+      "emoji": "🗍",
+      "name": "空白多页",
+      "category": "物品",
+      "keywords": [
+        "空白多页",
+        "Empty Pages",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CD",
+        "U+1F5CD",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白多页」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ce-5982",
+      "emoji": "🗎",
+      "name": "文档",
+      "category": "物品",
+      "keywords": [
+        "文档",
+        "Document",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CE",
+        "U+1F5CE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cf-5983",
+      "emoji": "🗏",
+      "name": "页面",
+      "category": "物品",
+      "keywords": [
+        "页面",
+        "Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CF",
+        "U+1F5CF",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f946-6102",
+      "emoji": "🥆",
+      "name": "步枪",
+      "category": "物品",
+      "keywords": [
+        "步枪",
+        "Rifle",
+        "Supplemental Symbols and Pictographs",
+        "1F946",
+        "U+1F946",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「步枪」相关含义。"
     }
   ]
 }

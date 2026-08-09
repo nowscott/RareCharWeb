@@ -297,7 +297,6 @@ async function fetchSymblBlock(block) {
     items.push({
       symbol,
       name: label,
-      pronunciation: '',
       category: [block.category],
       searchTerms: uniqueCompact([label, blockName, code, `U+${code}`]),
       notes: `${label}，Unicode U+${code}。数据来源：SYMBL ${new URL(href, 'https://symbl.cc').toString()}`

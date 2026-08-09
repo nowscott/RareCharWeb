@@ -1,12 +1,11 @@
 {
   "category": "盲文",
-  "total": 64,
+  "total": 256,
   "items": [
     {
       "id": "symbol-2800-447",
       "symbol": "⠀",
       "name": "盲文空白",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -24,7 +23,6 @@
       "id": "symbol-2801-448",
       "symbol": "⠁",
       "name": "盲文点1",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -42,7 +40,6 @@
       "id": "symbol-2802-449",
       "symbol": "⠂",
       "name": "盲文点2",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -60,7 +57,6 @@
       "id": "symbol-2803-450",
       "symbol": "⠃",
       "name": "盲文点12",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -78,7 +74,6 @@
       "id": "symbol-2804-451",
       "symbol": "⠄",
       "name": "盲文点3",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -96,7 +91,6 @@
       "id": "symbol-2805-452",
       "symbol": "⠅",
       "name": "盲文点13",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -114,7 +108,6 @@
       "id": "symbol-2806-453",
       "symbol": "⠆",
       "name": "盲文点23",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -132,7 +125,6 @@
       "id": "symbol-2807-454",
       "symbol": "⠇",
       "name": "盲文点123",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -150,7 +142,6 @@
       "id": "symbol-2808-455",
       "symbol": "⠈",
       "name": "盲文点4",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -168,7 +159,6 @@
       "id": "symbol-2809-456",
       "symbol": "⠉",
       "name": "盲文点14",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -186,7 +176,6 @@
       "id": "symbol-280a-457",
       "symbol": "⠊",
       "name": "盲文点24",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -204,7 +193,6 @@
       "id": "symbol-280b-458",
       "symbol": "⠋",
       "name": "盲文点124",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -222,7 +210,6 @@
       "id": "symbol-280c-459",
       "symbol": "⠌",
       "name": "盲文点34",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -240,7 +227,6 @@
       "id": "symbol-280d-460",
       "symbol": "⠍",
       "name": "盲文点134",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -258,7 +244,6 @@
       "id": "symbol-280e-461",
       "symbol": "⠎",
       "name": "盲文点234",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -276,7 +261,6 @@
       "id": "symbol-280f-462",
       "symbol": "⠏",
       "name": "盲文点1234",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -294,7 +278,6 @@
       "id": "symbol-2810-463",
       "symbol": "⠐",
       "name": "盲文点5",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -312,7 +295,6 @@
       "id": "symbol-2811-464",
       "symbol": "⠑",
       "name": "盲文点15",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -330,7 +312,6 @@
       "id": "symbol-2812-465",
       "symbol": "⠒",
       "name": "盲文点25",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -348,7 +329,6 @@
       "id": "symbol-2813-466",
       "symbol": "⠓",
       "name": "盲文点125",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -366,7 +346,6 @@
       "id": "symbol-2814-467",
       "symbol": "⠔",
       "name": "盲文点35",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -384,7 +363,6 @@
       "id": "symbol-2815-468",
       "symbol": "⠕",
       "name": "盲文点135",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -402,7 +380,6 @@
       "id": "symbol-2816-469",
       "symbol": "⠖",
       "name": "盲文点235",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -420,7 +397,6 @@
       "id": "symbol-2817-470",
       "symbol": "⠗",
       "name": "盲文点1235",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -438,7 +414,6 @@
       "id": "symbol-2818-471",
       "symbol": "⠘",
       "name": "盲文点45",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -456,7 +431,6 @@
       "id": "symbol-2819-472",
       "symbol": "⠙",
       "name": "盲文点145",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -474,7 +448,6 @@
       "id": "symbol-281a-473",
       "symbol": "⠚",
       "name": "盲文点245",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -492,7 +465,6 @@
       "id": "symbol-281b-474",
       "symbol": "⠛",
       "name": "盲文点1245",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -510,7 +482,6 @@
       "id": "symbol-281c-475",
       "symbol": "⠜",
       "name": "盲文点345",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -528,7 +499,6 @@
       "id": "symbol-281d-476",
       "symbol": "⠝",
       "name": "盲文点1345",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -546,7 +516,6 @@
       "id": "symbol-281e-477",
       "symbol": "⠞",
       "name": "盲文点2345",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -564,7 +533,6 @@
       "id": "symbol-281f-478",
       "symbol": "⠟",
       "name": "盲文点12345",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -582,7 +550,6 @@
       "id": "symbol-2820-479",
       "symbol": "⠠",
       "name": "盲文点6",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -600,7 +567,6 @@
       "id": "symbol-2821-480",
       "symbol": "⠡",
       "name": "盲文点16",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -618,7 +584,6 @@
       "id": "symbol-2822-481",
       "symbol": "⠢",
       "name": "盲文点26",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -636,7 +601,6 @@
       "id": "symbol-2823-482",
       "symbol": "⠣",
       "name": "盲文点126",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -654,7 +618,6 @@
       "id": "symbol-2824-483",
       "symbol": "⠤",
       "name": "盲文点36",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -672,7 +635,6 @@
       "id": "symbol-2825-484",
       "symbol": "⠥",
       "name": "盲文点136",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -690,7 +652,6 @@
       "id": "symbol-2826-485",
       "symbol": "⠦",
       "name": "盲文点236",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -708,7 +669,6 @@
       "id": "symbol-2827-486",
       "symbol": "⠧",
       "name": "盲文点1236",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -726,7 +686,6 @@
       "id": "symbol-2828-487",
       "symbol": "⠨",
       "name": "盲文点46",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -744,7 +703,6 @@
       "id": "symbol-2829-488",
       "symbol": "⠩",
       "name": "盲文点146",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -762,7 +720,6 @@
       "id": "symbol-282a-489",
       "symbol": "⠪",
       "name": "盲文点246",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -780,7 +737,6 @@
       "id": "symbol-282b-490",
       "symbol": "⠫",
       "name": "盲文点1246",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -798,7 +754,6 @@
       "id": "symbol-282c-491",
       "symbol": "⠬",
       "name": "盲文点346",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -816,7 +771,6 @@
       "id": "symbol-282d-492",
       "symbol": "⠭",
       "name": "盲文点1346",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -834,7 +788,6 @@
       "id": "symbol-282e-493",
       "symbol": "⠮",
       "name": "盲文点2346",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -852,7 +805,6 @@
       "id": "symbol-282f-494",
       "symbol": "⠯",
       "name": "盲文点12346",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -870,7 +822,6 @@
       "id": "symbol-2830-495",
       "symbol": "⠰",
       "name": "盲文点56",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -888,7 +839,6 @@
       "id": "symbol-2831-496",
       "symbol": "⠱",
       "name": "盲文点156",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -906,7 +856,6 @@
       "id": "symbol-2832-497",
       "symbol": "⠲",
       "name": "盲文点256",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -924,7 +873,6 @@
       "id": "symbol-2833-498",
       "symbol": "⠳",
       "name": "盲文点1256",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -942,7 +890,6 @@
       "id": "symbol-2834-499",
       "symbol": "⠴",
       "name": "盲文点356",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -960,7 +907,6 @@
       "id": "symbol-2835-500",
       "symbol": "⠵",
       "name": "盲文点1356",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -978,7 +924,6 @@
       "id": "symbol-2836-501",
       "symbol": "⠶",
       "name": "盲文点2356",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -996,7 +941,6 @@
       "id": "symbol-2837-502",
       "symbol": "⠷",
       "name": "盲文点12356",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1014,7 +958,6 @@
       "id": "symbol-2838-503",
       "symbol": "⠸",
       "name": "盲文点456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1032,7 +975,6 @@
       "id": "symbol-2839-504",
       "symbol": "⠹",
       "name": "盲文点1456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1050,7 +992,6 @@
       "id": "symbol-283a-505",
       "symbol": "⠺",
       "name": "盲文点2456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1068,7 +1009,6 @@
       "id": "symbol-283b-506",
       "symbol": "⠻",
       "name": "盲文点12456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1086,7 +1026,6 @@
       "id": "symbol-283c-507",
       "symbol": "⠼",
       "name": "盲文点3456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1104,7 +1043,6 @@
       "id": "symbol-283d-508",
       "symbol": "⠽",
       "name": "盲文点13456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1122,7 +1060,6 @@
       "id": "symbol-283e-509",
       "symbol": "⠾",
       "name": "盲文点23456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1140,7 +1077,6 @@
       "id": "symbol-283f-510",
       "symbol": "⠿",
       "name": "盲文点123456",
-      "pronunciation": "",
       "category": [
         "盲文"
       ],
@@ -1153,6 +1089,3307 @@
         "Braille Patterns"
       ],
       "notes": "符号 「盲文图案点-123456」 包含在 「盲文点字模型」 块的 「盲文圖案」 子块中，并在1999年作为Unicode版本3.0的一部分获得批准。"
+    },
+    {
+      "id": "symbol-2840-4953",
+      "symbol": "⡀",
+      "name": "盲文点阵-7",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-7",
+        "Braille 点阵-7",
+        "Braille Patterns",
+        "2840",
+        "U+2840",
+        "盲文"
+      ],
+      "notes": "⡀ 是盲文点阵-7的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2841-4954",
+      "symbol": "⡁",
+      "name": "盲文点阵-17",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-17",
+        "Braille 点阵-17",
+        "Braille Patterns",
+        "2841",
+        "U+2841",
+        "盲文"
+      ],
+      "notes": "⡁ 是盲文点阵-17的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2842-4955",
+      "symbol": "⡂",
+      "name": "盲文点阵-27",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-27",
+        "Braille 点阵-27",
+        "Braille Patterns",
+        "2842",
+        "U+2842",
+        "盲文"
+      ],
+      "notes": "⡂ 是盲文点阵-27的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2843-4956",
+      "symbol": "⡃",
+      "name": "盲文点阵-127",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-127",
+        "Braille 点阵-127",
+        "Braille Patterns",
+        "2843",
+        "U+2843",
+        "盲文"
+      ],
+      "notes": "⡃ 是盲文点阵-127的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2844-4957",
+      "symbol": "⡄",
+      "name": "盲文点阵-37",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-37",
+        "Braille 点阵-37",
+        "Braille Patterns",
+        "2844",
+        "U+2844",
+        "盲文"
+      ],
+      "notes": "⡄ 是盲文点阵-37的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2845-4958",
+      "symbol": "⡅",
+      "name": "盲文点阵-137",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-137",
+        "Braille 点阵-137",
+        "Braille Patterns",
+        "2845",
+        "U+2845",
+        "盲文"
+      ],
+      "notes": "⡅ 是盲文点阵-137的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2846-4959",
+      "symbol": "⡆",
+      "name": "盲文点阵-237",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-237",
+        "Braille 点阵-237",
+        "Braille Patterns",
+        "2846",
+        "U+2846",
+        "盲文"
+      ],
+      "notes": "⡆ 是盲文点阵-237的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2847-4960",
+      "symbol": "⡇",
+      "name": "盲文点阵-1237",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1237",
+        "Braille 点阵-1237",
+        "Braille Patterns",
+        "2847",
+        "U+2847",
+        "盲文"
+      ],
+      "notes": "⡇ 是盲文点阵-1237的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2848-4961",
+      "symbol": "⡈",
+      "name": "盲文点阵-47",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-47",
+        "Braille 点阵-47",
+        "Braille Patterns",
+        "2848",
+        "U+2848",
+        "盲文"
+      ],
+      "notes": "⡈ 是盲文点阵-47的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2849-4962",
+      "symbol": "⡉",
+      "name": "盲文点阵-147",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-147",
+        "Braille 点阵-147",
+        "Braille Patterns",
+        "2849",
+        "U+2849",
+        "盲文"
+      ],
+      "notes": "⡉ 是盲文点阵-147的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-284a-4963",
+      "symbol": "⡊",
+      "name": "盲文点阵-247",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-247",
+        "Braille 点阵-247",
+        "Braille Patterns",
+        "284A",
+        "U+284A",
+        "盲文"
+      ],
+      "notes": "⡊ 是盲文点阵-247的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-284b-4964",
+      "symbol": "⡋",
+      "name": "盲文点阵-1247",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1247",
+        "Braille 点阵-1247",
+        "Braille Patterns",
+        "284B",
+        "U+284B",
+        "盲文"
+      ],
+      "notes": "⡋ 是盲文点阵-1247的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-284c-4965",
+      "symbol": "⡌",
+      "name": "盲文点阵-347",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-347",
+        "Braille 点阵-347",
+        "Braille Patterns",
+        "284C",
+        "U+284C",
+        "盲文"
+      ],
+      "notes": "⡌ 是盲文点阵-347的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-284d-4966",
+      "symbol": "⡍",
+      "name": "盲文点阵-1347",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1347",
+        "Braille 点阵-1347",
+        "Braille Patterns",
+        "284D",
+        "U+284D",
+        "盲文"
+      ],
+      "notes": "⡍ 是盲文点阵-1347的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-284e-4967",
+      "symbol": "⡎",
+      "name": "盲文点阵-2347",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2347",
+        "Braille 点阵-2347",
+        "Braille Patterns",
+        "284E",
+        "U+284E",
+        "盲文"
+      ],
+      "notes": "⡎ 是盲文点阵-2347的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-284f-4968",
+      "symbol": "⡏",
+      "name": "盲文点阵-12347",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12347",
+        "Braille 点阵-12347",
+        "Braille Patterns",
+        "284F",
+        "U+284F",
+        "盲文"
+      ],
+      "notes": "⡏ 是盲文点阵-12347的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2850-4969",
+      "symbol": "⡐",
+      "name": "盲文点阵-57",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-57",
+        "Braille 点阵-57",
+        "Braille Patterns",
+        "2850",
+        "U+2850",
+        "盲文"
+      ],
+      "notes": "⡐ 是盲文点阵-57的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2851-4970",
+      "symbol": "⡑",
+      "name": "盲文点阵-157",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-157",
+        "Braille 点阵-157",
+        "Braille Patterns",
+        "2851",
+        "U+2851",
+        "盲文"
+      ],
+      "notes": "⡑ 是盲文点阵-157的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2852-4971",
+      "symbol": "⡒",
+      "name": "盲文点阵-257",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-257",
+        "Braille 点阵-257",
+        "Braille Patterns",
+        "2852",
+        "U+2852",
+        "盲文"
+      ],
+      "notes": "⡒ 是盲文点阵-257的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2853-4972",
+      "symbol": "⡓",
+      "name": "盲文点阵-1257",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1257",
+        "Braille 点阵-1257",
+        "Braille Patterns",
+        "2853",
+        "U+2853",
+        "盲文"
+      ],
+      "notes": "⡓ 是盲文点阵-1257的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2854-4973",
+      "symbol": "⡔",
+      "name": "盲文点阵-357",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-357",
+        "Braille 点阵-357",
+        "Braille Patterns",
+        "2854",
+        "U+2854",
+        "盲文"
+      ],
+      "notes": "⡔ 是盲文点阵-357的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2855-4974",
+      "symbol": "⡕",
+      "name": "盲文点阵-1357",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1357",
+        "Braille 点阵-1357",
+        "Braille Patterns",
+        "2855",
+        "U+2855",
+        "盲文"
+      ],
+      "notes": "⡕ 是盲文点阵-1357的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2856-4975",
+      "symbol": "⡖",
+      "name": "盲文点阵-2357",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2357",
+        "Braille 点阵-2357",
+        "Braille Patterns",
+        "2856",
+        "U+2856",
+        "盲文"
+      ],
+      "notes": "⡖ 是盲文点阵-2357的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2857-4976",
+      "symbol": "⡗",
+      "name": "盲文点阵-12357",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12357",
+        "Braille 点阵-12357",
+        "Braille Patterns",
+        "2857",
+        "U+2857",
+        "盲文"
+      ],
+      "notes": "⡗ 是盲文点阵-12357的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2858-4977",
+      "symbol": "⡘",
+      "name": "盲文点阵-457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-457",
+        "Braille 点阵-457",
+        "Braille Patterns",
+        "2858",
+        "U+2858",
+        "盲文"
+      ],
+      "notes": "⡘ 是盲文点阵-457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2859-4978",
+      "symbol": "⡙",
+      "name": "盲文点阵-1457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1457",
+        "Braille 点阵-1457",
+        "Braille Patterns",
+        "2859",
+        "U+2859",
+        "盲文"
+      ],
+      "notes": "⡙ 是盲文点阵-1457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-285a-4979",
+      "symbol": "⡚",
+      "name": "盲文点阵-2457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2457",
+        "Braille 点阵-2457",
+        "Braille Patterns",
+        "285A",
+        "U+285A",
+        "盲文"
+      ],
+      "notes": "⡚ 是盲文点阵-2457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-285b-4980",
+      "symbol": "⡛",
+      "name": "盲文点阵-12457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12457",
+        "Braille 点阵-12457",
+        "Braille Patterns",
+        "285B",
+        "U+285B",
+        "盲文"
+      ],
+      "notes": "⡛ 是盲文点阵-12457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-285c-4981",
+      "symbol": "⡜",
+      "name": "盲文点阵-3457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3457",
+        "Braille 点阵-3457",
+        "Braille Patterns",
+        "285C",
+        "U+285C",
+        "盲文"
+      ],
+      "notes": "⡜ 是盲文点阵-3457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-285d-4982",
+      "symbol": "⡝",
+      "name": "盲文点阵-13457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13457",
+        "Braille 点阵-13457",
+        "Braille Patterns",
+        "285D",
+        "U+285D",
+        "盲文"
+      ],
+      "notes": "⡝ 是盲文点阵-13457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-285e-4983",
+      "symbol": "⡞",
+      "name": "盲文点阵-23457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23457",
+        "Braille 点阵-23457",
+        "Braille Patterns",
+        "285E",
+        "U+285E",
+        "盲文"
+      ],
+      "notes": "⡞ 是盲文点阵-23457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-285f-4984",
+      "symbol": "⡟",
+      "name": "盲文点阵-123457",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123457",
+        "Braille 点阵-123457",
+        "Braille Patterns",
+        "285F",
+        "U+285F",
+        "盲文"
+      ],
+      "notes": "⡟ 是盲文点阵-123457的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2860-4985",
+      "symbol": "⡠",
+      "name": "盲文点阵-67",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-67",
+        "Braille 点阵-67",
+        "Braille Patterns",
+        "2860",
+        "U+2860",
+        "盲文"
+      ],
+      "notes": "⡠ 是盲文点阵-67的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2861-4986",
+      "symbol": "⡡",
+      "name": "盲文点阵-167",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-167",
+        "Braille 点阵-167",
+        "Braille Patterns",
+        "2861",
+        "U+2861",
+        "盲文"
+      ],
+      "notes": "⡡ 是盲文点阵-167的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2862-4987",
+      "symbol": "⡢",
+      "name": "盲文点阵-267",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-267",
+        "Braille 点阵-267",
+        "Braille Patterns",
+        "2862",
+        "U+2862",
+        "盲文"
+      ],
+      "notes": "⡢ 是盲文点阵-267的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2863-4988",
+      "symbol": "⡣",
+      "name": "盲文点阵-1267",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1267",
+        "Braille 点阵-1267",
+        "Braille Patterns",
+        "2863",
+        "U+2863",
+        "盲文"
+      ],
+      "notes": "⡣ 是盲文点阵-1267的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2864-4989",
+      "symbol": "⡤",
+      "name": "盲文点阵-367",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-367",
+        "Braille 点阵-367",
+        "Braille Patterns",
+        "2864",
+        "U+2864",
+        "盲文"
+      ],
+      "notes": "⡤ 是盲文点阵-367的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2865-4990",
+      "symbol": "⡥",
+      "name": "盲文点阵-1367",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1367",
+        "Braille 点阵-1367",
+        "Braille Patterns",
+        "2865",
+        "U+2865",
+        "盲文"
+      ],
+      "notes": "⡥ 是盲文点阵-1367的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2866-4991",
+      "symbol": "⡦",
+      "name": "盲文点阵-2367",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2367",
+        "Braille 点阵-2367",
+        "Braille Patterns",
+        "2866",
+        "U+2866",
+        "盲文"
+      ],
+      "notes": "⡦ 是盲文点阵-2367的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2867-4992",
+      "symbol": "⡧",
+      "name": "盲文点阵-12367",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12367",
+        "Braille 点阵-12367",
+        "Braille Patterns",
+        "2867",
+        "U+2867",
+        "盲文"
+      ],
+      "notes": "⡧ 是盲文点阵-12367的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2868-4993",
+      "symbol": "⡨",
+      "name": "盲文点阵-467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-467",
+        "Braille 点阵-467",
+        "Braille Patterns",
+        "2868",
+        "U+2868",
+        "盲文"
+      ],
+      "notes": "⡨ 是盲文点阵-467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2869-4994",
+      "symbol": "⡩",
+      "name": "盲文点阵-1467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1467",
+        "Braille 点阵-1467",
+        "Braille Patterns",
+        "2869",
+        "U+2869",
+        "盲文"
+      ],
+      "notes": "⡩ 是盲文点阵-1467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-286a-4995",
+      "symbol": "⡪",
+      "name": "盲文点阵-2467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2467",
+        "Braille 点阵-2467",
+        "Braille Patterns",
+        "286A",
+        "U+286A",
+        "盲文"
+      ],
+      "notes": "⡪ 是盲文点阵-2467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-286b-4996",
+      "symbol": "⡫",
+      "name": "盲文点阵-12467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12467",
+        "Braille 点阵-12467",
+        "Braille Patterns",
+        "286B",
+        "U+286B",
+        "盲文"
+      ],
+      "notes": "⡫ 是盲文点阵-12467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-286c-4997",
+      "symbol": "⡬",
+      "name": "盲文点阵-3467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3467",
+        "Braille 点阵-3467",
+        "Braille Patterns",
+        "286C",
+        "U+286C",
+        "盲文"
+      ],
+      "notes": "⡬ 是盲文点阵-3467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-286d-4998",
+      "symbol": "⡭",
+      "name": "盲文点阵-13467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13467",
+        "Braille 点阵-13467",
+        "Braille Patterns",
+        "286D",
+        "U+286D",
+        "盲文"
+      ],
+      "notes": "⡭ 是盲文点阵-13467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-286e-4999",
+      "symbol": "⡮",
+      "name": "盲文点阵-23467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23467",
+        "Braille 点阵-23467",
+        "Braille Patterns",
+        "286E",
+        "U+286E",
+        "盲文"
+      ],
+      "notes": "⡮ 是盲文点阵-23467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-286f-5000",
+      "symbol": "⡯",
+      "name": "盲文点阵-123467",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123467",
+        "Braille 点阵-123467",
+        "Braille Patterns",
+        "286F",
+        "U+286F",
+        "盲文"
+      ],
+      "notes": "⡯ 是盲文点阵-123467的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2870-5001",
+      "symbol": "⡰",
+      "name": "盲文点阵-567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-567",
+        "Braille 点阵-567",
+        "Braille Patterns",
+        "2870",
+        "U+2870",
+        "盲文"
+      ],
+      "notes": "⡰ 是盲文点阵-567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2871-5002",
+      "symbol": "⡱",
+      "name": "盲文点阵-1567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1567",
+        "Braille 点阵-1567",
+        "Braille Patterns",
+        "2871",
+        "U+2871",
+        "盲文"
+      ],
+      "notes": "⡱ 是盲文点阵-1567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2872-5003",
+      "symbol": "⡲",
+      "name": "盲文点阵-2567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2567",
+        "Braille 点阵-2567",
+        "Braille Patterns",
+        "2872",
+        "U+2872",
+        "盲文"
+      ],
+      "notes": "⡲ 是盲文点阵-2567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2873-5004",
+      "symbol": "⡳",
+      "name": "盲文点阵-12567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12567",
+        "Braille 点阵-12567",
+        "Braille Patterns",
+        "2873",
+        "U+2873",
+        "盲文"
+      ],
+      "notes": "⡳ 是盲文点阵-12567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2874-5005",
+      "symbol": "⡴",
+      "name": "盲文点阵-3567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3567",
+        "Braille 点阵-3567",
+        "Braille Patterns",
+        "2874",
+        "U+2874",
+        "盲文"
+      ],
+      "notes": "⡴ 是盲文点阵-3567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2875-5006",
+      "symbol": "⡵",
+      "name": "盲文点阵-13567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13567",
+        "Braille 点阵-13567",
+        "Braille Patterns",
+        "2875",
+        "U+2875",
+        "盲文"
+      ],
+      "notes": "⡵ 是盲文点阵-13567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2876-5007",
+      "symbol": "⡶",
+      "name": "盲文点阵-23567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23567",
+        "Braille 点阵-23567",
+        "Braille Patterns",
+        "2876",
+        "U+2876",
+        "盲文"
+      ],
+      "notes": "⡶ 是盲文点阵-23567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2877-5008",
+      "symbol": "⡷",
+      "name": "盲文点阵-123567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123567",
+        "Braille 点阵-123567",
+        "Braille Patterns",
+        "2877",
+        "U+2877",
+        "盲文"
+      ],
+      "notes": "⡷ 是盲文点阵-123567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2878-5009",
+      "symbol": "⡸",
+      "name": "盲文点阵-4567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-4567",
+        "Braille 点阵-4567",
+        "Braille Patterns",
+        "2878",
+        "U+2878",
+        "盲文"
+      ],
+      "notes": "⡸ 是盲文点阵-4567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2879-5010",
+      "symbol": "⡹",
+      "name": "盲文点阵-14567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-14567",
+        "Braille 点阵-14567",
+        "Braille Patterns",
+        "2879",
+        "U+2879",
+        "盲文"
+      ],
+      "notes": "⡹ 是盲文点阵-14567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-287a-5011",
+      "symbol": "⡺",
+      "name": "盲文点阵-24567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-24567",
+        "Braille 点阵-24567",
+        "Braille Patterns",
+        "287A",
+        "U+287A",
+        "盲文"
+      ],
+      "notes": "⡺ 是盲文点阵-24567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-287b-5012",
+      "symbol": "⡻",
+      "name": "盲文点阵-124567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-124567",
+        "Braille 点阵-124567",
+        "Braille Patterns",
+        "287B",
+        "U+287B",
+        "盲文"
+      ],
+      "notes": "⡻ 是盲文点阵-124567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-287c-5013",
+      "symbol": "⡼",
+      "name": "盲文点阵-34567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-34567",
+        "Braille 点阵-34567",
+        "Braille Patterns",
+        "287C",
+        "U+287C",
+        "盲文"
+      ],
+      "notes": "⡼ 是盲文点阵-34567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-287d-5014",
+      "symbol": "⡽",
+      "name": "盲文点阵-134567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-134567",
+        "Braille 点阵-134567",
+        "Braille Patterns",
+        "287D",
+        "U+287D",
+        "盲文"
+      ],
+      "notes": "⡽ 是盲文点阵-134567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-287e-5015",
+      "symbol": "⡾",
+      "name": "盲文点阵-234567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-234567",
+        "Braille 点阵-234567",
+        "Braille Patterns",
+        "287E",
+        "U+287E",
+        "盲文"
+      ],
+      "notes": "⡾ 是盲文点阵-234567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-287f-5016",
+      "symbol": "⡿",
+      "name": "盲文点阵-1234567",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1234567",
+        "Braille 点阵-1234567",
+        "Braille Patterns",
+        "287F",
+        "U+287F",
+        "盲文"
+      ],
+      "notes": "⡿ 是盲文点阵-1234567的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2880-5017",
+      "symbol": "⢀",
+      "name": "盲文点阵-8",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-8",
+        "Braille 点阵-8",
+        "Braille Patterns",
+        "2880",
+        "U+2880",
+        "盲文"
+      ],
+      "notes": "⢀ 是盲文点阵-8的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2881-5018",
+      "symbol": "⢁",
+      "name": "盲文点阵-18",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-18",
+        "Braille 点阵-18",
+        "Braille Patterns",
+        "2881",
+        "U+2881",
+        "盲文"
+      ],
+      "notes": "⢁ 是盲文点阵-18的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2882-5019",
+      "symbol": "⢂",
+      "name": "盲文点阵-28",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-28",
+        "Braille 点阵-28",
+        "Braille Patterns",
+        "2882",
+        "U+2882",
+        "盲文"
+      ],
+      "notes": "⢂ 是盲文点阵-28的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2883-5020",
+      "symbol": "⢃",
+      "name": "盲文点阵-128",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-128",
+        "Braille 点阵-128",
+        "Braille Patterns",
+        "2883",
+        "U+2883",
+        "盲文"
+      ],
+      "notes": "⢃ 是盲文点阵-128的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2884-5021",
+      "symbol": "⢄",
+      "name": "盲文点阵-38",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-38",
+        "Braille 点阵-38",
+        "Braille Patterns",
+        "2884",
+        "U+2884",
+        "盲文"
+      ],
+      "notes": "⢄ 是盲文点阵-38的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2885-5022",
+      "symbol": "⢅",
+      "name": "盲文点阵-138",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-138",
+        "Braille 点阵-138",
+        "Braille Patterns",
+        "2885",
+        "U+2885",
+        "盲文"
+      ],
+      "notes": "⢅ 是盲文点阵-138的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2886-5023",
+      "symbol": "⢆",
+      "name": "盲文点阵-238",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-238",
+        "Braille 点阵-238",
+        "Braille Patterns",
+        "2886",
+        "U+2886",
+        "盲文"
+      ],
+      "notes": "⢆ 是盲文点阵-238的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2887-5024",
+      "symbol": "⢇",
+      "name": "盲文点阵-1238",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1238",
+        "Braille 点阵-1238",
+        "Braille Patterns",
+        "2887",
+        "U+2887",
+        "盲文"
+      ],
+      "notes": "⢇ 是盲文点阵-1238的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2888-5025",
+      "symbol": "⢈",
+      "name": "盲文点阵-48",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-48",
+        "Braille 点阵-48",
+        "Braille Patterns",
+        "2888",
+        "U+2888",
+        "盲文"
+      ],
+      "notes": "⢈ 是盲文点阵-48的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2889-5026",
+      "symbol": "⢉",
+      "name": "盲文点阵-148",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-148",
+        "Braille 点阵-148",
+        "Braille Patterns",
+        "2889",
+        "U+2889",
+        "盲文"
+      ],
+      "notes": "⢉ 是盲文点阵-148的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-288a-5027",
+      "symbol": "⢊",
+      "name": "盲文点阵-248",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-248",
+        "Braille 点阵-248",
+        "Braille Patterns",
+        "288A",
+        "U+288A",
+        "盲文"
+      ],
+      "notes": "⢊ 是盲文点阵-248的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-288b-5028",
+      "symbol": "⢋",
+      "name": "盲文点阵-1248",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1248",
+        "Braille 点阵-1248",
+        "Braille Patterns",
+        "288B",
+        "U+288B",
+        "盲文"
+      ],
+      "notes": "⢋ 是盲文点阵-1248的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-288c-5029",
+      "symbol": "⢌",
+      "name": "盲文点阵-348",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-348",
+        "Braille 点阵-348",
+        "Braille Patterns",
+        "288C",
+        "U+288C",
+        "盲文"
+      ],
+      "notes": "⢌ 是盲文点阵-348的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-288d-5030",
+      "symbol": "⢍",
+      "name": "盲文点阵-1348",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1348",
+        "Braille 点阵-1348",
+        "Braille Patterns",
+        "288D",
+        "U+288D",
+        "盲文"
+      ],
+      "notes": "⢍ 是盲文点阵-1348的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-288e-5031",
+      "symbol": "⢎",
+      "name": "盲文点阵-2348",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2348",
+        "Braille 点阵-2348",
+        "Braille Patterns",
+        "288E",
+        "U+288E",
+        "盲文"
+      ],
+      "notes": "⢎ 是盲文点阵-2348的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-288f-5032",
+      "symbol": "⢏",
+      "name": "盲文点阵-12348",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12348",
+        "Braille 点阵-12348",
+        "Braille Patterns",
+        "288F",
+        "U+288F",
+        "盲文"
+      ],
+      "notes": "⢏ 是盲文点阵-12348的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2890-5033",
+      "symbol": "⢐",
+      "name": "盲文点阵-58",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-58",
+        "Braille 点阵-58",
+        "Braille Patterns",
+        "2890",
+        "U+2890",
+        "盲文"
+      ],
+      "notes": "⢐ 是盲文点阵-58的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2891-5034",
+      "symbol": "⢑",
+      "name": "盲文点阵-158",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-158",
+        "Braille 点阵-158",
+        "Braille Patterns",
+        "2891",
+        "U+2891",
+        "盲文"
+      ],
+      "notes": "⢑ 是盲文点阵-158的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2892-5035",
+      "symbol": "⢒",
+      "name": "盲文点阵-258",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-258",
+        "Braille 点阵-258",
+        "Braille Patterns",
+        "2892",
+        "U+2892",
+        "盲文"
+      ],
+      "notes": "⢒ 是盲文点阵-258的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2893-5036",
+      "symbol": "⢓",
+      "name": "盲文点阵-1258",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1258",
+        "Braille 点阵-1258",
+        "Braille Patterns",
+        "2893",
+        "U+2893",
+        "盲文"
+      ],
+      "notes": "⢓ 是盲文点阵-1258的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2894-5037",
+      "symbol": "⢔",
+      "name": "盲文点阵-358",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-358",
+        "Braille 点阵-358",
+        "Braille Patterns",
+        "2894",
+        "U+2894",
+        "盲文"
+      ],
+      "notes": "⢔ 是盲文点阵-358的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2895-5038",
+      "symbol": "⢕",
+      "name": "盲文点阵-1358",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1358",
+        "Braille 点阵-1358",
+        "Braille Patterns",
+        "2895",
+        "U+2895",
+        "盲文"
+      ],
+      "notes": "⢕ 是盲文点阵-1358的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2896-5039",
+      "symbol": "⢖",
+      "name": "盲文点阵-2358",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2358",
+        "Braille 点阵-2358",
+        "Braille Patterns",
+        "2896",
+        "U+2896",
+        "盲文"
+      ],
+      "notes": "⢖ 是盲文点阵-2358的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2897-5040",
+      "symbol": "⢗",
+      "name": "盲文点阵-12358",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12358",
+        "Braille 点阵-12358",
+        "Braille Patterns",
+        "2897",
+        "U+2897",
+        "盲文"
+      ],
+      "notes": "⢗ 是盲文点阵-12358的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2898-5041",
+      "symbol": "⢘",
+      "name": "盲文点阵-458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-458",
+        "Braille 点阵-458",
+        "Braille Patterns",
+        "2898",
+        "U+2898",
+        "盲文"
+      ],
+      "notes": "⢘ 是盲文点阵-458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2899-5042",
+      "symbol": "⢙",
+      "name": "盲文点阵-1458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1458",
+        "Braille 点阵-1458",
+        "Braille Patterns",
+        "2899",
+        "U+2899",
+        "盲文"
+      ],
+      "notes": "⢙ 是盲文点阵-1458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-289a-5043",
+      "symbol": "⢚",
+      "name": "盲文点阵-2458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2458",
+        "Braille 点阵-2458",
+        "Braille Patterns",
+        "289A",
+        "U+289A",
+        "盲文"
+      ],
+      "notes": "⢚ 是盲文点阵-2458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-289b-5044",
+      "symbol": "⢛",
+      "name": "盲文点阵-12458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12458",
+        "Braille 点阵-12458",
+        "Braille Patterns",
+        "289B",
+        "U+289B",
+        "盲文"
+      ],
+      "notes": "⢛ 是盲文点阵-12458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-289c-5045",
+      "symbol": "⢜",
+      "name": "盲文点阵-3458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3458",
+        "Braille 点阵-3458",
+        "Braille Patterns",
+        "289C",
+        "U+289C",
+        "盲文"
+      ],
+      "notes": "⢜ 是盲文点阵-3458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-289d-5046",
+      "symbol": "⢝",
+      "name": "盲文点阵-13458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13458",
+        "Braille 点阵-13458",
+        "Braille Patterns",
+        "289D",
+        "U+289D",
+        "盲文"
+      ],
+      "notes": "⢝ 是盲文点阵-13458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-289e-5047",
+      "symbol": "⢞",
+      "name": "盲文点阵-23458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23458",
+        "Braille 点阵-23458",
+        "Braille Patterns",
+        "289E",
+        "U+289E",
+        "盲文"
+      ],
+      "notes": "⢞ 是盲文点阵-23458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-289f-5048",
+      "symbol": "⢟",
+      "name": "盲文点阵-123458",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123458",
+        "Braille 点阵-123458",
+        "Braille Patterns",
+        "289F",
+        "U+289F",
+        "盲文"
+      ],
+      "notes": "⢟ 是盲文点阵-123458的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a0-5049",
+      "symbol": "⢠",
+      "name": "盲文点阵-68",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-68",
+        "Braille 点阵-68",
+        "Braille Patterns",
+        "28A0",
+        "U+28A0",
+        "盲文"
+      ],
+      "notes": "⢠ 是盲文点阵-68的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a1-5050",
+      "symbol": "⢡",
+      "name": "盲文点阵-168",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-168",
+        "Braille 点阵-168",
+        "Braille Patterns",
+        "28A1",
+        "U+28A1",
+        "盲文"
+      ],
+      "notes": "⢡ 是盲文点阵-168的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a2-5051",
+      "symbol": "⢢",
+      "name": "盲文点阵-268",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-268",
+        "Braille 点阵-268",
+        "Braille Patterns",
+        "28A2",
+        "U+28A2",
+        "盲文"
+      ],
+      "notes": "⢢ 是盲文点阵-268的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a3-5052",
+      "symbol": "⢣",
+      "name": "盲文点阵-1268",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1268",
+        "Braille 点阵-1268",
+        "Braille Patterns",
+        "28A3",
+        "U+28A3",
+        "盲文"
+      ],
+      "notes": "⢣ 是盲文点阵-1268的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a4-5053",
+      "symbol": "⢤",
+      "name": "盲文点阵-368",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-368",
+        "Braille 点阵-368",
+        "Braille Patterns",
+        "28A4",
+        "U+28A4",
+        "盲文"
+      ],
+      "notes": "⢤ 是盲文点阵-368的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a5-5054",
+      "symbol": "⢥",
+      "name": "盲文点阵-1368",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1368",
+        "Braille 点阵-1368",
+        "Braille Patterns",
+        "28A5",
+        "U+28A5",
+        "盲文"
+      ],
+      "notes": "⢥ 是盲文点阵-1368的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a6-5055",
+      "symbol": "⢦",
+      "name": "盲文点阵-2368",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2368",
+        "Braille 点阵-2368",
+        "Braille Patterns",
+        "28A6",
+        "U+28A6",
+        "盲文"
+      ],
+      "notes": "⢦ 是盲文点阵-2368的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a7-5056",
+      "symbol": "⢧",
+      "name": "盲文点阵-12368",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12368",
+        "Braille 点阵-12368",
+        "Braille Patterns",
+        "28A7",
+        "U+28A7",
+        "盲文"
+      ],
+      "notes": "⢧ 是盲文点阵-12368的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a8-5057",
+      "symbol": "⢨",
+      "name": "盲文点阵-468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-468",
+        "Braille 点阵-468",
+        "Braille Patterns",
+        "28A8",
+        "U+28A8",
+        "盲文"
+      ],
+      "notes": "⢨ 是盲文点阵-468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28a9-5058",
+      "symbol": "⢩",
+      "name": "盲文点阵-1468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1468",
+        "Braille 点阵-1468",
+        "Braille Patterns",
+        "28A9",
+        "U+28A9",
+        "盲文"
+      ],
+      "notes": "⢩ 是盲文点阵-1468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28aa-5059",
+      "symbol": "⢪",
+      "name": "盲文点阵-2468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2468",
+        "Braille 点阵-2468",
+        "Braille Patterns",
+        "28AA",
+        "U+28AA",
+        "盲文"
+      ],
+      "notes": "⢪ 是盲文点阵-2468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28ab-5060",
+      "symbol": "⢫",
+      "name": "盲文点阵-12468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12468",
+        "Braille 点阵-12468",
+        "Braille Patterns",
+        "28AB",
+        "U+28AB",
+        "盲文"
+      ],
+      "notes": "⢫ 是盲文点阵-12468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28ac-5061",
+      "symbol": "⢬",
+      "name": "盲文点阵-3468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3468",
+        "Braille 点阵-3468",
+        "Braille Patterns",
+        "28AC",
+        "U+28AC",
+        "盲文"
+      ],
+      "notes": "⢬ 是盲文点阵-3468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28ad-5062",
+      "symbol": "⢭",
+      "name": "盲文点阵-13468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13468",
+        "Braille 点阵-13468",
+        "Braille Patterns",
+        "28AD",
+        "U+28AD",
+        "盲文"
+      ],
+      "notes": "⢭ 是盲文点阵-13468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28ae-5063",
+      "symbol": "⢮",
+      "name": "盲文点阵-23468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23468",
+        "Braille 点阵-23468",
+        "Braille Patterns",
+        "28AE",
+        "U+28AE",
+        "盲文"
+      ],
+      "notes": "⢮ 是盲文点阵-23468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28af-5064",
+      "symbol": "⢯",
+      "name": "盲文点阵-123468",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123468",
+        "Braille 点阵-123468",
+        "Braille Patterns",
+        "28AF",
+        "U+28AF",
+        "盲文"
+      ],
+      "notes": "⢯ 是盲文点阵-123468的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b0-5065",
+      "symbol": "⢰",
+      "name": "盲文点阵-568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-568",
+        "Braille 点阵-568",
+        "Braille Patterns",
+        "28B0",
+        "U+28B0",
+        "盲文"
+      ],
+      "notes": "⢰ 是盲文点阵-568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b1-5066",
+      "symbol": "⢱",
+      "name": "盲文点阵-1568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1568",
+        "Braille 点阵-1568",
+        "Braille Patterns",
+        "28B1",
+        "U+28B1",
+        "盲文"
+      ],
+      "notes": "⢱ 是盲文点阵-1568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b2-5067",
+      "symbol": "⢲",
+      "name": "盲文点阵-2568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2568",
+        "Braille 点阵-2568",
+        "Braille Patterns",
+        "28B2",
+        "U+28B2",
+        "盲文"
+      ],
+      "notes": "⢲ 是盲文点阵-2568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b3-5068",
+      "symbol": "⢳",
+      "name": "盲文点阵-12568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12568",
+        "Braille 点阵-12568",
+        "Braille Patterns",
+        "28B3",
+        "U+28B3",
+        "盲文"
+      ],
+      "notes": "⢳ 是盲文点阵-12568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b4-5069",
+      "symbol": "⢴",
+      "name": "盲文点阵-3568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3568",
+        "Braille 点阵-3568",
+        "Braille Patterns",
+        "28B4",
+        "U+28B4",
+        "盲文"
+      ],
+      "notes": "⢴ 是盲文点阵-3568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b5-5070",
+      "symbol": "⢵",
+      "name": "盲文点阵-13568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13568",
+        "Braille 点阵-13568",
+        "Braille Patterns",
+        "28B5",
+        "U+28B5",
+        "盲文"
+      ],
+      "notes": "⢵ 是盲文点阵-13568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b6-5071",
+      "symbol": "⢶",
+      "name": "盲文点阵-23568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23568",
+        "Braille 点阵-23568",
+        "Braille Patterns",
+        "28B6",
+        "U+28B6",
+        "盲文"
+      ],
+      "notes": "⢶ 是盲文点阵-23568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b7-5072",
+      "symbol": "⢷",
+      "name": "盲文点阵-123568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123568",
+        "Braille 点阵-123568",
+        "Braille Patterns",
+        "28B7",
+        "U+28B7",
+        "盲文"
+      ],
+      "notes": "⢷ 是盲文点阵-123568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b8-5073",
+      "symbol": "⢸",
+      "name": "盲文点阵-4568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-4568",
+        "Braille 点阵-4568",
+        "Braille Patterns",
+        "28B8",
+        "U+28B8",
+        "盲文"
+      ],
+      "notes": "⢸ 是盲文点阵-4568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28b9-5074",
+      "symbol": "⢹",
+      "name": "盲文点阵-14568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-14568",
+        "Braille 点阵-14568",
+        "Braille Patterns",
+        "28B9",
+        "U+28B9",
+        "盲文"
+      ],
+      "notes": "⢹ 是盲文点阵-14568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28ba-5075",
+      "symbol": "⢺",
+      "name": "盲文点阵-24568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-24568",
+        "Braille 点阵-24568",
+        "Braille Patterns",
+        "28BA",
+        "U+28BA",
+        "盲文"
+      ],
+      "notes": "⢺ 是盲文点阵-24568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28bb-5076",
+      "symbol": "⢻",
+      "name": "盲文点阵-124568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-124568",
+        "Braille 点阵-124568",
+        "Braille Patterns",
+        "28BB",
+        "U+28BB",
+        "盲文"
+      ],
+      "notes": "⢻ 是盲文点阵-124568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28bc-5077",
+      "symbol": "⢼",
+      "name": "盲文点阵-34568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-34568",
+        "Braille 点阵-34568",
+        "Braille Patterns",
+        "28BC",
+        "U+28BC",
+        "盲文"
+      ],
+      "notes": "⢼ 是盲文点阵-34568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28bd-5078",
+      "symbol": "⢽",
+      "name": "盲文点阵-134568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-134568",
+        "Braille 点阵-134568",
+        "Braille Patterns",
+        "28BD",
+        "U+28BD",
+        "盲文"
+      ],
+      "notes": "⢽ 是盲文点阵-134568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28be-5079",
+      "symbol": "⢾",
+      "name": "盲文点阵-234568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-234568",
+        "Braille 点阵-234568",
+        "Braille Patterns",
+        "28BE",
+        "U+28BE",
+        "盲文"
+      ],
+      "notes": "⢾ 是盲文点阵-234568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28bf-5080",
+      "symbol": "⢿",
+      "name": "盲文点阵-1234568",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1234568",
+        "Braille 点阵-1234568",
+        "Braille Patterns",
+        "28BF",
+        "U+28BF",
+        "盲文"
+      ],
+      "notes": "⢿ 是盲文点阵-1234568的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c0-5081",
+      "symbol": "⣀",
+      "name": "盲文点阵-78",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-78",
+        "Braille 点阵-78",
+        "Braille Patterns",
+        "28C0",
+        "U+28C0",
+        "盲文"
+      ],
+      "notes": "⣀ 是盲文点阵-78的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c1-5082",
+      "symbol": "⣁",
+      "name": "盲文点阵-178",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-178",
+        "Braille 点阵-178",
+        "Braille Patterns",
+        "28C1",
+        "U+28C1",
+        "盲文"
+      ],
+      "notes": "⣁ 是盲文点阵-178的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c2-5083",
+      "symbol": "⣂",
+      "name": "盲文点阵-278",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-278",
+        "Braille 点阵-278",
+        "Braille Patterns",
+        "28C2",
+        "U+28C2",
+        "盲文"
+      ],
+      "notes": "⣂ 是盲文点阵-278的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c3-5084",
+      "symbol": "⣃",
+      "name": "盲文点阵-1278",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1278",
+        "Braille 点阵-1278",
+        "Braille Patterns",
+        "28C3",
+        "U+28C3",
+        "盲文"
+      ],
+      "notes": "⣃ 是盲文点阵-1278的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c4-5085",
+      "symbol": "⣄",
+      "name": "盲文点阵-378",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-378",
+        "Braille 点阵-378",
+        "Braille Patterns",
+        "28C4",
+        "U+28C4",
+        "盲文"
+      ],
+      "notes": "⣄ 是盲文点阵-378的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c5-5086",
+      "symbol": "⣅",
+      "name": "盲文点阵-1378",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1378",
+        "Braille 点阵-1378",
+        "Braille Patterns",
+        "28C5",
+        "U+28C5",
+        "盲文"
+      ],
+      "notes": "⣅ 是盲文点阵-1378的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c6-5087",
+      "symbol": "⣆",
+      "name": "盲文点阵-2378",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2378",
+        "Braille 点阵-2378",
+        "Braille Patterns",
+        "28C6",
+        "U+28C6",
+        "盲文"
+      ],
+      "notes": "⣆ 是盲文点阵-2378的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c7-5088",
+      "symbol": "⣇",
+      "name": "盲文点阵-12378",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12378",
+        "Braille 点阵-12378",
+        "Braille Patterns",
+        "28C7",
+        "U+28C7",
+        "盲文"
+      ],
+      "notes": "⣇ 是盲文点阵-12378的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c8-5089",
+      "symbol": "⣈",
+      "name": "盲文点阵-478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-478",
+        "Braille 点阵-478",
+        "Braille Patterns",
+        "28C8",
+        "U+28C8",
+        "盲文"
+      ],
+      "notes": "⣈ 是盲文点阵-478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28c9-5090",
+      "symbol": "⣉",
+      "name": "盲文点阵-1478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1478",
+        "Braille 点阵-1478",
+        "Braille Patterns",
+        "28C9",
+        "U+28C9",
+        "盲文"
+      ],
+      "notes": "⣉ 是盲文点阵-1478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28ca-5091",
+      "symbol": "⣊",
+      "name": "盲文点阵-2478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2478",
+        "Braille 点阵-2478",
+        "Braille Patterns",
+        "28CA",
+        "U+28CA",
+        "盲文"
+      ],
+      "notes": "⣊ 是盲文点阵-2478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28cb-5092",
+      "symbol": "⣋",
+      "name": "盲文点阵-12478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12478",
+        "Braille 点阵-12478",
+        "Braille Patterns",
+        "28CB",
+        "U+28CB",
+        "盲文"
+      ],
+      "notes": "⣋ 是盲文点阵-12478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28cc-5093",
+      "symbol": "⣌",
+      "name": "盲文点阵-3478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3478",
+        "Braille 点阵-3478",
+        "Braille Patterns",
+        "28CC",
+        "U+28CC",
+        "盲文"
+      ],
+      "notes": "⣌ 是盲文点阵-3478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28cd-5094",
+      "symbol": "⣍",
+      "name": "盲文点阵-13478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13478",
+        "Braille 点阵-13478",
+        "Braille Patterns",
+        "28CD",
+        "U+28CD",
+        "盲文"
+      ],
+      "notes": "⣍ 是盲文点阵-13478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28ce-5095",
+      "symbol": "⣎",
+      "name": "盲文点阵-23478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23478",
+        "Braille 点阵-23478",
+        "Braille Patterns",
+        "28CE",
+        "U+28CE",
+        "盲文"
+      ],
+      "notes": "⣎ 是盲文点阵-23478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28cf-5096",
+      "symbol": "⣏",
+      "name": "盲文点阵-123478",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123478",
+        "Braille 点阵-123478",
+        "Braille Patterns",
+        "28CF",
+        "U+28CF",
+        "盲文"
+      ],
+      "notes": "⣏ 是盲文点阵-123478的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d0-5097",
+      "symbol": "⣐",
+      "name": "盲文点阵-578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-578",
+        "Braille 点阵-578",
+        "Braille Patterns",
+        "28D0",
+        "U+28D0",
+        "盲文"
+      ],
+      "notes": "⣐ 是盲文点阵-578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d1-5098",
+      "symbol": "⣑",
+      "name": "盲文点阵-1578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-1578",
+        "Braille 点阵-1578",
+        "Braille Patterns",
+        "28D1",
+        "U+28D1",
+        "盲文"
+      ],
+      "notes": "⣑ 是盲文点阵-1578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d2-5099",
+      "symbol": "⣒",
+      "name": "盲文点阵-2578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-2578",
+        "Braille 点阵-2578",
+        "Braille Patterns",
+        "28D2",
+        "U+28D2",
+        "盲文"
+      ],
+      "notes": "⣒ 是盲文点阵-2578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d3-5100",
+      "symbol": "⣓",
+      "name": "盲文点阵-12578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-12578",
+        "Braille 点阵-12578",
+        "Braille Patterns",
+        "28D3",
+        "U+28D3",
+        "盲文"
+      ],
+      "notes": "⣓ 是盲文点阵-12578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d4-5101",
+      "symbol": "⣔",
+      "name": "盲文点阵-3578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-3578",
+        "Braille 点阵-3578",
+        "Braille Patterns",
+        "28D4",
+        "U+28D4",
+        "盲文"
+      ],
+      "notes": "⣔ 是盲文点阵-3578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d5-5102",
+      "symbol": "⣕",
+      "name": "盲文点阵-13578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-13578",
+        "Braille 点阵-13578",
+        "Braille Patterns",
+        "28D5",
+        "U+28D5",
+        "盲文"
+      ],
+      "notes": "⣕ 是盲文点阵-13578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d6-5103",
+      "symbol": "⣖",
+      "name": "盲文点阵-23578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-23578",
+        "Braille 点阵-23578",
+        "Braille Patterns",
+        "28D6",
+        "U+28D6",
+        "盲文"
+      ],
+      "notes": "⣖ 是盲文点阵-23578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d7-5104",
+      "symbol": "⣗",
+      "name": "盲文点阵-123578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-123578",
+        "Braille 点阵-123578",
+        "Braille Patterns",
+        "28D7",
+        "U+28D7",
+        "盲文"
+      ],
+      "notes": "⣗ 是盲文点阵-123578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d8-5105",
+      "symbol": "⣘",
+      "name": "盲文点阵-4578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-4578",
+        "Braille 点阵-4578",
+        "Braille Patterns",
+        "28D8",
+        "U+28D8",
+        "盲文"
+      ],
+      "notes": "⣘ 是盲文点阵-4578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28d9-5106",
+      "symbol": "⣙",
+      "name": "盲文点阵-14578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-14578",
+        "Braille 点阵-14578",
+        "Braille Patterns",
+        "28D9",
+        "U+28D9",
+        "盲文"
+      ],
+      "notes": "⣙ 是盲文点阵-14578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28da-5107",
+      "symbol": "⣚",
+      "name": "盲文点阵-24578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点阵-24578",
+        "Braille 点阵-24578",
+        "Braille Patterns",
+        "28DA",
+        "U+28DA",
+        "盲文"
+      ],
+      "notes": "⣚ 是盲文点阵-24578的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-28db-5108",
+      "symbol": "⣛",
+      "name": "盲文点位124578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位124578",
+        "盲文 点阵-124578",
+        "Braille Pattern Dots-124578",
+        "Braille Patterns",
+        "28DB",
+        "U+28DB",
+        "盲文"
+      ],
+      "notes": "⣛ 是由第 1、2、4、5、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28dc-5109",
+      "symbol": "⣜",
+      "name": "盲文点位34578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位34578",
+        "盲文 点阵-34578",
+        "Braille Pattern Dots-34578",
+        "Braille Patterns",
+        "28DC",
+        "U+28DC",
+        "盲文"
+      ],
+      "notes": "⣜ 是由第 3、4、5、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28dd-5110",
+      "symbol": "⣝",
+      "name": "盲文点位134578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位134578",
+        "盲文 点阵-134578",
+        "Braille Pattern Dots-134578",
+        "Braille Patterns",
+        "28DD",
+        "U+28DD",
+        "盲文"
+      ],
+      "notes": "⣝ 是由第 1、3、4、5、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28de-5111",
+      "symbol": "⣞",
+      "name": "盲文点位234578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位234578",
+        "盲文 点阵-234578",
+        "Braille Pattern Dots-234578",
+        "Braille Patterns",
+        "28DE",
+        "U+28DE",
+        "盲文"
+      ],
+      "notes": "⣞ 是由第 2、3、4、5、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28df-5112",
+      "symbol": "⣟",
+      "name": "盲文点位1234578",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位1234578",
+        "盲文 点阵-1234578",
+        "Braille Pattern Dots-1234578",
+        "Braille Patterns",
+        "28DF",
+        "U+28DF",
+        "盲文"
+      ],
+      "notes": "⣟ 是由第 1、2、3、4、5、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e0-5113",
+      "symbol": "⣠",
+      "name": "盲文点位678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位678",
+        "盲文 点阵-678",
+        "Braille Pattern Dots-678",
+        "Braille Patterns",
+        "28E0",
+        "U+28E0",
+        "盲文"
+      ],
+      "notes": "⣠ 是由第 6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e1-5114",
+      "symbol": "⣡",
+      "name": "盲文点位1678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位1678",
+        "盲文 点阵-1678",
+        "Braille Pattern Dots-1678",
+        "Braille Patterns",
+        "28E1",
+        "U+28E1",
+        "盲文"
+      ],
+      "notes": "⣡ 是由第 1、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e2-5115",
+      "symbol": "⣢",
+      "name": "盲文点位2678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位2678",
+        "盲文 点阵-2678",
+        "Braille Pattern Dots-2678",
+        "Braille Patterns",
+        "28E2",
+        "U+28E2",
+        "盲文"
+      ],
+      "notes": "⣢ 是由第 2、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e3-5116",
+      "symbol": "⣣",
+      "name": "盲文点位12678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位12678",
+        "盲文 点阵-12678",
+        "Braille Pattern Dots-12678",
+        "Braille Patterns",
+        "28E3",
+        "U+28E3",
+        "盲文"
+      ],
+      "notes": "⣣ 是由第 1、2、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e4-5117",
+      "symbol": "⣤",
+      "name": "盲文点位3678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位3678",
+        "盲文 点阵-3678",
+        "Braille Pattern Dots-3678",
+        "Braille Patterns",
+        "28E4",
+        "U+28E4",
+        "盲文"
+      ],
+      "notes": "⣤ 是由第 3、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e5-5118",
+      "symbol": "⣥",
+      "name": "盲文点位13678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位13678",
+        "盲文 点阵-13678",
+        "Braille Pattern Dots-13678",
+        "Braille Patterns",
+        "28E5",
+        "U+28E5",
+        "盲文"
+      ],
+      "notes": "⣥ 是由第 1、3、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e6-5119",
+      "symbol": "⣦",
+      "name": "盲文点位23678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位23678",
+        "盲文 点阵-23678",
+        "Braille Pattern Dots-23678",
+        "Braille Patterns",
+        "28E6",
+        "U+28E6",
+        "盲文"
+      ],
+      "notes": "⣦ 是由第 2、3、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e7-5120",
+      "symbol": "⣧",
+      "name": "盲文点位123678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位123678",
+        "盲文 点阵-123678",
+        "Braille Pattern Dots-123678",
+        "Braille Patterns",
+        "28E7",
+        "U+28E7",
+        "盲文"
+      ],
+      "notes": "⣧ 是由第 1、2、3、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e8-5121",
+      "symbol": "⣨",
+      "name": "盲文点位4678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位4678",
+        "盲文 点阵-4678",
+        "Braille Pattern Dots-4678",
+        "Braille Patterns",
+        "28E8",
+        "U+28E8",
+        "盲文"
+      ],
+      "notes": "⣨ 是由第 4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28e9-5122",
+      "symbol": "⣩",
+      "name": "盲文点位14678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位14678",
+        "盲文 点阵-14678",
+        "Braille Pattern Dots-14678",
+        "Braille Patterns",
+        "28E9",
+        "U+28E9",
+        "盲文"
+      ],
+      "notes": "⣩ 是由第 1、4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28ea-5123",
+      "symbol": "⣪",
+      "name": "盲文点位24678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位24678",
+        "盲文 点阵-24678",
+        "Braille Pattern Dots-24678",
+        "Braille Patterns",
+        "28EA",
+        "U+28EA",
+        "盲文"
+      ],
+      "notes": "⣪ 是由第 2、4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28eb-5124",
+      "symbol": "⣫",
+      "name": "盲文点位124678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位124678",
+        "盲文 点阵-124678",
+        "Braille Pattern Dots-124678",
+        "Braille Patterns",
+        "28EB",
+        "U+28EB",
+        "盲文"
+      ],
+      "notes": "⣫ 是由第 1、2、4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28ec-5125",
+      "symbol": "⣬",
+      "name": "盲文点位34678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位34678",
+        "盲文 点阵-34678",
+        "Braille Pattern Dots-34678",
+        "Braille Patterns",
+        "28EC",
+        "U+28EC",
+        "盲文"
+      ],
+      "notes": "⣬ 是由第 3、4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28ed-5126",
+      "symbol": "⣭",
+      "name": "盲文点位134678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位134678",
+        "盲文 点阵-134678",
+        "Braille Pattern Dots-134678",
+        "Braille Patterns",
+        "28ED",
+        "U+28ED",
+        "盲文"
+      ],
+      "notes": "⣭ 是由第 1、3、4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28ee-5127",
+      "symbol": "⣮",
+      "name": "盲文点位234678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位234678",
+        "盲文 点阵-234678",
+        "Braille Pattern Dots-234678",
+        "Braille Patterns",
+        "28EE",
+        "U+28EE",
+        "盲文"
+      ],
+      "notes": "⣮ 是由第 2、3、4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28ef-5128",
+      "symbol": "⣯",
+      "name": "盲文点位1234678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位1234678",
+        "盲文 点阵-1234678",
+        "Braille Pattern Dots-1234678",
+        "Braille Patterns",
+        "28EF",
+        "U+28EF",
+        "盲文"
+      ],
+      "notes": "⣯ 是由第 1、2、3、4、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f0-5129",
+      "symbol": "⣰",
+      "name": "盲文点位5678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位5678",
+        "盲文 点阵-5678",
+        "Braille Pattern Dots-5678",
+        "Braille Patterns",
+        "28F0",
+        "U+28F0",
+        "盲文"
+      ],
+      "notes": "⣰ 是由第 5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f1-5130",
+      "symbol": "⣱",
+      "name": "盲文点位15678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位15678",
+        "盲文 点阵-15678",
+        "Braille Pattern Dots-15678",
+        "Braille Patterns",
+        "28F1",
+        "U+28F1",
+        "盲文"
+      ],
+      "notes": "⣱ 是由第 1、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f2-5131",
+      "symbol": "⣲",
+      "name": "盲文点位25678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位25678",
+        "盲文 点阵-25678",
+        "Braille Pattern Dots-25678",
+        "Braille Patterns",
+        "28F2",
+        "U+28F2",
+        "盲文"
+      ],
+      "notes": "⣲ 是由第 2、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f3-5132",
+      "symbol": "⣳",
+      "name": "盲文点位125678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位125678",
+        "盲文 点阵-125678",
+        "Braille Pattern Dots-125678",
+        "Braille Patterns",
+        "28F3",
+        "U+28F3",
+        "盲文"
+      ],
+      "notes": "⣳ 是由第 1、2、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f4-5133",
+      "symbol": "⣴",
+      "name": "盲文点位35678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位35678",
+        "盲文 点阵-35678",
+        "Braille Pattern Dots-35678",
+        "Braille Patterns",
+        "28F4",
+        "U+28F4",
+        "盲文"
+      ],
+      "notes": "⣴ 是由第 3、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f5-5134",
+      "symbol": "⣵",
+      "name": "盲文点位135678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位135678",
+        "盲文 点阵-135678",
+        "Braille Pattern Dots-135678",
+        "Braille Patterns",
+        "28F5",
+        "U+28F5",
+        "盲文"
+      ],
+      "notes": "⣵ 是由第 1、3、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f6-5135",
+      "symbol": "⣶",
+      "name": "盲文点位235678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位235678",
+        "盲文 点阵-235678",
+        "Braille Pattern Dots-235678",
+        "Braille Patterns",
+        "28F6",
+        "U+28F6",
+        "盲文"
+      ],
+      "notes": "⣶ 是由第 2、3、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f7-5136",
+      "symbol": "⣷",
+      "name": "盲文点位1235678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位1235678",
+        "盲文 点阵-1235678",
+        "Braille Pattern Dots-1235678",
+        "Braille Patterns",
+        "28F7",
+        "U+28F7",
+        "盲文"
+      ],
+      "notes": "⣷ 是由第 1、2、3、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f8-5137",
+      "symbol": "⣸",
+      "name": "盲文点位45678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位45678",
+        "盲文 点阵-45678",
+        "Braille Pattern Dots-45678",
+        "Braille Patterns",
+        "28F8",
+        "U+28F8",
+        "盲文"
+      ],
+      "notes": "⣸ 是由第 4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28f9-5138",
+      "symbol": "⣹",
+      "name": "盲文点位145678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位145678",
+        "盲文 点阵-145678",
+        "Braille Pattern Dots-145678",
+        "Braille Patterns",
+        "28F9",
+        "U+28F9",
+        "盲文"
+      ],
+      "notes": "⣹ 是由第 1、4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28fa-5139",
+      "symbol": "⣺",
+      "name": "盲文点位245678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位245678",
+        "盲文 点阵-245678",
+        "Braille Pattern Dots-245678",
+        "Braille Patterns",
+        "28FA",
+        "U+28FA",
+        "盲文"
+      ],
+      "notes": "⣺ 是由第 2、4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28fb-5140",
+      "symbol": "⣻",
+      "name": "盲文点位1245678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位1245678",
+        "盲文 点阵-1245678",
+        "Braille Pattern Dots-1245678",
+        "Braille Patterns",
+        "28FB",
+        "U+28FB",
+        "盲文"
+      ],
+      "notes": "⣻ 是由第 1、2、4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28fc-5141",
+      "symbol": "⣼",
+      "name": "盲文点位345678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位345678",
+        "盲文 点阵-345678",
+        "Braille Pattern Dots-345678",
+        "Braille Patterns",
+        "28FC",
+        "U+28FC",
+        "盲文"
+      ],
+      "notes": "⣼ 是由第 3、4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28fd-5142",
+      "symbol": "⣽",
+      "name": "盲文点位1345678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位1345678",
+        "盲文 点阵-1345678",
+        "Braille Pattern Dots-1345678",
+        "Braille Patterns",
+        "28FD",
+        "U+28FD",
+        "盲文"
+      ],
+      "notes": "⣽ 是由第 1、3、4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28fe-5143",
+      "symbol": "⣾",
+      "name": "盲文点位2345678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位2345678",
+        "盲文 点阵-2345678",
+        "Braille Pattern Dots-2345678",
+        "Braille Patterns",
+        "28FE",
+        "U+28FE",
+        "盲文"
+      ],
+      "notes": "⣾ 是由第 2、3、4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
+    },
+    {
+      "id": "symbol-28ff-5144",
+      "symbol": "⣿",
+      "name": "盲文点位12345678",
+      "category": [
+        "盲文"
+      ],
+      "searchTerms": [
+        "盲文点位12345678",
+        "盲文 点阵-12345678",
+        "Braille Pattern Dots-12345678",
+        "Braille Patterns",
+        "28FF",
+        "U+28FF",
+        "盲文"
+      ],
+      "notes": "⣿ 是由第 1、2、3、4、5、6、7、8 点组成的八点盲文字符，可用于盲文编码、点阵图案和字符测试。"
     }
   ]
 }

@@ -1,12 +1,11 @@
 {
   "category": "箭头",
-  "total": 563,
+  "total": 602,
   "items": [
     {
       "id": "symbol-2191-1693",
       "symbol": "↑",
       "name": "向上箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -27,7 +26,6 @@
       "id": "symbol-2193-1694",
       "symbol": "↓",
       "name": "向下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -48,7 +46,6 @@
       "id": "symbol-2195-1695",
       "symbol": "↕",
       "name": "上下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -69,7 +66,6 @@
       "id": "symbol-2196-1696",
       "symbol": "↖",
       "name": "上左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -90,7 +86,6 @@
       "id": "symbol-2197-1697",
       "symbol": "↗",
       "name": "上右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -111,7 +106,6 @@
       "id": "symbol-2198-1698",
       "symbol": "↘",
       "name": "下右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -132,7 +126,6 @@
       "id": "symbol-2199-1699",
       "symbol": "↙",
       "name": "下左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -152,13 +145,12 @@
     {
       "id": "symbol-219a-1700",
       "symbol": "↚",
-      "name": "向左箭头带stroke",
-      "pronunciation": "",
+      "name": "向左箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头带stroke",
+        "向左箭头带竖线",
         "箭头",
         "向左箭头带Stroke",
         "Arrows",
@@ -169,18 +161,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↚ 是向左箭头带stroke，Unicode 编码为 U+219A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↚ 是向左箭头带竖线，Unicode 编码为 U+219A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-219b-1701",
       "symbol": "↛",
-      "name": "向右箭头带stroke",
-      "pronunciation": "",
+      "name": "向右箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带stroke",
+        "向右箭头带竖线",
         "箭头",
         "向右箭头带Stroke",
         "Arrows",
@@ -191,13 +182,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "↛ 是向右箭头带stroke，Unicode 编码为 U+219B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↛ 是向右箭头带竖线，Unicode 编码为 U+219B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-219c-1702",
       "symbol": "↜",
       "name": "向左波浪箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -218,7 +208,6 @@
       "id": "symbol-219d-1703",
       "symbol": "↝",
       "name": "向右波浪箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -239,7 +228,6 @@
       "id": "symbol-219e-1704",
       "symbol": "↞",
       "name": "向左双头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -260,7 +248,6 @@
       "id": "symbol-219f-1705",
       "symbol": "↟",
       "name": "向上双头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -281,7 +268,6 @@
       "id": "symbol-21a0-1706",
       "symbol": "↠",
       "name": "向右双头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -302,7 +288,6 @@
       "id": "symbol-21a1-1707",
       "symbol": "↡",
       "name": "向下双头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -322,13 +307,12 @@
     {
       "id": "symbol-21a2-1708",
       "symbol": "↢",
-      "name": "向左箭头带tail",
-      "pronunciation": "",
+      "name": "向左箭头带尾部",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头带tail",
+        "向左箭头带尾部",
         "箭头",
         "向左箭头带Tail",
         "Arrows",
@@ -339,18 +323,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↢ 是向左箭头带tail，Unicode 编码为 U+21A2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↢ 是向左箭头带尾部，Unicode 编码为 U+21A2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21a3-1709",
       "symbol": "↣",
-      "name": "向右箭头带tail",
-      "pronunciation": "",
+      "name": "向右箭头带尾部",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带tail",
+        "向右箭头带尾部",
         "箭头",
         "向右箭头带Tail",
         "Arrows",
@@ -361,18 +344,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↣ 是向右箭头带tail，Unicode 编码为 U+21A3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↣ 是向右箭头带尾部，Unicode 编码为 U+21A3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21a4-1710",
       "symbol": "↤",
-      "name": "向左箭头frombar",
-      "pronunciation": "",
+      "name": "向左箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头frombar",
+        "向左箭头起于竖线",
         "箭头",
         "向左箭头fromBar",
         "Arrows",
@@ -383,18 +365,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↤ 是向左箭头frombar，Unicode 编码为 U+21A4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↤ 是向左箭头起于竖线，Unicode 编码为 U+21A4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21a5-1711",
       "symbol": "↥",
-      "name": "向上箭头frombar",
-      "pronunciation": "",
+      "name": "向上箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上箭头frombar",
+        "向上箭头起于竖线",
         "箭头",
         "向上箭头fromBar",
         "Arrows",
@@ -405,18 +386,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↥ 是向上箭头frombar，Unicode 编码为 U+21A5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↥ 是向上箭头起于竖线，Unicode 编码为 U+21A5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21a6-1712",
       "symbol": "↦",
-      "name": "向右箭头frombar",
-      "pronunciation": "",
+      "name": "向右箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头frombar",
+        "向右箭头起于竖线",
         "箭头",
         "向右箭头fromBar",
         "Arrows",
@@ -427,18 +407,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↦ 是向右箭头frombar，Unicode 编码为 U+21A6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↦ 是向右箭头起于竖线，Unicode 编码为 U+21A6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21a7-1713",
       "symbol": "↧",
-      "name": "向下箭头frombar",
-      "pronunciation": "",
+      "name": "向下箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下箭头frombar",
+        "向下箭头起于竖线",
         "箭头",
         "向下箭头fromBar",
         "Arrows",
@@ -449,18 +428,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↧ 是向下箭头frombar，Unicode 编码为 U+21A7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↧ 是向下箭头起于竖线，Unicode 编码为 U+21A7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21a8-1714",
       "symbol": "↨",
-      "name": "上下箭头带base",
-      "pronunciation": "",
+      "name": "上下箭头带底线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "上下箭头带base",
+        "上下箭头带底线",
         "箭头",
         "上下箭头带Base",
         "Arrows",
@@ -471,13 +449,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "↨ 是上下箭头带base，Unicode 编码为 U+21A8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↨ 是上下箭头带底线，Unicode 编码为 U+21A8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21a9-1715",
       "symbol": "↩",
       "name": "右箭头弯向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -498,7 +475,6 @@
       "id": "symbol-21aa-1716",
       "symbol": "↪",
       "name": "左箭头弯向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -519,7 +495,6 @@
       "id": "symbol-21ab-1717",
       "symbol": "↫",
       "name": "向左箭头带环形",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -540,7 +515,6 @@
       "id": "symbol-21ac-1718",
       "symbol": "↬",
       "name": "向右箭头带环形",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -561,7 +535,6 @@
       "id": "symbol-21ad-1719",
       "symbol": "↭",
       "name": "左右波浪箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -581,13 +554,12 @@
     {
       "id": "symbol-21ae-1720",
       "symbol": "↮",
-      "name": "左右箭头带stroke",
-      "pronunciation": "",
+      "name": "左右箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左右箭头带stroke",
+        "左右箭头带竖线",
         "箭头",
         "左右箭头带Stroke",
         "Arrows",
@@ -598,13 +570,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "↮ 是左右箭头带stroke，Unicode 编码为 U+21AE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↮ 是左右箭头带竖线，Unicode 编码为 U+21AE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21af-1721",
       "symbol": "↯",
       "name": "向下之字形箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -625,7 +596,6 @@
       "id": "symbol-21b0-1722",
       "symbol": "↰",
       "name": "向上箭头带尖端向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -646,7 +616,6 @@
       "id": "symbol-21b1-1723",
       "symbol": "↱",
       "name": "向上箭头带尖端向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -667,7 +636,6 @@
       "id": "symbol-21b2-1724",
       "symbol": "↲",
       "name": "向下箭头带尖端向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -688,7 +656,6 @@
       "id": "symbol-21b3-1725",
       "symbol": "↳",
       "name": "向下箭头带尖端向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -708,13 +675,12 @@
     {
       "id": "symbol-21b4-1726",
       "symbol": "↴",
-      "name": "向右箭头带corner向下",
-      "pronunciation": "",
+      "name": "向右箭头带直角向下",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带corner向下",
+        "向右箭头带直角向下",
         "箭头",
         "向右箭头带Corner向下",
         "Arrows",
@@ -725,18 +691,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "↴ 是向右箭头带corner向下，Unicode 编码为 U+21B4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↴ 是向右箭头带直角向下，Unicode 编码为 U+21B4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21b5-1727",
       "symbol": "↵",
-      "name": "向下箭头带corner向左",
-      "pronunciation": "",
+      "name": "向下箭头带直角向左",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下箭头带corner向左",
+        "向下箭头带直角向左",
         "箭头",
         "向下箭头带Corner向左",
         "Arrows",
@@ -747,13 +712,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "↵ 是向下箭头带corner向左，Unicode 编码为 U+21B5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "↵ 是向下箭头带直角向左，Unicode 编码为 U+21B5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21b6-1728",
       "symbol": "↶",
       "name": "逆时针上半圆箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -774,7 +738,6 @@
       "id": "symbol-21b7-1729",
       "symbol": "↷",
       "name": "顺时针上半圆箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -795,7 +758,6 @@
       "id": "symbol-21b8-1730",
       "symbol": "↸",
       "name": "西北箭头指向长竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -816,7 +778,6 @@
       "id": "symbol-21b9-1731",
       "symbol": "↹",
       "name": "向左箭头指向竖线在上向右箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -837,7 +798,6 @@
       "id": "symbol-21ba-1732",
       "symbol": "↺",
       "name": "逆时针开口圆形箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -858,7 +818,6 @@
       "id": "symbol-21bb-1733",
       "symbol": "↻",
       "name": "顺时针开口圆形箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -879,7 +838,6 @@
       "id": "symbol-21bc-1734",
       "symbol": "↼",
       "name": "向左鱼叉箭头带倒钩向上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -900,7 +858,6 @@
       "id": "symbol-21bd-1735",
       "symbol": "↽",
       "name": "向左鱼叉箭头带倒钩向下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -921,7 +878,6 @@
       "id": "symbol-21be-1736",
       "symbol": "↾",
       "name": "向上鱼叉箭头带倒钩向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -942,7 +898,6 @@
       "id": "symbol-21bf-1737",
       "symbol": "↿",
       "name": "向上鱼叉箭头带倒钩向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -963,7 +918,6 @@
       "id": "symbol-21c0-1738",
       "symbol": "⇀",
       "name": "向右鱼叉箭头带倒钩向上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -984,7 +938,6 @@
       "id": "symbol-21c1-1739",
       "symbol": "⇁",
       "name": "向右鱼叉箭头带倒钩向下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1005,7 +958,6 @@
       "id": "symbol-21c2-1740",
       "symbol": "⇂",
       "name": "向下鱼叉箭头带倒钩向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1026,7 +978,6 @@
       "id": "symbol-21c3-1741",
       "symbol": "⇃",
       "name": "向下鱼叉箭头带倒钩向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1047,7 +998,6 @@
       "id": "symbol-21c4-1742",
       "symbol": "⇄",
       "name": "向右箭头在上向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1067,13 +1017,12 @@
     {
       "id": "symbol-21c5-1743",
       "symbol": "⇅",
-      "name": "向上箭头向左of向下箭头",
-      "pronunciation": "",
+      "name": "向上箭头向左的向下箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上箭头向左of向下箭头",
+        "向上箭头向左的向下箭头",
         "箭头",
         "Arrows",
         "21C5",
@@ -1083,13 +1032,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇅ 是向上箭头向左of向下箭头，Unicode 编码为 U+21C5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇅ 是向上箭头向左的向下箭头，Unicode 编码为 U+21C5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21c6-1744",
       "symbol": "⇆",
       "name": "向左箭头在上向右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1110,7 +1058,6 @@
       "id": "symbol-21c7-1745",
       "symbol": "⇇",
       "name": "向左成对箭头s",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1131,7 +1078,6 @@
       "id": "symbol-21c8-1746",
       "symbol": "⇈",
       "name": "向上成对箭头s",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1152,7 +1098,6 @@
       "id": "symbol-21c9-1747",
       "symbol": "⇉",
       "name": "向右成对箭头s",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1173,7 +1118,6 @@
       "id": "symbol-21ca-1748",
       "symbol": "⇊",
       "name": "向下成对箭头s",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1194,7 +1138,6 @@
       "id": "symbol-21cb-1749",
       "symbol": "⇋",
       "name": "向左鱼叉箭头在上向右鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1214,13 +1157,12 @@
     {
       "id": "symbol-21cd-1750",
       "symbol": "⇍",
-      "name": "向左双线箭头带stroke",
-      "pronunciation": "",
+      "name": "向左双线箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左双线箭头带stroke",
+        "向左双线箭头带竖线",
         "箭头",
         "向左双线箭头带Stroke",
         "Arrows",
@@ -1231,18 +1173,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇍ 是向左双线箭头带stroke，Unicode 编码为 U+21CD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇍ 是向左双线箭头带竖线，Unicode 编码为 U+21CD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21ce-1751",
       "symbol": "⇎",
-      "name": "左右双线箭头带stroke",
-      "pronunciation": "",
+      "name": "左右双线箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左右双线箭头带stroke",
+        "左右双线箭头带竖线",
         "箭头",
         "左右双线箭头带Stroke",
         "Arrows",
@@ -1253,18 +1194,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇎ 是左右双线箭头带stroke，Unicode 编码为 U+21CE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇎ 是左右双线箭头带竖线，Unicode 编码为 U+21CE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21cf-1752",
       "symbol": "⇏",
-      "name": "向右双线箭头带stroke",
-      "pronunciation": "",
+      "name": "向右双线箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右双线箭头带stroke",
+        "向右双线箭头带竖线",
         "箭头",
         "向右双线箭头带Stroke",
         "Arrows",
@@ -1275,13 +1215,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇏ 是向右双线箭头带stroke，Unicode 编码为 U+21CF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇏ 是向右双线箭头带竖线，Unicode 编码为 U+21CF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21d0-1753",
       "symbol": "⇐",
       "name": "向左双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1302,7 +1241,6 @@
       "id": "symbol-21d1-1754",
       "symbol": "⇑",
       "name": "向上双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1323,7 +1261,6 @@
       "id": "symbol-21d2-1755",
       "symbol": "⇒",
       "name": "向右双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1344,7 +1281,6 @@
       "id": "symbol-21d3-1756",
       "symbol": "⇓",
       "name": "向下双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1365,7 +1301,6 @@
       "id": "symbol-21d4-1757",
       "symbol": "⇔",
       "name": "左右双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1386,7 +1321,6 @@
       "id": "symbol-21d5-1758",
       "symbol": "⇕",
       "name": "上下双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1407,7 +1341,6 @@
       "id": "symbol-21d6-1759",
       "symbol": "⇖",
       "name": "西北双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1428,7 +1361,6 @@
       "id": "symbol-21d7-1760",
       "symbol": "⇗",
       "name": "东北双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1449,7 +1381,6 @@
       "id": "symbol-21d8-1761",
       "symbol": "⇘",
       "name": "东南双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1470,7 +1401,6 @@
       "id": "symbol-21d9-1762",
       "symbol": "⇙",
       "name": "西南双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1491,7 +1421,6 @@
       "id": "symbol-21da-1763",
       "symbol": "⇚",
       "name": "向左三重箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1512,7 +1441,6 @@
       "id": "symbol-21db-1764",
       "symbol": "⇛",
       "name": "向右三重箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1532,13 +1460,12 @@
     {
       "id": "symbol-21dc-1765",
       "symbol": "⇜",
-      "name": "向左squiggle箭头",
-      "pronunciation": "",
+      "name": "向左波浪箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左squiggle箭头",
+        "向左波浪箭头",
         "箭头",
         "向左Squiggle箭头",
         "Arrows",
@@ -1549,18 +1476,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇜ 是向左squiggle箭头，Unicode 编码为 U+21DC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇜ 是向左波浪箭头，Unicode 编码为 U+21DC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21dd-1766",
       "symbol": "⇝",
-      "name": "向右squiggle箭头",
-      "pronunciation": "",
+      "name": "向右波浪箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右squiggle箭头",
+        "向右波浪箭头",
         "箭头",
         "向右Squiggle箭头",
         "Arrows",
@@ -1571,18 +1497,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇝ 是向右squiggle箭头，Unicode 编码为 U+21DD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇝ 是向右波浪箭头，Unicode 编码为 U+21DD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21de-1767",
       "symbol": "⇞",
-      "name": "向上箭头带双线stroke",
-      "pronunciation": "",
+      "name": "向上箭头带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上箭头带双线stroke",
+        "向上箭头带双线竖线",
         "箭头",
         "向上箭头带双线Stroke",
         "Arrows",
@@ -1593,18 +1518,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇞ 是向上箭头带双线stroke，Unicode 编码为 U+21DE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇞ 是向上箭头带双线竖线，Unicode 编码为 U+21DE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21df-1768",
       "symbol": "⇟",
-      "name": "向下箭头带双线stroke",
-      "pronunciation": "",
+      "name": "向下箭头带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下箭头带双线stroke",
+        "向下箭头带双线竖线",
         "箭头",
         "向下箭头带双线Stroke",
         "Arrows",
@@ -1615,18 +1539,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇟ 是向下箭头带双线stroke，Unicode 编码为 U+21DF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇟ 是向下箭头带双线竖线，Unicode 编码为 U+21DF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21e0-1769",
       "symbol": "⇠",
-      "name": "向左dashed箭头",
-      "pronunciation": "",
+      "name": "向左虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左dashed箭头",
+        "向左虚线箭头",
         "箭头",
         "向左Dashed箭头",
         "Arrows",
@@ -1637,18 +1560,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇠ 是向左dashed箭头，Unicode 编码为 U+21E0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇠ 是向左虚线箭头，Unicode 编码为 U+21E0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21e1-1770",
       "symbol": "⇡",
-      "name": "向上dashed箭头",
-      "pronunciation": "",
+      "name": "向上虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上dashed箭头",
+        "向上虚线箭头",
         "箭头",
         "向上Dashed箭头",
         "Arrows",
@@ -1659,18 +1581,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇡ 是向上dashed箭头，Unicode 编码为 U+21E1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇡ 是向上虚线箭头，Unicode 编码为 U+21E1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21e2-1771",
       "symbol": "⇢",
-      "name": "向右dashed箭头",
-      "pronunciation": "",
+      "name": "向右虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右dashed箭头",
+        "向右虚线箭头",
         "箭头",
         "向右Dashed箭头",
         "Arrows",
@@ -1681,18 +1602,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇢ 是向右dashed箭头，Unicode 编码为 U+21E2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇢ 是向右虚线箭头，Unicode 编码为 U+21E2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21e3-1772",
       "symbol": "⇣",
-      "name": "向下dashed箭头",
-      "pronunciation": "",
+      "name": "向下虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下dashed箭头",
+        "向下虚线箭头",
         "箭头",
         "向下Dashed箭头",
         "Arrows",
@@ -1703,13 +1623,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇣ 是向下dashed箭头，Unicode 编码为 U+21E3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇣ 是向下虚线箭头，Unicode 编码为 U+21E3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21e4-1773",
       "symbol": "⇤",
       "name": "向左箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1730,7 +1649,6 @@
       "id": "symbol-21e5-1774",
       "symbol": "⇥",
       "name": "向右箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1751,7 +1669,6 @@
       "id": "symbol-21e6-1775",
       "symbol": "⇦",
       "name": "向左空心箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1772,7 +1689,6 @@
       "id": "symbol-21e7-1776",
       "symbol": "⇧",
       "name": "向上空心箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1793,7 +1709,6 @@
       "id": "symbol-21e8-1777",
       "symbol": "⇨",
       "name": "向右空心箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1814,7 +1729,6 @@
       "id": "symbol-21e9-1778",
       "symbol": "⇩",
       "name": "向下空心箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1834,13 +1748,12 @@
     {
       "id": "symbol-21ea-1779",
       "symbol": "⇪",
-      "name": "向上空心箭头frombar",
-      "pronunciation": "",
+      "name": "向上空心箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上空心箭头frombar",
+        "向上空心箭头起于竖线",
         "箭头",
         "向上空心箭头fromBar",
         "Arrows",
@@ -1851,18 +1764,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇪ 是向上空心箭头frombar，Unicode 编码为 U+21EA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇪ 是向上空心箭头起于竖线，Unicode 编码为 U+21EA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21eb-1780",
       "symbol": "⇫",
-      "name": "向上空心箭头onpedestal",
-      "pronunciation": "",
+      "name": "向上空心箭头置于底座",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上空心箭头onpedestal",
+        "向上空心箭头置于底座",
         "箭头",
         "向上空心箭头OnPedestal",
         "Arrows",
@@ -1873,18 +1785,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇫ 是向上空心箭头onpedestal，Unicode 编码为 U+21EB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇫ 是向上空心箭头置于底座，Unicode 编码为 U+21EB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21ec-1781",
       "symbol": "⇬",
-      "name": "向上空心箭头onpedestal带horizontalbar",
-      "pronunciation": "",
+      "name": "向上空心箭头置于底座带横线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上空心箭头onpedestal带horizontalbar",
+        "向上空心箭头置于底座带横线",
         "箭头",
         "向上空心箭头OnPedestal带HorizontalBar",
         "Arrows",
@@ -1895,18 +1806,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇬ 是向上空心箭头onpedestal带horizontalbar，Unicode 编码为 U+21EC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇬ 是向上空心箭头置于底座带横线，Unicode 编码为 U+21EC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21ed-1782",
       "symbol": "⇭",
-      "name": "向上空心箭头onpedestal带verticalbar",
-      "pronunciation": "",
+      "name": "向上空心箭头置于底座带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上空心箭头onpedestal带verticalbar",
+        "向上空心箭头置于底座带竖线",
         "箭头",
         "向上空心箭头OnPedestal带VerticalBar",
         "Arrows",
@@ -1917,13 +1827,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇭ 是向上空心箭头onpedestal带verticalbar，Unicode 编码为 U+21ED，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇭ 是向上空心箭头置于底座带竖线，Unicode 编码为 U+21ED，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21ee-1783",
       "symbol": "⇮",
       "name": "向上空心双线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -1943,13 +1852,12 @@
     {
       "id": "symbol-21ef-1784",
       "symbol": "⇯",
-      "name": "向上空心双线箭头onpedestal",
-      "pronunciation": "",
+      "name": "向上空心双线箭头置于底座",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上空心双线箭头onpedestal",
+        "向上空心双线箭头置于底座",
         "箭头",
         "向上空心双线箭头OnPedestal",
         "Arrows",
@@ -1960,18 +1868,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇯ 是向上空心双线箭头onpedestal，Unicode 编码为 U+21EF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇯ 是向上空心双线箭头置于底座，Unicode 编码为 U+21EF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f0-1785",
       "symbol": "⇰",
-      "name": "向右空心箭头fromwall",
-      "pronunciation": "",
+      "name": "向右空心箭头起于墙线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右空心箭头fromwall",
+        "向右空心箭头起于墙线",
         "箭头",
         "向右空心箭头fromWall",
         "Arrows",
@@ -1982,18 +1889,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇰ 是向右空心箭头fromwall，Unicode 编码为 U+21F0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇰ 是向右空心箭头起于墙线，Unicode 编码为 U+21F0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f1-1786",
       "symbol": "⇱",
-      "name": "西北箭头tocorner",
-      "pronunciation": "",
+      "name": "西北箭头指向角",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "西北箭头tocorner",
+        "西北箭头指向角",
         "箭头",
         "西北箭头ToCorner",
         "Arrows",
@@ -2004,18 +1910,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇱ 是西北箭头tocorner，Unicode 编码为 U+21F1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇱ 是西北箭头指向角，Unicode 编码为 U+21F1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f2-1787",
       "symbol": "⇲",
-      "name": "东南箭头tocorner",
-      "pronunciation": "",
+      "name": "东南箭头指向角",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东南箭头tocorner",
+        "东南箭头指向角",
         "箭头",
         "东南箭头ToCorner",
         "Arrows",
@@ -2026,13 +1931,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇲ 是东南箭头tocorner，Unicode 编码为 U+21F2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇲ 是东南箭头指向角，Unicode 编码为 U+21F2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f3-1788",
       "symbol": "⇳",
       "name": "上下空心箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -2052,13 +1956,12 @@
     {
       "id": "symbol-21f4-1789",
       "symbol": "⇴",
-      "name": "右箭头带小circle",
-      "pronunciation": "",
+      "name": "右箭头带小圆圈",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "右箭头带小circle",
+        "右箭头带小圆圈",
         "箭头",
         "右箭头带小Circle",
         "Arrows",
@@ -2069,18 +1972,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇴ 是右箭头带小circle，Unicode 编码为 U+21F4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇴ 是右箭头带小圆圈，Unicode 编码为 U+21F4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f5-1790",
       "symbol": "⇵",
-      "name": "向下箭头向左of向上箭头",
-      "pronunciation": "",
+      "name": "向下箭头向左的向上箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下箭头向左of向上箭头",
+        "向下箭头向左的向上箭头",
         "箭头",
         "Arrows",
         "21F5",
@@ -2090,18 +1992,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇵ 是向下箭头向左of向上箭头，Unicode 编码为 U+21F5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇵ 是向下箭头向左的向上箭头，Unicode 编码为 U+21F5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f6-1791",
       "symbol": "⇶",
-      "name": "Three向右箭头s",
-      "pronunciation": "",
+      "name": "三支向右箭头s",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Three向右箭头s",
+        "三支向右箭头s",
         "箭头",
         "Arrows",
         "21F6",
@@ -2111,18 +2012,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇶ 是 Three向右箭头s，Unicode 编码为 U+21F6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇶ 是 三支向右箭头s，Unicode 编码为 U+21F6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f7-1792",
       "symbol": "⇷",
-      "name": "向左箭头带verticalstroke",
-      "pronunciation": "",
+      "name": "向左箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头带verticalstroke",
+        "向左箭头带竖线",
         "箭头",
         "向左箭头带VerticalStroke",
         "Arrows",
@@ -2133,18 +2033,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇷ 是向左箭头带verticalstroke，Unicode 编码为 U+21F7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇷ 是向左箭头带竖线，Unicode 编码为 U+21F7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f8-1793",
       "symbol": "⇸",
-      "name": "向右箭头带verticalstroke",
-      "pronunciation": "",
+      "name": "向右箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带verticalstroke",
+        "向右箭头带竖线",
         "箭头",
         "向右箭头带VerticalStroke",
         "Arrows",
@@ -2155,18 +2054,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇸ 是向右箭头带verticalstroke，Unicode 编码为 U+21F8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇸ 是向右箭头带竖线，Unicode 编码为 U+21F8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21f9-1794",
       "symbol": "⇹",
-      "name": "左右箭头带verticalstroke",
-      "pronunciation": "",
+      "name": "左右箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左右箭头带verticalstroke",
+        "左右箭头带竖线",
         "箭头",
         "左右箭头带VerticalStroke",
         "Arrows",
@@ -2177,18 +2075,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇹ 是左右箭头带verticalstroke，Unicode 编码为 U+21F9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇹ 是左右箭头带竖线，Unicode 编码为 U+21F9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21fa-1795",
       "symbol": "⇺",
-      "name": "向左箭头带双线verticalstroke",
-      "pronunciation": "",
+      "name": "向左箭头带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头带双线verticalstroke",
+        "向左箭头带双线竖线",
         "箭头",
         "向左箭头带双线VerticalStroke",
         "Arrows",
@@ -2199,18 +2096,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇺ 是向左箭头带双线verticalstroke，Unicode 编码为 U+21FA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇺ 是向左箭头带双线竖线，Unicode 编码为 U+21FA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21fb-1796",
       "symbol": "⇻",
-      "name": "向右箭头带双线verticalstroke",
-      "pronunciation": "",
+      "name": "向右箭头带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带双线verticalstroke",
+        "向右箭头带双线竖线",
         "箭头",
         "向右箭头带双线VerticalStroke",
         "Arrows",
@@ -2221,18 +2117,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇻ 是向右箭头带双线verticalstroke，Unicode 编码为 U+21FB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇻ 是向右箭头带双线竖线，Unicode 编码为 U+21FB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21fc-1797",
       "symbol": "⇼",
-      "name": "左右箭头带双线verticalstroke",
-      "pronunciation": "",
+      "name": "左右箭头带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左右箭头带双线verticalstroke",
+        "左右箭头带双线竖线",
         "箭头",
         "左右箭头带双线VerticalStroke",
         "Arrows",
@@ -2243,18 +2138,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇼ 是左右箭头带双线verticalstroke，Unicode 编码为 U+21FC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇼ 是左右箭头带双线竖线，Unicode 编码为 U+21FC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21fd-1798",
       "symbol": "⇽",
-      "name": "向左openheaded箭头",
-      "pronunciation": "",
+      "name": "向左空心头箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左openheaded箭头",
+        "向左空心头箭头",
         "箭头",
         "向左OpenHeaded箭头",
         "Arrows",
@@ -2265,18 +2159,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇽ 是向左openheaded箭头，Unicode 编码为 U+21FD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇽ 是向左空心头箭头，Unicode 编码为 U+21FD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21fe-1799",
       "symbol": "⇾",
-      "name": "向右openheaded箭头",
-      "pronunciation": "",
+      "name": "向右空心头箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右openheaded箭头",
+        "向右空心头箭头",
         "箭头",
         "向右OpenHeaded箭头",
         "Arrows",
@@ -2287,18 +2180,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇾ 是向右openheaded箭头，Unicode 编码为 U+21FE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇾ 是向右空心头箭头，Unicode 编码为 U+21FE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-21ff-1800",
       "symbol": "⇿",
-      "name": "左右openheaded箭头",
-      "pronunciation": "",
+      "name": "左右空心头箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左右openheaded箭头",
+        "左右空心头箭头",
         "箭头",
         "左右OpenHeaded箭头",
         "Arrows",
@@ -2309,18 +2201,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⇿ 是左右openheaded箭头，Unicode 编码为 U+21FF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⇿ 是左右空心头箭头，Unicode 编码为 U+21FF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f0-1801",
       "symbol": "⟰",
-      "name": "向上quadruple箭头",
-      "pronunciation": "",
+      "name": "向上四重箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上quadruple箭头",
+        "向上四重箭头",
         "箭头",
         "向上Quadruple箭头",
         "Supplemental Arrows-A",
@@ -2331,18 +2222,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟰ 是向上quadruple箭头，Unicode 编码为 U+27F0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟰ 是向上四重箭头，Unicode 编码为 U+27F0，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f1-1802",
       "symbol": "⟱",
-      "name": "向下quadruple箭头",
-      "pronunciation": "",
+      "name": "向下四重箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下quadruple箭头",
+        "向下四重箭头",
         "箭头",
         "向下Quadruple箭头",
         "Supplemental Arrows-A",
@@ -2353,18 +2243,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟱ 是向下quadruple箭头，Unicode 编码为 U+27F1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟱ 是向下四重箭头，Unicode 编码为 U+27F1，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f2-1803",
       "symbol": "⟲",
-      "name": "逆时针gappedcircle箭头",
-      "pronunciation": "",
+      "name": "逆时针开口圆环箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "逆时针gappedcircle箭头",
+        "逆时针开口圆环箭头",
         "箭头",
         "逆时针GappedCircle箭头",
         "Supplemental Arrows-A",
@@ -2375,18 +2264,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟲ 是逆时针gappedcircle箭头，Unicode 编码为 U+27F2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟲ 是逆时针开口圆环箭头，Unicode 编码为 U+27F2，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f3-1804",
       "symbol": "⟳",
-      "name": "顺时针gappedcircle箭头",
-      "pronunciation": "",
+      "name": "顺时针开口圆环箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "顺时针gappedcircle箭头",
+        "顺时针开口圆环箭头",
         "箭头",
         "顺时针GappedCircle箭头",
         "Supplemental Arrows-A",
@@ -2397,18 +2285,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟳ 是顺时针gappedcircle箭头，Unicode 编码为 U+27F3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟳ 是顺时针开口圆环箭头，Unicode 编码为 U+27F3，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f4-1805",
       "symbol": "⟴",
-      "name": "右箭头带circledplus",
-      "pronunciation": "",
+      "name": "右箭头带圈加号",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "右箭头带circledplus",
+        "右箭头带圈加号",
         "箭头",
         "右箭头带CircledPlus",
         "Supplemental Arrows-A",
@@ -2420,18 +2307,17 @@
         "arrow",
         "带圈"
       ],
-      "notes": "⟴ 是右箭头带circledplus，Unicode 编码为 U+27F4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟴ 是右箭头带圈加号，Unicode 编码为 U+27F4，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f5-1806",
       "symbol": "⟵",
-      "name": "Long向左箭头",
-      "pronunciation": "",
+      "name": "长向左箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向左箭头",
+        "长向左箭头",
         "箭头",
         "Supplemental Arrows-A",
         "27F5",
@@ -2441,18 +2327,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟵ 是 Long向左箭头，Unicode 编码为 U+27F5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟵ 是 长向左箭头，Unicode 编码为 U+27F5，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f6-1807",
       "symbol": "⟶",
-      "name": "Long向右箭头",
-      "pronunciation": "",
+      "name": "长向右箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向右箭头",
+        "长向右箭头",
         "箭头",
         "Supplemental Arrows-A",
         "27F6",
@@ -2462,18 +2347,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟶ 是 Long向右箭头，Unicode 编码为 U+27F6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟶ 是 长向右箭头，Unicode 编码为 U+27F6，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f7-1808",
       "symbol": "⟷",
-      "name": "Long左右箭头",
-      "pronunciation": "",
+      "name": "长左右箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long左右箭头",
+        "长左右箭头",
         "箭头",
         "Supplemental Arrows-A",
         "27F7",
@@ -2483,18 +2367,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟷ 是 Long左右箭头，Unicode 编码为 U+27F7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟷ 是 长左右箭头，Unicode 编码为 U+27F7，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f8-1809",
       "symbol": "⟸",
-      "name": "Long向左双线箭头",
-      "pronunciation": "",
+      "name": "长向左双线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向左双线箭头",
+        "长向左双线箭头",
         "箭头",
         "Supplemental Arrows-A",
         "27F8",
@@ -2504,18 +2387,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟸ 是 Long向左双线箭头，Unicode 编码为 U+27F8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟸ 是 长向左双线箭头，Unicode 编码为 U+27F8，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27f9-1810",
       "symbol": "⟹",
-      "name": "Long向右双线箭头",
-      "pronunciation": "",
+      "name": "长向右双线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向右双线箭头",
+        "长向右双线箭头",
         "箭头",
         "Supplemental Arrows-A",
         "27F9",
@@ -2525,18 +2407,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟹ 是 Long向右双线箭头，Unicode 编码为 U+27F9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟹ 是 长向右双线箭头，Unicode 编码为 U+27F9，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27fa-1811",
       "symbol": "⟺",
-      "name": "Long左右双线箭头",
-      "pronunciation": "",
+      "name": "长左右双线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long左右双线箭头",
+        "长左右双线箭头",
         "箭头",
         "Supplemental Arrows-A",
         "27FA",
@@ -2546,18 +2427,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟺ 是 Long左右双线箭头，Unicode 编码为 U+27FA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟺ 是 长左右双线箭头，Unicode 编码为 U+27FA，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27fb-1812",
       "symbol": "⟻",
-      "name": "Long向左箭头frombar",
-      "pronunciation": "",
+      "name": "长向左箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向左箭头frombar",
+        "长向左箭头起于竖线",
         "箭头",
         "Long向左箭头fromBar",
         "Supplemental Arrows-A",
@@ -2568,18 +2448,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟻ 是 Long向左箭头frombar，Unicode 编码为 U+27FB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟻ 是 长向左箭头起于竖线，Unicode 编码为 U+27FB，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27fc-1813",
       "symbol": "⟼",
-      "name": "Long向右箭头frombar",
-      "pronunciation": "",
+      "name": "长向右箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向右箭头frombar",
+        "长向右箭头起于竖线",
         "箭头",
         "Long向右箭头fromBar",
         "Supplemental Arrows-A",
@@ -2590,18 +2469,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟼ 是 Long向右箭头frombar，Unicode 编码为 U+27FC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟼ 是 长向右箭头起于竖线，Unicode 编码为 U+27FC，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27fd-1814",
       "symbol": "⟽",
-      "name": "Long向左双线箭头frombar",
-      "pronunciation": "",
+      "name": "长向左双线箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向左双线箭头frombar",
+        "长向左双线箭头起于竖线",
         "箭头",
         "Long向左双线箭头fromBar",
         "Supplemental Arrows-A",
@@ -2612,18 +2490,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟽ 是 Long向左双线箭头frombar，Unicode 编码为 U+27FD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟽ 是 长向左双线箭头起于竖线，Unicode 编码为 U+27FD，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27fe-1815",
       "symbol": "⟾",
-      "name": "Long向右双线箭头frombar",
-      "pronunciation": "",
+      "name": "长向右双线箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向右双线箭头frombar",
+        "长向右双线箭头起于竖线",
         "箭头",
         "Long向右双线箭头fromBar",
         "Supplemental Arrows-A",
@@ -2634,18 +2511,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟾ 是 Long向右双线箭头frombar，Unicode 编码为 U+27FE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟾ 是 长向右双线箭头起于竖线，Unicode 编码为 U+27FE，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-27ff-1816",
       "symbol": "⟿",
-      "name": "Long向右squiggle箭头",
-      "pronunciation": "",
+      "name": "长向右波浪箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Long向右squiggle箭头",
+        "长向右波浪箭头",
         "箭头",
         "Long向右Squiggle箭头",
         "Supplemental Arrows-A",
@@ -2656,18 +2532,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⟿ 是 Long向右squiggle箭头，Unicode 编码为 U+27FF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⟿ 是 长向右波浪箭头，Unicode 编码为 U+27FF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2900-1817",
       "symbol": "⤀",
-      "name": "向右twoheaded箭头带verticalstroke",
-      "pronunciation": "",
+      "name": "向右双头箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右twoheaded箭头带verticalstroke",
+        "向右双头箭头带竖线",
         "箭头",
         "向右TwoHeaded箭头带VerticalStroke",
         "Supplemental Arrows-B",
@@ -2678,18 +2553,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤀ 是向右twoheaded箭头带verticalstroke，Unicode 编码为 U+2900，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤀ 是向右双头箭头带竖线，Unicode 编码为 U+2900，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2901-1818",
       "symbol": "⤁",
-      "name": "向右twoheaded箭头带双线verticalstroke",
-      "pronunciation": "",
+      "name": "向右双头箭头带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右twoheaded箭头带双线verticalstroke",
+        "向右双头箭头带双线竖线",
         "箭头",
         "向右TwoHeaded箭头带双线VerticalStroke",
         "Supplemental Arrows-B",
@@ -2700,18 +2574,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤁ 是向右twoheaded箭头带双线verticalstroke，Unicode 编码为 U+2901，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤁ 是向右双头箭头带双线竖线，Unicode 编码为 U+2901，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2902-1819",
       "symbol": "⤂",
-      "name": "向左双线箭头带verticalstroke",
-      "pronunciation": "",
+      "name": "向左双线箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左双线箭头带verticalstroke",
+        "向左双线箭头带竖线",
         "箭头",
         "向左双线箭头带VerticalStroke",
         "Supplemental Arrows-B",
@@ -2722,18 +2595,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤂ 是向左双线箭头带verticalstroke，Unicode 编码为 U+2902，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤂ 是向左双线箭头带竖线，Unicode 编码为 U+2902，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2903-1820",
       "symbol": "⤃",
-      "name": "向右双线箭头带verticalstroke",
-      "pronunciation": "",
+      "name": "向右双线箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右双线箭头带verticalstroke",
+        "向右双线箭头带竖线",
         "箭头",
         "向右双线箭头带VerticalStroke",
         "Supplemental Arrows-B",
@@ -2744,18 +2616,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤃ 是向右双线箭头带verticalstroke，Unicode 编码为 U+2903，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤃ 是向右双线箭头带竖线，Unicode 编码为 U+2903，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2904-1821",
       "symbol": "⤄",
-      "name": "左右双线箭头带verticalstroke",
-      "pronunciation": "",
+      "name": "左右双线箭头带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左右双线箭头带verticalstroke",
+        "左右双线箭头带竖线",
         "箭头",
         "左右双线箭头带VerticalStroke",
         "Supplemental Arrows-B",
@@ -2766,18 +2637,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤄ 是左右双线箭头带verticalstroke，Unicode 编码为 U+2904，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤄ 是左右双线箭头带竖线，Unicode 编码为 U+2904，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2905-1822",
       "symbol": "⤅",
-      "name": "向右twoheaded箭头frombar",
-      "pronunciation": "",
+      "name": "向右双头箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右twoheaded箭头frombar",
+        "向右双头箭头起于竖线",
         "箭头",
         "向右TwoHeaded箭头fromBar",
         "Supplemental Arrows-B",
@@ -2788,18 +2658,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤅ 是向右twoheaded箭头frombar，Unicode 编码为 U+2905，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤅ 是向右双头箭头起于竖线，Unicode 编码为 U+2905，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2906-1823",
       "symbol": "⤆",
-      "name": "向左双线箭头frombar",
-      "pronunciation": "",
+      "name": "向左双线箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左双线箭头frombar",
+        "向左双线箭头起于竖线",
         "箭头",
         "向左双线箭头fromBar",
         "Supplemental Arrows-B",
@@ -2810,18 +2679,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤆ 是向左双线箭头frombar，Unicode 编码为 U+2906，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤆ 是向左双线箭头起于竖线，Unicode 编码为 U+2906，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2907-1824",
       "symbol": "⤇",
-      "name": "向右双线箭头frombar",
-      "pronunciation": "",
+      "name": "向右双线箭头起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右双线箭头frombar",
+        "向右双线箭头起于竖线",
         "箭头",
         "向右双线箭头fromBar",
         "Supplemental Arrows-B",
@@ -2832,18 +2700,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤇ 是向右双线箭头frombar，Unicode 编码为 U+2907，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤇ 是向右双线箭头起于竖线，Unicode 编码为 U+2907，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2908-1825",
       "symbol": "⤈",
-      "name": "向下箭头带horizontalstroke",
-      "pronunciation": "",
+      "name": "向下箭头带横线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下箭头带horizontalstroke",
+        "向下箭头带横线",
         "箭头",
         "向下箭头带HorizontalStroke",
         "Supplemental Arrows-B",
@@ -2854,18 +2721,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤈ 是向下箭头带horizontalstroke，Unicode 编码为 U+2908，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤈ 是向下箭头带横线，Unicode 编码为 U+2908，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2909-1826",
       "symbol": "⤉",
-      "name": "向上箭头带horizontalstroke",
-      "pronunciation": "",
+      "name": "向上箭头带横线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上箭头带horizontalstroke",
+        "向上箭头带横线",
         "箭头",
         "向上箭头带HorizontalStroke",
         "Supplemental Arrows-B",
@@ -2876,13 +2742,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤉ 是向上箭头带horizontalstroke，Unicode 编码为 U+2909，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤉ 是向上箭头带横线，Unicode 编码为 U+2909，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-290a-1827",
       "symbol": "⤊",
       "name": "向上三重箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -2903,7 +2768,6 @@
       "id": "symbol-290b-1828",
       "symbol": "⤋",
       "name": "向下三重箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -2923,13 +2787,12 @@
     {
       "id": "symbol-290c-1829",
       "symbol": "⤌",
-      "name": "向左双线dash箭头",
-      "pronunciation": "",
+      "name": "向左双线虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左双线dash箭头",
+        "向左双线虚线箭头",
         "箭头",
         "向左双线Dash箭头",
         "Supplemental Arrows-B",
@@ -2940,18 +2803,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤌ 是向左双线dash箭头，Unicode 编码为 U+290C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤌ 是向左双线虚线箭头，Unicode 编码为 U+290C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-290d-1830",
       "symbol": "⤍",
-      "name": "向右双线dash箭头",
-      "pronunciation": "",
+      "name": "向右双线虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右双线dash箭头",
+        "向右双线虚线箭头",
         "箭头",
         "向右双线Dash箭头",
         "Supplemental Arrows-B",
@@ -2962,18 +2824,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤍ 是向右双线dash箭头，Unicode 编码为 U+290D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤍ 是向右双线虚线箭头，Unicode 编码为 U+290D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-290e-1831",
       "symbol": "⤎",
-      "name": "向左三重dash箭头",
-      "pronunciation": "",
+      "name": "向左三重虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左三重dash箭头",
+        "向左三重虚线箭头",
         "箭头",
         "向左三重Dash箭头",
         "Supplemental Arrows-B",
@@ -2984,18 +2845,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤎ 是向左三重dash箭头，Unicode 编码为 U+290E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤎ 是向左三重虚线箭头，Unicode 编码为 U+290E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-290f-1832",
       "symbol": "⤏",
-      "name": "向右三重dash箭头",
-      "pronunciation": "",
+      "name": "向右三重虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右三重dash箭头",
+        "向右三重虚线箭头",
         "箭头",
         "向右三重Dash箭头",
         "Supplemental Arrows-B",
@@ -3006,18 +2866,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤏ 是向右三重dash箭头，Unicode 编码为 U+290F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤏ 是向右三重虚线箭头，Unicode 编码为 U+290F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2910-1833",
       "symbol": "⤐",
-      "name": "向右twoheaded三重dash箭头",
-      "pronunciation": "",
+      "name": "向右双头三重虚线箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右twoheaded三重dash箭头",
+        "向右双头三重虚线箭头",
         "箭头",
         "向右TwoHeaded三重Dash箭头",
         "Supplemental Arrows-B",
@@ -3028,18 +2887,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤐ 是向右twoheaded三重dash箭头，Unicode 编码为 U+2910，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤐ 是向右双头三重虚线箭头，Unicode 编码为 U+2910，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2911-1834",
       "symbol": "⤑",
-      "name": "向右箭头带dottedstem",
-      "pronunciation": "",
+      "name": "向右箭头带点状杆",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带dottedstem",
+        "向右箭头带点状杆",
         "箭头",
         "向右箭头带DottedStem",
         "Supplemental Arrows-B",
@@ -3050,13 +2908,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤑ 是向右箭头带dottedstem，Unicode 编码为 U+2911，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤑ 是向右箭头带点状杆，Unicode 编码为 U+2911，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2912-1835",
       "symbol": "⤒",
       "name": "向上箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -3077,7 +2934,6 @@
       "id": "symbol-2913-1836",
       "symbol": "⤓",
       "name": "向下箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -3097,13 +2953,12 @@
     {
       "id": "symbol-2914-1837",
       "symbol": "⤔",
-      "name": "向右箭头带tail带verticalstroke",
-      "pronunciation": "",
+      "name": "向右箭头带尾部带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带tail带verticalstroke",
+        "向右箭头带尾部带竖线",
         "箭头",
         "向右箭头带Tail带VerticalStroke",
         "Supplemental Arrows-B",
@@ -3114,18 +2969,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤔ 是向右箭头带tail带verticalstroke，Unicode 编码为 U+2914，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤔ 是向右箭头带尾部带竖线，Unicode 编码为 U+2914，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2915-1838",
       "symbol": "⤕",
-      "name": "向右箭头带tail带双线verticalstroke",
-      "pronunciation": "",
+      "name": "向右箭头带尾部带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带tail带双线verticalstroke",
+        "向右箭头带尾部带双线竖线",
         "箭头",
         "向右箭头带Tail带双线VerticalStroke",
         "Supplemental Arrows-B",
@@ -3136,18 +2990,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤕ 是向右箭头带tail带双线verticalstroke，Unicode 编码为 U+2915，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤕ 是向右箭头带尾部带双线竖线，Unicode 编码为 U+2915，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2916-1839",
       "symbol": "⤖",
-      "name": "向右twoheaded箭头带tail",
-      "pronunciation": "",
+      "name": "向右双头箭头带尾部",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右twoheaded箭头带tail",
+        "向右双头箭头带尾部",
         "箭头",
         "向右TwoHeaded箭头带Tail",
         "Supplemental Arrows-B",
@@ -3158,18 +3011,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤖ 是向右twoheaded箭头带tail，Unicode 编码为 U+2916，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤖ 是向右双头箭头带尾部，Unicode 编码为 U+2916，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2917-1840",
       "symbol": "⤗",
-      "name": "向右twoheaded箭头带tail带verticalstroke",
-      "pronunciation": "",
+      "name": "向右双头箭头带尾部带竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右twoheaded箭头带tail带verticalstroke",
+        "向右双头箭头带尾部带竖线",
         "箭头",
         "向右TwoHeaded箭头带Tail带VerticalStroke",
         "Supplemental Arrows-B",
@@ -3180,18 +3032,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤗ 是向右twoheaded箭头带tail带verticalstroke，Unicode 编码为 U+2917，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤗ 是向右双头箭头带尾部带竖线，Unicode 编码为 U+2917，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2918-1841",
       "symbol": "⤘",
-      "name": "向右twoheaded箭头带tail带双线verticalstroke",
-      "pronunciation": "",
+      "name": "向右双头箭头带尾部带双线竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右twoheaded箭头带tail带双线verticalstroke",
+        "向右双头箭头带尾部带双线竖线",
         "箭头",
         "向右TwoHeaded箭头带Tail带双线VerticalStroke",
         "Supplemental Arrows-B",
@@ -3202,18 +3053,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤘ 是向右twoheaded箭头带tail带双线verticalstroke，Unicode 编码为 U+2918，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤘ 是向右双头箭头带尾部带双线竖线，Unicode 编码为 U+2918，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2919-1842",
       "symbol": "⤙",
-      "name": "向左箭头tail",
-      "pronunciation": "",
+      "name": "向左箭头尾部",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头tail",
+        "向左箭头尾部",
         "箭头",
         "向左箭头Tail",
         "Supplemental Arrows-B",
@@ -3224,18 +3074,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤙ 是向左箭头tail，Unicode 编码为 U+2919，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤙ 是向左箭头尾部，Unicode 编码为 U+2919，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-291a-1843",
       "symbol": "⤚",
-      "name": "向右箭头tail",
-      "pronunciation": "",
+      "name": "向右箭头尾部",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头tail",
+        "向右箭头尾部",
         "箭头",
         "向右箭头Tail",
         "Supplemental Arrows-B",
@@ -3246,18 +3095,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤚ 是向右箭头tail，Unicode 编码为 U+291A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤚ 是向右箭头尾部，Unicode 编码为 U+291A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-291b-1844",
       "symbol": "⤛",
-      "name": "向左双线箭头tail",
-      "pronunciation": "",
+      "name": "向左双线箭头尾部",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左双线箭头tail",
+        "向左双线箭头尾部",
         "箭头",
         "向左双线箭头Tail",
         "Supplemental Arrows-B",
@@ -3268,18 +3116,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤛ 是向左双线箭头tail，Unicode 编码为 U+291B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤛ 是向左双线箭头尾部，Unicode 编码为 U+291B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-291c-1845",
       "symbol": "⤜",
-      "name": "向右双线箭头tail",
-      "pronunciation": "",
+      "name": "向右双线箭头尾部",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右双线箭头tail",
+        "向右双线箭头尾部",
         "箭头",
         "向右双线箭头Tail",
         "Supplemental Arrows-B",
@@ -3290,18 +3137,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤜ 是向右双线箭头tail，Unicode 编码为 U+291C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤜ 是向右双线箭头尾部，Unicode 编码为 U+291C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-291d-1846",
       "symbol": "⤝",
-      "name": "向左箭头to黑色diamond",
-      "pronunciation": "",
+      "name": "向左箭头指向黑色菱形",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头to黑色diamond",
+        "向左箭头指向黑色菱形",
         "箭头",
         "向左箭头To黑色Diamond",
         "Supplemental Arrows-B",
@@ -3312,18 +3158,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤝ 是向左箭头to黑色diamond，Unicode 编码为 U+291D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤝ 是向左箭头指向黑色菱形，Unicode 编码为 U+291D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-291e-1847",
       "symbol": "⤞",
-      "name": "向右箭头to黑色diamond",
-      "pronunciation": "",
+      "name": "向右箭头指向黑色菱形",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头to黑色diamond",
+        "向右箭头指向黑色菱形",
         "箭头",
         "向右箭头To黑色Diamond",
         "Supplemental Arrows-B",
@@ -3334,18 +3179,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤞ 是向右箭头to黑色diamond，Unicode 编码为 U+291E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤞ 是向右箭头指向黑色菱形，Unicode 编码为 U+291E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-291f-1848",
       "symbol": "⤟",
-      "name": "向左箭头frombarto黑色diamond",
-      "pronunciation": "",
+      "name": "向左箭头从竖线指向黑色菱形",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头frombarto黑色diamond",
+        "向左箭头从竖线指向黑色菱形",
         "箭头",
         "向左箭头fromBarTo黑色Diamond",
         "Supplemental Arrows-B",
@@ -3356,18 +3200,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤟ 是向左箭头frombarto黑色diamond，Unicode 编码为 U+291F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤟ 是向左箭头从竖线指向黑色菱形，Unicode 编码为 U+291F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2920-1849",
       "symbol": "⤠",
-      "name": "向右箭头frombarto黑色diamond",
-      "pronunciation": "",
+      "name": "向右箭头从竖线指向黑色菱形",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头frombarto黑色diamond",
+        "向右箭头从竖线指向黑色菱形",
         "箭头",
         "向右箭头fromBarTo黑色Diamond",
         "Supplemental Arrows-B",
@@ -3378,18 +3221,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤠ 是向右箭头frombarto黑色diamond，Unicode 编码为 U+2920，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤠ 是向右箭头从竖线指向黑色菱形，Unicode 编码为 U+2920，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2921-1850",
       "symbol": "⤡",
-      "name": "西北and东南箭头",
-      "pronunciation": "",
+      "name": "西北与东南箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "西北and东南箭头",
+        "西北与东南箭头",
         "箭头",
         "Supplemental Arrows-B",
         "2921",
@@ -3404,13 +3246,12 @@
     {
       "id": "symbol-2922-1851",
       "symbol": "⤢",
-      "name": "东北and西南箭头",
-      "pronunciation": "",
+      "name": "东北与西南箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东北and西南箭头",
+        "东北与西南箭头",
         "箭头",
         "Supplemental Arrows-B",
         "2922",
@@ -3425,13 +3266,12 @@
     {
       "id": "symbol-2923-1852",
       "symbol": "⤣",
-      "name": "西北箭头带hook",
-      "pronunciation": "",
+      "name": "西北箭头带钩",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "西北箭头带hook",
+        "西北箭头带钩",
         "箭头",
         "西北箭头带Hook",
         "Supplemental Arrows-B",
@@ -3442,18 +3282,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤣ 是西北箭头带hook，Unicode 编码为 U+2923，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤣ 是西北箭头带钩，Unicode 编码为 U+2923，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2924-1853",
       "symbol": "⤤",
-      "name": "东北箭头带hook",
-      "pronunciation": "",
+      "name": "东北箭头带钩",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东北箭头带hook",
+        "东北箭头带钩",
         "箭头",
         "东北箭头带Hook",
         "Supplemental Arrows-B",
@@ -3464,18 +3303,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤤ 是东北箭头带hook，Unicode 编码为 U+2924，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤤ 是东北箭头带钩，Unicode 编码为 U+2924，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2925-1854",
       "symbol": "⤥",
-      "name": "东南箭头带hook",
-      "pronunciation": "",
+      "name": "东南箭头带钩",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东南箭头带hook",
+        "东南箭头带钩",
         "箭头",
         "东南箭头带Hook",
         "Supplemental Arrows-B",
@@ -3486,18 +3324,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤥ 是东南箭头带hook，Unicode 编码为 U+2925，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤥ 是东南箭头带钩，Unicode 编码为 U+2925，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2926-1855",
       "symbol": "⤦",
-      "name": "西南箭头带hook",
-      "pronunciation": "",
+      "name": "西南箭头带钩",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "西南箭头带hook",
+        "西南箭头带钩",
         "箭头",
         "西南箭头带Hook",
         "Supplemental Arrows-B",
@@ -3508,18 +3345,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤦ 是西南箭头带hook，Unicode 编码为 U+2926，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤦ 是西南箭头带钩，Unicode 编码为 U+2926，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2927-1856",
       "symbol": "⤧",
-      "name": "西北箭头and东北箭头",
-      "pronunciation": "",
+      "name": "西北箭头与东北箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "西北箭头and东北箭头",
+        "西北箭头与东北箭头",
         "箭头",
         "Supplemental Arrows-B",
         "2927",
@@ -3534,13 +3370,12 @@
     {
       "id": "symbol-2928-1857",
       "symbol": "⤨",
-      "name": "东北箭头and东南箭头",
-      "pronunciation": "",
+      "name": "东北箭头与东南箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东北箭头and东南箭头",
+        "东北箭头与东南箭头",
         "箭头",
         "Supplemental Arrows-B",
         "2928",
@@ -3555,13 +3390,12 @@
     {
       "id": "symbol-2929-1858",
       "symbol": "⤩",
-      "name": "东南箭头and西南箭头",
-      "pronunciation": "",
+      "name": "东南箭头与西南箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东南箭头and西南箭头",
+        "东南箭头与西南箭头",
         "箭头",
         "Supplemental Arrows-B",
         "2929",
@@ -3576,13 +3410,12 @@
     {
       "id": "symbol-292a-1859",
       "symbol": "⤪",
-      "name": "西南箭头and西北箭头",
-      "pronunciation": "",
+      "name": "西南箭头与西北箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "西南箭头and西北箭头",
+        "西南箭头与西北箭头",
         "箭头",
         "Supplemental Arrows-B",
         "292A",
@@ -3597,12 +3430,12 @@
     {
       "id": "symbol-292b-1860",
       "symbol": "⤫",
-      "name": "Rising Diagonal Crossing Falling Diagonal",
-      "pronunciation": "",
+      "name": "上升斜线交叉下降斜线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
+        "上升斜线交叉下降斜线",
         "Rising Diagonal Crossing Falling Diagonal",
         "箭头",
         "Supplemental Arrows-B",
@@ -3618,12 +3451,12 @@
     {
       "id": "symbol-292c-1861",
       "symbol": "⤬",
-      "name": "Falling Diagonal Crossing Rising Diagonal",
-      "pronunciation": "",
+      "name": "下降斜线交叉上升斜线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
+        "下降斜线交叉上升斜线",
         "Falling Diagonal Crossing Rising Diagonal",
         "箭头",
         "Supplemental Arrows-B",
@@ -3639,13 +3472,12 @@
     {
       "id": "symbol-292d-1862",
       "symbol": "⤭",
-      "name": "东南箭头crossing东北箭头",
-      "pronunciation": "",
+      "name": "东南箭头交叉东北箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东南箭头crossing东北箭头",
+        "东南箭头交叉东北箭头",
         "箭头",
         "东南箭头Crossing东北箭头",
         "Supplemental Arrows-B",
@@ -3656,18 +3488,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤭ 是东南箭头crossing东北箭头，Unicode 编码为 U+292D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤭ 是东南箭头交叉东北箭头，Unicode 编码为 U+292D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-292e-1863",
       "symbol": "⤮",
-      "name": "东北箭头crossing东南箭头",
-      "pronunciation": "",
+      "name": "东北箭头交叉东南箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东北箭头crossing东南箭头",
+        "东北箭头交叉东南箭头",
         "箭头",
         "东北箭头Crossing东南箭头",
         "Supplemental Arrows-B",
@@ -3678,18 +3509,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤮ 是东北箭头crossing东南箭头，Unicode 编码为 U+292E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤮ 是东北箭头交叉东南箭头，Unicode 编码为 U+292E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-292f-1864",
       "symbol": "⤯",
-      "name": "Fallingdiagonalcrossing东北箭头",
-      "pronunciation": "",
+      "name": "下降斜线交叉东北箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Fallingdiagonalcrossing东北箭头",
+        "下降斜线交叉东北箭头",
         "箭头",
         "FallingDiagonalCrossing东北箭头",
         "Supplemental Arrows-B",
@@ -3700,18 +3530,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤯ 是 Fallingdiagonalcrossing东北箭头，Unicode 编码为 U+292F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤯ 是 下降斜线交叉东北箭头，Unicode 编码为 U+292F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2930-1865",
       "symbol": "⤰",
-      "name": "Risingdiagonalcrossing东南箭头",
-      "pronunciation": "",
+      "name": "上升斜线交叉东南箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Risingdiagonalcrossing东南箭头",
+        "上升斜线交叉东南箭头",
         "箭头",
         "RisingDiagonalCrossing东南箭头",
         "Supplemental Arrows-B",
@@ -3722,18 +3551,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤰ 是 Risingdiagonalcrossing东南箭头，Unicode 编码为 U+2930，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤰ 是 上升斜线交叉东南箭头，Unicode 编码为 U+2930，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2931-1866",
       "symbol": "⤱",
-      "name": "东北箭头crossing西北箭头",
-      "pronunciation": "",
+      "name": "东北箭头交叉西北箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "东北箭头crossing西北箭头",
+        "东北箭头交叉西北箭头",
         "箭头",
         "东北箭头Crossing西北箭头",
         "Supplemental Arrows-B",
@@ -3744,18 +3572,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤱ 是东北箭头crossing西北箭头，Unicode 编码为 U+2931，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤱ 是东北箭头交叉西北箭头，Unicode 编码为 U+2931，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2932-1867",
       "symbol": "⤲",
-      "name": "西北箭头crossing东北箭头",
-      "pronunciation": "",
+      "name": "西北箭头交叉东北箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "西北箭头crossing东北箭头",
+        "西北箭头交叉东北箭头",
         "箭头",
         "西北箭头Crossing东北箭头",
         "Supplemental Arrows-B",
@@ -3766,18 +3593,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤲ 是西北箭头crossing东北箭头，Unicode 编码为 U+2932，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤲ 是西北箭头交叉东北箭头，Unicode 编码为 U+2932，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2933-1868",
       "symbol": "⤳",
-      "name": "波浪箭头指向directly右",
-      "pronunciation": "",
+      "name": "波浪箭头指向正右",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "波浪箭头指向directly右",
+        "波浪箭头指向正右",
         "箭头",
         "波浪箭头指向Directly右",
         "Supplemental Arrows-B",
@@ -3788,13 +3614,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤳ 是波浪箭头指向directly右，Unicode 编码为 U+2933，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤳ 是波浪箭头指向正右，Unicode 编码为 U+2933，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2934-1869",
       "symbol": "⤴",
       "name": "右箭头弯向上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -3815,7 +3640,6 @@
       "id": "symbol-2935-1870",
       "symbol": "⤵",
       "name": "右箭头弯向下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -3836,7 +3660,6 @@
       "id": "symbol-2936-1871",
       "symbol": "⤶",
       "name": "箭头指向向下再弯向向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -3857,7 +3680,6 @@
       "id": "symbol-2937-1872",
       "symbol": "⤷",
       "name": "箭头指向向下再弯向向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -3877,13 +3699,12 @@
     {
       "id": "symbol-2938-1873",
       "symbol": "⤸",
-      "name": "右sidearc顺时针箭头",
-      "pronunciation": "",
+      "name": "右侧弧顺时针箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "右sidearc顺时针箭头",
+        "右侧弧顺时针箭头",
         "箭头",
         "右SideArc顺时针箭头",
         "Supplemental Arrows-B",
@@ -3894,18 +3715,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤸ 是右sidearc顺时针箭头，Unicode 编码为 U+2938，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤸ 是右侧弧顺时针箭头，Unicode 编码为 U+2938，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2939-1874",
       "symbol": "⤹",
-      "name": "左sidearc逆时针箭头",
-      "pronunciation": "",
+      "name": "左侧弧逆时针箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左sidearc逆时针箭头",
+        "左侧弧逆时针箭头",
         "箭头",
         "左SideArc逆时针箭头",
         "Supplemental Arrows-B",
@@ -3916,18 +3736,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤹ 是左sidearc逆时针箭头，Unicode 编码为 U+2939，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤹ 是左侧弧逆时针箭头，Unicode 编码为 U+2939，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-293a-1875",
       "symbol": "⤺",
-      "name": "Toparc逆时针箭头",
-      "pronunciation": "",
+      "name": "上弧逆时针箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Toparc逆时针箭头",
+        "上弧逆时针箭头",
         "箭头",
         "TopArc逆时针箭头",
         "Supplemental Arrows-B",
@@ -3938,18 +3757,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤺ 是 Toparc逆时针箭头，Unicode 编码为 U+293A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤺ 是 上弧逆时针箭头，Unicode 编码为 U+293A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-293b-1876",
       "symbol": "⤻",
-      "name": "Bottomarc逆时针箭头",
-      "pronunciation": "",
+      "name": "下弧逆时针箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Bottomarc逆时针箭头",
+        "下弧逆时针箭头",
         "箭头",
         "BottomArc逆时针箭头",
         "Supplemental Arrows-B",
@@ -3960,18 +3778,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤻ 是 Bottomarc逆时针箭头，Unicode 编码为 U+293B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤻ 是 下弧逆时针箭头，Unicode 编码为 U+293B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-293c-1877",
       "symbol": "⤼",
-      "name": "Toparc顺时针箭头带minus",
-      "pronunciation": "",
+      "name": "上弧顺时针箭头带减号",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Toparc顺时针箭头带minus",
+        "上弧顺时针箭头带减号",
         "箭头",
         "TopArc顺时针箭头带Minus",
         "Supplemental Arrows-B",
@@ -3982,18 +3799,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤼ 是 Toparc顺时针箭头带minus，Unicode 编码为 U+293C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤼ 是 上弧顺时针箭头带减号，Unicode 编码为 U+293C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-293d-1878",
       "symbol": "⤽",
-      "name": "Toparc逆时针箭头带plus",
-      "pronunciation": "",
+      "name": "上弧逆时针箭头带加号",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Toparc逆时针箭头带plus",
+        "上弧逆时针箭头带加号",
         "箭头",
         "TopArc逆时针箭头带Plus",
         "Supplemental Arrows-B",
@@ -4004,18 +3820,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⤽ 是 Toparc逆时针箭头带plus，Unicode 编码为 U+293D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⤽ 是 上弧逆时针箭头带加号，Unicode 编码为 U+293D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-293e-1879",
       "symbol": "⤾",
-      "name": "Lower右semicircular顺时针箭头",
-      "pronunciation": "",
+      "name": "下部右半圆顺时针箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Lower右semicircular顺时针箭头",
+        "下部右半圆顺时针箭头",
         "箭头",
         "Lower右Semicircular顺时针箭头",
         "Supplemental Arrows-B",
@@ -4031,13 +3846,12 @@
     {
       "id": "symbol-293f-1880",
       "symbol": "⤿",
-      "name": "Lower左semicircular逆时针箭头",
-      "pronunciation": "",
+      "name": "下部左半圆逆时针箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Lower左semicircular逆时针箭头",
+        "下部左半圆逆时针箭头",
         "箭头",
         "Lower左Semicircular逆时针箭头",
         "Supplemental Arrows-B",
@@ -4053,13 +3867,12 @@
     {
       "id": "symbol-2940-1881",
       "symbol": "⥀",
-      "name": "逆时针closedcircle箭头",
-      "pronunciation": "",
+      "name": "逆时针闭合圆环箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "逆时针closedcircle箭头",
+        "逆时针闭合圆环箭头",
         "箭头",
         "逆时针ClosedCircle箭头",
         "Supplemental Arrows-B",
@@ -4070,18 +3883,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥀ 是逆时针closedcircle箭头，Unicode 编码为 U+2940，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥀ 是逆时针闭合圆环箭头，Unicode 编码为 U+2940，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2941-1882",
       "symbol": "⥁",
-      "name": "顺时针closedcircle箭头",
-      "pronunciation": "",
+      "name": "顺时针闭合圆环箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "顺时针closedcircle箭头",
+        "顺时针闭合圆环箭头",
         "箭头",
         "顺时针ClosedCircle箭头",
         "Supplemental Arrows-B",
@@ -4092,18 +3904,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥁ 是顺时针closedcircle箭头，Unicode 编码为 U+2941，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥁ 是顺时针闭合圆环箭头，Unicode 编码为 U+2941，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2942-1883",
       "symbol": "⥂",
-      "name": "向右箭头在上方short向左箭头",
-      "pronunciation": "",
+      "name": "向右箭头在上方短向左箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头在上方short向左箭头",
+        "向右箭头在上方短向左箭头",
         "箭头",
         "向右箭头在上方Short向左箭头",
         "Supplemental Arrows-B",
@@ -4114,18 +3925,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥂ 是向右箭头在上方short向左箭头，Unicode 编码为 U+2942，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥂ 是向右箭头在上方短向左箭头，Unicode 编码为 U+2942，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2943-1884",
       "symbol": "⥃",
-      "name": "向左箭头在上方short向右箭头",
-      "pronunciation": "",
+      "name": "向左箭头在上方短向右箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头在上方short向右箭头",
+        "向左箭头在上方短向右箭头",
         "箭头",
         "向左箭头在上方Short向右箭头",
         "Supplemental Arrows-B",
@@ -4136,18 +3946,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥃ 是向左箭头在上方short向右箭头，Unicode 编码为 U+2943，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥃ 是向左箭头在上方短向右箭头，Unicode 编码为 U+2943，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2944-1885",
       "symbol": "⥄",
-      "name": "Short向右箭头在上方向左箭头",
-      "pronunciation": "",
+      "name": "短向右箭头在上方向左箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Short向右箭头在上方向左箭头",
+        "短向右箭头在上方向左箭头",
         "箭头",
         "Supplemental Arrows-B",
         "2944",
@@ -4157,18 +3966,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥄ 是 Short向右箭头在上方向左箭头，Unicode 编码为 U+2944，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥄ 是 短向右箭头在上方向左箭头，Unicode 编码为 U+2944，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2945-1886",
       "symbol": "⥅",
-      "name": "向右箭头带plus在下方",
-      "pronunciation": "",
+      "name": "向右箭头带加号在下方",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头带plus在下方",
+        "向右箭头带加号在下方",
         "箭头",
         "向右箭头带Plus在下方",
         "Supplemental Arrows-B",
@@ -4179,18 +3987,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥅ 是向右箭头带plus在下方，Unicode 编码为 U+2945，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥅ 是向右箭头带加号在下方，Unicode 编码为 U+2945，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2946-1887",
       "symbol": "⥆",
-      "name": "向左箭头带plus在下方",
-      "pronunciation": "",
+      "name": "向左箭头带加号在下方",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头带plus在下方",
+        "向左箭头带加号在下方",
         "箭头",
         "向左箭头带Plus在下方",
         "Supplemental Arrows-B",
@@ -4201,13 +4008,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥆ 是向左箭头带plus在下方，Unicode 编码为 U+2946，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥆ 是向左箭头带加号在下方，Unicode 编码为 U+2946，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2947-1888",
       "symbol": "⥇",
       "name": "向右箭头穿过x",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4228,13 +4034,12 @@
     {
       "id": "symbol-2948-1889",
       "symbol": "⥈",
-      "name": "左右箭头穿过小circle",
-      "pronunciation": "",
+      "name": "左右箭头穿过小圆圈",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "左右箭头穿过小circle",
+        "左右箭头穿过小圆圈",
         "箭头",
         "左右箭头穿过小Circle",
         "Supplemental Arrows-B",
@@ -4245,18 +4050,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥈ 是左右箭头穿过小circle，Unicode 编码为 U+2948，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥈ 是左右箭头穿过小圆圈，Unicode 编码为 U+2948，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2949-1890",
       "symbol": "⥉",
-      "name": "向上twoheaded箭头from小circle",
-      "pronunciation": "",
+      "name": "向上双头箭头从小圆圈",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上twoheaded箭头from小circle",
+        "向上双头箭头从小圆圈",
         "箭头",
         "向上TwoHeaded箭头from小Circle",
         "Supplemental Arrows-B",
@@ -4267,13 +4071,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥉ 是向上twoheaded箭头from小circle，Unicode 编码为 U+2949，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥉ 是向上双头箭头从小圆圈，Unicode 编码为 U+2949，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-294a-1891",
       "symbol": "⥊",
       "name": "左倒钩上右倒钩下鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4294,7 +4097,6 @@
       "id": "symbol-294b-1892",
       "symbol": "⥋",
       "name": "左倒钩下右倒钩上鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4315,7 +4117,6 @@
       "id": "symbol-294c-1893",
       "symbol": "⥌",
       "name": "上倒钩右下倒钩左鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4336,7 +4137,6 @@
       "id": "symbol-294d-1894",
       "symbol": "⥍",
       "name": "上倒钩左下倒钩右鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4357,7 +4157,6 @@
       "id": "symbol-294e-1895",
       "symbol": "⥎",
       "name": "左倒钩上右倒钩上鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4378,7 +4177,6 @@
       "id": "symbol-294f-1896",
       "symbol": "⥏",
       "name": "上倒钩右下倒钩右鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4399,7 +4197,6 @@
       "id": "symbol-2950-1897",
       "symbol": "⥐",
       "name": "左倒钩下右倒钩下鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4420,7 +4217,6 @@
       "id": "symbol-2951-1898",
       "symbol": "⥑",
       "name": "上倒钩左下倒钩左鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4441,7 +4237,6 @@
       "id": "symbol-2952-1899",
       "symbol": "⥒",
       "name": "向左鱼叉箭头带倒钩上指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4462,7 +4257,6 @@
       "id": "symbol-2953-1900",
       "symbol": "⥓",
       "name": "向右鱼叉箭头带倒钩上指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4483,7 +4277,6 @@
       "id": "symbol-2954-1901",
       "symbol": "⥔",
       "name": "向上鱼叉箭头带倒钩右指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4504,7 +4297,6 @@
       "id": "symbol-2955-1902",
       "symbol": "⥕",
       "name": "向下鱼叉箭头带倒钩右指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4525,7 +4317,6 @@
       "id": "symbol-2956-1903",
       "symbol": "⥖",
       "name": "向左鱼叉箭头带倒钩下指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4546,7 +4337,6 @@
       "id": "symbol-2957-1904",
       "symbol": "⥗",
       "name": "向右鱼叉箭头带倒钩下指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4567,7 +4357,6 @@
       "id": "symbol-2958-1905",
       "symbol": "⥘",
       "name": "向上鱼叉箭头带倒钩左指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4588,7 +4377,6 @@
       "id": "symbol-2959-1906",
       "symbol": "⥙",
       "name": "向下鱼叉箭头带倒钩左指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4608,13 +4396,12 @@
     {
       "id": "symbol-295a-1907",
       "symbol": "⥚",
-      "name": "向左鱼叉箭头带倒钩上frombar",
-      "pronunciation": "",
+      "name": "向左鱼叉箭头带倒钩上起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左鱼叉箭头带倒钩上frombar",
+        "向左鱼叉箭头带倒钩上起于竖线",
         "箭头",
         "向左鱼叉箭头带倒钩上fromBar",
         "Supplemental Arrows-B",
@@ -4625,18 +4412,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥚ 是向左鱼叉箭头带倒钩上frombar，Unicode 编码为 U+295A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥚ 是向左鱼叉箭头带倒钩上起于竖线，Unicode 编码为 U+295A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-295b-1908",
       "symbol": "⥛",
-      "name": "向右鱼叉箭头带倒钩上frombar",
-      "pronunciation": "",
+      "name": "向右鱼叉箭头带倒钩上起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右鱼叉箭头带倒钩上frombar",
+        "向右鱼叉箭头带倒钩上起于竖线",
         "箭头",
         "向右鱼叉箭头带倒钩上fromBar",
         "Supplemental Arrows-B",
@@ -4647,18 +4433,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥛ 是向右鱼叉箭头带倒钩上frombar，Unicode 编码为 U+295B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥛ 是向右鱼叉箭头带倒钩上起于竖线，Unicode 编码为 U+295B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-295c-1909",
       "symbol": "⥜",
-      "name": "向上鱼叉箭头带倒钩右frombar",
-      "pronunciation": "",
+      "name": "向上鱼叉箭头带倒钩右起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上鱼叉箭头带倒钩右frombar",
+        "向上鱼叉箭头带倒钩右起于竖线",
         "箭头",
         "向上鱼叉箭头带倒钩右fromBar",
         "Supplemental Arrows-B",
@@ -4669,18 +4454,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥜ 是向上鱼叉箭头带倒钩右frombar，Unicode 编码为 U+295C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥜ 是向上鱼叉箭头带倒钩右起于竖线，Unicode 编码为 U+295C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-295d-1910",
       "symbol": "⥝",
-      "name": "向下鱼叉箭头带倒钩右frombar",
-      "pronunciation": "",
+      "name": "向下鱼叉箭头带倒钩右起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下鱼叉箭头带倒钩右frombar",
+        "向下鱼叉箭头带倒钩右起于竖线",
         "箭头",
         "向下鱼叉箭头带倒钩右fromBar",
         "Supplemental Arrows-B",
@@ -4691,18 +4475,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥝ 是向下鱼叉箭头带倒钩右frombar，Unicode 编码为 U+295D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥝ 是向下鱼叉箭头带倒钩右起于竖线，Unicode 编码为 U+295D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-295e-1911",
       "symbol": "⥞",
-      "name": "向左鱼叉箭头带倒钩下frombar",
-      "pronunciation": "",
+      "name": "向左鱼叉箭头带倒钩下起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左鱼叉箭头带倒钩下frombar",
+        "向左鱼叉箭头带倒钩下起于竖线",
         "箭头",
         "向左鱼叉箭头带倒钩下fromBar",
         "Supplemental Arrows-B",
@@ -4713,18 +4496,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥞ 是向左鱼叉箭头带倒钩下frombar，Unicode 编码为 U+295E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥞ 是向左鱼叉箭头带倒钩下起于竖线，Unicode 编码为 U+295E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-295f-1912",
       "symbol": "⥟",
-      "name": "向右鱼叉箭头带倒钩下frombar",
-      "pronunciation": "",
+      "name": "向右鱼叉箭头带倒钩下起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右鱼叉箭头带倒钩下frombar",
+        "向右鱼叉箭头带倒钩下起于竖线",
         "箭头",
         "向右鱼叉箭头带倒钩下fromBar",
         "Supplemental Arrows-B",
@@ -4735,18 +4517,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥟ 是向右鱼叉箭头带倒钩下frombar，Unicode 编码为 U+295F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥟ 是向右鱼叉箭头带倒钩下起于竖线，Unicode 编码为 U+295F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2960-1913",
       "symbol": "⥠",
-      "name": "向上鱼叉箭头带倒钩左frombar",
-      "pronunciation": "",
+      "name": "向上鱼叉箭头带倒钩左起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上鱼叉箭头带倒钩左frombar",
+        "向上鱼叉箭头带倒钩左起于竖线",
         "箭头",
         "向上鱼叉箭头带倒钩左fromBar",
         "Supplemental Arrows-B",
@@ -4757,18 +4538,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥠ 是向上鱼叉箭头带倒钩左frombar，Unicode 编码为 U+2960，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥠ 是向上鱼叉箭头带倒钩左起于竖线，Unicode 编码为 U+2960，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2961-1914",
       "symbol": "⥡",
-      "name": "向下鱼叉箭头带倒钩左frombar",
-      "pronunciation": "",
+      "name": "向下鱼叉箭头带倒钩左起于竖线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下鱼叉箭头带倒钩左frombar",
+        "向下鱼叉箭头带倒钩左起于竖线",
         "箭头",
         "向下鱼叉箭头带倒钩左fromBar",
         "Supplemental Arrows-B",
@@ -4779,13 +4559,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥡ 是向下鱼叉箭头带倒钩左frombar，Unicode 编码为 U+2961，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥡ 是向下鱼叉箭头带倒钩左起于竖线，Unicode 编码为 U+2961，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2962-1915",
       "symbol": "⥢",
       "name": "向左鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4805,13 +4584,12 @@
     {
       "id": "symbol-2963-1916",
       "symbol": "⥣",
-      "name": "向上鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
-      "pronunciation": "",
+      "name": "向上鱼叉箭头带倒钩左并列向上鱼叉箭头带倒钩右",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
+        "向上鱼叉箭头带倒钩左并列向上鱼叉箭头带倒钩右",
         "箭头",
         "向上鱼叉箭头带倒钩左Beside向上鱼叉箭头带倒钩右",
         "Supplemental Arrows-B",
@@ -4822,13 +4600,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥣ 是向上鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右，Unicode 编码为 U+2963，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥣ 是向上鱼叉箭头带倒钩左并列向上鱼叉箭头带倒钩右，Unicode 编码为 U+2963，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2964-1917",
       "symbol": "⥤",
       "name": "向右鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4848,13 +4625,12 @@
     {
       "id": "symbol-2965-1918",
       "symbol": "⥥",
-      "name": "向下鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
-      "pronunciation": "",
+      "name": "向下鱼叉箭头带倒钩左并列向下鱼叉箭头带倒钩右",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
+        "向下鱼叉箭头带倒钩左并列向下鱼叉箭头带倒钩右",
         "箭头",
         "向下鱼叉箭头带倒钩左Beside向下鱼叉箭头带倒钩右",
         "Supplemental Arrows-B",
@@ -4865,13 +4641,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥥ 是向下鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右，Unicode 编码为 U+2965，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥥ 是向下鱼叉箭头带倒钩左并列向下鱼叉箭头带倒钩右，Unicode 编码为 U+2965，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2966-1919",
       "symbol": "⥦",
       "name": "向左鱼叉箭头带倒钩上在上方向右鱼叉箭头带倒钩上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4892,7 +4667,6 @@
       "id": "symbol-2967-1920",
       "symbol": "⥧",
       "name": "向左鱼叉箭头带倒钩下在上方向右鱼叉箭头带倒钩下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4913,7 +4687,6 @@
       "id": "symbol-2968-1921",
       "symbol": "⥨",
       "name": "向右鱼叉箭头带倒钩上在上方向左鱼叉箭头带倒钩上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4934,7 +4707,6 @@
       "id": "symbol-2969-1922",
       "symbol": "⥩",
       "name": "向右鱼叉箭头带倒钩下在上方向左鱼叉箭头带倒钩下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -4954,13 +4726,12 @@
     {
       "id": "symbol-296a-1923",
       "symbol": "⥪",
-      "name": "向左鱼叉箭头带倒钩上在上方longdash",
-      "pronunciation": "",
+      "name": "向左鱼叉箭头带倒钩上在上方长横线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左鱼叉箭头带倒钩上在上方longdash",
+        "向左鱼叉箭头带倒钩上在上方长横线",
         "箭头",
         "向左鱼叉箭头带倒钩上在上方LongDash",
         "Supplemental Arrows-B",
@@ -4971,18 +4742,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥪ 是向左鱼叉箭头带倒钩上在上方longdash，Unicode 编码为 U+296A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥪ 是向左鱼叉箭头带倒钩上在上方长横线，Unicode 编码为 U+296A，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-296b-1924",
       "symbol": "⥫",
-      "name": "向左鱼叉箭头带倒钩下在下方longdash",
-      "pronunciation": "",
+      "name": "向左鱼叉箭头带倒钩下在下方长横线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左鱼叉箭头带倒钩下在下方longdash",
+        "向左鱼叉箭头带倒钩下在下方长横线",
         "箭头",
         "向左鱼叉箭头带倒钩下在下方LongDash",
         "Supplemental Arrows-B",
@@ -4993,18 +4763,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥫ 是向左鱼叉箭头带倒钩下在下方longdash，Unicode 编码为 U+296B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥫ 是向左鱼叉箭头带倒钩下在下方长横线，Unicode 编码为 U+296B，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-296c-1925",
       "symbol": "⥬",
-      "name": "向右鱼叉箭头带倒钩上在上方longdash",
-      "pronunciation": "",
+      "name": "向右鱼叉箭头带倒钩上在上方长横线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右鱼叉箭头带倒钩上在上方longdash",
+        "向右鱼叉箭头带倒钩上在上方长横线",
         "箭头",
         "向右鱼叉箭头带倒钩上在上方LongDash",
         "Supplemental Arrows-B",
@@ -5015,18 +4784,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥬ 是向右鱼叉箭头带倒钩上在上方longdash，Unicode 编码为 U+296C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥬ 是向右鱼叉箭头带倒钩上在上方长横线，Unicode 编码为 U+296C，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-296d-1926",
       "symbol": "⥭",
-      "name": "向右鱼叉箭头带倒钩下在下方longdash",
-      "pronunciation": "",
+      "name": "向右鱼叉箭头带倒钩下在下方长横线",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右鱼叉箭头带倒钩下在下方longdash",
+        "向右鱼叉箭头带倒钩下在下方长横线",
         "箭头",
         "向右鱼叉箭头带倒钩下在下方LongDash",
         "Supplemental Arrows-B",
@@ -5037,18 +4805,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥭ 是向右鱼叉箭头带倒钩下在下方longdash，Unicode 编码为 U+296D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥭ 是向右鱼叉箭头带倒钩下在下方长横线，Unicode 编码为 U+296D，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-296e-1927",
       "symbol": "⥮",
-      "name": "向上鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
-      "pronunciation": "",
+      "name": "向上鱼叉箭头带倒钩左并列向下鱼叉箭头带倒钩右",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向上鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右",
+        "向上鱼叉箭头带倒钩左并列向下鱼叉箭头带倒钩右",
         "箭头",
         "向上鱼叉箭头带倒钩左Beside向下鱼叉箭头带倒钩右",
         "Supplemental Arrows-B",
@@ -5059,18 +4826,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥮ 是向上鱼叉箭头带倒钩左beside向下鱼叉箭头带倒钩右，Unicode 编码为 U+296E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥮ 是向上鱼叉箭头带倒钩左并列向下鱼叉箭头带倒钩右，Unicode 编码为 U+296E，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-296f-1928",
       "symbol": "⥯",
-      "name": "向下鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
-      "pronunciation": "",
+      "name": "向下鱼叉箭头带倒钩左并列向上鱼叉箭头带倒钩右",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向下鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右",
+        "向下鱼叉箭头带倒钩左并列向上鱼叉箭头带倒钩右",
         "箭头",
         "向下鱼叉箭头带倒钩左Beside向上鱼叉箭头带倒钩右",
         "Supplemental Arrows-B",
@@ -5081,18 +4847,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥯ 是向下鱼叉箭头带倒钩左beside向上鱼叉箭头带倒钩右，Unicode 编码为 U+296F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥯ 是向下鱼叉箭头带倒钩左并列向上鱼叉箭头带倒钩右，Unicode 编码为 U+296F，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2970-1929",
       "symbol": "⥰",
-      "name": "右双线箭头带roundedhead",
-      "pronunciation": "",
+      "name": "右双线箭头带圆头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "右双线箭头带roundedhead",
+        "右双线箭头带圆头",
         "箭头",
         "右双线箭头带RoundedHead",
         "Supplemental Arrows-B",
@@ -5103,18 +4868,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥰ 是右双线箭头带roundedhead，Unicode 编码为 U+2970，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥰ 是右双线箭头带圆头，Unicode 编码为 U+2970，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2971-1930",
       "symbol": "⥱",
-      "name": "Equalssign在上方向右箭头",
-      "pronunciation": "",
+      "name": "等号在上方向右箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Equalssign在上方向右箭头",
+        "等号在上方向右箭头",
         "箭头",
         "EqualsSign在上方向右箭头",
         "Supplemental Arrows-B",
@@ -5125,18 +4889,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥱ 是 Equalssign在上方向右箭头，Unicode 编码为 U+2971，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥱ 是 等号在上方向右箭头，Unicode 编码为 U+2971，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2972-1931",
       "symbol": "⥲",
-      "name": "Tildeoperator在上方向右箭头",
-      "pronunciation": "",
+      "name": "波浪算子在上方向右箭头",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "Tildeoperator在上方向右箭头",
+        "波浪算子在上方向右箭头",
         "箭头",
         "TildeOperator在上方向右箭头",
         "Supplemental Arrows-B",
@@ -5147,18 +4910,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥲ 是 Tildeoperator在上方向右箭头，Unicode 编码为 U+2972，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥲ 是 波浪算子在上方向右箭头，Unicode 编码为 U+2972，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2973-1932",
       "symbol": "⥳",
-      "name": "向左箭头在上方tildeoperator",
-      "pronunciation": "",
+      "name": "向左箭头在上方波浪算子",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向左箭头在上方tildeoperator",
+        "向左箭头在上方波浪算子",
         "箭头",
         "向左箭头在上方TildeOperator",
         "Supplemental Arrows-B",
@@ -5169,18 +4931,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥳ 是向左箭头在上方tildeoperator，Unicode 编码为 U+2973，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥳ 是向左箭头在上方波浪算子，Unicode 编码为 U+2973，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2974-1933",
       "symbol": "⥴",
-      "name": "向右箭头在上方tildeoperator",
-      "pronunciation": "",
+      "name": "向右箭头在上方波浪算子",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头在上方tildeoperator",
+        "向右箭头在上方波浪算子",
         "箭头",
         "向右箭头在上方TildeOperator",
         "Supplemental Arrows-B",
@@ -5191,18 +4952,17 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥴ 是向右箭头在上方tildeoperator，Unicode 编码为 U+2974，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥴ 是向右箭头在上方波浪算子，Unicode 编码为 U+2974，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2975-1934",
       "symbol": "⥵",
-      "name": "向右箭头在上方almostequalto",
-      "pronunciation": "",
+      "name": "向右箭头在上方约等于",
       "category": [
         "箭头"
       ],
       "searchTerms": [
-        "向右箭头在上方almostequalto",
+        "向右箭头在上方约等于",
         "箭头",
         "向右箭头在上方AlmostEqualTo",
         "Supplemental Arrows-B",
@@ -5213,13 +4973,12 @@
         "流程",
         "arrow"
       ],
-      "notes": "⥵ 是向右箭头在上方almostequalto，Unicode 编码为 U+2975，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+      "notes": "⥵ 是向右箭头在上方约等于，Unicode 编码为 U+2975，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
     },
     {
       "id": "symbol-2976-1935",
       "symbol": "⥶",
       "name": "小于号在上方向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5240,7 +4999,6 @@
       "id": "symbol-2977-1936",
       "symbol": "⥷",
       "name": "向左箭头穿过小于号",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5261,7 +5019,6 @@
       "id": "symbol-2978-1937",
       "symbol": "⥸",
       "name": "大于号在上方向右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5282,7 +5039,6 @@
       "id": "symbol-2979-1938",
       "symbol": "⥹",
       "name": "子集在上方向右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5303,7 +5059,6 @@
       "id": "symbol-297a-1939",
       "symbol": "⥺",
       "name": "向左箭头穿过子集",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5324,7 +5079,6 @@
       "id": "symbol-297b-1940",
       "symbol": "⥻",
       "name": "超集在上方向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5345,7 +5099,6 @@
       "id": "symbol-297c-1941",
       "symbol": "⥼",
       "name": "左鱼尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5366,7 +5119,6 @@
       "id": "symbol-297d-1942",
       "symbol": "⥽",
       "name": "右鱼尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5387,7 +5139,6 @@
       "id": "symbol-297e-1943",
       "symbol": "⥾",
       "name": "上鱼尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5408,7 +5159,6 @@
       "id": "symbol-297f-1944",
       "symbol": "⥿",
       "name": "下鱼尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5429,7 +5179,6 @@
       "id": "symbol-1f800-1945",
       "symbol": "🠀",
       "name": "向左箭头带小三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5450,7 +5199,6 @@
       "id": "symbol-1f801-1946",
       "symbol": "🠁",
       "name": "向上箭头带小三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5471,7 +5219,6 @@
       "id": "symbol-1f802-1947",
       "symbol": "🠂",
       "name": "向右箭头带小三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5492,7 +5239,6 @@
       "id": "symbol-1f803-1948",
       "symbol": "🠃",
       "name": "向下箭头带小三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5513,7 +5259,6 @@
       "id": "symbol-1f804-1949",
       "symbol": "🠄",
       "name": "向左箭头带中等三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5534,7 +5279,6 @@
       "id": "symbol-1f805-1950",
       "symbol": "🠅",
       "name": "向上箭头带中等三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5555,7 +5299,6 @@
       "id": "symbol-1f806-1951",
       "symbol": "🠆",
       "name": "向右箭头带中等三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5576,7 +5319,6 @@
       "id": "symbol-1f807-1952",
       "symbol": "🠇",
       "name": "向下箭头带中等三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5597,7 +5339,6 @@
       "id": "symbol-1f808-1953",
       "symbol": "🠈",
       "name": "向左箭头带大三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5618,7 +5359,6 @@
       "id": "symbol-1f809-1954",
       "symbol": "🠉",
       "name": "向上箭头带大三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5639,7 +5379,6 @@
       "id": "symbol-1f80a-1955",
       "symbol": "🠊",
       "name": "向右箭头带大三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5660,7 +5399,6 @@
       "id": "symbol-1f80b-1956",
       "symbol": "🠋",
       "name": "向下箭头带大三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5681,7 +5419,6 @@
       "id": "symbol-1f810-1957",
       "symbol": "🠐",
       "name": "向左箭头带小等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5702,7 +5439,6 @@
       "id": "symbol-1f811-1958",
       "symbol": "🠑",
       "name": "向上箭头带小等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5723,7 +5459,6 @@
       "id": "symbol-1f812-1959",
       "symbol": "🠒",
       "name": "向右箭头带小等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5744,7 +5479,6 @@
       "id": "symbol-1f813-1960",
       "symbol": "🠓",
       "name": "向下箭头带小等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5765,7 +5499,6 @@
       "id": "symbol-1f814-1961",
       "symbol": "🠔",
       "name": "向左箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5786,7 +5519,6 @@
       "id": "symbol-1f815-1962",
       "symbol": "🠕",
       "name": "向上箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5807,7 +5539,6 @@
       "id": "symbol-1f816-1963",
       "symbol": "🠖",
       "name": "向右箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5828,7 +5559,6 @@
       "id": "symbol-1f817-1964",
       "symbol": "🠗",
       "name": "向下箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5849,7 +5579,6 @@
       "id": "symbol-1f818-1965",
       "symbol": "🠘",
       "name": "粗向左箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5870,7 +5599,6 @@
       "id": "symbol-1f819-1966",
       "symbol": "🠙",
       "name": "粗向上箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5891,7 +5619,6 @@
       "id": "symbol-1f81a-1967",
       "symbol": "🠚",
       "name": "粗向右箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5912,7 +5639,6 @@
       "id": "symbol-1f81b-1968",
       "symbol": "🠛",
       "name": "粗向下箭头带等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5933,7 +5659,6 @@
       "id": "symbol-1f81c-1969",
       "symbol": "🠜",
       "name": "粗向左箭头带大等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5954,7 +5679,6 @@
       "id": "symbol-1f81d-1970",
       "symbol": "🠝",
       "name": "粗向上箭头带大等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5975,7 +5699,6 @@
       "id": "symbol-1f81e-1971",
       "symbol": "🠞",
       "name": "粗向右箭头带大等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -5996,7 +5719,6 @@
       "id": "symbol-1f81f-1972",
       "symbol": "🠟",
       "name": "粗向下箭头带大等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6017,7 +5739,6 @@
       "id": "symbol-1f820-1973",
       "symbol": "🠠",
       "name": "向左三角头箭头带窄箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6038,7 +5759,6 @@
       "id": "symbol-1f821-1974",
       "symbol": "🠡",
       "name": "向上三角头箭头带窄箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6059,7 +5779,6 @@
       "id": "symbol-1f822-1975",
       "symbol": "🠢",
       "name": "向右三角头箭头带窄箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6080,7 +5799,6 @@
       "id": "symbol-1f823-1976",
       "symbol": "🠣",
       "name": "向下三角头箭头带窄箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6101,7 +5819,6 @@
       "id": "symbol-1f824-1977",
       "symbol": "🠤",
       "name": "向左三角头箭头带中等箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6123,7 +5840,6 @@
       "id": "symbol-1f825-1978",
       "symbol": "🠥",
       "name": "向上三角头箭头带中等箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6145,7 +5861,6 @@
       "id": "symbol-1f826-1979",
       "symbol": "🠦",
       "name": "向右三角头箭头带中等箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6167,7 +5882,6 @@
       "id": "symbol-1f827-1980",
       "symbol": "🠧",
       "name": "向下三角头箭头带中等箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6189,7 +5903,6 @@
       "id": "symbol-1f828-1981",
       "symbol": "🠨",
       "name": "向左三角头箭头带粗体箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6211,7 +5924,6 @@
       "id": "symbol-1f829-1982",
       "symbol": "🠩",
       "name": "向上三角头箭头带粗体箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6233,7 +5945,6 @@
       "id": "symbol-1f82a-1983",
       "symbol": "🠪",
       "name": "向右三角头箭头带粗体箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6255,7 +5966,6 @@
       "id": "symbol-1f82b-1984",
       "symbol": "🠫",
       "name": "向下三角头箭头带粗体箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6277,7 +5987,6 @@
       "id": "symbol-1f82c-1985",
       "symbol": "🠬",
       "name": "向左三角头箭头带粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6299,7 +6008,6 @@
       "id": "symbol-1f82d-1986",
       "symbol": "🠭",
       "name": "向上三角头箭头带粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6321,7 +6029,6 @@
       "id": "symbol-1f82e-1987",
       "symbol": "🠮",
       "name": "向右三角头箭头带粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6343,7 +6050,6 @@
       "id": "symbol-1f82f-1988",
       "symbol": "🠯",
       "name": "向下三角头箭头带粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6365,7 +6071,6 @@
       "id": "symbol-1f830-1989",
       "symbol": "🠰",
       "name": "向左三角头箭头带特粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6387,7 +6092,6 @@
       "id": "symbol-1f831-1990",
       "symbol": "🠱",
       "name": "向上三角头箭头带特粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6409,7 +6113,6 @@
       "id": "symbol-1f832-1991",
       "symbol": "🠲",
       "name": "向右三角头箭头带特粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6431,7 +6134,6 @@
       "id": "symbol-1f833-1992",
       "symbol": "🠳",
       "name": "向下三角头箭头带特粗箭杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6453,7 +6155,6 @@
       "id": "symbol-1f834-1993",
       "symbol": "🠴",
       "name": "向左指示牌箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6474,7 +6175,6 @@
       "id": "symbol-1f835-1994",
       "symbol": "🠵",
       "name": "向上指示牌箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6495,7 +6195,6 @@
       "id": "symbol-1f836-1995",
       "symbol": "🠶",
       "name": "向右指示牌箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6516,7 +6215,6 @@
       "id": "symbol-1f837-1996",
       "symbol": "🠷",
       "name": "向下指示牌箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6537,7 +6235,6 @@
       "id": "symbol-1f838-1997",
       "symbol": "🠸",
       "name": "向左方框箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6558,7 +6255,6 @@
       "id": "symbol-1f839-1998",
       "symbol": "🠹",
       "name": "向上方框箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6579,7 +6275,6 @@
       "id": "symbol-1f83a-1999",
       "symbol": "🠺",
       "name": "向右方框箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6600,7 +6295,6 @@
       "id": "symbol-1f83b-2000",
       "symbol": "🠻",
       "name": "向下方框箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6621,7 +6315,6 @@
       "id": "symbol-1f83c-2001",
       "symbol": "🠼",
       "name": "向左压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6642,7 +6335,6 @@
       "id": "symbol-1f83d-2002",
       "symbol": "🠽",
       "name": "向上压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6663,7 +6355,6 @@
       "id": "symbol-1f83e-2003",
       "symbol": "🠾",
       "name": "向右压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6684,7 +6375,6 @@
       "id": "symbol-1f83f-2004",
       "symbol": "🠿",
       "name": "向下压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6705,7 +6395,6 @@
       "id": "symbol-1f840-2005",
       "symbol": "🡀",
       "name": "向左粗压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6726,7 +6415,6 @@
       "id": "symbol-1f841-2006",
       "symbol": "🡁",
       "name": "向上粗压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6747,7 +6435,6 @@
       "id": "symbol-1f842-2007",
       "symbol": "🡂",
       "name": "向右粗压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6768,7 +6455,6 @@
       "id": "symbol-1f843-2008",
       "symbol": "🡃",
       "name": "向下粗压缩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6789,7 +6475,6 @@
       "id": "symbol-1f844-2009",
       "symbol": "🡄",
       "name": "向左粗箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6810,7 +6495,6 @@
       "id": "symbol-1f845-2010",
       "symbol": "🡅",
       "name": "向上粗箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6831,7 +6515,6 @@
       "id": "symbol-1f846-2011",
       "symbol": "🡆",
       "name": "向右粗箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6852,7 +6535,6 @@
       "id": "symbol-1f847-2012",
       "symbol": "🡇",
       "name": "向下粗箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6873,7 +6555,6 @@
       "id": "symbol-1f850-2013",
       "symbol": "🡐",
       "name": "向左无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6894,7 +6575,6 @@
       "id": "symbol-1f851-2014",
       "symbol": "🡑",
       "name": "向上无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6915,7 +6595,6 @@
       "id": "symbol-1f852-2015",
       "symbol": "🡒",
       "name": "向右无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6936,7 +6615,6 @@
       "id": "symbol-1f853-2016",
       "symbol": "🡓",
       "name": "向下无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6957,7 +6635,6 @@
       "id": "symbol-1f854-2017",
       "symbol": "🡔",
       "name": "西北无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6978,7 +6655,6 @@
       "id": "symbol-1f855-2018",
       "symbol": "🡕",
       "name": "东北无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -6999,7 +6675,6 @@
       "id": "symbol-1f856-2019",
       "symbol": "🡖",
       "name": "东南无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7020,7 +6695,6 @@
       "id": "symbol-1f857-2020",
       "symbol": "🡗",
       "name": "西南无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7041,7 +6715,6 @@
       "id": "symbol-1f858-2021",
       "symbol": "🡘",
       "name": "左右无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7062,7 +6735,6 @@
       "id": "symbol-1f859-2022",
       "symbol": "🡙",
       "name": "上下无衬线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7083,7 +6755,6 @@
       "id": "symbol-1f860-2023",
       "symbol": "🡠",
       "name": "宽头向左细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7104,7 +6775,6 @@
       "id": "symbol-1f861-2024",
       "symbol": "🡡",
       "name": "宽头向上细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7125,7 +6795,6 @@
       "id": "symbol-1f862-2025",
       "symbol": "🡢",
       "name": "宽头向右细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7146,7 +6815,6 @@
       "id": "symbol-1f863-2026",
       "symbol": "🡣",
       "name": "宽头向下细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7167,7 +6835,6 @@
       "id": "symbol-1f864-2027",
       "symbol": "🡤",
       "name": "宽头西北细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7188,7 +6855,6 @@
       "id": "symbol-1f865-2028",
       "symbol": "🡥",
       "name": "宽头东北细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7209,7 +6875,6 @@
       "id": "symbol-1f866-2029",
       "symbol": "🡦",
       "name": "宽头东南细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7230,7 +6895,6 @@
       "id": "symbol-1f867-2030",
       "symbol": "🡧",
       "name": "宽头西南细倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7251,7 +6915,6 @@
       "id": "symbol-1f868-2031",
       "symbol": "🡨",
       "name": "宽头向左倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7272,7 +6935,6 @@
       "id": "symbol-1f869-2032",
       "symbol": "🡩",
       "name": "宽头向上倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7293,7 +6955,6 @@
       "id": "symbol-1f86a-2033",
       "symbol": "🡪",
       "name": "宽头向右倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7314,7 +6975,6 @@
       "id": "symbol-1f86b-2034",
       "symbol": "🡫",
       "name": "宽头向下倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7335,7 +6995,6 @@
       "id": "symbol-1f86c-2035",
       "symbol": "🡬",
       "name": "宽头西北倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7356,7 +7015,6 @@
       "id": "symbol-1f86d-2036",
       "symbol": "🡭",
       "name": "宽头东北倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7377,7 +7035,6 @@
       "id": "symbol-1f86e-2037",
       "symbol": "🡮",
       "name": "宽头东南倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7398,7 +7055,6 @@
       "id": "symbol-1f86f-2038",
       "symbol": "🡯",
       "name": "宽头西南倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7419,7 +7075,6 @@
       "id": "symbol-1f870-2039",
       "symbol": "🡰",
       "name": "宽头向左中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7440,7 +7095,6 @@
       "id": "symbol-1f871-2040",
       "symbol": "🡱",
       "name": "宽头向上中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7461,7 +7115,6 @@
       "id": "symbol-1f872-2041",
       "symbol": "🡲",
       "name": "宽头向右中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7482,7 +7135,6 @@
       "id": "symbol-1f873-2042",
       "symbol": "🡳",
       "name": "宽头向下中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7503,7 +7155,6 @@
       "id": "symbol-1f874-2043",
       "symbol": "🡴",
       "name": "宽头西北中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7524,7 +7175,6 @@
       "id": "symbol-1f875-2044",
       "symbol": "🡵",
       "name": "宽头东北中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7545,7 +7195,6 @@
       "id": "symbol-1f876-2045",
       "symbol": "🡶",
       "name": "宽头东南中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7566,7 +7215,6 @@
       "id": "symbol-1f877-2046",
       "symbol": "🡷",
       "name": "宽头西南中等倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7585,7 +7233,6 @@
       "id": "symbol-1f878-2047",
       "symbol": "🡸",
       "name": "宽头向左粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7604,7 +7251,6 @@
       "id": "symbol-1f879-2048",
       "symbol": "🡹",
       "name": "宽头向上粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7623,7 +7269,6 @@
       "id": "symbol-1f87a-2049",
       "symbol": "🡺",
       "name": "宽头向右粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7642,7 +7287,6 @@
       "id": "symbol-1f87b-2050",
       "symbol": "🡻",
       "name": "宽头向下粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7661,7 +7305,6 @@
       "id": "symbol-1f87c-2051",
       "symbol": "🡼",
       "name": "宽头西北粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7680,7 +7323,6 @@
       "id": "symbol-1f87d-2052",
       "symbol": "🡽",
       "name": "宽头东北粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7699,7 +7341,6 @@
       "id": "symbol-1f87e-2053",
       "symbol": "🡾",
       "name": "宽头东南粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7718,7 +7359,6 @@
       "id": "symbol-1f87f-2054",
       "symbol": "🡿",
       "name": "宽头西南粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7737,7 +7377,6 @@
       "id": "symbol-1f880-2055",
       "symbol": "🢀",
       "name": "宽头向左特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7756,7 +7395,6 @@
       "id": "symbol-1f881-2056",
       "symbol": "🢁",
       "name": "宽头向上特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7775,7 +7413,6 @@
       "id": "symbol-1f882-2057",
       "symbol": "🢂",
       "name": "宽头向右特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7794,7 +7431,6 @@
       "id": "symbol-1f883-2058",
       "symbol": "🢃",
       "name": "宽头向下特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7813,7 +7449,6 @@
       "id": "symbol-1f884-2059",
       "symbol": "🢄",
       "name": "宽头西北特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7832,7 +7467,6 @@
       "id": "symbol-1f885-2060",
       "symbol": "🢅",
       "name": "宽头东北特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7851,7 +7485,6 @@
       "id": "symbol-1f886-2061",
       "symbol": "🢆",
       "name": "宽头东南特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7870,7 +7503,6 @@
       "id": "symbol-1f887-2062",
       "symbol": "🢇",
       "name": "宽头西南特粗倒钩箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7889,7 +7521,6 @@
       "id": "symbol-1f890-2063",
       "symbol": "🢐",
       "name": "向左三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7908,7 +7539,6 @@
       "id": "symbol-1f891-2064",
       "symbol": "🢑",
       "name": "向上三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7927,7 +7557,6 @@
       "id": "symbol-1f892-2065",
       "symbol": "🢒",
       "name": "向右三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7946,7 +7575,6 @@
       "id": "symbol-1f893-2066",
       "symbol": "🢓",
       "name": "向下三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7965,7 +7593,6 @@
       "id": "symbol-1f894-2067",
       "symbol": "🢔",
       "name": "向左白色箭头内含三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -7984,7 +7611,6 @@
       "id": "symbol-1f895-2068",
       "symbol": "🢕",
       "name": "向上白色箭头内含三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8003,7 +7629,6 @@
       "id": "symbol-1f896-2069",
       "symbol": "🢖",
       "name": "向右白色箭头内含三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8022,7 +7647,6 @@
       "id": "symbol-1f897-2070",
       "symbol": "🢗",
       "name": "向下白色箭头内含三角形箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8041,7 +7665,6 @@
       "id": "symbol-1f898-2071",
       "symbol": "🢘",
       "name": "向左箭头带缺口尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8060,7 +7683,6 @@
       "id": "symbol-1f899-2072",
       "symbol": "🢙",
       "name": "向上箭头带缺口尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8079,7 +7701,6 @@
       "id": "symbol-1f89a-2073",
       "symbol": "🢚",
       "name": "向右箭头带缺口尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8098,7 +7719,6 @@
       "id": "symbol-1f89b-2074",
       "symbol": "🢛",
       "name": "向下箭头带缺口尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8117,7 +7737,6 @@
       "id": "symbol-1f89c-2075",
       "symbol": "🢜",
       "name": "粗箭头箭杆宽度一",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8136,7 +7755,6 @@
       "id": "symbol-1f89d-2076",
       "symbol": "🢝",
       "name": "粗箭头箭杆宽度三分之二",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8155,7 +7773,6 @@
       "id": "symbol-1f89e-2077",
       "symbol": "🢞",
       "name": "粗箭头箭杆宽度二分之一",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8174,7 +7791,6 @@
       "id": "symbol-1f89f-2078",
       "symbol": "🢟",
       "name": "粗箭头箭杆宽度三分之一",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8193,7 +7809,6 @@
       "id": "symbol-1f8a0-2079",
       "symbol": "🢠",
       "name": "向左下半阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8212,7 +7827,6 @@
       "id": "symbol-1f8a1-2080",
       "symbol": "🢡",
       "name": "向右下半阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8231,7 +7845,6 @@
       "id": "symbol-1f8a2-2081",
       "symbol": "🢢",
       "name": "向左上半阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8250,7 +7863,6 @@
       "id": "symbol-1f8a3-2082",
       "symbol": "🢣",
       "name": "向右上半阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8269,7 +7881,6 @@
       "id": "symbol-1f8a4-2083",
       "symbol": "🢤",
       "name": "向左左阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8288,7 +7899,6 @@
       "id": "symbol-1f8a5-2084",
       "symbol": "🢥",
       "name": "向右右阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8307,7 +7917,6 @@
       "id": "symbol-1f8a6-2085",
       "symbol": "🢦",
       "name": "向左右阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8326,7 +7935,6 @@
       "id": "symbol-1f8a7-2086",
       "symbol": "🢧",
       "name": "向右左阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8345,7 +7953,6 @@
       "id": "symbol-1f8a8-2087",
       "symbol": "🢨",
       "name": "向左后倾阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8364,7 +7971,6 @@
       "id": "symbol-1f8a9-2088",
       "symbol": "🢩",
       "name": "向右后倾阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8383,7 +7989,6 @@
       "id": "symbol-1f8aa-2089",
       "symbol": "🢪",
       "name": "向左前倾阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8402,7 +8007,6 @@
       "id": "symbol-1f8ab-2090",
       "symbol": "🢫",
       "name": "向右前倾阴影白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8421,7 +8025,6 @@
       "id": "symbol-1f8ac-2091",
       "symbol": "🢬",
       "name": "白色箭头箭杆宽度一",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8440,7 +8043,6 @@
       "id": "symbol-1f8ad-2092",
       "symbol": "🢭",
       "name": "白色箭头箭杆宽度三分之二",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8459,7 +8061,6 @@
       "id": "symbol-1f8b0-2093",
       "symbol": "🢰",
       "name": "箭头指向向上再西北",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8478,7 +8079,6 @@
       "id": "symbol-1f8b1-2094",
       "symbol": "🢱",
       "name": "箭头指向向右再弯向西南",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8497,7 +8097,6 @@
       "id": "symbol-1f8b2-2095",
       "symbol": "🢲",
       "name": "向右箭头带下钩",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8516,7 +8115,6 @@
       "id": "symbol-1f8b3-2096",
       "symbol": "🢳",
       "name": "向下黑色箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8535,7 +8133,6 @@
       "id": "symbol-1f8b4-2097",
       "symbol": "🢴",
       "name": "反白方框向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8553,7 +8150,6 @@
       "id": "symbol-1f8b5-2098",
       "symbol": "🢵",
       "name": "反白方框向上箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8571,7 +8167,6 @@
       "id": "symbol-1f8b6-2099",
       "symbol": "🢶",
       "name": "反白方框向右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8589,7 +8184,6 @@
       "id": "symbol-1f8b7-2100",
       "symbol": "🢷",
       "name": "反白方框向下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8607,7 +8201,6 @@
       "id": "symbol-1f8b8-2101",
       "symbol": "🢸",
       "name": "西北箭头起自竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8626,7 +8219,6 @@
       "id": "symbol-1f8b9-2102",
       "symbol": "🢹",
       "name": "东北箭头起自竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8645,7 +8237,6 @@
       "id": "symbol-1f8ba-2103",
       "symbol": "🢺",
       "name": "东南箭头起自竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8664,7 +8255,6 @@
       "id": "symbol-1f8bb-2104",
       "symbol": "🢻",
       "name": "西南箭头起自竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8683,7 +8273,6 @@
       "id": "symbol-1f8c0-2105",
       "symbol": "🣀",
       "name": "向左箭头起自向下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8702,7 +8291,6 @@
       "id": "symbol-1f8c1-2106",
       "symbol": "🣁",
       "name": "向右箭头起自向下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8721,7 +8309,6 @@
       "id": "symbol-1f8d0-2107",
       "symbol": "🣐",
       "name": "长向右箭头在上长向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8740,7 +8327,6 @@
       "id": "symbol-1f8d1-2108",
       "symbol": "🣑",
       "name": "长向右鱼叉箭头在上长向左鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8759,7 +8345,6 @@
       "id": "symbol-1f8d2-2109",
       "symbol": "🣒",
       "name": "长向右鱼叉箭头在上方短向左鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8778,7 +8363,6 @@
       "id": "symbol-1f8d3-2110",
       "symbol": "🣓",
       "name": "短向右鱼叉箭头在上方长向左鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8797,7 +8381,6 @@
       "id": "symbol-1f8d4-2111",
       "symbol": "🣔",
       "name": "长向左鱼叉箭头在上方短向右鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8816,7 +8399,6 @@
       "id": "symbol-1f8d5-2112",
       "symbol": "🣕",
       "name": "短向左鱼叉箭头在上方长向右鱼叉箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8835,7 +8417,6 @@
       "id": "symbol-1f8d6-2113",
       "symbol": "🣖",
       "name": "长向右箭头穿过叉号",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8854,7 +8435,6 @@
       "id": "symbol-1f8d7-2114",
       "symbol": "🣗",
       "name": "长向右箭头带双斜杠",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8873,7 +8453,6 @@
       "id": "symbol-1f8d8-2115",
       "symbol": "🣘",
       "name": "长左右箭头带附属瓣",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8892,7 +8471,6 @@
       "id": "symbol-2b00-2116",
       "symbol": "⬀",
       "name": "东北白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8911,7 +8489,6 @@
       "id": "symbol-2b01-2117",
       "symbol": "⬁",
       "name": "西北白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8930,7 +8507,6 @@
       "id": "symbol-2b02-2118",
       "symbol": "⬂",
       "name": "东南白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8949,7 +8525,6 @@
       "id": "symbol-2b03-2119",
       "symbol": "⬃",
       "name": "西南白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8968,7 +8543,6 @@
       "id": "symbol-2b04-2120",
       "symbol": "⬄",
       "name": "左右白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -8987,7 +8561,6 @@
       "id": "symbol-2b05-2121",
       "symbol": "⬅",
       "name": "左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9006,7 +8579,6 @@
       "id": "symbol-2b06-2122",
       "symbol": "⬆",
       "name": "上箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9025,7 +8597,6 @@
       "id": "symbol-2b07-2123",
       "symbol": "⬇",
       "name": "下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9044,7 +8615,6 @@
       "id": "symbol-2b08-2124",
       "symbol": "⬈",
       "name": "东北黑色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9063,7 +8633,6 @@
       "id": "symbol-2b09-2125",
       "symbol": "⬉",
       "name": "西北黑色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9082,7 +8651,6 @@
       "id": "symbol-2b0a-2126",
       "symbol": "⬊",
       "name": "东南黑色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9101,7 +8669,6 @@
       "id": "symbol-2b0b-2127",
       "symbol": "⬋",
       "name": "西南黑色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9120,7 +8687,6 @@
       "id": "symbol-2b0c-2128",
       "symbol": "⬌",
       "name": "左右黑色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9139,7 +8705,6 @@
       "id": "symbol-2b0d-2129",
       "symbol": "⬍",
       "name": "上下黑色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9158,7 +8723,6 @@
       "id": "symbol-2b0e-2130",
       "symbol": "⬎",
       "name": "向右箭头带尖端向下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9177,7 +8741,6 @@
       "id": "symbol-2b0f-2131",
       "symbol": "⬏",
       "name": "向右箭头带尖端向上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9196,7 +8759,6 @@
       "id": "symbol-2b10-2132",
       "symbol": "⬐",
       "name": "向左箭头带尖端向下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9215,7 +8777,6 @@
       "id": "symbol-2b11-2133",
       "symbol": "⬑",
       "name": "向左箭头带尖端向上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9234,7 +8795,6 @@
       "id": "symbol-2b30-2164",
       "symbol": "⬰",
       "name": "左箭头带小圆形",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9253,7 +8813,6 @@
       "id": "symbol-2b31-2165",
       "symbol": "⬱",
       "name": "三向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9271,7 +8830,6 @@
       "id": "symbol-2b32-2166",
       "symbol": "⬲",
       "name": "左箭头带带圈加号",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9290,7 +8848,6 @@
       "id": "symbol-2b33-2167",
       "symbol": "⬳",
       "name": "长向左波形箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9309,7 +8866,6 @@
       "id": "symbol-2b34-2168",
       "symbol": "⬴",
       "name": "向左双头箭头带垂直竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9328,7 +8884,6 @@
       "id": "symbol-2b35-2169",
       "symbol": "⬵",
       "name": "向左双头箭头带双垂直竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9347,7 +8902,6 @@
       "id": "symbol-2b36-2170",
       "symbol": "⬶",
       "name": "向左双头箭头起自竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9366,7 +8920,6 @@
       "id": "symbol-2b37-2171",
       "symbol": "⬷",
       "name": "向左双头三重虚线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9385,7 +8938,6 @@
       "id": "symbol-2b38-2172",
       "symbol": "⬸",
       "name": "向左箭头带点状杆",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9404,7 +8956,6 @@
       "id": "symbol-2b39-2173",
       "symbol": "⬹",
       "name": "向左箭头带尾带垂直竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9423,7 +8974,6 @@
       "id": "symbol-2b3a-2174",
       "symbol": "⬺",
       "name": "向左箭头带尾带双垂直竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9442,7 +8992,6 @@
       "id": "symbol-2b3b-2175",
       "symbol": "⬻",
       "name": "向左双头箭头带尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9461,7 +9010,6 @@
       "id": "symbol-2b3c-2176",
       "symbol": "⬼",
       "name": "向左双头箭头带尾带垂直竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9480,7 +9028,6 @@
       "id": "symbol-2b3d-2177",
       "symbol": "⬽",
       "name": "向左双头箭头带尾带双垂直竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9499,7 +9046,6 @@
       "id": "symbol-2b3e-2178",
       "symbol": "⬾",
       "name": "向左箭头穿过叉号",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9518,7 +9064,6 @@
       "id": "symbol-2b3f-2179",
       "symbol": "⬿",
       "name": "波浪箭头指向直接左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9537,7 +9082,6 @@
       "id": "symbol-2b40-2180",
       "symbol": "⭀",
       "name": "等号在上方向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9556,7 +9100,6 @@
       "id": "symbol-2b41-2181",
       "symbol": "⭁",
       "name": "反向波浪运算符在上方向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9575,7 +9118,6 @@
       "id": "symbol-2b42-2182",
       "symbol": "⭂",
       "name": "向左箭头在上方反向约等于指向",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9594,7 +9136,6 @@
       "id": "symbol-2b43-2183",
       "symbol": "⭃",
       "name": "向右箭头穿过大于号",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9613,7 +9154,6 @@
       "id": "symbol-2b44-2184",
       "symbol": "⭄",
       "name": "向右箭头穿过超集",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9632,7 +9172,6 @@
       "id": "symbol-2b45-2185",
       "symbol": "⭅",
       "name": "向左四重箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9651,7 +9190,6 @@
       "id": "symbol-2b46-2186",
       "symbol": "⭆",
       "name": "向右四重箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9670,7 +9208,6 @@
       "id": "symbol-2b47-2187",
       "symbol": "⭇",
       "name": "反向波浪运算符在上方向右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9689,7 +9226,6 @@
       "id": "symbol-2b48-2188",
       "symbol": "⭈",
       "name": "向右箭头在上方反向约等于指向",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9708,7 +9244,6 @@
       "id": "symbol-2b49-2189",
       "symbol": "⭉",
       "name": "波浪运算符在上方向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9727,7 +9262,6 @@
       "id": "symbol-2b4a-2190",
       "symbol": "⭊",
       "name": "向左箭头在上方约等于指向",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9746,7 +9280,6 @@
       "id": "symbol-2b4b-2191",
       "symbol": "⭋",
       "name": "向左箭头在上方反向波浪运算符",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9765,7 +9298,6 @@
       "id": "symbol-2b4c-2192",
       "symbol": "⭌",
       "name": "向右箭头在上方反向波浪运算符",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9784,7 +9316,6 @@
       "id": "symbol-2b4d-2193",
       "symbol": "⭍",
       "name": "向下三角头之字形箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9803,7 +9334,6 @@
       "id": "symbol-2b4e-2194",
       "symbol": "⭎",
       "name": "短倾斜北箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9822,7 +9352,6 @@
       "id": "symbol-2b4f-2195",
       "symbol": "⭏",
       "name": "短反斜南箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9841,7 +9370,6 @@
       "id": "symbol-2b5a-2205",
       "symbol": "⭚",
       "name": "倾斜北箭头带钩头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9860,7 +9388,6 @@
       "id": "symbol-2b5b-2206",
       "symbol": "⭛",
       "name": "反斜南箭头带钩尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9874,7 +9401,6 @@
       "id": "symbol-2b5c-2207",
       "symbol": "⭜",
       "name": "倾斜北箭头带水平尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9893,7 +9419,6 @@
       "id": "symbol-2b5d-2208",
       "symbol": "⭝",
       "name": "反斜南箭头带水平尾",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9912,7 +9437,6 @@
       "id": "symbol-2b5e-2209",
       "symbol": "⭞",
       "name": "弯折箭头指向向下再东北",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9931,7 +9455,6 @@
       "id": "symbol-2b5f-2210",
       "symbol": "⭟",
       "name": "短弯折箭头指向向下再东北",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9950,7 +9473,6 @@
       "id": "symbol-2b60-2211",
       "symbol": "⭠",
       "name": "向左三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9969,7 +9491,6 @@
       "id": "symbol-2b61-2212",
       "symbol": "⭡",
       "name": "向上三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -9988,7 +9509,6 @@
       "id": "symbol-2b62-2213",
       "symbol": "⭢",
       "name": "向右三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10007,7 +9527,6 @@
       "id": "symbol-2b63-2214",
       "symbol": "⭣",
       "name": "向下三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10026,7 +9545,6 @@
       "id": "symbol-2b64-2215",
       "symbol": "⭤",
       "name": "左右三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10045,7 +9563,6 @@
       "id": "symbol-2b65-2216",
       "symbol": "⭥",
       "name": "上下三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10064,7 +9581,6 @@
       "id": "symbol-2b66-2217",
       "symbol": "⭦",
       "name": "西北三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10083,7 +9599,6 @@
       "id": "symbol-2b67-2218",
       "symbol": "⭧",
       "name": "东北三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10102,7 +9617,6 @@
       "id": "symbol-2b68-2219",
       "symbol": "⭨",
       "name": "东南三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10121,7 +9635,6 @@
       "id": "symbol-2b69-2220",
       "symbol": "⭩",
       "name": "西南三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10140,7 +9653,6 @@
       "id": "symbol-2b6a-2221",
       "symbol": "⭪",
       "name": "向左三角头虚线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10159,7 +9671,6 @@
       "id": "symbol-2b6b-2222",
       "symbol": "⭫",
       "name": "向上三角头虚线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10178,7 +9689,6 @@
       "id": "symbol-2b6c-2223",
       "symbol": "⭬",
       "name": "向右三角头虚线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10197,7 +9707,6 @@
       "id": "symbol-2b6d-2224",
       "symbol": "⭭",
       "name": "向下三角头虚线箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10216,7 +9725,6 @@
       "id": "symbol-2b6e-2225",
       "symbol": "⭮",
       "name": "顺时针三角头开口圆箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10235,7 +9743,6 @@
       "id": "symbol-2b6f-2226",
       "symbol": "⭯",
       "name": "逆时针三角头开口圆箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10254,7 +9761,6 @@
       "id": "symbol-2b70-2227",
       "symbol": "⭰",
       "name": "向左三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10273,7 +9779,6 @@
       "id": "symbol-2b71-2228",
       "symbol": "⭱",
       "name": "向上三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10292,7 +9797,6 @@
       "id": "symbol-2b72-2229",
       "symbol": "⭲",
       "name": "向右三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10311,7 +9815,6 @@
       "id": "symbol-2b73-2230",
       "symbol": "⭳",
       "name": "向下三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10330,7 +9833,6 @@
       "id": "symbol-2b76-2231",
       "symbol": "⭶",
       "name": "西北三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10349,7 +9851,6 @@
       "id": "symbol-2b77-2232",
       "symbol": "⭷",
       "name": "东北三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10368,7 +9869,6 @@
       "id": "symbol-2b78-2233",
       "symbol": "⭸",
       "name": "东南三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10387,7 +9887,6 @@
       "id": "symbol-2b79-2234",
       "symbol": "⭹",
       "name": "西南三角头箭头指向竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10406,7 +9905,6 @@
       "id": "symbol-2b7a-2235",
       "symbol": "⭺",
       "name": "向左三角头箭头带双水平竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10425,7 +9923,6 @@
       "id": "symbol-2b7b-2236",
       "symbol": "⭻",
       "name": "向上三角头箭头带双水平竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10444,7 +9941,6 @@
       "id": "symbol-2b7c-2237",
       "symbol": "⭼",
       "name": "向右三角头箭头带双水平竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10463,7 +9959,6 @@
       "id": "symbol-2b7d-2238",
       "symbol": "⭽",
       "name": "向下三角头箭头带双水平竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10482,7 +9977,6 @@
       "id": "symbol-2b80-2241",
       "symbol": "⮀",
       "name": "向左三角头箭头在上向右三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10501,7 +9995,6 @@
       "id": "symbol-2b81-2242",
       "symbol": "⮁",
       "name": "向上三角头箭头向左位于向下三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10520,7 +10013,6 @@
       "id": "symbol-2b82-2243",
       "symbol": "⮂",
       "name": "向右三角头箭头在上向左三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10539,7 +10031,6 @@
       "id": "symbol-2b83-2244",
       "symbol": "⮃",
       "name": "向下三角头箭头向左位于向上三角头箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10558,7 +10049,6 @@
       "id": "symbol-2b84-2245",
       "symbol": "⮄",
       "name": "向左三角头成对箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10577,7 +10067,6 @@
       "id": "symbol-2b85-2246",
       "symbol": "⮅",
       "name": "向上三角头成对箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10596,7 +10085,6 @@
       "id": "symbol-2b86-2247",
       "symbol": "⮆",
       "name": "向右三角头成对箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10615,7 +10103,6 @@
       "id": "symbol-2b87-2248",
       "symbol": "⮇",
       "name": "向下三角头成对箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10634,7 +10121,6 @@
       "id": "symbol-2b88-2249",
       "symbol": "⮈",
       "name": "向左黑色带圈白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10653,7 +10139,6 @@
       "id": "symbol-2b89-2250",
       "symbol": "⮉",
       "name": "向上黑色带圈白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10672,7 +10157,6 @@
       "id": "symbol-2b8a-2251",
       "symbol": "⮊",
       "name": "向右黑色带圈白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10691,7 +10175,6 @@
       "id": "symbol-2b8b-2252",
       "symbol": "⮋",
       "name": "向下黑色带圈白色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10710,7 +10193,6 @@
       "id": "symbol-2b8c-2253",
       "symbol": "⮌",
       "name": "逆时针三角头右回转箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10724,7 +10206,6 @@
       "id": "symbol-2b8d-2254",
       "symbol": "⮍",
       "name": "逆时针三角头底部回转箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10738,7 +10219,6 @@
       "id": "symbol-2b8e-2255",
       "symbol": "⮎",
       "name": "逆时针三角头左回转箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10752,7 +10232,6 @@
       "id": "symbol-2b8f-2256",
       "symbol": "⮏",
       "name": "逆时针三角头顶部回转箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10766,7 +10245,6 @@
       "id": "symbol-2b94-2261",
       "symbol": "⮔",
       "name": "四角箭头环绕逆时针",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10785,7 +10263,6 @@
       "id": "symbol-2b95-2262",
       "symbol": "⮕",
       "name": "向右黑色箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10804,7 +10281,6 @@
       "id": "symbol-2b98-2265",
       "symbol": "⮘",
       "name": "三维上照向左等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10818,7 +10294,6 @@
       "id": "symbol-2b99-2266",
       "symbol": "⮙",
       "name": "三维右照向上等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10832,7 +10307,6 @@
       "id": "symbol-2b9a-2267",
       "symbol": "⮚",
       "name": "三维上照向右等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10846,7 +10320,6 @@
       "id": "symbol-2b9b-2268",
       "symbol": "⮛",
       "name": "三维左照向下等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10860,7 +10333,6 @@
       "id": "symbol-2b9c-2269",
       "symbol": "⮜",
       "name": "黑色向左等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10879,7 +10351,6 @@
       "id": "symbol-2b9d-2270",
       "symbol": "⮝",
       "name": "黑色向上等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10898,7 +10369,6 @@
       "id": "symbol-2b9e-2271",
       "symbol": "⮞",
       "name": "黑色向右等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10917,7 +10387,6 @@
       "id": "symbol-2b9f-2272",
       "symbol": "⮟",
       "name": "黑色向下等边箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10936,7 +10405,6 @@
       "id": "symbol-2ba0-2273",
       "symbol": "⮠",
       "name": "向下三角头箭头带长尖端向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10955,7 +10423,6 @@
       "id": "symbol-2ba1-2274",
       "symbol": "⮡",
       "name": "向下三角头箭头带长尖端向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10974,7 +10441,6 @@
       "id": "symbol-2ba2-2275",
       "symbol": "⮢",
       "name": "向上三角头箭头带长尖端向左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -10993,7 +10459,6 @@
       "id": "symbol-2ba3-2276",
       "symbol": "⮣",
       "name": "向上三角头箭头带长尖端向右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11012,7 +10477,6 @@
       "id": "symbol-2ba4-2277",
       "symbol": "⮤",
       "name": "向左三角头箭头带长尖端向上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11031,7 +10495,6 @@
       "id": "symbol-2ba5-2278",
       "symbol": "⮥",
       "name": "向右三角头箭头带长尖端向上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11050,7 +10513,6 @@
       "id": "symbol-2ba6-2279",
       "symbol": "⮦",
       "name": "向左三角头箭头带长尖端向下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11069,7 +10531,6 @@
       "id": "symbol-2ba7-2280",
       "symbol": "⮧",
       "name": "向右三角头箭头带长尖端向下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11088,7 +10549,6 @@
       "id": "symbol-2ba8-2281",
       "symbol": "⮨",
       "name": "黑色弯曲向下和向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11107,7 +10567,6 @@
       "id": "symbol-2ba9-2282",
       "symbol": "⮩",
       "name": "黑色弯曲向下和向右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11126,7 +10585,6 @@
       "id": "symbol-2baa-2283",
       "symbol": "⮪",
       "name": "黑色弯曲向上和向左箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11145,7 +10603,6 @@
       "id": "symbol-2bab-2284",
       "symbol": "⮫",
       "name": "黑色弯曲向上和向右箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11164,7 +10621,6 @@
       "id": "symbol-2bac-2285",
       "symbol": "⮬",
       "name": "黑色弯曲向左和向上箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11183,7 +10639,6 @@
       "id": "symbol-2bad-2286",
       "symbol": "⮭",
       "name": "黑色弯曲向右和向上箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11202,7 +10657,6 @@
       "id": "symbol-2bae-2287",
       "symbol": "⮮",
       "name": "黑色弯曲向左和向下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11221,7 +10675,6 @@
       "id": "symbol-2baf-2288",
       "symbol": "⮯",
       "name": "黑色弯曲向右和向下箭头",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11240,7 +10693,6 @@
       "id": "symbol-2bb0-2289",
       "symbol": "⮰",
       "name": "丝带箭头下左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11259,7 +10711,6 @@
       "id": "symbol-2bb1-2290",
       "symbol": "⮱",
       "name": "丝带箭头下右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11278,7 +10729,6 @@
       "id": "symbol-2bb2-2291",
       "symbol": "⮲",
       "name": "丝带箭头上左",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11297,7 +10747,6 @@
       "id": "symbol-2bb3-2292",
       "symbol": "⮳",
       "name": "丝带箭头上右",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11316,7 +10765,6 @@
       "id": "symbol-2bb4-2293",
       "symbol": "⮴",
       "name": "丝带箭头左上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11335,7 +10783,6 @@
       "id": "symbol-2bb5-2294",
       "symbol": "⮵",
       "name": "丝带箭头右上",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11354,7 +10801,6 @@
       "id": "symbol-2bb6-2295",
       "symbol": "⮶",
       "name": "丝带箭头左下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11373,7 +10819,6 @@
       "id": "symbol-2bb7-2296",
       "symbol": "⮷",
       "name": "丝带箭头右下",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11392,7 +10837,6 @@
       "id": "symbol-2bb8-2297",
       "symbol": "⮸",
       "name": "向上白色箭头起自竖线带水平竖线",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11411,7 +10855,6 @@
       "id": "symbol-2bb9-2298",
       "symbol": "⮹",
       "name": "矩形框内上箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11425,7 +10868,6 @@
       "id": "symbol-2bec-2349",
       "symbol": "⯬",
       "name": "向左双头箭头带三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11444,7 +10886,6 @@
       "id": "symbol-2bed-2350",
       "symbol": "⯭",
       "name": "向上双头箭头带三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11463,7 +10904,6 @@
       "id": "symbol-2bee-2351",
       "symbol": "⯮",
       "name": "向右双头箭头带三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11482,7 +10922,6 @@
       "id": "symbol-2bef-2352",
       "symbol": "⯯",
       "name": "向下双头箭头带三角箭头尖",
-      "pronunciation": "",
       "category": [
         "箭头"
       ],
@@ -11496,6 +10935,708 @@
         "arrow"
       ],
       "notes": "⯯ 是向下双头箭头带三角箭头尖，Unicode 编码为 U+2BEF，适合用于方向指示、流程图、跳转提示或专业排版中的箭头标记。"
+    },
+    {
+      "id": "symbol-2794-4452",
+      "symbol": "➔",
+      "name": "粗宽头右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗宽头右箭头",
+        "Heavy Wide-Headed 右wards 箭头",
+        "Heavy Wide-Headed Rightwards Arrow",
+        "Dingbats",
+        "2794",
+        "U+2794",
+        "箭头"
+      ],
+      "notes": "➔ 是粗宽头右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-2798-4456",
+      "symbol": "➘",
+      "name": "粗东南箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗东南箭头",
+        "Heavy South East 箭头",
+        "Heavy South East Arrow",
+        "Dingbats",
+        "2798",
+        "U+2798",
+        "箭头"
+      ],
+      "notes": "➘ 是粗东南箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-2799-4457",
+      "symbol": "➙",
+      "name": "粗右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗右箭头",
+        "Heavy 右wards 箭头",
+        "Heavy Rightwards Arrow",
+        "Dingbats",
+        "2799",
+        "U+2799",
+        "箭头"
+      ],
+      "notes": "➙ 是粗右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-279a-4458",
+      "symbol": "➚",
+      "name": "粗东北箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗东北箭头",
+        "Heavy North East 箭头",
+        "Heavy North East Arrow",
+        "Dingbats",
+        "279A",
+        "U+279A",
+        "箭头"
+      ],
+      "notes": "➚ 是粗东北箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-279b-4459",
+      "symbol": "➛",
+      "name": "绘图笔尖右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "绘图笔尖右箭头",
+        "Drafting Point 右wards 箭头",
+        "Drafting Point Rightwards Arrow",
+        "Dingbats",
+        "279B",
+        "U+279B",
+        "箭头"
+      ],
+      "notes": "➛ 是绘图笔尖右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-279c-4460",
+      "symbol": "➜",
+      "name": "粗圆头右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗圆头右箭头",
+        "Heavy Round-Tipped 右wards 箭头",
+        "Heavy Round-Tipped Rightwards Arrow",
+        "Dingbats",
+        "279C",
+        "U+279C",
+        "箭头"
+      ],
+      "notes": "➜ 是粗圆头右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-279d-4461",
+      "symbol": "➝",
+      "name": "三角头右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "三角头右箭头",
+        "三角形-Headed 右wards 箭头",
+        "Triangle-Headed Rightwards Arrow",
+        "Dingbats",
+        "279D",
+        "U+279D",
+        "箭头"
+      ],
+      "notes": "➝ 是三角头右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-279e-4462",
+      "symbol": "➞",
+      "name": "粗三角头右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗三角头右箭头",
+        "Heavy 三角形-Headed 右wards 箭头",
+        "Heavy Triangle-Headed Rightwards Arrow",
+        "Dingbats",
+        "279E",
+        "U+279E",
+        "箭头"
+      ],
+      "notes": "➞ 是粗三角头右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-279f-4463",
+      "symbol": "➟",
+      "name": "虚线三角头右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "虚线三角头右箭头",
+        "Dashed 三角形-Headed 右wards 箭头",
+        "Dashed Triangle-Headed Rightwards Arrow",
+        "Dingbats",
+        "279F",
+        "U+279F",
+        "箭头"
+      ],
+      "notes": "➟ 是虚线三角头右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a0-4464",
+      "symbol": "➠",
+      "name": "粗虚线三角头右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗虚线三角头右箭头",
+        "Heavy Dashed 三角形-Headed 右wards 箭头",
+        "Heavy Dashed Triangle-Headed Rightwards Arrow",
+        "Dingbats",
+        "27A0",
+        "U+27A0",
+        "箭头"
+      ],
+      "notes": "➠ 是粗虚线三角头右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a1-4465",
+      "symbol": "➡",
+      "name": "右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右箭头",
+        "右 箭头",
+        "Right Arrow",
+        "Dingbats",
+        "27A1",
+        "U+27A1",
+        "箭头"
+      ],
+      "notes": "➡ 是右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a2-4466",
+      "symbol": "➢",
+      "name": "顶部高光立体右箭头头部",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "顶部高光立体右箭头头部",
+        "Three-D Top-Lighted 右wards 箭头head",
+        "Three-D Top-Lighted Rightwards Arrowhead",
+        "Dingbats",
+        "27A2",
+        "U+27A2",
+        "箭头"
+      ],
+      "notes": "➢ 是顶部高光立体右箭头头部，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a3-4467",
+      "symbol": "➣",
+      "name": "底部高光立体右箭头头部",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "底部高光立体右箭头头部",
+        "Three-D Bottom-Lighted 右wards 箭头head",
+        "Three-D Bottom-Lighted Rightwards Arrowhead",
+        "Dingbats",
+        "27A3",
+        "U+27A3",
+        "箭头"
+      ],
+      "notes": "➣ 是底部高光立体右箭头头部，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a4-4468",
+      "symbol": "➤",
+      "name": "黑色右箭头头部",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "黑色右箭头头部",
+        "黑色 右wards 箭头head",
+        "Black Rightwards Arrowhead",
+        "Dingbats",
+        "27A4",
+        "U+27A4",
+        "箭头"
+      ],
+      "notes": "➤ 是黑色右箭头头部，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a5-4469",
+      "symbol": "➥",
+      "name": "粗黑色右下弯箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗黑色右下弯箭头",
+        "Heavy 黑色 Curved 下wards and 右wards 箭头",
+        "Heavy Black Curved Downwards and Rightwards Arrow",
+        "Dingbats",
+        "27A5",
+        "U+27A5",
+        "箭头"
+      ],
+      "notes": "➥ 是粗黑色右下弯箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a6-4470",
+      "symbol": "➦",
+      "name": "粗黑色右上弯箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗黑色右上弯箭头",
+        "Heavy 黑色 Curved 上wards and 右wards 箭头",
+        "Heavy Black Curved Upwards and Rightwards Arrow",
+        "Dingbats",
+        "27A6",
+        "U+27A6",
+        "箭头"
+      ],
+      "notes": "➦ 是粗黑色右上弯箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a7-4471",
+      "symbol": "➧",
+      "name": "短粗黑色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "短粗黑色右箭头",
+        "Squat 黑色 右wards 箭头",
+        "Squat Black Rightwards Arrow",
+        "Dingbats",
+        "27A7",
+        "U+27A7",
+        "箭头"
+      ],
+      "notes": "➧ 是短粗黑色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a8-4472",
+      "symbol": "➨",
+      "name": "粗凹尖黑色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗凹尖黑色右箭头",
+        "Heavy Concave-Pointed 黑色 右wards 箭头",
+        "Heavy Concave-Pointed Black Rightwards Arrow",
+        "Dingbats",
+        "27A8",
+        "U+27A8",
+        "箭头"
+      ],
+      "notes": "➨ 是粗凹尖黑色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27a9-4473",
+      "symbol": "➩",
+      "name": "右侧阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "右侧阴影白色右箭头",
+        "右-Shaded 白色 右wards 箭头",
+        "Right-Shaded White Rightwards Arrow",
+        "Dingbats",
+        "27A9",
+        "U+27A9",
+        "箭头"
+      ],
+      "notes": "➩ 是右侧阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27aa-4474",
+      "symbol": "➪",
+      "name": "左侧阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "左侧阴影白色右箭头",
+        "左-Shaded 白色 右wards 箭头",
+        "Left-Shaded White Rightwards Arrow",
+        "Dingbats",
+        "27AA",
+        "U+27AA",
+        "箭头"
+      ],
+      "notes": "➪ 是左侧阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27ab-4475",
+      "symbol": "➫",
+      "name": "后倾阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "后倾阴影白色右箭头",
+        "Back-Tilted Shadowed 白色 右wards 箭头",
+        "Back-Tilted Shadowed White Rightwards Arrow",
+        "Dingbats",
+        "27AB",
+        "U+27AB",
+        "箭头"
+      ],
+      "notes": "➫ 是后倾阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27ac-4476",
+      "symbol": "➬",
+      "name": "前倾阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "前倾阴影白色右箭头",
+        "Front-Tilted Shadowed 白色 右wards 箭头",
+        "Front-Tilted Shadowed White Rightwards Arrow",
+        "Dingbats",
+        "27AC",
+        "U+27AC",
+        "箭头"
+      ],
+      "notes": "➬ 是前倾阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27ad-4477",
+      "symbol": "➭",
+      "name": "粗下方右侧阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗下方右侧阴影白色右箭头",
+        "Heavy Lower 右-Shadowed 白色 右wards 箭头",
+        "Heavy Lower Right-Shadowed White Rightwards Arrow",
+        "Dingbats",
+        "27AD",
+        "U+27AD",
+        "箭头"
+      ],
+      "notes": "➭ 是粗下方右侧阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27ae-4478",
+      "symbol": "➮",
+      "name": "粗上方右侧阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗上方右侧阴影白色右箭头",
+        "Heavy 上per 右-Shadowed 白色 右wards 箭头",
+        "Heavy Upper Right-Shadowed White Rightwards Arrow",
+        "Dingbats",
+        "27AE",
+        "U+27AE",
+        "箭头"
+      ],
+      "notes": "➮ 是粗上方右侧阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27af-4479",
+      "symbol": "➯",
+      "name": "缺口下方右侧阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "缺口下方右侧阴影白色右箭头",
+        "Notched Lower 右-Shadowed 白色 右wards 箭头",
+        "Notched Lower Right-Shadowed White Rightwards Arrow",
+        "Dingbats",
+        "27AF",
+        "U+27AF",
+        "箭头"
+      ],
+      "notes": "➯ 是缺口下方右侧阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b1-4481",
+      "symbol": "➱",
+      "name": "缺口上方右侧阴影白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "缺口上方右侧阴影白色右箭头",
+        "Notched 上per 右-Shadowed 白色 右wards 箭头",
+        "Notched Upper Right-Shadowed White Rightwards Arrow",
+        "Dingbats",
+        "27B1",
+        "U+27B1",
+        "箭头"
+      ],
+      "notes": "➱ 是缺口上方右侧阴影白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b2-4482",
+      "symbol": "➲",
+      "name": "圆圈粗白色右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "圆圈粗白色右箭头",
+        "圆d Heavy 白色 右wards 箭头",
+        "Circled Heavy White Rightwards Arrow",
+        "Dingbats",
+        "27B2",
+        "U+27B2",
+        "箭头"
+      ],
+      "notes": "➲ 是圆圈粗白色右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b3-4483",
+      "symbol": "➳",
+      "name": "白色羽状右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "白色羽状右箭头",
+        "白色-Feathered 右wards 箭头",
+        "White-Feathered Rightwards Arrow",
+        "Dingbats",
+        "27B3",
+        "U+27B3",
+        "箭头"
+      ],
+      "notes": "➳ 是白色羽状右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b4-4484",
+      "symbol": "➴",
+      "name": "黑色羽状东南箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "黑色羽状东南箭头",
+        "黑色-Feathered South East 箭头",
+        "Black-Feathered South East Arrow",
+        "Dingbats",
+        "27B4",
+        "U+27B4",
+        "箭头"
+      ],
+      "notes": "➴ 是黑色羽状东南箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b5-4485",
+      "symbol": "➵",
+      "name": "黑色羽状右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "黑色羽状右箭头",
+        "黑色-Feathered 右wards 箭头",
+        "Black-Feathered Rightwards Arrow",
+        "Dingbats",
+        "27B5",
+        "U+27B5",
+        "箭头"
+      ],
+      "notes": "➵ 是黑色羽状右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b6-4486",
+      "symbol": "➶",
+      "name": "黑色羽状东北箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "黑色羽状东北箭头",
+        "黑色-Feathered North East 箭头",
+        "Black-Feathered North East Arrow",
+        "Dingbats",
+        "27B6",
+        "U+27B6",
+        "箭头"
+      ],
+      "notes": "➶ 是黑色羽状东北箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b7-4487",
+      "symbol": "➷",
+      "name": "粗黑色羽状东南箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗黑色羽状东南箭头",
+        "Heavy 黑色-Feathered South East 箭头",
+        "Heavy Black-Feathered South East Arrow",
+        "Dingbats",
+        "27B7",
+        "U+27B7",
+        "箭头"
+      ],
+      "notes": "➷ 是粗黑色羽状东南箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b8-4488",
+      "symbol": "➸",
+      "name": "粗黑色羽状右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗黑色羽状右箭头",
+        "Heavy 黑色-Feathered 右wards 箭头",
+        "Heavy Black-Feathered Rightwards Arrow",
+        "Dingbats",
+        "27B8",
+        "U+27B8",
+        "箭头"
+      ],
+      "notes": "➸ 是粗黑色羽状右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27b9-4489",
+      "symbol": "➹",
+      "name": "粗黑色羽状东北箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗黑色羽状东北箭头",
+        "Heavy 黑色-Feathered North East 箭头",
+        "Heavy Black-Feathered North East Arrow",
+        "Dingbats",
+        "27B9",
+        "U+27B9",
+        "箭头"
+      ],
+      "notes": "➹ 是粗黑色羽状东北箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27ba-4490",
+      "symbol": "➺",
+      "name": "泪滴倒钩右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "泪滴倒钩右箭头",
+        "Teardrop-Barbed 右wards 箭头",
+        "Teardrop-Barbed Rightwards Arrow",
+        "Dingbats",
+        "27BA",
+        "U+27BA",
+        "箭头"
+      ],
+      "notes": "➺ 是泪滴倒钩右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27bb-4491",
+      "symbol": "➻",
+      "name": "粗泪滴柄右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗泪滴柄右箭头",
+        "Heavy Teardrop-Shanked 右wards 箭头",
+        "Heavy Teardrop-Shanked Rightwards Arrow",
+        "Dingbats",
+        "27BB",
+        "U+27BB",
+        "箭头"
+      ],
+      "notes": "➻ 是粗泪滴柄右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27bc-4492",
+      "symbol": "➼",
+      "name": "楔尾右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "楔尾右箭头",
+        "Wedge-Tailed 右wards 箭头",
+        "Wedge-Tailed Rightwards Arrow",
+        "Dingbats",
+        "27BC",
+        "U+27BC",
+        "箭头"
+      ],
+      "notes": "➼ 是楔尾右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27bd-4493",
+      "symbol": "➽",
+      "name": "粗楔尾右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "粗楔尾右箭头",
+        "Heavy Wedge-Tailed 右wards 箭头",
+        "Heavy Wedge-Tailed Rightwards Arrow",
+        "Dingbats",
+        "27BD",
+        "U+27BD",
+        "箭头"
+      ],
+      "notes": "➽ 是粗楔尾右箭头，用于表示方向、移动或跳转。"
+    },
+    {
+      "id": "symbol-27be-4494",
+      "symbol": "➾",
+      "name": "镂空轮廓右箭头",
+      "category": [
+        "箭头"
+      ],
+      "searchTerms": [
+        "镂空轮廓右箭头",
+        "Open-Outlined 右wards 箭头",
+        "Open-Outlined Rightwards Arrow",
+        "Dingbats",
+        "27BE",
+        "U+27BE",
+        "箭头"
+      ],
+      "notes": "➾ 是镂空轮廓右箭头，用于表示方向、移动或跳转。"
     }
   ]
 }

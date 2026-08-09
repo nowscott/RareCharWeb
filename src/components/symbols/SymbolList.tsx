@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { SYMBOL_PAGE_SIZE } from '@/lib/core/pagination';
-import { InitialCategoryData, PaginatedSymbolResponse, SymbolData } from '@/lib/core/types';
+import { PaginatedSymbolResponse, SymbolData } from '@/lib/core/types';
 import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import SymbolCard from './SymbolCard';
 import SymbolDetail from './SymbolDetail';
@@ -12,13 +12,7 @@ interface SymbolListProps {
   category: string;
   searchQuery: string;
   initialData: PaginatedSymbolResponse;
-  initialCategoryData?: InitialCategoryData;
   initialSeed: number;
-  prefetchCategories?: string[];
-  prefetchRequest?: {
-    category: string;
-    nonce: number;
-  } | null;
 }
 
 function normalizeSearchQuery(searchQuery: string) {
@@ -38,16 +32,9 @@ const SymbolList: React.FC<SymbolListProps> = ({
   category,
   searchQuery,
   initialData,
-  initialCategoryData = {},
-  initialSeed,
-  prefetchCategories = [],
-  prefetchRequest
+  initialSeed
 }) => {
   const initialRequestKey = buildRequestKey(apiEndpoint, 'all', '');
-  const initialCacheEntries = Object.entries(initialCategoryData).map(([initialCategory, data]) => {
-    const categoryRequestKey = buildRequestKey(apiEndpoint, initialCategory, '');
-    return [buildPageKey(categoryRequestKey, data.page), data] as const;
-  });
   const [selectedSymbol, setSelectedSymbol] = useState<SymbolData | null>(null);
   const [allSymbols, setAllSymbols] = useState<SymbolData[]>(initialData.symbols);
   const [currentPage, setCurrentPage] = useState(initialData.page);
@@ -61,10 +48,7 @@ const SymbolList: React.FC<SymbolListProps> = ({
   const sentinelRef = useRef<HTMLDivElement>(null);
   const seedRef = useRef(initialSeed);
   const pageCacheRef = useRef<Map<string, PaginatedSymbolResponse>>(
-    new Map([
-      [buildPageKey(initialRequestKey, initialData.page), initialData],
-      ...initialCacheEntries
-    ])
+    new Map([[buildPageKey(initialRequestKey, initialData.page), initialData]])
   );
   const inflightRequestsRef = useRef<Map<string, Promise<PaginatedSymbolResponse>>>(new Map());
   const activeRequestSeqRef = useRef(0);
@@ -128,17 +112,6 @@ const SymbolList: React.FC<SymbolListProps> = ({
     return promise;
   }, [apiEndpoint, buildUrl]);
 
-  const prefetchPage = useCallback((targetCategory: string, targetSearchQuery = '') => {
-    if (!targetCategory || normalizeSearchQuery(targetSearchQuery)) return;
-    const targetRequestKey = buildRequestKey(apiEndpoint, targetCategory, targetSearchQuery);
-    const pageKey = buildPageKey(targetRequestKey, 1);
-    if (pageCacheRef.current.has(pageKey) || inflightRequestsRef.current.has(pageKey)) return;
-
-    fetchPage(targetCategory, targetSearchQuery, 1).catch(() => {
-      // Prefetch is opportunistic; interactive requests surface real errors.
-    });
-  }, [apiEndpoint, fetchPage]);
-
   // category/search 变化时重置
   useEffect(() => {
     const requestSeq = activeRequestSeqRef.current + 1;
@@ -188,29 +161,6 @@ const SymbolList: React.FC<SymbolListProps> = ({
     return () => controller.abort();
   }, [category, fetchPage, isInitialRequest, loadedRequestKey, requestKey, retryCount, searchQuery]);
 
-  useEffect(() => {
-    if (normalizeSearchQuery(searchQuery)) return;
-
-    const prefetch = () => {
-      prefetchCategories.forEach((prefetchCategory) => {
-        prefetchPage(prefetchCategory);
-      });
-    };
-
-    if (typeof window.requestIdleCallback === 'function') {
-      const id = window.requestIdleCallback(prefetch, { timeout: 2000 });
-      return () => window.cancelIdleCallback(id);
-    }
-
-    const id = setTimeout(prefetch, 500);
-    return () => clearTimeout(id);
-  }, [prefetchCategories, prefetchPage, searchQuery]);
-
-  useEffect(() => {
-    if (!prefetchRequest || normalizeSearchQuery(searchQuery)) return;
-    prefetchPage(prefetchRequest.category);
-  }, [prefetchPage, prefetchRequest, searchQuery]);
-
   // 加载下一页
   const loadMore = useCallback(() => {
     if (loadingMore || !hasMore) return;
@@ -246,7 +196,7 @@ const SymbolList: React.FC<SymbolListProps> = ({
           loadMore();
         }
       },
-      { rootMargin: '800px 0px' }
+      { rootMargin: '200px 0px' }
     );
 
     observer.observe(sentinel);

@@ -6,7 +6,6 @@
       "id": "symbol-2600-337",
       "symbol": "☀",
       "name": "太阳",
-      "pronunciation": "",
       "category": [
         "天气"
       ],
@@ -24,7 +23,6 @@
       "id": "symbol-2601-338",
       "symbol": "☁",
       "name": "云朵",
-      "pronunciation": "",
       "category": [
         "天气"
       ],
@@ -42,7 +40,6 @@
       "id": "symbol-2602-339",
       "symbol": "☂",
       "name": "防雨",
-      "pronunciation": "",
       "category": [
         "天气"
       ],
@@ -60,7 +57,6 @@
       "id": "symbol-263c-361",
       "symbol": "☼",
       "name": "晴天",
-      "pronunciation": "",
       "category": [
         "天气"
       ],
@@ -78,7 +74,6 @@
       "id": "symbol-2668-403",
       "symbol": "♨",
       "name": "高温",
-      "pronunciation": "",
       "category": [
         "天气"
       ],
@@ -96,7 +91,6 @@
       "id": "symbol-26a1-431",
       "symbol": "⚡",
       "name": "闪电",
-      "pronunciation": "",
       "category": [
         "天气"
       ],

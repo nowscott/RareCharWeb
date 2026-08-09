@@ -1,6 +1,6 @@
 {
   "category": "天气",
-  "total": 46,
+  "total": 53,
   "items": [
     {
       "id": "emoji-1f311-167",
@@ -507,6 +507,118 @@
         "天气"
       ],
       "text": "在海滩破碎的水波。描绘为一股蓝色波浪，带有向右卷曲的白色泡沫浪尖。\n可用于表示一般的水、各种水体如海洋，以及水上活动，如游泳、冲浪和航行。也可用来表示比喻意义上的波动。\n苹果的设计类似于日本艺术家葛饰北斋著名木版画作品神奈川冲浪里（约1830年）中的著名海浪。\n浪花 在 2010 被批准为 统一码6.0 的一部分，并在 2015 被添加到 Emoji 1.0 中."
+    },
+    {
+      "id": "symbol-2607-4499",
+      "emoji": "☇",
+      "name": "闪电",
+      "category": "天气",
+      "keywords": [
+        "闪电",
+        "Lightning",
+        "Miscellaneous Symbols",
+        "2607",
+        "U+2607",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「闪电」相关含义。"
+    },
+    {
+      "id": "symbol-2608-4500",
+      "emoji": "☈",
+      "name": "雷暴",
+      "category": "天气",
+      "keywords": [
+        "雷暴",
+        "Thunderstorm",
+        "Miscellaneous Symbols",
+        "2608",
+        "U+2608",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「雷暴」相关含义。"
+    },
+    {
+      "id": "symbol-263e-4532",
+      "emoji": "☾",
+      "name": "下弦月",
+      "category": "天气",
+      "keywords": [
+        "下弦月",
+        "Last Quarter Moon",
+        "Miscellaneous Symbols",
+        "263E",
+        "U+263E",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「下弦月」相关含义。"
+    },
+    {
+      "id": "symbol-26c6-4586",
+      "emoji": "⛆",
+      "name": "雨",
+      "category": "天气",
+      "keywords": [
+        "雨",
+        "Rain",
+        "Miscellaneous Symbols",
+        "26C6",
+        "U+26C6",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「雨」相关含义。"
+    },
+    {
+      "id": "symbol-26c7-4587",
+      "emoji": "⛇",
+      "name": "黑色雪人",
+      "category": "天气",
+      "keywords": [
+        "黑色雪人",
+        "Black Snowman",
+        "Miscellaneous Symbols",
+        "26C7",
+        "U+26C7",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「黑色雪人」相关含义。"
+    },
+    {
+      "id": "symbol-1f322-5298",
+      "emoji": "🌢",
+      "name": "黑色水滴",
+      "category": "天气",
+      "keywords": [
+        "黑色水滴",
+        "Black Droplet",
+        "Miscellaneous Symbols and Pictographs",
+        "1F322",
+        "U+1F322",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「黑色水滴」相关含义。"
+    },
+    {
+      "id": "symbol-1f323-5299",
+      "emoji": "🌣",
+      "name": "白色太阳",
+      "category": "天气",
+      "keywords": [
+        "白色太阳",
+        "White Sun",
+        "Miscellaneous Symbols and Pictographs",
+        "1F323",
+        "U+1F323",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「白色太阳」相关含义。"
     }
   ]
 }

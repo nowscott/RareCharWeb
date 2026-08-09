@@ -1,12 +1,11 @@
 {
   "category": "其他",
-  "total": 38,
+  "total": 397,
   "items": [
     {
       "id": "symbol-a9-7",
       "symbol": "©",
       "name": "版权",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -22,7 +21,6 @@
       "id": "symbol-ae-10",
       "symbol": "®",
       "name": "注册商标",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -38,7 +36,6 @@
       "id": "symbol-2100-200",
       "symbol": "℀",
       "name": "账号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -56,7 +53,6 @@
       "id": "symbol-2101-201",
       "symbol": "℁",
       "name": "地址",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -74,7 +70,6 @@
       "id": "symbol-2105-204",
       "symbol": "℅",
       "name": "代收",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -92,7 +87,6 @@
       "id": "symbol-2106-205",
       "symbol": "℆",
       "name": "代理商",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -110,7 +104,6 @@
       "id": "symbol-2116-209",
       "symbol": "№",
       "name": "编号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -128,7 +121,6 @@
       "id": "symbol-2117-210",
       "symbol": "℗",
       "name": "录音制品版权",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -146,7 +138,6 @@
       "id": "symbol-2120-211",
       "symbol": "℠",
       "name": "服务",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -164,7 +155,6 @@
       "id": "symbol-2121-212",
       "symbol": "℡",
       "name": "电话",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -182,7 +172,6 @@
       "id": "symbol-2122-213",
       "symbol": "™",
       "name": "商标",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -200,7 +189,6 @@
       "id": "symbol-2693-428",
       "symbol": "⚓",
       "name": "锚标",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -218,7 +206,6 @@
       "id": "symbol-2696-429",
       "symbol": "⚖",
       "name": "天平",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -236,7 +223,6 @@
       "id": "symbol-3004-512",
       "symbol": "〄",
       "name": "日本工业标准",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -254,7 +240,6 @@
       "id": "symbol-3012-513",
       "symbol": "〒",
       "name": "邮政",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -272,7 +257,6 @@
       "id": "symbol-1f10e-1507",
       "symbol": "🄎",
       "name": "带圈逆时针箭头",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -294,7 +278,6 @@
       "id": "symbol-1f12f-1540",
       "symbol": "🄯",
       "name": "Copyleft 符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -315,7 +298,6 @@
       "id": "symbol-1f14e-1571",
       "symbol": "🅎",
       "name": "方框 PPV",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -331,42 +313,39 @@
     {
       "id": "symbol-1f16e-1603",
       "symbol": "🅮",
-      "name": "带圈 C 带 Overlaid Backslash",
-      "pronunciation": "",
+      "name": "带圈 C 带 叠加 反斜杠",
       "category": [
         "其他"
       ],
       "searchTerms": [
-        "带圈 C 带 Overlaid Backslash",
+        "带圈 C 带 叠加 反斜杠",
         "其他",
         "Enclosed Alphanumeric Supplement",
         "1F16E",
         "U+1F16E"
       ],
-      "notes": "🅮 是带圈 C 带 Overlaid Backslash，Unicode 编码为 U+1F16E，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+      "notes": "🅮 是带圈 C 带 叠加 反斜杠，Unicode 编码为 U+1F16E，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
     },
     {
       "id": "symbol-1f16f-1604",
       "symbol": "🅯",
-      "name": "带圈 Human Figure",
-      "pronunciation": "",
+      "name": "带圈 人形",
       "category": [
         "其他"
       ],
       "searchTerms": [
-        "带圈 Human Figure",
+        "带圈 人形",
         "其他",
         "Enclosed Alphanumeric Supplement",
         "1F16F",
         "U+1F16F"
       ],
-      "notes": "🅯 是带圈 Human Figure，Unicode 编码为 U+1F16F，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+      "notes": "🅯 是带圈 人形，Unicode 编码为 U+1F16F，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
     },
     {
       "id": "symbol-1f199-1646",
       "symbol": "🆙",
       "name": "UP! 按钮",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -382,25 +361,23 @@
     {
       "id": "symbol-1f19c-1649",
       "symbol": "🆜",
-      "name": "方框 Second Screen",
-      "pronunciation": "",
+      "name": "方框 第二屏",
       "category": [
         "其他"
       ],
       "searchTerms": [
-        "方框 Second Screen",
+        "方框 第二屏",
         "其他",
         "Enclosed Alphanumeric Supplement",
         "1F19C",
         "U+1F19C"
       ],
-      "notes": "🆜 是方框 Second Screen，Unicode 编码为 U+1F19C，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
+      "notes": "🆜 是方框 第二屏，Unicode 编码为 U+1F19C，适合在特殊标识、版权、人物或技术标签等场景中作为图形化符号使用。"
     },
     {
       "id": "symbol-1f1ad-1666",
       "symbol": "🆭",
       "name": "掩模作品符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -417,7 +394,6 @@
       "id": "symbol-2b7e-2239",
       "symbol": "⭾",
       "name": "水平制表键",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -435,7 +411,6 @@
       "id": "symbol-2b7f-2240",
       "symbol": "⭿",
       "name": "垂直制表键",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -453,7 +428,6 @@
       "id": "symbol-2b90-2257",
       "symbol": "⮐",
       "name": "回车左",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -471,7 +445,6 @@
       "id": "symbol-2b91-2258",
       "symbol": "⮑",
       "name": "回车右",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -489,7 +462,6 @@
       "id": "symbol-2b92-2259",
       "symbol": "⮒",
       "name": "换行左",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -507,7 +479,6 @@
       "id": "symbol-2b93-2260",
       "symbol": "⮓",
       "name": "换行右",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -525,7 +496,6 @@
       "id": "symbol-2b96-2263",
       "symbol": "⮖",
       "name": "等号带无限符号在上方",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -543,7 +513,6 @@
       "id": "symbol-2b97-2264",
       "symbol": "⮗",
       "name": "符号表示甲型电子",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -561,7 +530,6 @@
       "id": "symbol-2bd1-2322",
       "symbol": "⯑",
       "name": "不确定符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -579,7 +547,6 @@
       "id": "symbol-2bd2-2323",
       "symbol": "⯒",
       "name": "分组标记",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -597,7 +564,6 @@
       "id": "symbol-2bfa-2363",
       "symbol": "⯺",
       "name": "联合符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -615,7 +581,6 @@
       "id": "symbol-2bfb-2364",
       "symbol": "⯻",
       "name": "分离符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -633,7 +598,6 @@
       "id": "symbol-2bfc-2365",
       "symbol": "⯼",
       "name": "双重符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -651,7 +615,6 @@
       "id": "symbol-2bfd-2366",
       "symbol": "⯽",
       "name": "通过符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -669,7 +632,6 @@
       "id": "symbol-2bff-2368",
       "symbol": "⯿",
       "name": "赫尔施赖伯暂停符号",
-      "pronunciation": "",
       "category": [
         "其他"
       ],
@@ -682,6 +644,5815 @@
         "U+2BFF"
       ],
       "notes": "⯿ 是赫尔施赖伯暂停符号，Unicode 编码为 U+2BFF，适合在技术标识、键盘提示或特殊排版场景中使用。"
+    },
+    {
+      "id": "symbol-2605-4497",
+      "symbol": "★",
+      "name": "黑色星形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "黑色星形",
+        "Black Star",
+        "其他",
+        "2605",
+        "U+2605"
+      ],
+      "notes": "★ 是黑色星形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2606-4498",
+      "symbol": "☆",
+      "name": "白色星形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "白色星形",
+        "White Star",
+        "其他",
+        "2606",
+        "U+2606"
+      ],
+      "notes": "☆ 是白色星形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-260a-4501",
+      "symbol": "☊",
+      "name": "升交点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "升交点",
+        "Ascending Node",
+        "其他",
+        "260A",
+        "U+260A"
+      ],
+      "notes": "☊ 是升交点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-260b-4502",
+      "symbol": "☋",
+      "name": "降交点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "降交点",
+        "Descending Node",
+        "其他",
+        "260B",
+        "U+260B"
+      ],
+      "notes": "☋ 是降交点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-260c-4503",
+      "symbol": "☌",
+      "name": "合相",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "合相",
+        "Conjunction",
+        "其他",
+        "260C",
+        "U+260C"
+      ],
+      "notes": "☌ 是合相的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-260d-4504",
+      "symbol": "☍",
+      "name": "对冲相",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "对冲相",
+        "Opposition",
+        "其他",
+        "260D",
+        "U+260D"
+      ],
+      "notes": "☍ 是对冲相的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2610-4507",
+      "symbol": "☐",
+      "name": "空选框",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "空选框",
+        "Ballot Box",
+        "其他",
+        "2610",
+        "U+2610"
+      ],
+      "notes": "☐ 是空选框的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2611-4508",
+      "symbol": "☑",
+      "name": "已勾选选框",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "已勾选选框",
+        "Check Box With Check",
+        "其他",
+        "2611",
+        "U+2611"
+      ],
+      "notes": "☑ 是已勾选选框的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2612-4509",
+      "symbol": "☒",
+      "name": "叉号选框",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "叉号选框",
+        "Ballot Box with X",
+        "其他",
+        "2612",
+        "U+2612"
+      ],
+      "notes": "☒ 是叉号选框的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2613-4510",
+      "symbol": "☓",
+      "name": "圣安德鲁十字",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "圣安德鲁十字",
+        "Saltire",
+        "其他",
+        "2613",
+        "U+2613"
+      ],
+      "notes": "☓ 是圣安德鲁十字的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2616-4513",
+      "symbol": "☖",
+      "name": "白将棋子",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "白将棋子",
+        "White Shogi Piece",
+        "其他",
+        "2616",
+        "U+2616"
+      ],
+      "notes": "☖ 是白将棋子的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2617-4514",
+      "symbol": "☗",
+      "name": "黑将棋子",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "黑将棋子",
+        "Black Shogi Piece",
+        "其他",
+        "2617",
+        "U+2617"
+      ],
+      "notes": "☗ 是黑将棋子的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2619-4516",
+      "symbol": "☙",
+      "name": "反向旋转花心圆点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "反向旋转花心圆点",
+        "Reversed Rotated Floral Heart Bullet",
+        "其他",
+        "2619",
+        "U+2619"
+      ],
+      "notes": "☙ 是反向旋转花心圆点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2624-4524",
+      "symbol": "☤",
+      "name": "双蛇杖",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "双蛇杖",
+        "Caduceus",
+        "其他",
+        "2624",
+        "U+2624"
+      ],
+      "notes": "☤ 是双蛇杖的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2625-4525",
+      "symbol": "☥",
+      "name": "安卡十字",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "安卡十字",
+        "Ankh",
+        "其他",
+        "2625",
+        "U+2625"
+      ],
+      "notes": "☥ 是安卡十字的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2628-4526",
+      "symbol": "☨",
+      "name": "洛林十字",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "洛林十字",
+        "Cross of Lorraine",
+        "其他",
+        "2628",
+        "U+2628"
+      ],
+      "notes": "☨ 是洛林十字的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2629-4527",
+      "symbol": "☩",
+      "name": "耶路撒冷十字",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "耶路撒冷十字",
+        "Cross of Jerusalem",
+        "其他",
+        "2629",
+        "U+2629"
+      ],
+      "notes": "☩ 是耶路撒冷十字的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2647-4533",
+      "symbol": "♇",
+      "name": "冥王星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "冥王星",
+        "Pluto",
+        "其他",
+        "2647",
+        "U+2647"
+      ],
+      "notes": "♇ 是冥王星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-266e-4534",
+      "symbol": "♮",
+      "name": "还原号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "还原号",
+        "Music Natural Sign",
+        "其他",
+        "266E",
+        "U+266E"
+      ],
+      "notes": "♮ 是还原号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2670-4535",
+      "symbol": "♰",
+      "name": "叙利亚西部十字",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "叙利亚西部十字",
+        "West Syriac Cross",
+        "其他",
+        "2670",
+        "U+2670"
+      ],
+      "notes": "♰ 是叙利亚西部十字的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2671-4536",
+      "symbol": "♱",
+      "name": "叙利亚东部十字",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "叙利亚东部十字",
+        "East Syriac Cross",
+        "其他",
+        "2671",
+        "U+2671"
+      ],
+      "notes": "♱ 是叙利亚东部十字的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-267e-4537",
+      "symbol": "♾",
+      "name": "无穷大符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "无穷大符号",
+        "Infinity",
+        "其他",
+        "267E",
+        "U+267E"
+      ],
+      "notes": "♾ 是无穷大符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2686-4539",
+      "symbol": "⚆",
+      "name": "右侧带点白圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右侧带点白圆",
+        "White Circle with Dot Right",
+        "其他",
+        "2686",
+        "U+2686"
+      ],
+      "notes": "⚆ 是右侧带点白圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2687-4540",
+      "symbol": "⚇",
+      "name": "双点白圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "双点白圆",
+        "White Circle with Two Dots",
+        "其他",
+        "2687",
+        "U+2687"
+      ],
+      "notes": "⚇ 是双点白圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2688-4541",
+      "symbol": "⚈",
+      "name": "右侧白点黑圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右侧白点黑圆",
+        "Black Circle with White Dot Right",
+        "其他",
+        "2688",
+        "U+2688"
+      ],
+      "notes": "⚈ 是右侧白点黑圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2689-4542",
+      "symbol": "⚉",
+      "name": "双白点黑圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "双白点黑圆",
+        "Black Circle with Two White Dots",
+        "其他",
+        "2689",
+        "U+2689"
+      ],
+      "notes": "⚉ 是双白点黑圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-268a-4543",
+      "symbol": "⚊",
+      "name": "阳爻",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "阳爻",
+        "Monogram for Yang",
+        "其他",
+        "268A",
+        "U+268A"
+      ],
+      "notes": "⚊ 是阳爻的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-268b-4544",
+      "symbol": "⚋",
+      "name": "阴爻",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "阴爻",
+        "Monogram for Yin",
+        "其他",
+        "268B",
+        "U+268B"
+      ],
+      "notes": "⚋ 是阴爻的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-268c-4545",
+      "symbol": "⚌",
+      "name": "大阳两爻",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "大阳两爻",
+        "Digram for Greater Yang",
+        "其他",
+        "268C",
+        "U+268C"
+      ],
+      "notes": "⚌ 是大阳两爻的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-268d-4546",
+      "symbol": "⚍",
+      "name": "小阴两爻",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "小阴两爻",
+        "Digram for Lesser Yin",
+        "其他",
+        "268D",
+        "U+268D"
+      ],
+      "notes": "⚍ 是小阴两爻的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-268e-4547",
+      "symbol": "⚎",
+      "name": "小阳两爻",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "小阳两爻",
+        "Digram for Lesser Yang",
+        "其他",
+        "268E",
+        "U+268E"
+      ],
+      "notes": "⚎ 是小阳两爻的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-268f-4548",
+      "symbol": "⚏",
+      "name": "大阴两爻",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "大阴两爻",
+        "Digram for Greater Yin",
+        "其他",
+        "268F",
+        "U+268F"
+      ],
+      "notes": "⚏ 是大阴两爻的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2695-4553",
+      "symbol": "⚕",
+      "name": "医疗符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "医疗符号",
+        "Medical Symbol",
+        "其他",
+        "2695",
+        "U+2695"
+      ],
+      "notes": "⚕ 是医疗符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2697-4554",
+      "symbol": "⚗",
+      "name": "蒸馏器",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "蒸馏器",
+        "Alembic",
+        "其他",
+        "2697",
+        "U+2697"
+      ],
+      "notes": "⚗ 是蒸馏器的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2699-4556",
+      "symbol": "⚙",
+      "name": "齿轮",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "齿轮",
+        "Gear",
+        "其他",
+        "2699",
+        "U+2699"
+      ],
+      "notes": "⚙ 是齿轮的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-269a-4557",
+      "symbol": "⚚",
+      "name": "赫尔墨斯杖",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "赫尔墨斯杖",
+        "Staff of Hermes",
+        "其他",
+        "269A",
+        "U+269A"
+      ],
+      "notes": "⚚ 是赫尔墨斯杖的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-269b-4558",
+      "symbol": "⚛",
+      "name": "原子符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "原子符号",
+        "Atom Symbol",
+        "其他",
+        "269B",
+        "U+269B"
+      ],
+      "notes": "⚛ 是原子符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-269c-4559",
+      "symbol": "⚜",
+      "name": "鸢尾花纹章",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "鸢尾花纹章",
+        "Fleur-De-Lis",
+        "其他",
+        "269C",
+        "U+269C"
+      ],
+      "notes": "⚜ 是鸢尾花纹章的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-269d-4560",
+      "symbol": "⚝",
+      "name": "白边星形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "白边星形",
+        "Outlined White Star",
+        "其他",
+        "269D",
+        "U+269D"
+      ],
+      "notes": "⚝ 是白边星形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-269e-4561",
+      "symbol": "⚞",
+      "name": "右汇聚三线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右汇聚三线",
+        "Three Lines Converging Right",
+        "其他",
+        "269E",
+        "U+269E"
+      ],
+      "notes": "⚞ 是右汇聚三线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-269f-4562",
+      "symbol": "⚟",
+      "name": "左汇聚三线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左汇聚三线",
+        "Three Lines Converging Left",
+        "其他",
+        "269F",
+        "U+269F"
+      ],
+      "notes": "⚟ 是左汇聚三线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26b3-4567",
+      "symbol": "⚳",
+      "name": "谷神星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "谷神星",
+        "Ceres",
+        "其他",
+        "26B3",
+        "U+26B3"
+      ],
+      "notes": "⚳ 是谷神星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26b4-4568",
+      "symbol": "⚴",
+      "name": "智神星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "智神星",
+        "Pallas",
+        "其他",
+        "26B4",
+        "U+26B4"
+      ],
+      "notes": "⚴ 是智神星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26b5-4569",
+      "symbol": "⚵",
+      "name": "婚神星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "婚神星",
+        "Juno",
+        "其他",
+        "26B5",
+        "U+26B5"
+      ],
+      "notes": "⚵ 是婚神星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26b6-4570",
+      "symbol": "⚶",
+      "name": "灶神星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "灶神星",
+        "Vesta",
+        "其他",
+        "26B6",
+        "U+26B6"
+      ],
+      "notes": "⚶ 是灶神星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26b7-4571",
+      "symbol": "⚷",
+      "name": "凯龙星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "凯龙星",
+        "Chiron",
+        "其他",
+        "26B7",
+        "U+26B7"
+      ],
+      "notes": "⚷ 是凯龙星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26b8-4572",
+      "symbol": "⚸",
+      "name": "黑月莉莉丝",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "黑月莉莉丝",
+        "Black Moon Lilith",
+        "其他",
+        "26B8",
+        "U+26B8"
+      ],
+      "notes": "⚸ 是黑月莉莉丝的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26b9-4573",
+      "symbol": "⚹",
+      "name": "六分相",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "六分相",
+        "Sextile",
+        "其他",
+        "26B9",
+        "U+26B9"
+      ],
+      "notes": "⚹ 是六分相的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26ba-4574",
+      "symbol": "⚺",
+      "name": "半六分相",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "半六分相",
+        "Semisextile",
+        "其他",
+        "26BA",
+        "U+26BA"
+      ],
+      "notes": "⚺ 是半六分相的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26bb-4575",
+      "symbol": "⚻",
+      "name": "梅花相",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "梅花相",
+        "Quincunx",
+        "其他",
+        "26BB",
+        "U+26BB"
+      ],
+      "notes": "⚻ 是梅花相的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26c0-4580",
+      "symbol": "⛀",
+      "name": "白棋兵",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "白棋兵",
+        "White Draughts Man",
+        "其他",
+        "26C0",
+        "U+26C0"
+      ],
+      "notes": "⛀ 是白棋兵的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26c1-4581",
+      "symbol": "⛁",
+      "name": "白棋王",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "白棋王",
+        "White Draughts King",
+        "其他",
+        "26C1",
+        "U+26C1"
+      ],
+      "notes": "⛁ 是白棋王的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26c2-4582",
+      "symbol": "⛂",
+      "name": "黑棋兵",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "黑棋兵",
+        "Black Draughts Man",
+        "其他",
+        "26C2",
+        "U+26C2"
+      ],
+      "notes": "⛂ 是黑棋兵的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26c3-4583",
+      "symbol": "⛃",
+      "name": "黑棋王",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "黑棋王",
+        "Black Draughts King",
+        "其他",
+        "26C3",
+        "U+26C3"
+      ],
+      "notes": "⛃ 是黑棋王的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26c9-4589",
+      "symbol": "⛉",
+      "name": "翻转白将棋子",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "翻转白将棋子",
+        "Turned White Shogi Piece",
+        "其他",
+        "26C9",
+        "U+26C9"
+      ],
+      "notes": "⛉ 是翻转白将棋子的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26ca-4590",
+      "symbol": "⛊",
+      "name": "翻转黑将棋子",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "翻转黑将棋子",
+        "Turned Black Shogi Piece",
+        "其他",
+        "26CA",
+        "U+26CA"
+      ],
+      "notes": "⛊ 是翻转黑将棋子的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26cb-4591",
+      "symbol": "⛋",
+      "name": "方框内白菱形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "方框内白菱形",
+        "White Diamond In Square",
+        "其他",
+        "26CB",
+        "U+26CB"
+      ],
+      "notes": "⛋ 是方框内白菱形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26ce-4594",
+      "symbol": "⛎",
+      "name": "蛇夫座",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "蛇夫座",
+        "Ophiuchus",
+        "其他",
+        "26CE",
+        "U+26CE"
+      ],
+      "notes": "⛎ 是蛇夫座的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2621-4523",
+      "symbol": "☡",
+      "name": "警示符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "警示符号",
+        "Caution Sign",
+        "其他",
+        "2621",
+        "U+2621"
+      ],
+      "notes": "☡ 是警示符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26bf-4579",
+      "symbol": "⚿",
+      "name": "方框钥匙",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "方框钥匙",
+        "Squared Key",
+        "其他",
+        "26BF",
+        "U+26BF"
+      ],
+      "notes": "⚿ 是方框钥匙的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26cc-4592",
+      "symbol": "⛌",
+      "name": "交叉车道标志",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "交叉车道标志",
+        "Crossing Lanes",
+        "其他",
+        "26CC",
+        "U+26CC"
+      ],
+      "notes": "⛌ 是交叉车道标志的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26e2-4614",
+      "symbol": "⛢",
+      "name": "天王星天文符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "天王星天文符号",
+        "Astronomical Symbol for Uranus",
+        "其他",
+        "26E2",
+        "U+26E2"
+      ],
+      "notes": "⛢ 是天王星天文符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26e4-4616",
+      "symbol": "⛤",
+      "name": "五角星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "五角星",
+        "Pentagram",
+        "其他",
+        "26E4",
+        "U+26E4"
+      ],
+      "notes": "⛤ 是五角星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26e5-4617",
+      "symbol": "⛥",
+      "name": "右旋交织五角星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右旋交织五角星",
+        "Right-Handed Interlaced Pentagram",
+        "其他",
+        "26E5",
+        "U+26E5"
+      ],
+      "notes": "⛥ 是右旋交织五角星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26e6-4618",
+      "symbol": "⛦",
+      "name": "左旋交织五角星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左旋交织五角星",
+        "Left-Handed Interlaced Pentagram",
+        "其他",
+        "26E6",
+        "U+26E6"
+      ],
+      "notes": "⛦ 是左旋交织五角星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26e7-4619",
+      "symbol": "⛧",
+      "name": "倒置五角星",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "倒置五角星",
+        "Inverted Pentagram",
+        "其他",
+        "26E7",
+        "U+26E7"
+      ],
+      "notes": "⛧ 是倒置五角星的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26e8-4620",
+      "symbol": "⛨",
+      "name": "盾牌黑十字",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "盾牌黑十字",
+        "Black Cross On Shield",
+        "其他",
+        "26E8",
+        "U+26E8"
+      ],
+      "notes": "⛨ 是盾牌黑十字的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26ed-4625",
+      "symbol": "⛭",
+      "name": "无轴齿轮",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "无轴齿轮",
+        "Gear Without Hub",
+        "其他",
+        "26ED",
+        "U+26ED"
+      ],
+      "notes": "⛭ 是无轴齿轮的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26ee-4626",
+      "symbol": "⛮",
+      "name": "带把手齿轮",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "带把手齿轮",
+        "Gear with Handles",
+        "其他",
+        "26EE",
+        "U+26EE"
+      ],
+      "notes": "⛮ 是带把手齿轮的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26ef-4627",
+      "symbol": "⛯",
+      "name": "灯塔地图符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "灯塔地图符号",
+        "Map Symbol for Lighthouse",
+        "其他",
+        "26EF",
+        "U+26EF"
+      ],
+      "notes": "⛯ 是灯塔地图符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26f6-4634",
+      "symbol": "⛶",
+      "name": "四角方框",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "四角方框",
+        "Square Four Corners",
+        "其他",
+        "26F6",
+        "U+26F6"
+      ],
+      "notes": "⛶ 是四角方框的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26fb-4639",
+      "symbol": "⛻",
+      "name": "日本银行符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "日本银行符号",
+        "Japanese Bank Symbol",
+        "其他",
+        "26FB",
+        "U+26FB"
+      ],
+      "notes": "⛻ 是日本银行符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26fc-4640",
+      "symbol": "⛼",
+      "name": "墓碑符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "墓碑符号",
+        "Headstone Graveyard Symbol",
+        "其他",
+        "26FC",
+        "U+26FC"
+      ],
+      "notes": "⛼ 是墓碑符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26fe-4642",
+      "symbol": "⛾",
+      "name": "黑方框酒杯",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "黑方框酒杯",
+        "Cup On Black Square",
+        "其他",
+        "26FE",
+        "U+26FE"
+      ],
+      "notes": "⛾ 是黑方框酒杯的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26ff-4643",
+      "symbol": "⛿",
+      "name": "中横黑条白旗",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "中横黑条白旗",
+        "White Flag with Horizontal Middle Black Stripe",
+        "其他",
+        "26FF",
+        "U+26FF"
+      ],
+      "notes": "⛿ 是中横黑条白旗的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2300-4644",
+      "symbol": "⌀",
+      "name": "直径符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "直径符号",
+        "Diameter Sign",
+        "其他",
+        "2300",
+        "U+2300"
+      ],
+      "notes": "⌀ 是直径符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2301-4645",
+      "symbol": "⌁",
+      "name": "电气箭头",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "电气箭头",
+        "Electric Arrow",
+        "其他",
+        "2301",
+        "U+2301"
+      ],
+      "notes": "⌁ 是电气箭头的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2302-4646",
+      "symbol": "⌂",
+      "name": "房屋符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "房屋符号",
+        "House",
+        "其他",
+        "2302",
+        "U+2302"
+      ],
+      "notes": "⌂ 是房屋符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2303-4647",
+      "symbol": "⌃",
+      "name": "上箭头尖",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上箭头尖",
+        "Up Arrowhead",
+        "其他",
+        "2303",
+        "U+2303"
+      ],
+      "notes": "⌃ 是上箭头尖的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2304-4648",
+      "symbol": "⌄",
+      "name": "下箭头尖",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下箭头尖",
+        "Down Arrowhead",
+        "其他",
+        "2304",
+        "U+2304"
+      ],
+      "notes": "⌄ 是下箭头尖的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2305-4649",
+      "symbol": "⌅",
+      "name": "投影符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "投影符号",
+        "Projective",
+        "其他",
+        "2305",
+        "U+2305"
+      ],
+      "notes": "⌅ 是投影符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2306-4650",
+      "symbol": "⌆",
+      "name": "透视符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "透视符号",
+        "Perspective",
+        "其他",
+        "2306",
+        "U+2306"
+      ],
+      "notes": "⌆ 是透视符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2307-4651",
+      "symbol": "⌇",
+      "name": "波浪线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "波浪线",
+        "Wavy Line",
+        "其他",
+        "2307",
+        "U+2307"
+      ],
+      "notes": "⌇ 是波浪线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2308-4652",
+      "symbol": "⌈",
+      "name": "左上取整符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左上取整符号",
+        "Left Ceiling",
+        "其他",
+        "2308",
+        "U+2308"
+      ],
+      "notes": "⌈ 是左上取整符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2309-4653",
+      "symbol": "⌉",
+      "name": "右上取整符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右上取整符号",
+        "Right Ceiling",
+        "其他",
+        "2309",
+        "U+2309"
+      ],
+      "notes": "⌉ 是右上取整符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-26bc-4576",
+      "symbol": "⚼",
+      "name": "补八分相",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "补八分相",
+        "Sesquiquadrate",
+        "其他",
+        "26BC",
+        "U+26BC"
+      ],
+      "notes": "⚼ 是补八分相的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-230a-4654",
+      "symbol": "⌊",
+      "name": "左下取整符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左下取整符号",
+        "Left Floor",
+        "其他",
+        "230A",
+        "U+230A"
+      ],
+      "notes": "⌊ 是左下取整符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-230b-4655",
+      "symbol": "⌋",
+      "name": "右下取整符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右下取整符号",
+        "Right Floor",
+        "其他",
+        "230B",
+        "U+230B"
+      ],
+      "notes": "⌋ 是右下取整符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-230c-4656",
+      "symbol": "⌌",
+      "name": "右下裁切符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右下裁切符号",
+        "Bottom Right Crop",
+        "其他",
+        "230C",
+        "U+230C"
+      ],
+      "notes": "⌌ 是右下裁切符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-230d-4657",
+      "symbol": "⌍",
+      "name": "左下裁切符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左下裁切符号",
+        "Bottom Left Crop",
+        "其他",
+        "230D",
+        "U+230D"
+      ],
+      "notes": "⌍ 是左下裁切符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-230e-4658",
+      "symbol": "⌎",
+      "name": "右上裁切符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右上裁切符号",
+        "Top Right Crop",
+        "其他",
+        "230E",
+        "U+230E"
+      ],
+      "notes": "⌎ 是右上裁切符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-230f-4659",
+      "symbol": "⌏",
+      "name": "左上裁切符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左上裁切符号",
+        "Top Left Crop",
+        "其他",
+        "230F",
+        "U+230F"
+      ],
+      "notes": "⌏ 是左上裁切符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2310-4660",
+      "symbol": "⌐",
+      "name": "反向非符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "反向非符号",
+        "Reversed Not Sign",
+        "其他",
+        "2310",
+        "U+2310"
+      ],
+      "notes": "⌐ 是反向非符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2311-4661",
+      "symbol": "⌑",
+      "name": "方形菱形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "方形菱形",
+        "Square Lozenge",
+        "其他",
+        "2311",
+        "U+2311"
+      ],
+      "notes": "⌑ 是方形菱形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2312-4662",
+      "symbol": "⌒",
+      "name": "圆弧",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "圆弧",
+        "Arc",
+        "其他",
+        "2312",
+        "U+2312"
+      ],
+      "notes": "⌒ 是圆弧的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2313-4663",
+      "symbol": "⌓",
+      "name": "弓形线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "弓形线",
+        "Segment",
+        "其他",
+        "2313",
+        "U+2313"
+      ],
+      "notes": "⌓ 是弓形线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2314-4664",
+      "symbol": "⌔",
+      "name": "扇形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "扇形",
+        "Sector",
+        "其他",
+        "2314",
+        "U+2314"
+      ],
+      "notes": "⌔ 是扇形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2315-4665",
+      "symbol": "⌕",
+      "name": "电话录音符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "电话录音符号",
+        "Telephone Recorder",
+        "其他",
+        "2315",
+        "U+2315"
+      ],
+      "notes": "⌕ 是电话录音符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2316-4666",
+      "symbol": "⌖",
+      "name": "位置指示符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "位置指示符",
+        "Position Indicator",
+        "其他",
+        "2316",
+        "U+2316"
+      ],
+      "notes": "⌖ 是位置指示符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2317-4667",
+      "symbol": "⌗",
+      "name": "可视数据方框",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "可视数据方框",
+        "Viewdata Square",
+        "其他",
+        "2317",
+        "U+2317"
+      ],
+      "notes": "⌗ 是可视数据方框的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2318-4668",
+      "symbol": "⌘",
+      "name": "兴趣地点符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "兴趣地点符号",
+        "Place of Interest Sign",
+        "其他",
+        "2318",
+        "U+2318"
+      ],
+      "notes": "⌘ 是兴趣地点符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2319-4669",
+      "symbol": "⌙",
+      "name": "旋转非符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "旋转非符号",
+        "Turned Not Sign",
+        "其他",
+        "2319",
+        "U+2319"
+      ],
+      "notes": "⌙ 是旋转非符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-231c-4672",
+      "symbol": "⌜",
+      "name": "左上角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左上角",
+        "Top Left Corner",
+        "其他",
+        "231C",
+        "U+231C"
+      ],
+      "notes": "⌜ 是左上角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-231d-4673",
+      "symbol": "⌝",
+      "name": "右上角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右上角",
+        "Top Right Corner",
+        "其他",
+        "231D",
+        "U+231D"
+      ],
+      "notes": "⌝ 是右上角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-231e-4674",
+      "symbol": "⌞",
+      "name": "左下角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左下角",
+        "Bottom Left Corner",
+        "其他",
+        "231E",
+        "U+231E"
+      ],
+      "notes": "⌞ 是左下角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-231f-4675",
+      "symbol": "⌟",
+      "name": "右下角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右下角",
+        "Bottom Right Corner",
+        "其他",
+        "231F",
+        "U+231F"
+      ],
+      "notes": "⌟ 是右下角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2320-4676",
+      "symbol": "⌠",
+      "name": "积分上半部",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "积分上半部",
+        "Top Half Integral",
+        "其他",
+        "2320",
+        "U+2320"
+      ],
+      "notes": "⌠ 是积分上半部的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2321-4677",
+      "symbol": "⌡",
+      "name": "积分下半部",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "积分下半部",
+        "Bottom Half Integral",
+        "其他",
+        "2321",
+        "U+2321"
+      ],
+      "notes": "⌡ 是积分下半部的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2322-4678",
+      "symbol": "⌢",
+      "name": "下凹弧",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下凹弧",
+        "Frown",
+        "其他",
+        "2322",
+        "U+2322"
+      ],
+      "notes": "⌢ 是下凹弧的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2323-4679",
+      "symbol": "⌣",
+      "name": "上凹弧",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上凹弧",
+        "Smile",
+        "其他",
+        "2323",
+        "U+2323"
+      ],
+      "notes": "⌣ 是上凹弧的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2324-4680",
+      "symbol": "⌤",
+      "name": "双横线间上箭头尖",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "双横线间上箭头尖",
+        "Up Arrowhead Between Two Horizontal Bars",
+        "其他",
+        "2324",
+        "U+2324"
+      ],
+      "notes": "⌤ 是双横线间上箭头尖的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2325-4681",
+      "symbol": "⌥",
+      "name": "选项键",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "选项键",
+        "Option Key",
+        "其他",
+        "2325",
+        "U+2325"
+      ],
+      "notes": "⌥ 是选项键的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2326-4682",
+      "symbol": "⌦",
+      "name": "向右删除符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "向右删除符号",
+        "Erase To the Right",
+        "其他",
+        "2326",
+        "U+2326"
+      ],
+      "notes": "⌦ 是向右删除符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2327-4683",
+      "symbol": "⌧",
+      "name": "方框X",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "方框X",
+        "X In a Rectangle Box",
+        "其他",
+        "2327",
+        "U+2327"
+      ],
+      "notes": "⌧ 是方框X的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2329-4685",
+      "symbol": "〈",
+      "name": "左尖括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左尖括号",
+        "Left-Pointing Angle Bracket",
+        "其他",
+        "2329",
+        "U+2329"
+      ],
+      "notes": "〈 是左尖括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-232a-4686",
+      "symbol": "〉",
+      "name": "右尖括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右尖括号",
+        "Right-Pointing Angle Bracket",
+        "其他",
+        "232A",
+        "U+232A"
+      ],
+      "notes": "〉 是右尖括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-232b-4687",
+      "symbol": "⌫",
+      "name": "向左删除符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "向左删除符号",
+        "Erase To the Left",
+        "其他",
+        "232B",
+        "U+232B"
+      ],
+      "notes": "⌫ 是向左删除符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-232c-4688",
+      "symbol": "⌬",
+      "name": "苯环",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "苯环",
+        "Benzene Ring",
+        "其他",
+        "232C",
+        "U+232C"
+      ],
+      "notes": "⌬ 是苯环的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-232d-4689",
+      "symbol": "⌭",
+      "name": "圆柱度",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "圆柱度",
+        "Cylindricity",
+        "其他",
+        "232D",
+        "U+232D"
+      ],
+      "notes": "⌭ 是圆柱度的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-232e-4690",
+      "symbol": "⌮",
+      "name": "全周轮廓度",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "全周轮廓度",
+        "All Around-Profile",
+        "其他",
+        "232E",
+        "U+232E"
+      ],
+      "notes": "⌮ 是全周轮廓度的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-232f-4691",
+      "symbol": "⌯",
+      "name": "对称度",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "对称度",
+        "Symmetry",
+        "其他",
+        "232F",
+        "U+232F"
+      ],
+      "notes": "⌯ 是对称度的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2330-4692",
+      "symbol": "⌰",
+      "name": "全跳动",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "全跳动",
+        "Total Runout",
+        "其他",
+        "2330",
+        "U+2330"
+      ],
+      "notes": "⌰ 是全跳动的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2331-4693",
+      "symbol": "⌱",
+      "name": "尺寸原点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "尺寸原点",
+        "Dimension Origin",
+        "其他",
+        "2331",
+        "U+2331"
+      ],
+      "notes": "⌱ 是尺寸原点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2332-4694",
+      "symbol": "⌲",
+      "name": "圆锥锥度",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "圆锥锥度",
+        "Conical Taper",
+        "其他",
+        "2332",
+        "U+2332"
+      ],
+      "notes": "⌲ 是圆锥锥度的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2333-4695",
+      "symbol": "⌳",
+      "name": "倾斜度",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "倾斜度",
+        "Slope",
+        "其他",
+        "2333",
+        "U+2333"
+      ],
+      "notes": "⌳ 是倾斜度的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2334-4696",
+      "symbol": "⌴",
+      "name": "平底孔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "平底孔",
+        "Counterbore",
+        "其他",
+        "2334",
+        "U+2334"
+      ],
+      "notes": "⌴ 是平底孔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2335-4697",
+      "symbol": "⌵",
+      "name": "沉头孔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "沉头孔",
+        "Countersink",
+        "其他",
+        "2335",
+        "U+2335"
+      ],
+      "notes": "⌵ 是沉头孔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2336-4698",
+      "symbol": "⌶",
+      "name": "APL功能符号：工字梁",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：工字梁",
+        "Apl Functional Symbol I-Beam",
+        "APL",
+        "其他",
+        "2336",
+        "U+2336"
+      ],
+      "notes": "⌶ 是APL功能符号：工字梁的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2337-4699",
+      "symbol": "⌷",
+      "name": "APL功能符号：压缩四边形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：压缩四边形",
+        "Apl Functional Symbol Squish Quad",
+        "APL",
+        "其他",
+        "2337",
+        "U+2337"
+      ],
+      "notes": "⌷ 是APL功能符号：压缩四边形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2338-4700",
+      "symbol": "⌸",
+      "name": "APL功能符号：四边形等号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形等号",
+        "Apl Functional Symbol Quad Equal",
+        "APL",
+        "其他",
+        "2338",
+        "U+2338"
+      ],
+      "notes": "⌸ 是APL功能符号：四边形等号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2339-4701",
+      "symbol": "⌹",
+      "name": "APL功能符号：四边形除号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形除号",
+        "Apl Functional Symbol Quad Divide",
+        "APL",
+        "其他",
+        "2339",
+        "U+2339"
+      ],
+      "notes": "⌹ 是APL功能符号：四边形除号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-233a-4702",
+      "symbol": "⌺",
+      "name": "APL功能符号：四边形菱形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形菱形",
+        "Apl Functional Symbol Quad Diamond",
+        "APL",
+        "其他",
+        "233A",
+        "U+233A"
+      ],
+      "notes": "⌺ 是APL功能符号：四边形菱形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-233b-4703",
+      "symbol": "⌻",
+      "name": "APL功能符号：四边形点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形点",
+        "Apl Functional Symbol Quad Jot",
+        "APL",
+        "其他",
+        "233B",
+        "U+233B"
+      ],
+      "notes": "⌻ 是APL功能符号：四边形点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-233c-4704",
+      "symbol": "⌼",
+      "name": "APL功能符号：四边形圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形圆",
+        "Apl Functional Symbol Quad Circle",
+        "APL",
+        "其他",
+        "233C",
+        "U+233C"
+      ],
+      "notes": "⌼ 是APL功能符号：四边形圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-233d-4705",
+      "symbol": "⌽",
+      "name": "APL功能符号：圆竖线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：圆竖线",
+        "Apl Functional Symbol Circle Stile",
+        "APL",
+        "其他",
+        "233D",
+        "U+233D"
+      ],
+      "notes": "⌽ 是APL功能符号：圆竖线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-233e-4706",
+      "symbol": "⌾",
+      "name": "APL功能符号：圆点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：圆点",
+        "Apl Functional Symbol Circle Jot",
+        "APL",
+        "其他",
+        "233E",
+        "U+233E"
+      ],
+      "notes": "⌾ 是APL功能符号：圆点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-233f-4707",
+      "symbol": "⌿",
+      "name": "APL功能符号：斜杠横线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：斜杠横线",
+        "Apl Functional Symbol Slash Bar",
+        "APL",
+        "其他",
+        "233F",
+        "U+233F"
+      ],
+      "notes": "⌿ 是APL功能符号：斜杠横线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2340-4708",
+      "symbol": "⍀",
+      "name": "APL功能符号：反斜杠横线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：反斜杠横线",
+        "Apl Functional Symbol Backslash Bar",
+        "APL",
+        "其他",
+        "2340",
+        "U+2340"
+      ],
+      "notes": "⍀ 是APL功能符号：反斜杠横线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2341-4709",
+      "symbol": "⍁",
+      "name": "APL功能符号：四边形斜杠",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形斜杠",
+        "Apl Functional Symbol Quad Slash",
+        "APL",
+        "其他",
+        "2341",
+        "U+2341"
+      ],
+      "notes": "⍁ 是APL功能符号：四边形斜杠的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2342-4710",
+      "symbol": "⍂",
+      "name": "APL功能符号：四边形反斜杠",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形反斜杠",
+        "Apl Functional Symbol Quad Backslash",
+        "APL",
+        "其他",
+        "2342",
+        "U+2342"
+      ],
+      "notes": "⍂ 是APL功能符号：四边形反斜杠的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2343-4711",
+      "symbol": "⍃",
+      "name": "APL功能符号：四边形小于号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形小于号",
+        "Apl Functional Symbol Quad Less-Than",
+        "APL",
+        "其他",
+        "2343",
+        "U+2343"
+      ],
+      "notes": "⍃ 是APL功能符号：四边形小于号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2344-4712",
+      "symbol": "⍄",
+      "name": "APL功能符号：四边形大于号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形大于号",
+        "Apl Functional Symbol Quad Greater-Than",
+        "APL",
+        "其他",
+        "2344",
+        "U+2344"
+      ],
+      "notes": "⍄ 是APL功能符号：四边形大于号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2345-4713",
+      "symbol": "⍅",
+      "name": "APL功能符号：左向翼形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：左向翼形",
+        "Apl Functional Symbol Leftwards Vane",
+        "APL",
+        "其他",
+        "2345",
+        "U+2345"
+      ],
+      "notes": "⍅ 是APL功能符号：左向翼形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2346-4714",
+      "symbol": "⍆",
+      "name": "APL功能符号：右向翼形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：右向翼形",
+        "Apl Functional Symbol Rightwards Vane",
+        "APL",
+        "其他",
+        "2346",
+        "U+2346"
+      ],
+      "notes": "⍆ 是APL功能符号：右向翼形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2347-4715",
+      "symbol": "⍇",
+      "name": "APL功能符号：四边形左向箭头",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形左向箭头",
+        "Apl Functional Symbol Quad Leftwards Arrow",
+        "APL",
+        "其他",
+        "2347",
+        "U+2347"
+      ],
+      "notes": "⍇ 是APL功能符号：四边形左向箭头的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2348-4716",
+      "symbol": "⍈",
+      "name": "APL功能符号：四边形右向箭头",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形右向箭头",
+        "Apl Functional Symbol Quad Rightwards Arrow",
+        "APL",
+        "其他",
+        "2348",
+        "U+2348"
+      ],
+      "notes": "⍈ 是APL功能符号：四边形右向箭头的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2349-4717",
+      "symbol": "⍉",
+      "name": "APL功能符号：圆反斜杠",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：圆反斜杠",
+        "Apl Functional Symbol Circle Backslash",
+        "APL",
+        "其他",
+        "2349",
+        "U+2349"
+      ],
+      "notes": "⍉ 是APL功能符号：圆反斜杠的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-234a-4718",
+      "symbol": "⍊",
+      "name": "APL功能符号：下钉下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：下钉下划线",
+        "Apl Functional Symbol Down Tack Underbar",
+        "APL",
+        "其他",
+        "234A",
+        "U+234A"
+      ],
+      "notes": "⍊ 是APL功能符号：下钉下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-234b-4719",
+      "symbol": "⍋",
+      "name": "APL功能符号：三角竖线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：三角竖线",
+        "Apl Functional Symbol Delta Stile",
+        "APL",
+        "其他",
+        "234B",
+        "U+234B"
+      ],
+      "notes": "⍋ 是APL功能符号：三角竖线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-234c-4720",
+      "symbol": "⍌",
+      "name": "APL功能符号：四边形下尖号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形下尖号",
+        "Apl Functional Symbol Quad Down Caret",
+        "APL",
+        "其他",
+        "234C",
+        "U+234C"
+      ],
+      "notes": "⍌ 是APL功能符号：四边形下尖号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-234d-4721",
+      "symbol": "⍍",
+      "name": "APL功能符号：四边形三角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形三角",
+        "Apl Functional Symbol Quad Delta",
+        "APL",
+        "其他",
+        "234D",
+        "U+234D"
+      ],
+      "notes": "⍍ 是APL功能符号：四边形三角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-234e-4722",
+      "symbol": "⍎",
+      "name": "APL功能符号：下钉点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：下钉点",
+        "Apl Functional Symbol Down Tack Jot",
+        "APL",
+        "其他",
+        "234E",
+        "U+234E"
+      ],
+      "notes": "⍎ 是APL功能符号：下钉点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-234f-4723",
+      "symbol": "⍏",
+      "name": "APL功能符号：上向翼形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：上向翼形",
+        "Apl Functional Symbol Upwards Vane",
+        "APL",
+        "其他",
+        "234F",
+        "U+234F"
+      ],
+      "notes": "⍏ 是APL功能符号：上向翼形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2350-4724",
+      "symbol": "⍐",
+      "name": "APL功能符号：四边形上向箭头",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形上向箭头",
+        "Apl Functional Symbol Quad Upwards Arrow",
+        "APL",
+        "其他",
+        "2350",
+        "U+2350"
+      ],
+      "notes": "⍐ 是APL功能符号：四边形上向箭头的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2351-4725",
+      "symbol": "⍑",
+      "name": "APL功能符号：上钉上划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：上钉上划线",
+        "Apl Functional Symbol Up Tack Overbar",
+        "APL",
+        "其他",
+        "2351",
+        "U+2351"
+      ],
+      "notes": "⍑ 是APL功能符号：上钉上划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2352-4726",
+      "symbol": "⍒",
+      "name": "APL功能符号：删除竖线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：删除竖线",
+        "Apl Functional Symbol Del Stile",
+        "APL",
+        "其他",
+        "2352",
+        "U+2352"
+      ],
+      "notes": "⍒ 是APL功能符号：删除竖线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2353-4727",
+      "symbol": "⍓",
+      "name": "APL功能符号：四边形上尖号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形上尖号",
+        "Apl Functional Symbol Quad Up Caret",
+        "APL",
+        "其他",
+        "2353",
+        "U+2353"
+      ],
+      "notes": "⍓ 是APL功能符号：四边形上尖号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2354-4728",
+      "symbol": "⍔",
+      "name": "APL功能符号：四边形删除",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形删除",
+        "Apl Functional Symbol Quad Del",
+        "APL",
+        "其他",
+        "2354",
+        "U+2354"
+      ],
+      "notes": "⍔ 是APL功能符号：四边形删除的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2355-4729",
+      "symbol": "⍕",
+      "name": "APL功能符号：上钉点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：上钉点",
+        "Apl Functional Symbol Up Tack Jot",
+        "APL",
+        "其他",
+        "2355",
+        "U+2355"
+      ],
+      "notes": "⍕ 是APL功能符号：上钉点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2356-4730",
+      "symbol": "⍖",
+      "name": "APL功能符号：下向翼形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：下向翼形",
+        "Apl Functional Symbol Downwards Vane",
+        "APL",
+        "其他",
+        "2356",
+        "U+2356"
+      ],
+      "notes": "⍖ 是APL功能符号：下向翼形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2357-4731",
+      "symbol": "⍗",
+      "name": "APL功能符号：四边形下向箭头",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形下向箭头",
+        "Apl Functional Symbol Quad Downwards Arrow",
+        "APL",
+        "其他",
+        "2357",
+        "U+2357"
+      ],
+      "notes": "⍗ 是APL功能符号：四边形下向箭头的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2358-4732",
+      "symbol": "⍘",
+      "name": "APL功能符号：引号下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：引号下划线",
+        "Apl Functional Symbol Quote Underbar",
+        "APL",
+        "其他",
+        "2358",
+        "U+2358"
+      ],
+      "notes": "⍘ 是APL功能符号：引号下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2359-4733",
+      "symbol": "⍙",
+      "name": "APL功能符号：三角下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：三角下划线",
+        "Apl Functional Symbol Delta Underbar",
+        "APL",
+        "其他",
+        "2359",
+        "U+2359"
+      ],
+      "notes": "⍙ 是APL功能符号：三角下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-235a-4734",
+      "symbol": "⍚",
+      "name": "APL功能符号：菱形下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：菱形下划线",
+        "Apl Functional Symbol Diamond Underbar",
+        "APL",
+        "其他",
+        "235A",
+        "U+235A"
+      ],
+      "notes": "⍚ 是APL功能符号：菱形下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-235b-4735",
+      "symbol": "⍛",
+      "name": "APL功能符号：点下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：点下划线",
+        "Apl Functional Symbol Jot Underbar",
+        "APL",
+        "其他",
+        "235B",
+        "U+235B"
+      ],
+      "notes": "⍛ 是APL功能符号：点下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-235c-4736",
+      "symbol": "⍜",
+      "name": "APL功能符号：圆下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：圆下划线",
+        "Apl Functional Symbol Circle Underbar",
+        "APL",
+        "其他",
+        "235C",
+        "U+235C"
+      ],
+      "notes": "⍜ 是APL功能符号：圆下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-235d-4737",
+      "symbol": "⍝",
+      "name": "APL功能符号：上鞋形点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：上鞋形点",
+        "Apl Functional Symbol Up Shoe Jot",
+        "APL",
+        "其他",
+        "235D",
+        "U+235D"
+      ],
+      "notes": "⍝ 是APL功能符号：上鞋形点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-235e-4738",
+      "symbol": "⍞",
+      "name": "APL功能符号：引号四边形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：引号四边形",
+        "Apl Functional Symbol Quote Quad",
+        "APL",
+        "其他",
+        "235E",
+        "U+235E"
+      ],
+      "notes": "⍞ 是APL功能符号：引号四边形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-235f-4739",
+      "symbol": "⍟",
+      "name": "APL功能符号：圆星形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：圆星形",
+        "Apl Functional Symbol Circle Star",
+        "APL",
+        "其他",
+        "235F",
+        "U+235F"
+      ],
+      "notes": "⍟ 是APL功能符号：圆星形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2360-4740",
+      "symbol": "⍠",
+      "name": "APL功能符号：四边形冒号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形冒号",
+        "Apl Functional Symbol Quad Colon",
+        "APL",
+        "其他",
+        "2360",
+        "U+2360"
+      ],
+      "notes": "⍠ 是APL功能符号：四边形冒号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2361-4741",
+      "symbol": "⍡",
+      "name": "APL功能符号：上钉分音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：上钉分音符",
+        "Apl Functional Symbol Up Tack Diaeresis",
+        "APL",
+        "其他",
+        "2361",
+        "U+2361"
+      ],
+      "notes": "⍡ 是APL功能符号：上钉分音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2362-4742",
+      "symbol": "⍢",
+      "name": "APL功能符号：删除分音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：删除分音符",
+        "Apl Functional Symbol Del Diaeresis",
+        "APL",
+        "其他",
+        "2362",
+        "U+2362"
+      ],
+      "notes": "⍢ 是APL功能符号：删除分音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2363-4743",
+      "symbol": "⍣",
+      "name": "APL功能符号：星形分音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：星形分音符",
+        "Apl Functional Symbol Star Diaeresis",
+        "APL",
+        "其他",
+        "2363",
+        "U+2363"
+      ],
+      "notes": "⍣ 是APL功能符号：星形分音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2364-4744",
+      "symbol": "⍤",
+      "name": "APL功能符号：点分音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：点分音符",
+        "Apl Functional Symbol Jot Diaeresis",
+        "APL",
+        "其他",
+        "2364",
+        "U+2364"
+      ],
+      "notes": "⍤ 是APL功能符号：点分音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2365-4745",
+      "symbol": "⍥",
+      "name": "APL功能符号：圆分音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：圆分音符",
+        "Apl Functional Symbol Circle Diaeresis",
+        "APL",
+        "其他",
+        "2365",
+        "U+2365"
+      ],
+      "notes": "⍥ 是APL功能符号：圆分音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2366-4746",
+      "symbol": "⍦",
+      "name": "APL功能符号：下鞋形竖线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：下鞋形竖线",
+        "Apl Functional Symbol Down Shoe Stile",
+        "APL",
+        "其他",
+        "2366",
+        "U+2366"
+      ],
+      "notes": "⍦ 是APL功能符号：下鞋形竖线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2367-4747",
+      "symbol": "⍧",
+      "name": "APL功能符号：左鞋形竖线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：左鞋形竖线",
+        "Apl Functional Symbol Left Shoe Stile",
+        "APL",
+        "其他",
+        "2367",
+        "U+2367"
+      ],
+      "notes": "⍧ 是APL功能符号：左鞋形竖线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2368-4748",
+      "symbol": "⍨",
+      "name": "APL功能符号：波浪分音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：波浪分音符",
+        "Apl Functional Symbol Tilde Diaeresis",
+        "APL",
+        "其他",
+        "2368",
+        "U+2368"
+      ],
+      "notes": "⍨ 是APL功能符号：波浪分音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2369-4749",
+      "symbol": "⍩",
+      "name": "APL功能符号：大于号分音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：大于号分音符",
+        "Apl Functional Symbol Greater-Than Diaeresis",
+        "APL",
+        "其他",
+        "2369",
+        "U+2369"
+      ],
+      "notes": "⍩ 是APL功能符号：大于号分音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-236a-4750",
+      "symbol": "⍪",
+      "name": "APL功能符号：逗号横线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：逗号横线",
+        "Apl Functional Symbol Comma Bar",
+        "APL",
+        "其他",
+        "236A",
+        "U+236A"
+      ],
+      "notes": "⍪ 是APL功能符号：逗号横线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-236b-4751",
+      "symbol": "⍫",
+      "name": "APL功能符号：删除波浪",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：删除波浪",
+        "Apl Functional Symbol Del Tilde",
+        "APL",
+        "其他",
+        "236B",
+        "U+236B"
+      ],
+      "notes": "⍫ 是APL功能符号：删除波浪的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-236c-4752",
+      "symbol": "⍬",
+      "name": "APL功能符号：空向量",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：空向量",
+        "Apl Functional Symbol Zilde",
+        "APL",
+        "其他",
+        "236C",
+        "U+236C"
+      ],
+      "notes": "⍬ 是APL功能符号：空向量的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-236d-4753",
+      "symbol": "⍭",
+      "name": "APL功能符号：竖线波浪",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：竖线波浪",
+        "Apl Functional Symbol Stile Tilde",
+        "APL",
+        "其他",
+        "236D",
+        "U+236D"
+      ],
+      "notes": "⍭ 是APL功能符号：竖线波浪的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-236e-4754",
+      "symbol": "⍮",
+      "name": "APL功能符号：分号下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：分号下划线",
+        "Apl Functional Symbol Semicolon Underbar",
+        "APL",
+        "其他",
+        "236E",
+        "U+236E"
+      ],
+      "notes": "⍮ 是APL功能符号：分号下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-236f-4755",
+      "symbol": "⍯",
+      "name": "APL功能符号：四边形不等号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形不等号",
+        "Apl Functional Symbol Quad Not Equal",
+        "APL",
+        "其他",
+        "236F",
+        "U+236F"
+      ],
+      "notes": "⍯ 是APL功能符号：四边形不等号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2370-4756",
+      "symbol": "⍰",
+      "name": "APL功能符号：四边形问号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：四边形问号",
+        "Apl Functional Symbol Quad Question",
+        "APL",
+        "其他",
+        "2370",
+        "U+2370"
+      ],
+      "notes": "⍰ 是APL功能符号：四边形问号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2371-4757",
+      "symbol": "⍱",
+      "name": "APL功能符号：下尖号波浪",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：下尖号波浪",
+        "Apl Functional Symbol Down Caret Tilde",
+        "APL",
+        "其他",
+        "2371",
+        "U+2371"
+      ],
+      "notes": "⍱ 是APL功能符号：下尖号波浪的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2372-4758",
+      "symbol": "⍲",
+      "name": "APL功能符号：上尖号波浪",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：上尖号波浪",
+        "Apl Functional Symbol Up Caret Tilde",
+        "APL",
+        "其他",
+        "2372",
+        "U+2372"
+      ],
+      "notes": "⍲ 是APL功能符号：上尖号波浪的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2373-4759",
+      "symbol": "⍳",
+      "name": "APL功能符号：约塔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：约塔",
+        "Apl Functional Symbol Iota",
+        "APL",
+        "其他",
+        "2373",
+        "U+2373"
+      ],
+      "notes": "⍳ 是APL功能符号：约塔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2374-4760",
+      "symbol": "⍴",
+      "name": "APL功能符号：柔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：柔",
+        "Apl Functional Symbol Rho",
+        "APL",
+        "其他",
+        "2374",
+        "U+2374"
+      ],
+      "notes": "⍴ 是APL功能符号：柔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2375-4761",
+      "symbol": "⍵",
+      "name": "APL功能符号：欧米伽",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：欧米伽",
+        "Apl Functional Symbol Omega",
+        "APL",
+        "其他",
+        "2375",
+        "U+2375"
+      ],
+      "notes": "⍵ 是APL功能符号：欧米伽的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2376-4762",
+      "symbol": "⍶",
+      "name": "APL功能符号：阿尔法下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：阿尔法下划线",
+        "Apl Functional Symbol Alpha Underbar",
+        "APL",
+        "其他",
+        "2376",
+        "U+2376"
+      ],
+      "notes": "⍶ 是APL功能符号：阿尔法下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2380-4772",
+      "symbol": "⎀",
+      "name": "插入符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "插入符号",
+        "Insertion Symbol",
+        "其他",
+        "2380",
+        "U+2380"
+      ],
+      "notes": "⎀ 是插入符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2381-4773",
+      "symbol": "⎁",
+      "name": "连续下划线符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "连续下划线符号",
+        "Continuous Underline Symbol",
+        "其他",
+        "2381",
+        "U+2381"
+      ],
+      "notes": "⎁ 是连续下划线符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2382-4774",
+      "symbol": "⎂",
+      "name": "断续下划线符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "断续下划线符号",
+        "Discontinuous Underline Symbol",
+        "其他",
+        "2382",
+        "U+2382"
+      ],
+      "notes": "⎂ 是断续下划线符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2383-4775",
+      "symbol": "⎃",
+      "name": "强调符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "强调符号",
+        "Emphasis Symbol",
+        "其他",
+        "2383",
+        "U+2383"
+      ],
+      "notes": "⎃ 是强调符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2384-4776",
+      "symbol": "⎄",
+      "name": "组合符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "组合符号",
+        "Composition Symbol",
+        "其他",
+        "2384",
+        "U+2384"
+      ],
+      "notes": "⎄ 是组合符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2385-4777",
+      "symbol": "⎅",
+      "name": "白方框带中心竖线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "白方框带中心竖线",
+        "White Square with Centre Vertical Line",
+        "其他",
+        "2385",
+        "U+2385"
+      ],
+      "notes": "⎅ 是白方框带中心竖线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2386-4778",
+      "symbol": "⎆",
+      "name": "回车符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "回车符号",
+        "Enter Symbol",
+        "其他",
+        "2386",
+        "U+2386"
+      ],
+      "notes": "⎆ 是回车符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2387-4779",
+      "symbol": "⎇",
+      "name": "替代键符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "替代键符号",
+        "Alternative Key Symbol",
+        "其他",
+        "2387",
+        "U+2387"
+      ],
+      "notes": "⎇ 是替代键符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2388-4780",
+      "symbol": "⎈",
+      "name": "舵轮符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "舵轮符号",
+        "Helm Symbol",
+        "其他",
+        "2388",
+        "U+2388"
+      ],
+      "notes": "⎈ 是舵轮符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2389-4781",
+      "symbol": "⎉",
+      "name": "圆圈横线带缺口",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "圆圈横线带缺口",
+        "Circled Horizontal Bar with Notch",
+        "其他",
+        "2389",
+        "U+2389"
+      ],
+      "notes": "⎉ 是圆圈横线带缺口的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-238a-4782",
+      "symbol": "⎊",
+      "name": "圆圈下三角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "圆圈下三角",
+        "Circled Triangle Down",
+        "其他",
+        "238A",
+        "U+238A"
+      ],
+      "notes": "⎊ 是圆圈下三角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-238b-4783",
+      "symbol": "⎋",
+      "name": "断圆带西北箭头",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "断圆带西北箭头",
+        "Broken Circle with Northwest Arrow",
+        "其他",
+        "238B",
+        "U+238B"
+      ],
+      "notes": "⎋ 是断圆带西北箭头的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-238c-4784",
+      "symbol": "⎌",
+      "name": "撤销符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "撤销符号",
+        "Undo Symbol",
+        "其他",
+        "238C",
+        "U+238C"
+      ],
+      "notes": "⎌ 是撤销符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-238d-4785",
+      "symbol": "⎍",
+      "name": "单稳态符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "单稳态符号",
+        "Monostable Symbol",
+        "其他",
+        "238D",
+        "U+238D"
+      ],
+      "notes": "⎍ 是单稳态符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-238e-4786",
+      "symbol": "⎎",
+      "name": "滞回符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "滞回符号",
+        "Hysteresis Symbol",
+        "其他",
+        "238E",
+        "U+238E"
+      ],
+      "notes": "⎎ 是滞回符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-238f-4787",
+      "symbol": "⎏",
+      "name": "开路输出H-类型符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "开路输出H-类型符号",
+        "Open-Circuit-Output H-Type Symbol",
+        "其他",
+        "238F",
+        "U+238F"
+      ],
+      "notes": "⎏ 是开路输出H-类型符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2390-4788",
+      "symbol": "⎐",
+      "name": "开路输出L-类型符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "开路输出L-类型符号",
+        "Open-Circuit-Output L-Type Symbol",
+        "其他",
+        "2390",
+        "U+2390"
+      ],
+      "notes": "⎐ 是开路输出L-类型符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2391-4789",
+      "symbol": "⎑",
+      "name": "无源下拉输出符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "无源下拉输出符号",
+        "Passive-Pull-Down-Output Symbol",
+        "其他",
+        "2391",
+        "U+2391"
+      ],
+      "notes": "⎑ 是无源下拉输出符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2392-4790",
+      "symbol": "⎒",
+      "name": "无源上拉输出符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "无源上拉输出符号",
+        "Passive-Pull-Up-Output Symbol",
+        "其他",
+        "2392",
+        "U+2392"
+      ],
+      "notes": "⎒ 是无源上拉输出符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2393-4791",
+      "symbol": "⎓",
+      "name": "直流符号形式二",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "直流符号形式二",
+        "Direct Current Symbol Form Two",
+        "其他",
+        "2393",
+        "U+2393"
+      ],
+      "notes": "⎓ 是直流符号形式二的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2394-4792",
+      "symbol": "⎔",
+      "name": "软件功能符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "软件功能符号",
+        "Software-Function Symbol",
+        "其他",
+        "2394",
+        "U+2394"
+      ],
+      "notes": "⎔ 是软件功能符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2395-4793",
+      "symbol": "⎕",
+      "name": "APL功能符号四边形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号四边形",
+        "Apl Functional Symbol Quad",
+        "其他",
+        "2395",
+        "U+2395"
+      ],
+      "notes": "⎕ 是APL功能符号四边形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2396-4794",
+      "symbol": "⎖",
+      "name": "小数分隔键符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "小数分隔键符号",
+        "Decimal Separator Key Symbol",
+        "其他",
+        "2396",
+        "U+2396"
+      ],
+      "notes": "⎖ 是小数分隔键符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2397-4795",
+      "symbol": "⎗",
+      "name": "上一页",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上一页",
+        "Previous Page",
+        "其他",
+        "2397",
+        "U+2397"
+      ],
+      "notes": "⎗ 是上一页的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2398-4796",
+      "symbol": "⎘",
+      "name": "下一页",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下一页",
+        "Next Page",
+        "其他",
+        "2398",
+        "U+2398"
+      ],
+      "notes": "⎘ 是下一页的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2399-4797",
+      "symbol": "⎙",
+      "name": "打印屏幕符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "打印屏幕符号",
+        "Print Screen Symbol",
+        "其他",
+        "2399",
+        "U+2399"
+      ],
+      "notes": "⎙ 是打印屏幕符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-239a-4798",
+      "symbol": "⎚",
+      "name": "清屏符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "清屏符号",
+        "Clear Screen Symbol",
+        "其他",
+        "239A",
+        "U+239A"
+      ],
+      "notes": "⎚ 是清屏符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-239b-4799",
+      "symbol": "⎛",
+      "name": "左圆括号上钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左圆括号上钩",
+        "Left Parenthesis Upper Hook",
+        "其他",
+        "239B",
+        "U+239B"
+      ],
+      "notes": "⎛ 是左圆括号上钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-239c-4800",
+      "symbol": "⎜",
+      "name": "左圆括号延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左圆括号延伸部件",
+        "Left Parenthesis Extension",
+        "其他",
+        "239C",
+        "U+239C"
+      ],
+      "notes": "⎜ 是左圆括号延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-239d-4801",
+      "symbol": "⎝",
+      "name": "左圆括号下钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左圆括号下钩",
+        "Left Parenthesis Lower Hook",
+        "其他",
+        "239D",
+        "U+239D"
+      ],
+      "notes": "⎝ 是左圆括号下钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-239e-4802",
+      "symbol": "⎞",
+      "name": "右圆括号上钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右圆括号上钩",
+        "Right Parenthesis Upper Hook",
+        "其他",
+        "239E",
+        "U+239E"
+      ],
+      "notes": "⎞ 是右圆括号上钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-239f-4803",
+      "symbol": "⎟",
+      "name": "右圆括号延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右圆括号延伸部件",
+        "Right Parenthesis Extension",
+        "其他",
+        "239F",
+        "U+239F"
+      ],
+      "notes": "⎟ 是右圆括号延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a0-4804",
+      "symbol": "⎠",
+      "name": "右圆括号下钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右圆括号下钩",
+        "Right Parenthesis Lower Hook",
+        "其他",
+        "23A0",
+        "U+23A0"
+      ],
+      "notes": "⎠ 是右圆括号下钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a1-4805",
+      "symbol": "⎡",
+      "name": "左方括号上部角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左方括号上部角",
+        "Left Square Bracket Upper Corner",
+        "其他",
+        "23A1",
+        "U+23A1"
+      ],
+      "notes": "⎡ 是左方括号上部角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a2-4806",
+      "symbol": "⎢",
+      "name": "左方括号延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左方括号延伸部件",
+        "Left Square Bracket Extension",
+        "其他",
+        "23A2",
+        "U+23A2"
+      ],
+      "notes": "⎢ 是左方括号延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a3-4807",
+      "symbol": "⎣",
+      "name": "左方括号下部角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左方括号下部角",
+        "Left Square Bracket Lower Corner",
+        "其他",
+        "23A3",
+        "U+23A3"
+      ],
+      "notes": "⎣ 是左方括号下部角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a4-4808",
+      "symbol": "⎤",
+      "name": "右方括号上部角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右方括号上部角",
+        "Right Square Bracket Upper Corner",
+        "其他",
+        "23A4",
+        "U+23A4"
+      ],
+      "notes": "⎤ 是右方括号上部角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a5-4809",
+      "symbol": "⎥",
+      "name": "右方括号延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右方括号延伸部件",
+        "Right Square Bracket Extension",
+        "其他",
+        "23A5",
+        "U+23A5"
+      ],
+      "notes": "⎥ 是右方括号延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a6-4810",
+      "symbol": "⎦",
+      "name": "右方括号下部角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右方括号下部角",
+        "Right Square Bracket Lower Corner",
+        "其他",
+        "23A6",
+        "U+23A6"
+      ],
+      "notes": "⎦ 是右方括号下部角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a7-4811",
+      "symbol": "⎧",
+      "name": "左花括号上钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左花括号上钩",
+        "Left Curly Bracket Upper Hook",
+        "其他",
+        "23A7",
+        "U+23A7"
+      ],
+      "notes": "⎧ 是左花括号上钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a8-4812",
+      "symbol": "⎨",
+      "name": "左花括号中间部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左花括号中间部件",
+        "Left Curly Bracket Middle Piece",
+        "其他",
+        "23A8",
+        "U+23A8"
+      ],
+      "notes": "⎨ 是左花括号中间部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23a9-4813",
+      "symbol": "⎩",
+      "name": "左花括号下钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左花括号下钩",
+        "Left Curly Bracket Lower Hook",
+        "其他",
+        "23A9",
+        "U+23A9"
+      ],
+      "notes": "⎩ 是左花括号下钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23aa-4814",
+      "symbol": "⎪",
+      "name": "花括号延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "花括号延伸部件",
+        "Curly Bracket Extension",
+        "其他",
+        "23AA",
+        "U+23AA"
+      ],
+      "notes": "⎪ 是花括号延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ab-4815",
+      "symbol": "⎫",
+      "name": "右花括号上钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右花括号上钩",
+        "Right Curly Bracket Upper Hook",
+        "其他",
+        "23AB",
+        "U+23AB"
+      ],
+      "notes": "⎫ 是右花括号上钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ac-4816",
+      "symbol": "⎬",
+      "name": "右花括号中间部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右花括号中间部件",
+        "Right Curly Bracket Middle Piece",
+        "其他",
+        "23AC",
+        "U+23AC"
+      ],
+      "notes": "⎬ 是右花括号中间部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ad-4817",
+      "symbol": "⎭",
+      "name": "右花括号下钩",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右花括号下钩",
+        "Right Curly Bracket Lower Hook",
+        "其他",
+        "23AD",
+        "U+23AD"
+      ],
+      "notes": "⎭ 是右花括号下钩的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ae-4818",
+      "symbol": "⎮",
+      "name": "积分延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "积分延伸部件",
+        "Integral Extension",
+        "其他",
+        "23AE",
+        "U+23AE"
+      ],
+      "notes": "⎮ 是积分延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23af-4819",
+      "symbol": "⎯",
+      "name": "水平线延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "水平线延伸部件",
+        "Horizontal Line Extension",
+        "其他",
+        "23AF",
+        "U+23AF"
+      ],
+      "notes": "⎯ 是水平线延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b0-4820",
+      "symbol": "⎰",
+      "name": "上部左或下部右花括号部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上部左或下部右花括号部件",
+        "Upper Left or Lower Right Curly Bracket Section",
+        "其他",
+        "23B0",
+        "U+23B0"
+      ],
+      "notes": "⎰ 是上部左或下部右花括号部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b1-4821",
+      "symbol": "⎱",
+      "name": "上部右或下部左花括号部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上部右或下部左花括号部件",
+        "Upper Right or Lower Left Curly Bracket Section",
+        "其他",
+        "23B1",
+        "U+23B1"
+      ],
+      "notes": "⎱ 是上部右或下部左花括号部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b2-4822",
+      "symbol": "⎲",
+      "name": "求和符号上部",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "求和符号上部",
+        "Summation Top",
+        "其他",
+        "23B2",
+        "U+23B2"
+      ],
+      "notes": "⎲ 是求和符号上部的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b3-4823",
+      "symbol": "⎳",
+      "name": "求和符号下部",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "求和符号下部",
+        "Summation Bottom",
+        "其他",
+        "23B3",
+        "U+23B3"
+      ],
+      "notes": "⎳ 是求和符号下部的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b4-4824",
+      "symbol": "⎴",
+      "name": "上方括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上方括号",
+        "Top Square Bracket",
+        "其他",
+        "23B4",
+        "U+23B4"
+      ],
+      "notes": "⎴ 是上方括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b5-4825",
+      "symbol": "⎵",
+      "name": "下方括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下方括号",
+        "Bottom Square Bracket",
+        "其他",
+        "23B5",
+        "U+23B5"
+      ],
+      "notes": "⎵ 是下方括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b6-4826",
+      "symbol": "⎶",
+      "name": "下方括号上覆上方括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下方括号上覆上方括号",
+        "Bottom Square Bracket Over Top Square Bracket",
+        "其他",
+        "23B6",
+        "U+23B6"
+      ],
+      "notes": "⎶ 是下方括号上覆上方括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b7-4827",
+      "symbol": "⎷",
+      "name": "根号下部",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "根号下部",
+        "Radical Symbol Bottom",
+        "其他",
+        "23B7",
+        "U+23B7"
+      ],
+      "notes": "⎷ 是根号下部的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b8-4828",
+      "symbol": "⎸",
+      "name": "左竖框线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "左竖框线",
+        "Left Vertical Box Line",
+        "其他",
+        "23B8",
+        "U+23B8"
+      ],
+      "notes": "⎸ 是左竖框线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23b9-4829",
+      "symbol": "⎹",
+      "name": "右竖框线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "右竖框线",
+        "Right Vertical Box Line",
+        "其他",
+        "23B9",
+        "U+23B9"
+      ],
+      "notes": "⎹ 是右竖框线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ba-4830",
+      "symbol": "⎺",
+      "name": "水平扫描线-1",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "水平扫描线-1",
+        "Horizontal Scan Line-1",
+        "其他",
+        "23BA",
+        "U+23BA"
+      ],
+      "notes": "⎺ 是水平扫描线-1的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23bb-4831",
+      "symbol": "⎻",
+      "name": "水平扫描线-3",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "水平扫描线-3",
+        "Horizontal Scan Line-3",
+        "其他",
+        "23BB",
+        "U+23BB"
+      ],
+      "notes": "⎻ 是水平扫描线-3的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23bc-4832",
+      "symbol": "⎼",
+      "name": "水平扫描线-7",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "水平扫描线-7",
+        "Horizontal Scan Line-7",
+        "其他",
+        "23BC",
+        "U+23BC"
+      ],
+      "notes": "⎼ 是水平扫描线-7的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23bd-4833",
+      "symbol": "⎽",
+      "name": "水平扫描线-9",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "水平扫描线-9",
+        "Horizontal Scan Line-9",
+        "其他",
+        "23BD",
+        "U+23BD"
+      ],
+      "notes": "⎽ 是水平扫描线-9的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23be-4834",
+      "symbol": "⎾",
+      "name": "牙科符号细竖线与右上",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细竖线与右上",
+        "Dentistry Symbol Light Vertical and Top Right",
+        "其他",
+        "23BE",
+        "U+23BE"
+      ],
+      "notes": "⎾ 是牙科符号细竖线与右上的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23bf-4835",
+      "symbol": "⎿",
+      "name": "牙科符号细竖线与右下",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细竖线与右下",
+        "Dentistry Symbol Light Vertical and Bottom Right",
+        "其他",
+        "23BF",
+        "U+23BF"
+      ],
+      "notes": "⎿ 是牙科符号细竖线与右下的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c0-4836",
+      "symbol": "⏀",
+      "name": "牙科符号细竖线带圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细竖线带圆",
+        "Dentistry Symbol Light Vertical with Circle",
+        "其他",
+        "23C0",
+        "U+23C0"
+      ],
+      "notes": "⏀ 是牙科符号细竖线带圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c1-4837",
+      "symbol": "⏁",
+      "name": "牙科符号细下向横线带圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细下向横线带圆",
+        "Dentistry Symbol Light Down and Horizontal with Circle",
+        "其他",
+        "23C1",
+        "U+23C1"
+      ],
+      "notes": "⏁ 是牙科符号细下向横线带圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c2-4838",
+      "symbol": "⏂",
+      "name": "牙科符号细上向横线带圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细上向横线带圆",
+        "Dentistry Symbol Light Up and Horizontal with Circle",
+        "其他",
+        "23C2",
+        "U+23C2"
+      ],
+      "notes": "⏂ 是牙科符号细上向横线带圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c3-4839",
+      "symbol": "⏃",
+      "name": "牙科符号细竖线带三角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细竖线带三角",
+        "Dentistry Symbol Light Vertical with Triangle",
+        "其他",
+        "23C3",
+        "U+23C3"
+      ],
+      "notes": "⏃ 是牙科符号细竖线带三角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c4-4840",
+      "symbol": "⏄",
+      "name": "牙科符号细下向横线带三角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细下向横线带三角",
+        "Dentistry Symbol Light Down and Horizontal with Triangle",
+        "其他",
+        "23C4",
+        "U+23C4"
+      ],
+      "notes": "⏄ 是牙科符号细下向横线带三角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c5-4841",
+      "symbol": "⏅",
+      "name": "牙科符号细上向横线带三角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细上向横线带三角",
+        "Dentistry Symbol Light Up and Horizontal with Triangle",
+        "其他",
+        "23C5",
+        "U+23C5"
+      ],
+      "notes": "⏅ 是牙科符号细上向横线带三角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c6-4842",
+      "symbol": "⏆",
+      "name": "牙科符号细竖线与波浪线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细竖线与波浪线",
+        "Dentistry Symbol Light Vertical and Wave",
+        "其他",
+        "23C6",
+        "U+23C6"
+      ],
+      "notes": "⏆ 是牙科符号细竖线与波浪线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c7-4843",
+      "symbol": "⏇",
+      "name": "牙科符号细下向横线带波浪",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细下向横线带波浪",
+        "Dentistry Symbol Light Down and Horizontal with Wave",
+        "其他",
+        "23C7",
+        "U+23C7"
+      ],
+      "notes": "⏇ 是牙科符号细下向横线带波浪的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c8-4844",
+      "symbol": "⏈",
+      "name": "牙科符号细上向横线带波浪",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细上向横线带波浪",
+        "Dentistry Symbol Light Up and Horizontal with Wave",
+        "其他",
+        "23C8",
+        "U+23C8"
+      ],
+      "notes": "⏈ 是牙科符号细上向横线带波浪的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23c9-4845",
+      "symbol": "⏉",
+      "name": "牙科符号细下向横线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细下向横线",
+        "Dentistry Symbol Light Down and Horizontal",
+        "其他",
+        "23C9",
+        "U+23C9"
+      ],
+      "notes": "⏉ 是牙科符号细下向横线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ca-4846",
+      "symbol": "⏊",
+      "name": "牙科符号细上向横线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细上向横线",
+        "Dentistry Symbol Light Up and Horizontal",
+        "其他",
+        "23CA",
+        "U+23CA"
+      ],
+      "notes": "⏊ 是牙科符号细上向横线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23cb-4847",
+      "symbol": "⏋",
+      "name": "牙科符号细竖线与左上",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细竖线与左上",
+        "Dentistry Symbol Light Vertical and Top Left",
+        "其他",
+        "23CB",
+        "U+23CB"
+      ],
+      "notes": "⏋ 是牙科符号细竖线与左上的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23cc-4848",
+      "symbol": "⏌",
+      "name": "牙科符号细竖线与左下",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "牙科符号细竖线与左下",
+        "Dentistry Symbol Light Vertical and Bottom Left",
+        "其他",
+        "23CC",
+        "U+23CC"
+      ],
+      "notes": "⏌ 是牙科符号细竖线与左下的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23cd-4849",
+      "symbol": "⏍",
+      "name": "平方英尺符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "平方英尺符号",
+        "Square Foot",
+        "其他",
+        "23CD",
+        "U+23CD"
+      ],
+      "notes": "⏍ 是平方英尺符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ce-4850",
+      "symbol": "⏎",
+      "name": "返回符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "返回符号",
+        "Return Symbol",
+        "其他",
+        "23CE",
+        "U+23CE"
+      ],
+      "notes": "⏎ 是返回符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d0-4852",
+      "symbol": "⏐",
+      "name": "竖线延伸部件",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "竖线延伸部件",
+        "Vertical Line Extension",
+        "其他",
+        "23D0",
+        "U+23D0"
+      ],
+      "notes": "⏐ 是竖线延伸部件的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d1-4853",
+      "symbol": "⏑",
+      "name": "诗律短音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律短音符",
+        "Metrical Breve",
+        "其他",
+        "23D1",
+        "U+23D1"
+      ],
+      "notes": "⏑ 是诗律短音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d2-4854",
+      "symbol": "⏒",
+      "name": "诗律长短组合",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律长短组合",
+        "Metrical Long Over Short",
+        "其他",
+        "23D2",
+        "U+23D2"
+      ],
+      "notes": "⏒ 是诗律长短组合的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d3-4855",
+      "symbol": "⏓",
+      "name": "诗律短长组合",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律短长组合",
+        "Metrical Short Over Long",
+        "其他",
+        "23D3",
+        "U+23D3"
+      ],
+      "notes": "⏓ 是诗律短长组合的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d4-4856",
+      "symbol": "⏔",
+      "name": "诗律一长二短组合",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律一长二短组合",
+        "Metrical Long Over Two Shorts",
+        "其他",
+        "23D4",
+        "U+23D4"
+      ],
+      "notes": "⏔ 是诗律一长二短组合的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d5-4857",
+      "symbol": "⏕",
+      "name": "诗律二短一长组合",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律二短一长组合",
+        "Metrical Two Shorts Over Long",
+        "其他",
+        "23D5",
+        "U+23D5"
+      ],
+      "notes": "⏕ 是诗律二短一长组合的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d6-4858",
+      "symbol": "⏖",
+      "name": "诗律相连二短音符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律相连二短音符",
+        "Metrical Two Shorts Joined",
+        "其他",
+        "23D6",
+        "U+23D6"
+      ],
+      "notes": "⏖ 是诗律相连二短音符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d7-4859",
+      "symbol": "⏗",
+      "name": "诗律三拍符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律三拍符",
+        "Metrical Triseme",
+        "其他",
+        "23D7",
+        "U+23D7"
+      ],
+      "notes": "⏗ 是诗律三拍符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d8-4860",
+      "symbol": "⏘",
+      "name": "诗律四拍符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律四拍符",
+        "Metrical Tetraseme",
+        "其他",
+        "23D8",
+        "U+23D8"
+      ],
+      "notes": "⏘ 是诗律四拍符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23d9-4861",
+      "symbol": "⏙",
+      "name": "诗律五拍符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "诗律五拍符",
+        "Metrical Pentaseme",
+        "其他",
+        "23D9",
+        "U+23D9"
+      ],
+      "notes": "⏙ 是诗律五拍符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23da-4862",
+      "symbol": "⏚",
+      "name": "接地符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "接地符号",
+        "Earth Ground",
+        "其他",
+        "23DA",
+        "U+23DA"
+      ],
+      "notes": "⏚ 是接地符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23db-4863",
+      "symbol": "⏛",
+      "name": "保险丝符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "保险丝符号",
+        "Fuse",
+        "其他",
+        "23DB",
+        "U+23DB"
+      ],
+      "notes": "⏛ 是保险丝符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23dc-4864",
+      "symbol": "⏜",
+      "name": "上圆括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上圆括号",
+        "Top Parenthesis",
+        "其他",
+        "23DC",
+        "U+23DC"
+      ],
+      "notes": "⏜ 是上圆括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23dd-4865",
+      "symbol": "⏝",
+      "name": "下圆括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下圆括号",
+        "Bottom Parenthesis",
+        "其他",
+        "23DD",
+        "U+23DD"
+      ],
+      "notes": "⏝ 是下圆括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23de-4866",
+      "symbol": "⏞",
+      "name": "上花括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上花括号",
+        "Top Curly Bracket",
+        "其他",
+        "23DE",
+        "U+23DE"
+      ],
+      "notes": "⏞ 是上花括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23df-4867",
+      "symbol": "⏟",
+      "name": "下花括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下花括号",
+        "Bottom Curly Bracket",
+        "其他",
+        "23DF",
+        "U+23DF"
+      ],
+      "notes": "⏟ 是下花括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e0-4868",
+      "symbol": "⏠",
+      "name": "上龟甲括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "上龟甲括号",
+        "Top Tortoise Shell Bracket",
+        "其他",
+        "23E0",
+        "U+23E0"
+      ],
+      "notes": "⏠ 是上龟甲括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e1-4869",
+      "symbol": "⏡",
+      "name": "下龟甲括号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "下龟甲括号",
+        "Bottom Tortoise Shell Bracket",
+        "其他",
+        "23E1",
+        "U+23E1"
+      ],
+      "notes": "⏡ 是下龟甲括号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e2-4870",
+      "symbol": "⏢",
+      "name": "白色梯形",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "白色梯形",
+        "White Trapezium",
+        "其他",
+        "23E2",
+        "U+23E2"
+      ],
+      "notes": "⏢ 是白色梯形的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e3-4871",
+      "symbol": "⏣",
+      "name": "苯环带圆",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "苯环带圆",
+        "Benzene Ring with Circle",
+        "其他",
+        "23E3",
+        "U+23E3"
+      ],
+      "notes": "⏣ 是苯环带圆的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e4-4872",
+      "symbol": "⏤",
+      "name": "直线度",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "直线度",
+        "Straightness",
+        "其他",
+        "23E4",
+        "U+23E4"
+      ],
+      "notes": "⏤ 是直线度的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e5-4873",
+      "symbol": "⏥",
+      "name": "平面度",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "平面度",
+        "Flatness",
+        "其他",
+        "23E5",
+        "U+23E5"
+      ],
+      "notes": "⏥ 是平面度的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e6-4874",
+      "symbol": "⏦",
+      "name": "交流电",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "交流电",
+        "Ac Current",
+        "其他",
+        "23E6",
+        "U+23E6"
+      ],
+      "notes": "⏦ 是交流电的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e7-4875",
+      "symbol": "⏧",
+      "name": "电气交叉点",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "电气交叉点",
+        "Electrical Intersection",
+        "其他",
+        "23E7",
+        "U+23E7"
+      ],
+      "notes": "⏧ 是电气交叉点的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23e8-4876",
+      "symbol": "⏨",
+      "name": "十进制指数符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "十进制指数符号",
+        "Decimal Exponent Symbol",
+        "其他",
+        "23E8",
+        "U+23E8"
+      ],
+      "notes": "⏨ 是十进制指数符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2377-4763",
+      "symbol": "⍷",
+      "name": "APL功能符号：埃普西龙下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：埃普西龙下划线",
+        "Apl Functional Symbol Epsilon Underbar",
+        "其他",
+        "2377",
+        "U+2377"
+      ],
+      "notes": "⍷ 是APL功能符号：埃普西龙下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2378-4764",
+      "symbol": "⍸",
+      "name": "APL功能符号：约塔下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：约塔下划线",
+        "Apl Functional Symbol Iota Underbar",
+        "其他",
+        "2378",
+        "U+2378"
+      ],
+      "notes": "⍸ 是APL功能符号：约塔下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2379-4765",
+      "symbol": "⍹",
+      "name": "APL功能符号：欧米伽下划线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：欧米伽下划线",
+        "Apl Functional Symbol Omega Underbar",
+        "其他",
+        "2379",
+        "U+2379"
+      ],
+      "notes": "⍹ 是APL功能符号：欧米伽下划线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-237a-4766",
+      "symbol": "⍺",
+      "name": "APL功能符号：阿尔法",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "APL功能符号：阿尔法",
+        "Apl Functional Symbol Alpha",
+        "其他",
+        "237A",
+        "U+237A"
+      ],
+      "notes": "⍺ 是APL功能符号：阿尔法的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-237b-4767",
+      "symbol": "⍻",
+      "name": "非勾选符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "非勾选符号",
+        "Not Check Mark",
+        "其他",
+        "237B",
+        "U+237B"
+      ],
+      "notes": "⍻ 是非勾选符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-237c-4768",
+      "symbol": "⍼",
+      "name": "带下向锯齿箭头直角",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "带下向锯齿箭头直角",
+        "Right Angle with Downwards Zigzag Arrow",
+        "其他",
+        "237C",
+        "U+237C"
+      ],
+      "notes": "⍼ 是带下向锯齿箭头直角的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-237d-4769",
+      "symbol": "⍽",
+      "name": "带肩空框",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "带肩空框",
+        "Shouldered Open Box",
+        "其他",
+        "237D",
+        "U+237D"
+      ],
+      "notes": "⍽ 是带肩空框的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-237e-4770",
+      "symbol": "⍾",
+      "name": "铃形符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "铃形符号",
+        "Bell Symbol",
+        "其他",
+        "237E",
+        "U+237E"
+      ],
+      "notes": "⍾ 是铃形符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-237f-4771",
+      "symbol": "⍿",
+      "name": "中点竖线",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "中点竖线",
+        "Vertical Line with Middle Dot",
+        "其他",
+        "237F",
+        "U+237F"
+      ],
+      "notes": "⍿ 是中点竖线的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-23ff-4899",
+      "symbol": "⏿",
+      "name": "观察者眼睛符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "观察者眼睛符号",
+        "Observer Eye Symbol",
+        "其他",
+        "23FF",
+        "U+23FF"
+      ],
+      "notes": "⏿ 是观察者眼睛符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2400-4900",
+      "symbol": "␀",
+      "name": "控制字符图示：空字符",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：空字符",
+        "Symbol for Null",
+        "其他",
+        "2400",
+        "U+2400"
+      ],
+      "notes": "␀ 是控制字符图示：空字符的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2401-4901",
+      "symbol": "␁",
+      "name": "控制字符图示：标题开始",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：标题开始",
+        "Symbol for Start of Heading",
+        "其他",
+        "2401",
+        "U+2401"
+      ],
+      "notes": "␁ 是控制字符图示：标题开始的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2402-4902",
+      "symbol": "␂",
+      "name": "控制字符图示：文本开始",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：文本开始",
+        "Symbol for Start of Text",
+        "其他",
+        "2402",
+        "U+2402"
+      ],
+      "notes": "␂ 是控制字符图示：文本开始的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2403-4903",
+      "symbol": "␃",
+      "name": "控制字符图示：文本结束",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：文本结束",
+        "Symbol for End of Text",
+        "其他",
+        "2403",
+        "U+2403"
+      ],
+      "notes": "␃ 是控制字符图示：文本结束的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2404-4904",
+      "symbol": "␄",
+      "name": "控制字符图示：传输结束",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：传输结束",
+        "Symbol for End of Transmission",
+        "其他",
+        "2404",
+        "U+2404"
+      ],
+      "notes": "␄ 是控制字符图示：传输结束的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2405-4905",
+      "symbol": "␅",
+      "name": "控制字符图示：询问",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：询问",
+        "Symbol for Enquiry",
+        "其他",
+        "2405",
+        "U+2405"
+      ],
+      "notes": "␅ 是控制字符图示：询问的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2406-4906",
+      "symbol": "␆",
+      "name": "控制字符图示：确认",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：确认",
+        "Symbol for Acknowledge",
+        "其他",
+        "2406",
+        "U+2406"
+      ],
+      "notes": "␆ 是控制字符图示：确认的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2407-4907",
+      "symbol": "␇",
+      "name": "控制字符图示：响铃",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：响铃",
+        "Symbol for Bell",
+        "其他",
+        "2407",
+        "U+2407"
+      ],
+      "notes": "␇ 是控制字符图示：响铃的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2408-4908",
+      "symbol": "␈",
+      "name": "控制字符图示：退格",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：退格",
+        "Symbol for Backspace",
+        "其他",
+        "2408",
+        "U+2408"
+      ],
+      "notes": "␈ 是控制字符图示：退格的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2409-4909",
+      "symbol": "␉",
+      "name": "控制字符图示：水平制表",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：水平制表",
+        "Symbol for Horizontal Tabulation",
+        "其他",
+        "2409",
+        "U+2409"
+      ],
+      "notes": "␉ 是控制字符图示：水平制表的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-240a-4910",
+      "symbol": "␊",
+      "name": "控制字符图示：换行",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：换行",
+        "Symbol for Line Feed",
+        "其他",
+        "240A",
+        "U+240A"
+      ],
+      "notes": "␊ 是控制字符图示：换行的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-240b-4911",
+      "symbol": "␋",
+      "name": "控制字符图示：垂直制表",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：垂直制表",
+        "Symbol for Vertical Tabulation",
+        "其他",
+        "240B",
+        "U+240B"
+      ],
+      "notes": "␋ 是控制字符图示：垂直制表的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-240c-4912",
+      "symbol": "␌",
+      "name": "控制字符图示：换页",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：换页",
+        "Symbol for Form Feed",
+        "其他",
+        "240C",
+        "U+240C"
+      ],
+      "notes": "␌ 是控制字符图示：换页的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-240d-4913",
+      "symbol": "␍",
+      "name": "控制字符图示：回车",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：回车",
+        "Symbol for Carriage Return",
+        "其他",
+        "240D",
+        "U+240D"
+      ],
+      "notes": "␍ 是控制字符图示：回车的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-240e-4914",
+      "symbol": "␎",
+      "name": "控制字符图示：移出",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：移出",
+        "Symbol for Shift Out",
+        "其他",
+        "240E",
+        "U+240E"
+      ],
+      "notes": "␎ 是控制字符图示：移出的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-240f-4915",
+      "symbol": "␏",
+      "name": "控制字符图示：移入",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：移入",
+        "Symbol for Shift In",
+        "其他",
+        "240F",
+        "U+240F"
+      ],
+      "notes": "␏ 是控制字符图示：移入的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2410-4916",
+      "symbol": "␐",
+      "name": "控制字符图示：数据链路转义",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：数据链路转义",
+        "Symbol for Data Link Escape",
+        "其他",
+        "2410",
+        "U+2410"
+      ],
+      "notes": "␐ 是控制字符图示：数据链路转义的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2411-4917",
+      "symbol": "␑",
+      "name": "控制字符图示：设备控制一",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：设备控制一",
+        "Symbol for Device Control One",
+        "其他",
+        "2411",
+        "U+2411"
+      ],
+      "notes": "␑ 是控制字符图示：设备控制一的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2412-4918",
+      "symbol": "␒",
+      "name": "控制字符图示：设备控制二",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：设备控制二",
+        "Symbol for Device Control Two",
+        "其他",
+        "2412",
+        "U+2412"
+      ],
+      "notes": "␒ 是控制字符图示：设备控制二的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2413-4919",
+      "symbol": "␓",
+      "name": "控制字符图示：设备控制三",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：设备控制三",
+        "Symbol for Device Control Three",
+        "其他",
+        "2413",
+        "U+2413"
+      ],
+      "notes": "␓ 是控制字符图示：设备控制三的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2414-4920",
+      "symbol": "␔",
+      "name": "控制字符图示：设备控制四",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：设备控制四",
+        "Symbol for Device Control Four",
+        "其他",
+        "2414",
+        "U+2414"
+      ],
+      "notes": "␔ 是控制字符图示：设备控制四的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2415-4921",
+      "symbol": "␕",
+      "name": "控制字符图示：负确认",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：负确认",
+        "Symbol for Negative Acknowledge",
+        "其他",
+        "2415",
+        "U+2415"
+      ],
+      "notes": "␕ 是控制字符图示：负确认的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2416-4922",
+      "symbol": "␖",
+      "name": "控制字符图示：同步空闲",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：同步空闲",
+        "Symbol for Synchronous Idle",
+        "其他",
+        "2416",
+        "U+2416"
+      ],
+      "notes": "␖ 是控制字符图示：同步空闲的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2417-4923",
+      "symbol": "␗",
+      "name": "控制字符图示：传输块结束",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：传输块结束",
+        "Symbol for End of Transmission Block",
+        "其他",
+        "2417",
+        "U+2417"
+      ],
+      "notes": "␗ 是控制字符图示：传输块结束的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2418-4924",
+      "symbol": "␘",
+      "name": "控制字符图示：取消",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：取消",
+        "Symbol for Cancel",
+        "其他",
+        "2418",
+        "U+2418"
+      ],
+      "notes": "␘ 是控制字符图示：取消的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2419-4925",
+      "symbol": "␙",
+      "name": "控制字符图示：介质结束",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：介质结束",
+        "Symbol for End of Medium",
+        "其他",
+        "2419",
+        "U+2419"
+      ],
+      "notes": "␙ 是控制字符图示：介质结束的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-241a-4926",
+      "symbol": "␚",
+      "name": "控制字符图示：替代",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：替代",
+        "Symbol for Substitute",
+        "其他",
+        "241A",
+        "U+241A"
+      ],
+      "notes": "␚ 是控制字符图示：替代的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-241b-4927",
+      "symbol": "␛",
+      "name": "控制字符图示：转义",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：转义",
+        "Symbol for Escape",
+        "其他",
+        "241B",
+        "U+241B"
+      ],
+      "notes": "␛ 是控制字符图示：转义的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-241c-4928",
+      "symbol": "␜",
+      "name": "控制字符图示：文件分隔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：文件分隔",
+        "Symbol for File Separator",
+        "其他",
+        "241C",
+        "U+241C"
+      ],
+      "notes": "␜ 是控制字符图示：文件分隔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-241d-4929",
+      "symbol": "␝",
+      "name": "控制字符图示：组分隔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：组分隔",
+        "Symbol for Group Separator",
+        "其他",
+        "241D",
+        "U+241D"
+      ],
+      "notes": "␝ 是控制字符图示：组分隔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-241e-4930",
+      "symbol": "␞",
+      "name": "控制字符图示：记录分隔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：记录分隔",
+        "Symbol for Record Separator",
+        "其他",
+        "241E",
+        "U+241E"
+      ],
+      "notes": "␞ 是控制字符图示：记录分隔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-241f-4931",
+      "symbol": "␟",
+      "name": "控制字符图示：单元分隔",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：单元分隔",
+        "Symbol for Unit Separator",
+        "其他",
+        "241F",
+        "U+241F"
+      ],
+      "notes": "␟ 是控制字符图示：单元分隔的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2420-4932",
+      "symbol": "␠",
+      "name": "控制字符图示：空格",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：空格",
+        "Symbol for Space",
+        "其他",
+        "2420",
+        "U+2420"
+      ],
+      "notes": "␠ 是控制字符图示：空格的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2421-4933",
+      "symbol": "␡",
+      "name": "控制字符图示：删除",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：删除",
+        "Symbol for Delete",
+        "其他",
+        "2421",
+        "U+2421"
+      ],
+      "notes": "␡ 是控制字符图示：删除的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2422-4934",
+      "symbol": "␢",
+      "name": "空白符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "空白符号",
+        "Blank Symbol",
+        "其他",
+        "2422",
+        "U+2422"
+      ],
+      "notes": "␢ 是空白符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2423-4935",
+      "symbol": "␣",
+      "name": "空框",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "空框",
+        "Open Box",
+        "其他",
+        "2423",
+        "U+2423"
+      ],
+      "notes": "␣ 是空框的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2424-4936",
+      "symbol": "␤",
+      "name": "控制字符图示：换行变体",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "控制字符图示：换行变体",
+        "Symbol for Newline",
+        "其他",
+        "2424",
+        "U+2424"
+      ],
+      "notes": "␤ 是控制字符图示：换行变体的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2425-4937",
+      "symbol": "␥",
+      "name": "删除符号变体二",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "删除符号变体二",
+        "Symbol for Delete Form Two",
+        "其他",
+        "2425",
+        "U+2425"
+      ],
+      "notes": "␥ 是删除符号变体二的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2426-4938",
+      "symbol": "␦",
+      "name": "替代符号变体二",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "替代符号变体二",
+        "Symbol for Substitute Form Two",
+        "其他",
+        "2426",
+        "U+2426"
+      ],
+      "notes": "␦ 是替代符号变体二的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2427-4939",
+      "symbol": "␧",
+      "name": "方格棋盘删除符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "方格棋盘删除符号",
+        "Symbol For Delete Square Checker Board Form",
+        "其他",
+        "2427",
+        "U+2427"
+      ],
+      "notes": "␧ 是方格棋盘删除符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2428-4940",
+      "symbol": "␨",
+      "name": "矩形棋盘删除符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "矩形棋盘删除符号",
+        "Symbol For Delete Rectangular Checker Board Form",
+        "其他",
+        "2428",
+        "U+2428"
+      ],
+      "notes": "␨ 是矩形棋盘删除符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2429-4941",
+      "symbol": "␩",
+      "name": "中度阴影删除符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "中度阴影删除符号",
+        "Symbol For Delete Medium Shade Form",
+        "其他",
+        "2429",
+        "U+2429"
+      ],
+      "notes": "␩ 是中度阴影删除符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2440-4942",
+      "symbol": "⑀",
+      "name": "OCR钩形符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR钩形符号",
+        "Ocr Hook",
+        "其他",
+        "2440",
+        "U+2440"
+      ],
+      "notes": "⑀ 是OCR钩形符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2441-4943",
+      "symbol": "⑁",
+      "name": "OCR椅形符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR椅形符号",
+        "Ocr Chair",
+        "其他",
+        "2441",
+        "U+2441"
+      ],
+      "notes": "⑁ 是OCR椅形符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2442-4944",
+      "symbol": "⑂",
+      "name": "OCR叉形符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR叉形符号",
+        "Ocr Fork",
+        "其他",
+        "2442",
+        "U+2442"
+      ],
+      "notes": "⑂ 是OCR叉形符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2443-4945",
+      "symbol": "⑃",
+      "name": "OCR倒叉形符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR倒叉形符号",
+        "Ocr Inverted Fork",
+        "其他",
+        "2443",
+        "U+2443"
+      ],
+      "notes": "⑃ 是OCR倒叉形符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2444-4946",
+      "symbol": "⑄",
+      "name": "OCR皮带扣符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR皮带扣符号",
+        "Ocr Belt Buckle",
+        "其他",
+        "2444",
+        "U+2444"
+      ],
+      "notes": "⑄ 是OCR皮带扣符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2445-4947",
+      "symbol": "⑅",
+      "name": "OCR蝴蝶结符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR蝴蝶结符号",
+        "Ocr Bow Tie",
+        "其他",
+        "2445",
+        "U+2445"
+      ],
+      "notes": "⑅ 是OCR蝴蝶结符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2446-4948",
+      "symbol": "⑆",
+      "name": "OCR银行网点识别符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR银行网点识别符号",
+        "Ocr Branch Bank Identification",
+        "其他",
+        "2446",
+        "U+2446"
+      ],
+      "notes": "⑆ 是OCR银行网点识别符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2447-4949",
+      "symbol": "⑇",
+      "name": "OCR支票金额符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR支票金额符号",
+        "Ocr Amount of Check",
+        "其他",
+        "2447",
+        "U+2447"
+      ],
+      "notes": "⑇ 是OCR支票金额符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2448-4950",
+      "symbol": "⑈",
+      "name": "OCR短横线符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR短横线符号",
+        "Ocr Dash",
+        "其他",
+        "2448",
+        "U+2448"
+      ],
+      "notes": "⑈ 是OCR短横线符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-2449-4951",
+      "symbol": "⑉",
+      "name": "OCR客户账号符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR客户账号符号",
+        "Ocr Customer Account Number",
+        "其他",
+        "2449",
+        "U+2449"
+      ],
+      "notes": "⑉ 是OCR客户账号符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
+    },
+    {
+      "id": "symbol-244a-4952",
+      "symbol": "⑊",
+      "name": "OCR双反斜杠符号",
+      "category": [
+        "其他"
+      ],
+      "searchTerms": [
+        "OCR双反斜杠符号",
+        "Ocr Double Backslash",
+        "其他",
+        "244A",
+        "U+244A"
+      ],
+      "notes": "⑊ 是OCR双反斜杠符号的 Unicode 技术字符，可用于专业符号输入和文本排版。"
     }
   ]
 }

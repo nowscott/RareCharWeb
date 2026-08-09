@@ -6,7 +6,6 @@
       "id": "symbol-2150-217",
       "symbol": "⅐",
       "name": "七分之一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -24,7 +23,6 @@
       "id": "symbol-2151-218",
       "symbol": "⅑",
       "name": "九分之一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -42,7 +40,6 @@
       "id": "symbol-2152-219",
       "symbol": "⅒",
       "name": "十分之一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -60,7 +57,6 @@
       "id": "symbol-2153-220",
       "symbol": "⅓",
       "name": "三分之一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -78,7 +74,6 @@
       "id": "symbol-2154-221",
       "symbol": "⅔",
       "name": "三分之二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -96,7 +91,6 @@
       "id": "symbol-2155-222",
       "symbol": "⅕",
       "name": "五分之一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -114,7 +108,6 @@
       "id": "symbol-2156-223",
       "symbol": "⅖",
       "name": "五分之二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -132,7 +125,6 @@
       "id": "symbol-2157-224",
       "symbol": "⅗",
       "name": "五分之三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -150,7 +142,6 @@
       "id": "symbol-2158-225",
       "symbol": "⅘",
       "name": "五分之四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -168,7 +159,6 @@
       "id": "symbol-2159-226",
       "symbol": "⅙",
       "name": "六分之一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -186,7 +176,6 @@
       "id": "symbol-215a-227",
       "symbol": "⅚",
       "name": "六分之五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -204,7 +193,6 @@
       "id": "symbol-215b-228",
       "symbol": "⅛",
       "name": "八分之一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -222,7 +210,6 @@
       "id": "symbol-215c-229",
       "symbol": "⅜",
       "name": "八分之三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -240,7 +227,6 @@
       "id": "symbol-215d-230",
       "symbol": "⅝",
       "name": "八分之五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -258,7 +244,6 @@
       "id": "symbol-215e-231",
       "symbol": "⅞",
       "name": "八分之七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -276,7 +261,6 @@
       "id": "symbol-215f-232",
       "symbol": "⅟",
       "name": "分数分子一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -294,7 +278,6 @@
       "id": "symbol-2160-233",
       "symbol": "Ⅰ",
       "name": "罗马数字一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -312,7 +295,6 @@
       "id": "symbol-2161-234",
       "symbol": "Ⅱ",
       "name": "罗马数字二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -330,7 +312,6 @@
       "id": "symbol-2162-235",
       "symbol": "Ⅲ",
       "name": "罗马数字三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -348,7 +329,6 @@
       "id": "symbol-2163-236",
       "symbol": "Ⅳ",
       "name": "罗马数字四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -366,7 +346,6 @@
       "id": "symbol-2164-237",
       "symbol": "Ⅴ",
       "name": "罗马数字五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -384,7 +363,6 @@
       "id": "symbol-2165-238",
       "symbol": "Ⅵ",
       "name": "罗马数字六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -402,7 +380,6 @@
       "id": "symbol-2166-239",
       "symbol": "Ⅶ",
       "name": "罗马数字七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -420,7 +397,6 @@
       "id": "symbol-2167-240",
       "symbol": "Ⅷ",
       "name": "罗马数字八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -438,7 +414,6 @@
       "id": "symbol-2168-241",
       "symbol": "Ⅸ",
       "name": "罗马数字九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -456,7 +431,6 @@
       "id": "symbol-2169-242",
       "symbol": "Ⅹ",
       "name": "罗马数字十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -474,7 +448,6 @@
       "id": "symbol-216a-243",
       "symbol": "Ⅺ",
       "name": "罗马数字十一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -492,7 +465,6 @@
       "id": "symbol-216b-244",
       "symbol": "Ⅻ",
       "name": "罗马数字十二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -510,7 +482,6 @@
       "id": "symbol-216c-245",
       "symbol": "Ⅼ",
       "name": "罗马数字五十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -528,7 +499,6 @@
       "id": "symbol-216d-246",
       "symbol": "Ⅽ",
       "name": "罗马数字一百",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -546,7 +516,6 @@
       "id": "symbol-216e-247",
       "symbol": "Ⅾ",
       "name": "罗马数字伍佰",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -564,7 +533,6 @@
       "id": "symbol-216f-248",
       "symbol": "Ⅿ",
       "name": "罗马数字一千",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -582,7 +550,6 @@
       "id": "symbol-2170-249",
       "symbol": "ⅰ",
       "name": "小写罗马数字一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -600,7 +567,6 @@
       "id": "symbol-2171-250",
       "symbol": "ⅱ",
       "name": "小写罗马数字二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -618,7 +584,6 @@
       "id": "symbol-2172-251",
       "symbol": "ⅲ",
       "name": "小写罗马数字三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -636,7 +601,6 @@
       "id": "symbol-2173-252",
       "symbol": "ⅳ",
       "name": "小写罗马数字四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -654,7 +618,6 @@
       "id": "symbol-2174-253",
       "symbol": "ⅴ",
       "name": "小写罗马数字五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -672,7 +635,6 @@
       "id": "symbol-2175-254",
       "symbol": "ⅵ",
       "name": "小写罗马数字六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -690,7 +652,6 @@
       "id": "symbol-2176-255",
       "symbol": "ⅶ",
       "name": "小写罗马数字七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -708,7 +669,6 @@
       "id": "symbol-2177-256",
       "symbol": "ⅷ",
       "name": "小写罗马数字八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -726,7 +686,6 @@
       "id": "symbol-2178-257",
       "symbol": "ⅸ",
       "name": "小写罗马数字九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -744,7 +703,6 @@
       "id": "symbol-2179-258",
       "symbol": "ⅹ",
       "name": "小写罗马数字十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -762,7 +720,6 @@
       "id": "symbol-217a-259",
       "symbol": "ⅺ",
       "name": "小写罗马数字十一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -780,7 +737,6 @@
       "id": "symbol-217b-260",
       "symbol": "ⅻ",
       "name": "小写罗马数字十二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -798,7 +754,6 @@
       "id": "symbol-217c-261",
       "symbol": "ⅼ",
       "name": "小写罗马数字五十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -816,7 +771,6 @@
       "id": "symbol-217d-262",
       "symbol": "ⅽ",
       "name": "小写罗马数字一百",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -834,7 +788,6 @@
       "id": "symbol-217e-263",
       "symbol": "ⅾ",
       "name": "小写罗马数字五百",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -852,7 +805,6 @@
       "id": "symbol-217f-264",
       "symbol": "ⅿ",
       "name": "小写罗马数字一千",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -870,7 +822,6 @@
       "id": "symbol-2180-265",
       "symbol": "ↀ",
       "name": "罗马数字一千",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -888,7 +839,6 @@
       "id": "symbol-2181-266",
       "symbol": "ↁ",
       "name": "罗马数字五千",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -906,7 +856,6 @@
       "id": "symbol-2182-267",
       "symbol": "ↂ",
       "name": "罗马数字一万",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -924,7 +873,6 @@
       "id": "symbol-2183-268",
       "symbol": "Ↄ",
       "name": "反向C",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -942,7 +890,6 @@
       "id": "symbol-2184-269",
       "symbol": "ↄ",
       "name": "反向C",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -960,7 +907,6 @@
       "id": "symbol-2189-270",
       "symbol": "↉",
       "name": "三分之零",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -978,7 +924,6 @@
       "id": "symbol-1d7ce-1036",
       "symbol": "𝟎",
       "name": "数学粗体数字0",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -996,7 +941,6 @@
       "id": "symbol-1d7cf-200b-1037",
       "symbol": "𝟏​",
       "name": "数学粗体数字1",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1015,7 +959,6 @@
       "id": "symbol-1d7d0-1038",
       "symbol": "𝟐",
       "name": "数学粗体数字2",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1033,7 +976,6 @@
       "id": "symbol-1d7d1-1039",
       "symbol": "𝟑",
       "name": "数学粗体数字3",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1051,7 +993,6 @@
       "id": "symbol-1d7d2-1040",
       "symbol": "𝟒",
       "name": "数学粗体数字4",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1069,7 +1010,6 @@
       "id": "symbol-1d7d3-1041",
       "symbol": "𝟓",
       "name": "数学粗体数字5",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1087,7 +1027,6 @@
       "id": "symbol-1d7d4-1042",
       "symbol": "𝟔",
       "name": "数学粗体数字6",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1105,7 +1044,6 @@
       "id": "symbol-1d7d5-1043",
       "symbol": "𝟕",
       "name": "数学粗体数字7",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1123,7 +1061,6 @@
       "id": "symbol-1d7d6-1044",
       "symbol": "𝟖",
       "name": "数学粗体数字8",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1141,7 +1078,6 @@
       "id": "symbol-1d7d7-1045",
       "symbol": "𝟗",
       "name": "数学粗体数字9",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1159,7 +1095,6 @@
       "id": "symbol-3007-1205",
       "symbol": "〇",
       "name": "汉字数字零",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1180,7 +1115,6 @@
       "id": "symbol-3021-1230",
       "symbol": "〡",
       "name": "苏州码子一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1201,7 +1135,6 @@
       "id": "symbol-3022-1231",
       "symbol": "〢",
       "name": "苏州码子二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1222,7 +1155,6 @@
       "id": "symbol-3023-1232",
       "symbol": "〣",
       "name": "苏州码子三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1243,7 +1175,6 @@
       "id": "symbol-3024-1233",
       "symbol": "〤",
       "name": "苏州码子四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1264,7 +1195,6 @@
       "id": "symbol-3025-1234",
       "symbol": "〥",
       "name": "苏州码子五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1285,7 +1215,6 @@
       "id": "symbol-3026-1235",
       "symbol": "〦",
       "name": "苏州码子六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1306,7 +1235,6 @@
       "id": "symbol-3027-1236",
       "symbol": "〧",
       "name": "苏州码子七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1327,7 +1255,6 @@
       "id": "symbol-3028-1237",
       "symbol": "〨",
       "name": "苏州码子八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1348,7 +1275,6 @@
       "id": "symbol-3029-1238",
       "symbol": "〩",
       "name": "苏州码子九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1369,7 +1295,6 @@
       "id": "symbol-3038-1253",
       "symbol": "〸",
       "name": "苏州码子十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1390,7 +1315,6 @@
       "id": "symbol-3039-1254",
       "symbol": "〹",
       "name": "苏州码子二十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1411,7 +1335,6 @@
       "id": "symbol-303a-1255",
       "symbol": "〺",
       "name": "苏州码子三十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1432,7 +1355,6 @@
       "id": "symbol-2185-1327",
       "symbol": "ↅ",
       "name": "罗马数字六晚期形式",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1451,7 +1373,6 @@
       "id": "symbol-2186-1328",
       "symbol": "ↆ",
       "name": "罗马数字五十早期形式",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1470,7 +1391,6 @@
       "id": "symbol-2187-1329",
       "symbol": "ↇ",
       "name": "罗马数字五万",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1489,7 +1409,6 @@
       "id": "symbol-2188-1330",
       "symbol": "ↈ",
       "name": "罗马数字十万",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1508,7 +1427,6 @@
       "id": "symbol-218a-1331",
       "symbol": "↊",
       "name": "旋转数字二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1526,7 +1444,6 @@
       "id": "symbol-218b-1332",
       "symbol": "↋",
       "name": "旋转数字三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1544,7 +1461,6 @@
       "id": "symbol-2460-1333",
       "symbol": "①",
       "name": "带圈数字一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1564,7 +1480,6 @@
       "id": "symbol-2461-1334",
       "symbol": "②",
       "name": "带圈数字二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1584,7 +1499,6 @@
       "id": "symbol-2462-1335",
       "symbol": "③",
       "name": "带圈数字三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1604,7 +1518,6 @@
       "id": "symbol-2463-1336",
       "symbol": "④",
       "name": "带圈数字四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1624,7 +1537,6 @@
       "id": "symbol-2464-1337",
       "symbol": "⑤",
       "name": "带圈数字五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1644,7 +1556,6 @@
       "id": "symbol-2465-1338",
       "symbol": "⑥",
       "name": "带圈数字六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1664,7 +1575,6 @@
       "id": "symbol-2466-1339",
       "symbol": "⑦",
       "name": "带圈数字七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1684,7 +1594,6 @@
       "id": "symbol-2467-1340",
       "symbol": "⑧",
       "name": "带圈数字八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1704,7 +1613,6 @@
       "id": "symbol-2468-1341",
       "symbol": "⑨",
       "name": "带圈数字九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1724,7 +1632,6 @@
       "id": "symbol-2469-1342",
       "symbol": "⑩",
       "name": "带圈数字十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1744,7 +1651,6 @@
       "id": "symbol-246a-1343",
       "symbol": "⑪",
       "name": "带圈数字十一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1764,7 +1670,6 @@
       "id": "symbol-246b-1344",
       "symbol": "⑫",
       "name": "带圈数字十二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1784,7 +1689,6 @@
       "id": "symbol-246c-1345",
       "symbol": "⑬",
       "name": "带圈数字十三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1804,7 +1708,6 @@
       "id": "symbol-246d-1346",
       "symbol": "⑭",
       "name": "带圈数字十四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1827,7 +1730,6 @@
       "id": "symbol-246e-1347",
       "symbol": "⑮",
       "name": "带圈数字十五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1850,7 +1752,6 @@
       "id": "symbol-246f-1348",
       "symbol": "⑯",
       "name": "带圈数字十六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1873,7 +1774,6 @@
       "id": "symbol-2470-1349",
       "symbol": "⑰",
       "name": "带圈数字十七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1896,7 +1796,6 @@
       "id": "symbol-2471-1350",
       "symbol": "⑱",
       "name": "带圈数字十八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1919,7 +1818,6 @@
       "id": "symbol-2472-1351",
       "symbol": "⑲",
       "name": "带圈数字十九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1942,7 +1840,6 @@
       "id": "symbol-2473-1352",
       "symbol": "⑳",
       "name": "带圈数字二十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1965,7 +1862,6 @@
       "id": "symbol-2474-1353",
       "symbol": "⑴",
       "name": "带括号数字一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -1988,7 +1884,6 @@
       "id": "symbol-2475-1354",
       "symbol": "⑵",
       "name": "带括号数字二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2011,7 +1906,6 @@
       "id": "symbol-2476-1355",
       "symbol": "⑶",
       "name": "带括号数字三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2034,7 +1928,6 @@
       "id": "symbol-2477-1356",
       "symbol": "⑷",
       "name": "带括号数字四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2057,7 +1950,6 @@
       "id": "symbol-2478-1357",
       "symbol": "⑸",
       "name": "带括号数字五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2080,7 +1972,6 @@
       "id": "symbol-2479-1358",
       "symbol": "⑹",
       "name": "带括号数字六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2103,7 +1994,6 @@
       "id": "symbol-247a-1359",
       "symbol": "⑺",
       "name": "带括号数字七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2126,7 +2016,6 @@
       "id": "symbol-247b-1360",
       "symbol": "⑻",
       "name": "带括号数字八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2149,7 +2038,6 @@
       "id": "symbol-247c-1361",
       "symbol": "⑼",
       "name": "带括号数字九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2172,7 +2060,6 @@
       "id": "symbol-247d-1362",
       "symbol": "⑽",
       "name": "带括号数字十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2195,7 +2082,6 @@
       "id": "symbol-247e-1363",
       "symbol": "⑾",
       "name": "带括号数字十一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2218,7 +2104,6 @@
       "id": "symbol-247f-1364",
       "symbol": "⑿",
       "name": "带括号数字十二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2241,7 +2126,6 @@
       "id": "symbol-2480-1365",
       "symbol": "⒀",
       "name": "带括号数字十三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2264,7 +2148,6 @@
       "id": "symbol-2481-1366",
       "symbol": "⒁",
       "name": "带括号数字十四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2287,7 +2170,6 @@
       "id": "symbol-2482-1367",
       "symbol": "⒂",
       "name": "带括号数字十五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2310,7 +2192,6 @@
       "id": "symbol-2483-1368",
       "symbol": "⒃",
       "name": "带括号数字十六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2333,7 +2214,6 @@
       "id": "symbol-2484-1369",
       "symbol": "⒄",
       "name": "带括号数字十七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2356,7 +2236,6 @@
       "id": "symbol-2485-1370",
       "symbol": "⒅",
       "name": "带括号数字十八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2379,7 +2258,6 @@
       "id": "symbol-2486-1371",
       "symbol": "⒆",
       "name": "带括号数字十九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2402,7 +2280,6 @@
       "id": "symbol-2487-1372",
       "symbol": "⒇",
       "name": "带括号数字二十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2425,7 +2302,6 @@
       "id": "symbol-2488-1373",
       "symbol": "⒈",
       "name": "数字一加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2447,7 +2323,6 @@
       "id": "symbol-2489-1374",
       "symbol": "⒉",
       "name": "数字二加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2469,7 +2344,6 @@
       "id": "symbol-248a-1375",
       "symbol": "⒊",
       "name": "数字三加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2491,7 +2365,6 @@
       "id": "symbol-248b-1376",
       "symbol": "⒋",
       "name": "数字四加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2513,7 +2386,6 @@
       "id": "symbol-248c-1377",
       "symbol": "⒌",
       "name": "数字五加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2535,7 +2407,6 @@
       "id": "symbol-248d-1378",
       "symbol": "⒍",
       "name": "数字六加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2557,7 +2428,6 @@
       "id": "symbol-248e-1379",
       "symbol": "⒎",
       "name": "数字七加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2579,7 +2449,6 @@
       "id": "symbol-248f-1380",
       "symbol": "⒏",
       "name": "数字八加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2601,7 +2470,6 @@
       "id": "symbol-2490-1381",
       "symbol": "⒐",
       "name": "数字九加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2623,7 +2491,6 @@
       "id": "symbol-2491-1382",
       "symbol": "⒑",
       "name": "数字十加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2645,7 +2512,6 @@
       "id": "symbol-2492-1383",
       "symbol": "⒒",
       "name": "数字十一加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2667,7 +2533,6 @@
       "id": "symbol-2493-1384",
       "symbol": "⒓",
       "name": "数字十二加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2689,7 +2554,6 @@
       "id": "symbol-2494-1385",
       "symbol": "⒔",
       "name": "数字十三加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2711,7 +2575,6 @@
       "id": "symbol-2495-1386",
       "symbol": "⒕",
       "name": "数字十四加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2733,7 +2596,6 @@
       "id": "symbol-2496-1387",
       "symbol": "⒖",
       "name": "数字十五加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2755,7 +2617,6 @@
       "id": "symbol-2497-1388",
       "symbol": "⒗",
       "name": "数字十六加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2777,7 +2638,6 @@
       "id": "symbol-2498-1389",
       "symbol": "⒘",
       "name": "数字十七加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2799,7 +2659,6 @@
       "id": "symbol-2499-1390",
       "symbol": "⒙",
       "name": "数字十八加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2821,7 +2680,6 @@
       "id": "symbol-249a-1391",
       "symbol": "⒚",
       "name": "数字十九加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2843,7 +2701,6 @@
       "id": "symbol-249b-1392",
       "symbol": "⒛",
       "name": "数字二十加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2865,7 +2722,6 @@
       "id": "symbol-24ea-1471",
       "symbol": "⓪",
       "name": "带圈数字零",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2888,7 +2744,6 @@
       "id": "symbol-24eb-1472",
       "symbol": "⓫",
       "name": "反白带圈数字十一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2912,7 +2767,6 @@
       "id": "symbol-24ec-1473",
       "symbol": "⓬",
       "name": "反白带圈数字十二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2936,7 +2790,6 @@
       "id": "symbol-24ed-1474",
       "symbol": "⓭",
       "name": "反白带圈数字十三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2960,7 +2813,6 @@
       "id": "symbol-24ee-1475",
       "symbol": "⓮",
       "name": "反白带圈数字十四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -2984,7 +2836,6 @@
       "id": "symbol-24ef-1476",
       "symbol": "⓯",
       "name": "反白带圈数字十五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3008,7 +2859,6 @@
       "id": "symbol-24f0-1477",
       "symbol": "⓰",
       "name": "反白带圈数字十六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3032,7 +2882,6 @@
       "id": "symbol-24f1-1478",
       "symbol": "⓱",
       "name": "反白带圈数字十七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3056,7 +2905,6 @@
       "id": "symbol-24f2-1479",
       "symbol": "⓲",
       "name": "反白带圈数字十八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3080,7 +2928,6 @@
       "id": "symbol-24f3-1480",
       "symbol": "⓳",
       "name": "反白带圈数字十九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3104,7 +2951,6 @@
       "id": "symbol-24f4-1481",
       "symbol": "⓴",
       "name": "反白带圈数字二十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3128,7 +2974,6 @@
       "id": "symbol-24f5-1482",
       "symbol": "⓵",
       "name": "双圈数字一",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3152,7 +2997,6 @@
       "id": "symbol-24f6-1483",
       "symbol": "⓶",
       "name": "双圈数字二",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3176,7 +3020,6 @@
       "id": "symbol-24f7-1484",
       "symbol": "⓷",
       "name": "双圈数字三",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3200,7 +3043,6 @@
       "id": "symbol-24f8-1485",
       "symbol": "⓸",
       "name": "双圈数字四",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3224,7 +3066,6 @@
       "id": "symbol-24f9-1486",
       "symbol": "⓹",
       "name": "双圈数字五",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3248,7 +3089,6 @@
       "id": "symbol-24fa-1487",
       "symbol": "⓺",
       "name": "双圈数字六",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3272,7 +3112,6 @@
       "id": "symbol-24fb-1488",
       "symbol": "⓻",
       "name": "双圈数字七",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3296,7 +3135,6 @@
       "id": "symbol-24fc-1489",
       "symbol": "⓼",
       "name": "双圈数字八",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3320,7 +3158,6 @@
       "id": "symbol-24fd-1490",
       "symbol": "⓽",
       "name": "双圈数字九",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3344,7 +3181,6 @@
       "id": "symbol-24fe-1491",
       "symbol": "⓾",
       "name": "双圈数字十",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3368,7 +3204,6 @@
       "id": "symbol-24ff-1492",
       "symbol": "⓿",
       "name": "反白带圈数字零",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3392,7 +3227,6 @@
       "id": "symbol-1f100-1493",
       "symbol": "🄀",
       "name": "数字零加句点",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3414,7 +3248,6 @@
       "id": "symbol-1f101-1494",
       "symbol": "🄁",
       "name": "数字零加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3436,7 +3269,6 @@
       "id": "symbol-1f102-1495",
       "symbol": "🄂",
       "name": "数字一加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3458,7 +3290,6 @@
       "id": "symbol-1f103-1496",
       "symbol": "🄃",
       "name": "数字二加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3480,7 +3311,6 @@
       "id": "symbol-1f104-1497",
       "symbol": "🄄",
       "name": "数字三加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3502,7 +3332,6 @@
       "id": "symbol-1f105-1498",
       "symbol": "🄅",
       "name": "数字四加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3524,7 +3353,6 @@
       "id": "symbol-1f106-1499",
       "symbol": "🄆",
       "name": "数字五加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3546,7 +3374,6 @@
       "id": "symbol-1f107-1500",
       "symbol": "🄇",
       "name": "数字六加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3568,7 +3395,6 @@
       "id": "symbol-1f108-1501",
       "symbol": "🄈",
       "name": "数字七加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3590,7 +3416,6 @@
       "id": "symbol-1f109-1502",
       "symbol": "🄉",
       "name": "数字八加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3612,7 +3437,6 @@
       "id": "symbol-1f10a-1503",
       "symbol": "🄊",
       "name": "数字九加逗号",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3634,7 +3458,6 @@
       "id": "symbol-1f10b-1504",
       "symbol": "🄋",
       "name": "装饰无衬线带圈数字零",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3657,7 +3480,6 @@
       "id": "symbol-1f10c-1505",
       "symbol": "🄌",
       "name": "装饰无衬线反白带圈数字零",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3681,7 +3503,6 @@
       "id": "symbol-1f10d-1506",
       "symbol": "🄍",
       "name": "带圈斜杠零",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3703,13 +3524,12 @@
     {
       "id": "symbol-1f19b-1648",
       "symbol": "🆛",
-      "name": "方框 Three D",
-      "pronunciation": "",
+      "name": "方框 三支 D",
       "category": [
         "数字"
       ],
       "searchTerms": [
-        "方框 Three D",
+        "方框 三支 D",
         "数字",
         "Enclosed Alphanumeric Supplement",
         "1F19B",
@@ -3718,13 +3538,12 @@
         "规格",
         "标签"
       ],
-      "notes": "🆛 是方框 Three D，Unicode 编码为 U+1F19B，适合用于规格标签、编号、清单标记或装饰性数字排版。"
+      "notes": "🆛 是方框 三支 D，Unicode 编码为 U+1F19B，适合用于规格标签、编号、清单标记或装饰性数字排版。"
     },
     {
       "id": "symbol-1f19d-1650",
       "symbol": "🆝",
       "name": "方框 TWO K",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3744,7 +3563,6 @@
       "id": "symbol-1f19e-1651",
       "symbol": "🆞",
       "name": "方框 Four K",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3764,7 +3582,6 @@
       "id": "symbol-1f19f-1652",
       "symbol": "🆟",
       "name": "方框 Eight K",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3784,7 +3601,6 @@
       "id": "symbol-1f1a0-1653",
       "symbol": "🆠",
       "name": "方框 Five Point ONE",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3804,7 +3620,6 @@
       "id": "symbol-1f1a1-1654",
       "symbol": "🆡",
       "name": "方框 Seven Point ONE",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3824,7 +3639,6 @@
       "id": "symbol-1f1a2-1655",
       "symbol": "🆢",
       "name": "方框 Twenty-two Point TWO",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3844,7 +3658,6 @@
       "id": "symbol-1f1a3-1656",
       "symbol": "🆣",
       "name": "方框 Sixty P",
-      "pronunciation": "",
       "category": [
         "数字"
       ],
@@ -3864,7 +3677,6 @@
       "id": "symbol-1f1a4-1657",
       "symbol": "🆤",
       "name": "方框 ONE Hundred Twenty P",
-      "pronunciation": "",
       "category": [
         "数字"
       ],

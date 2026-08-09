@@ -4,7 +4,6 @@ export interface SymbolData {
   id?: string;
   symbol: string;
   name: string;
-  pronunciation: string;
   category: string[];
   searchTerms: string[];
   notes: string;
@@ -57,8 +56,6 @@ export interface PaginatedSymbolResponse {
   total: number;
   hasMore: boolean;
 }
-
-export type InitialCategoryData = Record<string, PaginatedSymbolResponse>;
 
 export interface EmojiDataResponse {
   version: string;

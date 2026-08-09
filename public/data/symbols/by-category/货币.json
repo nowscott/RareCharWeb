@@ -6,7 +6,6 @@
       "id": "symbol-24-1",
       "symbol": "$",
       "name": "美元",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -22,7 +21,6 @@
       "id": "symbol-a2-3",
       "symbol": "¢",
       "name": "分币标记",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -38,7 +36,6 @@
       "id": "symbol-a3-4",
       "symbol": "£",
       "name": "英镑",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -54,7 +51,6 @@
       "id": "symbol-a4-5",
       "symbol": "¤",
       "name": "通用货币符号",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -72,7 +68,6 @@
       "id": "symbol-192-22",
       "symbol": "ƒ",
       "name": "弗洛林",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -88,7 +83,6 @@
       "id": "symbol-421-332-77",
       "symbol": "С̲",
       "name": "索姆",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -107,7 +101,6 @@
       "id": "symbol-9f2-78",
       "symbol": "৲",
       "name": "塔卡",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -123,7 +116,6 @@
       "id": "symbol-9f3-79",
       "symbol": "৳",
       "name": "塔卡",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -139,7 +131,6 @@
       "id": "symbol-bf9-80",
       "symbol": "௹",
       "name": "卢比次",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -155,7 +146,6 @@
       "id": "symbol-e3f-81",
       "symbol": "฿",
       "name": "泰铢",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -171,7 +161,6 @@
       "id": "symbol-17db-82",
       "symbol": "៛",
       "name": "瑞尔",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -187,7 +176,6 @@
       "id": "symbol-20a0-169",
       "symbol": "₠",
       "name": "苏克尔",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -205,7 +193,6 @@
       "id": "symbol-20a1-170",
       "symbol": "₡",
       "name": "科朗",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -223,7 +210,6 @@
       "id": "symbol-20a2-171",
       "symbol": "₢",
       "name": "克鲁塞罗",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -241,7 +227,6 @@
       "id": "symbol-20a3-172",
       "symbol": "₣",
       "name": "法郎",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -259,7 +244,6 @@
       "id": "symbol-20a5-173",
       "symbol": "₥",
       "name": "米尔",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -277,7 +261,6 @@
       "id": "symbol-20a6-174",
       "symbol": "₦",
       "name": "奈拉",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -295,7 +278,6 @@
       "id": "symbol-20a7-175",
       "symbol": "₧",
       "name": "比塞塔",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -313,7 +295,6 @@
       "id": "symbol-20a8-176",
       "symbol": "₨",
       "name": "卢比",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -331,7 +312,6 @@
       "id": "symbol-20a9-177",
       "symbol": "₩",
       "name": "韩元",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -349,7 +329,6 @@
       "id": "symbol-20aa-178",
       "symbol": "₪",
       "name": "谢克尔",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -367,7 +346,6 @@
       "id": "symbol-20ab-179",
       "symbol": "₫",
       "name": "越南盾",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -385,7 +363,6 @@
       "id": "symbol-20ac-180",
       "symbol": "€",
       "name": "欧元",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -403,7 +380,6 @@
       "id": "symbol-20ad-181",
       "symbol": "₭",
       "name": "基普",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -421,7 +397,6 @@
       "id": "symbol-20ae-182",
       "symbol": "₮",
       "name": "图格里克",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -439,7 +414,6 @@
       "id": "symbol-20af-183",
       "symbol": "₯",
       "name": "德拉克马",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -457,7 +431,6 @@
       "id": "symbol-20b0-184",
       "symbol": "₰",
       "name": "马克",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -475,7 +448,6 @@
       "id": "symbol-20b1-185",
       "symbol": "₱",
       "name": "比索",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -493,7 +465,6 @@
       "id": "symbol-20b2-186",
       "symbol": "₲",
       "name": "瓜拉尼",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -511,7 +482,6 @@
       "id": "symbol-20b3-187",
       "symbol": "₳",
       "name": "奥斯特拉尔",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -529,7 +499,6 @@
       "id": "symbol-20b4-188",
       "symbol": "₴",
       "name": "格里夫纳",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -547,7 +516,6 @@
       "id": "symbol-20b5-189",
       "symbol": "₵",
       "name": "塞地",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -565,7 +533,6 @@
       "id": "symbol-20b6-190",
       "symbol": "₶",
       "name": "重分",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -583,7 +550,6 @@
       "id": "symbol-20b7-191",
       "symbol": "₷",
       "name": "基普",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -601,7 +567,6 @@
       "id": "symbol-20b8-192",
       "symbol": "₸",
       "name": "坚戈",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -619,7 +584,6 @@
       "id": "symbol-20b9-193",
       "symbol": "₹",
       "name": "卢比",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -637,7 +601,6 @@
       "id": "symbol-20ba-194",
       "symbol": "₺",
       "name": "里拉",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -655,7 +618,6 @@
       "id": "symbol-20bb-195",
       "symbol": "₻",
       "name": "北欧标志",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -673,7 +635,6 @@
       "id": "symbol-20bc-196",
       "symbol": "₼",
       "name": "马纳特",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -691,7 +652,6 @@
       "id": "symbol-20bd-197",
       "symbol": "₽",
       "name": "卢布",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -709,7 +669,6 @@
       "id": "symbol-20be-198",
       "symbol": "₾",
       "name": "拉里",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -727,7 +686,6 @@
       "id": "symbol-20bf-199",
       "symbol": "₿",
       "name": "比特币",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -745,7 +703,6 @@
       "id": "symbol-2133-216",
       "symbol": "ℳ",
       "name": "手写体M&马可",
-      "pronunciation": "",
       "category": [
         "货币",
         "字母"
@@ -765,7 +722,6 @@
       "id": "symbol-fdfc-780",
       "symbol": "﷼",
       "name": "里亚尔",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -781,7 +737,6 @@
       "id": "symbol-ffe0-782",
       "symbol": "￠",
       "name": "分币",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -797,7 +752,6 @@
       "id": "symbol-ffe5-783",
       "symbol": "￥",
       "name": "人民币",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -813,7 +767,6 @@
       "id": "symbol-20a4-1261",
       "symbol": "₤",
       "name": "里拉符号",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -832,7 +785,6 @@
       "id": "symbol-20c0-1262",
       "symbol": "⃀",
       "name": "索姆符号",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -851,7 +803,6 @@
       "id": "symbol-20c1-1263",
       "symbol": "⃁",
       "name": "沙特里亚尔符号",
-      "pronunciation": "",
       "category": [
         "货币"
       ],
@@ -870,7 +821,6 @@
       "id": "symbol-1f10f-1508",
       "symbol": "🄏",
       "name": "带圈删除线美元符号",
-      "pronunciation": "",
       "category": [
         "货币"
       ],

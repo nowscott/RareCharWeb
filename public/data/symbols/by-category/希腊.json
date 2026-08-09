@@ -5,12 +5,12 @@
     {
       "id": "symbol-391-29",
       "symbol": "Α",
-      "name": "Alpha",
-      "pronunciation": "",
+      "name": "大写阿尔法",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写阿尔法",
         "Alpha",
         "希腊",
         "0391",
@@ -21,12 +21,12 @@
     {
       "id": "symbol-392-30",
       "symbol": "Β",
-      "name": "Beta",
-      "pronunciation": "",
+      "name": "大写贝塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写贝塔",
         "Beta",
         "希腊",
         "0392",
@@ -37,12 +37,12 @@
     {
       "id": "symbol-393-31",
       "symbol": "Γ",
-      "name": "Gamma",
-      "pronunciation": "",
+      "name": "大写伽马",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写伽马",
         "Gamma",
         "希腊",
         "0393",
@@ -53,12 +53,12 @@
     {
       "id": "symbol-394-32",
       "symbol": "Δ",
-      "name": "Delta",
-      "pronunciation": "",
+      "name": "大写德尔塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写德尔塔",
         "Delta",
         "希腊",
         "0394",
@@ -69,12 +69,12 @@
     {
       "id": "symbol-395-33",
       "symbol": "Ε",
-      "name": "Epsilon",
-      "pronunciation": "",
+      "name": "大写埃普西隆",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写埃普西隆",
         "Epsilon",
         "希腊",
         "0395",
@@ -85,12 +85,12 @@
     {
       "id": "symbol-396-34",
       "symbol": "Ζ",
-      "name": "Zeta",
-      "pronunciation": "",
+      "name": "大写泽塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写泽塔",
         "Zeta",
         "希腊",
         "0396",
@@ -101,12 +101,12 @@
     {
       "id": "symbol-397-35",
       "symbol": "Η",
-      "name": "Eta",
-      "pronunciation": "",
+      "name": "大写伊塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写伊塔",
         "Eta",
         "希腊",
         "0397",
@@ -117,12 +117,12 @@
     {
       "id": "symbol-398-36",
       "symbol": "Θ",
-      "name": "Theta",
-      "pronunciation": "",
+      "name": "大写西塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写西塔",
         "Theta",
         "希腊",
         "0398",
@@ -133,12 +133,12 @@
     {
       "id": "symbol-399-37",
       "symbol": "Ι",
-      "name": "Iota",
-      "pronunciation": "",
+      "name": "大写约塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写约塔",
         "Iota",
         "希腊",
         "0399",
@@ -149,12 +149,12 @@
     {
       "id": "symbol-39a-38",
       "symbol": "Κ",
-      "name": "Kappa",
-      "pronunciation": "",
+      "name": "大写卡帕",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写卡帕",
         "Kappa",
         "希腊",
         "039A",
@@ -165,12 +165,12 @@
     {
       "id": "symbol-39b-39",
       "symbol": "Λ",
-      "name": "Lambda",
-      "pronunciation": "",
+      "name": "大写兰姆达",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写兰姆达",
         "Lambda",
         "希腊",
         "039B",
@@ -181,12 +181,12 @@
     {
       "id": "symbol-39c-40",
       "symbol": "Μ",
-      "name": "Mu",
-      "pronunciation": "",
+      "name": "大写缪",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写缪",
         "Mu",
         "希腊",
         "039C",
@@ -197,12 +197,12 @@
     {
       "id": "symbol-39d-41",
       "symbol": "Ν",
-      "name": "Nu",
-      "pronunciation": "",
+      "name": "大写纽",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写纽",
         "Nu",
         "希腊",
         "039D",
@@ -213,12 +213,12 @@
     {
       "id": "symbol-39e-42",
       "symbol": "Ξ",
-      "name": "Xi",
-      "pronunciation": "",
+      "name": "大写克西",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写克西",
         "Xi",
         "希腊",
         "039E",
@@ -229,12 +229,12 @@
     {
       "id": "symbol-39f-43",
       "symbol": "Ο",
-      "name": "Omicron",
-      "pronunciation": "",
+      "name": "大写奥密克戎",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写奥密克戎",
         "Omicron",
         "希腊",
         "039F",
@@ -245,12 +245,12 @@
     {
       "id": "symbol-3a0-44",
       "symbol": "Π",
-      "name": "Pi",
-      "pronunciation": "",
+      "name": "大写派",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写派",
         "Pi",
         "希腊",
         "03A0",
@@ -261,12 +261,12 @@
     {
       "id": "symbol-3a1-45",
       "symbol": "Ρ",
-      "name": "Rho",
-      "pronunciation": "",
+      "name": "大写柔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写柔",
         "Rho",
         "希腊",
         "03A1",
@@ -277,13 +277,13 @@
     {
       "id": "symbol-3a3-46",
       "symbol": "Σ",
-      "name": "Sigma",
-      "pronunciation": "",
+      "name": "大写西格玛",
       "category": [
         "希腊",
         "数学"
       ],
       "searchTerms": [
+        "大写西格玛",
         "Sigma",
         "希腊",
         "数学",
@@ -295,12 +295,12 @@
     {
       "id": "symbol-3a4-47",
       "symbol": "Τ",
-      "name": "Tau",
-      "pronunciation": "",
+      "name": "大写陶",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写陶",
         "Tau",
         "希腊",
         "03A4",
@@ -311,12 +311,12 @@
     {
       "id": "symbol-3a5-48",
       "symbol": "Υ",
-      "name": "Upsilon",
-      "pronunciation": "",
+      "name": "大写宇普西龙",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写宇普西龙",
         "Upsilon",
         "希腊",
         "03A5",
@@ -327,12 +327,12 @@
     {
       "id": "symbol-3a6-49",
       "symbol": "Φ",
-      "name": "Phi",
-      "pronunciation": "",
+      "name": "大写斐",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写斐",
         "Phi",
         "希腊",
         "03A6",
@@ -343,12 +343,12 @@
     {
       "id": "symbol-3a7-50",
       "symbol": "Χ",
-      "name": "Chi",
-      "pronunciation": "",
+      "name": "大写凯",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写凯",
         "Chi",
         "希腊",
         "03A7",
@@ -359,12 +359,12 @@
     {
       "id": "symbol-3a8-51",
       "symbol": "Ψ",
-      "name": "Psi",
-      "pronunciation": "",
+      "name": "大写普赛",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写普赛",
         "Psi",
         "希腊",
         "03A8",
@@ -375,12 +375,12 @@
     {
       "id": "symbol-3a9-52",
       "symbol": "Ω",
-      "name": "Omega",
-      "pronunciation": "",
+      "name": "大写欧米伽",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "大写欧米伽",
         "Omega",
         "希腊",
         "03A9",
@@ -391,12 +391,12 @@
     {
       "id": "symbol-3b1-53",
       "symbol": "α",
-      "name": "alpha",
-      "pronunciation": "",
+      "name": "小写阿尔法",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写阿尔法",
         "alpha",
         "希腊",
         "03B1",
@@ -407,12 +407,12 @@
     {
       "id": "symbol-3b2-54",
       "symbol": "β",
-      "name": "beta",
-      "pronunciation": "",
+      "name": "小写贝塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写贝塔",
         "beta",
         "希腊",
         "03B2",
@@ -423,12 +423,12 @@
     {
       "id": "symbol-3b3-55",
       "symbol": "γ",
-      "name": "gamma",
-      "pronunciation": "",
+      "name": "小写伽马",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写伽马",
         "gamma",
         "希腊",
         "03B3",
@@ -439,12 +439,12 @@
     {
       "id": "symbol-3b4-56",
       "symbol": "δ",
-      "name": "delta",
-      "pronunciation": "",
+      "name": "小写德尔塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写德尔塔",
         "delta",
         "希腊",
         "03B4",
@@ -455,12 +455,12 @@
     {
       "id": "symbol-3b5-57",
       "symbol": "ε",
-      "name": "epsilon",
-      "pronunciation": "",
+      "name": "小写埃普西隆",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写埃普西隆",
         "epsilon",
         "希腊",
         "03B5",
@@ -471,12 +471,12 @@
     {
       "id": "symbol-3b6-58",
       "symbol": "ζ",
-      "name": "zeta",
-      "pronunciation": "",
+      "name": "小写泽塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写泽塔",
         "zeta",
         "希腊",
         "03B6",
@@ -487,12 +487,12 @@
     {
       "id": "symbol-3b7-59",
       "symbol": "η",
-      "name": "eta",
-      "pronunciation": "",
+      "name": "小写伊塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写伊塔",
         "eta",
         "希腊",
         "03B7",
@@ -503,12 +503,12 @@
     {
       "id": "symbol-3b8-60",
       "symbol": "θ",
-      "name": "theta",
-      "pronunciation": "",
+      "name": "小写西塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写西塔",
         "theta",
         "希腊",
         "03B8",
@@ -519,12 +519,12 @@
     {
       "id": "symbol-3b9-61",
       "symbol": "ι",
-      "name": "iota",
-      "pronunciation": "",
+      "name": "小写约塔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写约塔",
         "iota",
         "希腊",
         "03B9",
@@ -535,12 +535,12 @@
     {
       "id": "symbol-3ba-62",
       "symbol": "κ",
-      "name": "kappa",
-      "pronunciation": "",
+      "name": "小写卡帕",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写卡帕",
         "kappa",
         "希腊",
         "03BA",
@@ -551,12 +551,12 @@
     {
       "id": "symbol-3bb-63",
       "symbol": "λ",
-      "name": "lambda",
-      "pronunciation": "",
+      "name": "小写兰姆达",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写兰姆达",
         "lambda",
         "希腊",
         "03BB",
@@ -567,12 +567,12 @@
     {
       "id": "symbol-3bc-64",
       "symbol": "μ",
-      "name": "mu",
-      "pronunciation": "",
+      "name": "小写缪",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写缪",
         "mu",
         "希腊",
         "03BC",
@@ -583,12 +583,12 @@
     {
       "id": "symbol-3bd-65",
       "symbol": "ν",
-      "name": "nu",
-      "pronunciation": "",
+      "name": "小写纽",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写纽",
         "nu",
         "希腊",
         "03BD",
@@ -599,12 +599,12 @@
     {
       "id": "symbol-3be-66",
       "symbol": "ξ",
-      "name": "xi",
-      "pronunciation": "",
+      "name": "小写克西",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写克西",
         "xi",
         "希腊",
         "03BE",
@@ -615,12 +615,12 @@
     {
       "id": "symbol-3bf-67",
       "symbol": "ο",
-      "name": "omicron",
-      "pronunciation": "",
+      "name": "小写奥密克戎",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写奥密克戎",
         "omicron",
         "希腊",
         "03BF",
@@ -631,12 +631,12 @@
     {
       "id": "symbol-3c0-68",
       "symbol": "π",
-      "name": "pi",
-      "pronunciation": "",
+      "name": "小写派",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写派",
         "pi",
         "希腊",
         "03C0",
@@ -647,12 +647,12 @@
     {
       "id": "symbol-3c1-69",
       "symbol": "ρ",
-      "name": "rho",
-      "pronunciation": "",
+      "name": "小写柔",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写柔",
         "rho",
         "希腊",
         "03C1",
@@ -663,12 +663,12 @@
     {
       "id": "symbol-3c3-70",
       "symbol": "σ",
-      "name": "sigma",
-      "pronunciation": "",
+      "name": "小写西格玛",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写西格玛",
         "sigma",
         "希腊",
         "03C3",
@@ -679,12 +679,12 @@
     {
       "id": "symbol-3c4-71",
       "symbol": "τ",
-      "name": "tau",
-      "pronunciation": "",
+      "name": "小写陶",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写陶",
         "tau",
         "希腊",
         "03C4",
@@ -695,12 +695,12 @@
     {
       "id": "symbol-3c5-72",
       "symbol": "υ",
-      "name": "upsilon",
-      "pronunciation": "",
+      "name": "小写宇普西龙",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写宇普西龙",
         "upsilon",
         "希腊",
         "03C5",
@@ -711,12 +711,12 @@
     {
       "id": "symbol-3c6-73",
       "symbol": "φ",
-      "name": "phi",
-      "pronunciation": "",
+      "name": "小写斐",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写斐",
         "phi",
         "希腊",
         "03C6",
@@ -727,12 +727,12 @@
     {
       "id": "symbol-3c7-74",
       "symbol": "χ",
-      "name": "chi",
-      "pronunciation": "",
+      "name": "小写凯",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写凯",
         "chi",
         "希腊",
         "03C7",
@@ -743,12 +743,12 @@
     {
       "id": "symbol-3c8-75",
       "symbol": "ψ",
-      "name": "psi",
-      "pronunciation": "",
+      "name": "小写普赛",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写普赛",
         "psi",
         "希腊",
         "03C8",
@@ -759,12 +759,12 @@
     {
       "id": "symbol-3c9-76",
       "symbol": "ω",
-      "name": "omega",
-      "pronunciation": "",
+      "name": "小写欧米伽",
       "category": [
         "希腊"
       ],
       "searchTerms": [
+        "小写欧米伽",
         "omega",
         "希腊",
         "03C9",

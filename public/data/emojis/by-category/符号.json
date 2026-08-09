@@ -1,6 +1,6 @@
 {
   "category": "符号",
-  "total": 264,
+  "total": 325,
   "items": [
     {
       "id": "emoji-1f48c-1689",
@@ -3197,6 +3197,921 @@
         "符号"
       ],
       "text": "可用于表达停车、停车场或 P 按钮。"
+    },
+    {
+      "id": "symbol-262b-4528",
+      "emoji": "☫",
+      "name": "法尔西符号",
+      "category": "符号",
+      "keywords": [
+        "法尔西符号",
+        "Farsi Symbol",
+        "Miscellaneous Symbols",
+        "262B",
+        "U+262B",
+        "符号"
+      ],
+      "text": "可用于表达「法尔西符号」相关含义。"
+    },
+    {
+      "id": "symbol-26db-4607",
+      "emoji": "⛛",
+      "name": "粗白色下三角",
+      "category": "符号",
+      "keywords": [
+        "粗白色下三角",
+        "Heavy White Down-Pointing Triangle",
+        "Miscellaneous Symbols",
+        "26DB",
+        "U+26DB",
+        "符号"
+      ],
+      "text": "可用于表达「粗白色下三角」相关含义。"
+    },
+    {
+      "id": "symbol-26dd-4609",
+      "emoji": "⛝",
+      "name": "方框圣安德鲁十字",
+      "category": "符号",
+      "keywords": [
+        "方框圣安德鲁十字",
+        "Squared Saltire",
+        "Miscellaneous Symbols",
+        "26DD",
+        "U+26DD",
+        "符号"
+      ],
+      "text": "可用于表达「方框圣安德鲁十字」相关含义。"
+    },
+    {
+      "id": "symbol-26de-4610",
+      "emoji": "⛞",
+      "name": "黑方框白圆内斜落线",
+      "category": "符号",
+      "keywords": [
+        "黑方框白圆内斜落线",
+        "Falling Diagonal In White Circle In Black Square",
+        "Miscellaneous Symbols",
+        "26DE",
+        "U+26DE",
+        "符号"
+      ],
+      "text": "可用于表达「黑方框白圆内斜落线」相关含义。"
+    },
+    {
+      "id": "symbol-26e3-4615",
+      "emoji": "⛣",
+      "name": "带斜线双点圆",
+      "category": "符号",
+      "keywords": [
+        "带斜线双点圆",
+        "Heavy Circle with Stroke and Two Dots Above",
+        "Miscellaneous Symbols",
+        "26E3",
+        "U+26E3",
+        "符号"
+      ],
+      "text": "可用于表达「带斜线双点圆」相关含义。"
+    },
+    {
+      "id": "symbol-23f4-4888",
+      "emoji": "⏴",
+      "name": "黑色中等左三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等左三角",
+        "Black Medium Left-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F4",
+        "U+23F4",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等左三角」相关含义。"
+    },
+    {
+      "id": "symbol-23f5-4889",
+      "emoji": "⏵",
+      "name": "黑色中等右三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等右三角",
+        "Black Medium Right-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F5",
+        "U+23F5",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等右三角」相关含义。"
+    },
+    {
+      "id": "symbol-23f6-4890",
+      "emoji": "⏶",
+      "name": "黑色中等上三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等上三角",
+        "Black Medium Up-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F6",
+        "U+23F6",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等上三角」相关含义。"
+    },
+    {
+      "id": "symbol-23f7-4891",
+      "emoji": "⏷",
+      "name": "黑色中等下三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等下三角",
+        "Black Medium Down-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F7",
+        "U+23F7",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等下三角」相关含义。"
+    },
+    {
+      "id": "symbol-23fb-4895",
+      "emoji": "⏻",
+      "name": "电源符号",
+      "category": "符号",
+      "keywords": [
+        "电源符号",
+        "Power Symbol",
+        "Miscellaneous Technical",
+        "23FB",
+        "U+23FB",
+        "符号"
+      ],
+      "text": "可用于表达「电源符号」相关含义。"
+    },
+    {
+      "id": "symbol-23fc-4896",
+      "emoji": "⏼",
+      "name": "电源开关符号",
+      "category": "符号",
+      "keywords": [
+        "电源开关符号",
+        "Power On-Off Symbol",
+        "Miscellaneous Technical",
+        "23FC",
+        "U+23FC",
+        "符号"
+      ],
+      "text": "可用于表达「电源开关符号」相关含义。"
+    },
+    {
+      "id": "symbol-23fd-4897",
+      "emoji": "⏽",
+      "name": "电源开启符号",
+      "category": "符号",
+      "keywords": [
+        "电源开启符号",
+        "Power On Symbol",
+        "Miscellaneous Technical",
+        "23FD",
+        "U+23FD",
+        "符号"
+      ],
+      "text": "可用于表达「电源开启符号」相关含义。"
+    },
+    {
+      "id": "symbol-23fe-4898",
+      "emoji": "⏾",
+      "name": "电源睡眠符号",
+      "category": "符号",
+      "keywords": [
+        "电源睡眠符号",
+        "Power Sleep Symbol",
+        "Miscellaneous Technical",
+        "23FE",
+        "U+23FE",
+        "符号"
+      ],
+      "text": "可用于表达「电源睡眠符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f394-5412",
+      "emoji": "🎔",
+      "name": "左尖心形",
+      "category": "符号",
+      "keywords": [
+        "左尖心形",
+        "Heart with Tip On the Left",
+        "Miscellaneous Symbols and Pictographs",
+        "1F394",
+        "U+1F394",
+        "符号"
+      ],
+      "text": "可用于表达「左尖心形」相关含义。"
+    },
+    {
+      "id": "symbol-1f53e-5838",
+      "emoji": "🔾",
+      "name": "右下阴影白圆",
+      "category": "符号",
+      "keywords": [
+        "右下阴影白圆",
+        "Lower Right Shadowed White Circle",
+        "Miscellaneous Symbols and Pictographs",
+        "1F53E",
+        "U+1F53E",
+        "符号"
+      ],
+      "text": "可用于表达「右下阴影白圆」相关含义。"
+    },
+    {
+      "id": "symbol-1f53f-5839",
+      "emoji": "🔿",
+      "name": "右上阴影白圆",
+      "category": "符号",
+      "keywords": [
+        "右上阴影白圆",
+        "Upper Right Shadowed White Circle",
+        "Miscellaneous Symbols and Pictographs",
+        "1F53F",
+        "U+1F53F",
+        "符号"
+      ],
+      "text": "可用于表达「右上阴影白圆」相关含义。"
+    },
+    {
+      "id": "symbol-1f540-5840",
+      "emoji": "🕀",
+      "name": "圆圈苹果十字",
+      "category": "符号",
+      "keywords": [
+        "圆圈苹果十字",
+        "Circled Cross Pommee",
+        "Miscellaneous Symbols and Pictographs",
+        "1F540",
+        "U+1F540",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈苹果十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f541-5841",
+      "emoji": "🕁",
+      "name": "下带半圆苹果十字",
+      "category": "符号",
+      "keywords": [
+        "下带半圆苹果十字",
+        "Cross Pommee with Half-Circle Below",
+        "Miscellaneous Symbols and Pictographs",
+        "1F541",
+        "U+1F541",
+        "符号"
+      ],
+      "text": "可用于表达「下带半圆苹果十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f542-5842",
+      "emoji": "🕂",
+      "name": "苹果十字",
+      "category": "符号",
+      "keywords": [
+        "苹果十字",
+        "Cross Pommee",
+        "Miscellaneous Symbols and Pictographs",
+        "1F542",
+        "U+1F542",
+        "符号"
+      ],
+      "text": "可用于表达「苹果十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f543-5843",
+      "emoji": "🕃",
+      "name": "左缺口半圆三点",
+      "category": "符号",
+      "keywords": [
+        "左缺口半圆三点",
+        "Notched Left Semicircle with Three Dots",
+        "Miscellaneous Symbols and Pictographs",
+        "1F543",
+        "U+1F543",
+        "符号"
+      ],
+      "text": "可用于表达「左缺口半圆三点」相关含义。"
+    },
+    {
+      "id": "symbol-1f544-5844",
+      "emoji": "🕄",
+      "name": "右缺口半圆三点",
+      "category": "符号",
+      "keywords": [
+        "右缺口半圆三点",
+        "Notched Right Semicircle with Three Dots",
+        "Miscellaneous Symbols and Pictographs",
+        "1F544",
+        "U+1F544",
+        "符号"
+      ],
+      "text": "可用于表达「右缺口半圆三点」相关含义。"
+    },
+    {
+      "id": "symbol-1f545-5845",
+      "emoji": "🕅",
+      "name": "段落标记符号",
+      "category": "符号",
+      "keywords": [
+        "段落标记符号",
+        "Symbol for Marks Chapter",
+        "Miscellaneous Symbols and Pictographs",
+        "1F545",
+        "U+1F545",
+        "符号"
+      ],
+      "text": "可用于表达「段落标记符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f546-5846",
+      "emoji": "🕆",
+      "name": "白色拉丁十字",
+      "category": "符号",
+      "keywords": [
+        "白色拉丁十字",
+        "White Latin Cross",
+        "Miscellaneous Symbols and Pictographs",
+        "1F546",
+        "U+1F546",
+        "符号"
+      ],
+      "text": "可用于表达「白色拉丁十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f547-5847",
+      "emoji": "🕇",
+      "name": "粗体拉丁十字",
+      "category": "符号",
+      "keywords": [
+        "粗体拉丁十字",
+        "Heavy Latin Cross",
+        "Miscellaneous Symbols and Pictographs",
+        "1F547",
+        "U+1F547",
+        "符号"
+      ],
+      "text": "可用于表达「粗体拉丁十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f548-5848",
+      "emoji": "🕈",
+      "name": "凯尔特十字",
+      "category": "符号",
+      "keywords": [
+        "凯尔特十字",
+        "Celtic Cross",
+        "Miscellaneous Symbols and Pictographs",
+        "1F548",
+        "U+1F548",
+        "符号"
+      ],
+      "text": "可用于表达「凯尔特十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f54f-5855",
+      "emoji": "🕏",
+      "name": "许癸厄亚之碗",
+      "category": "符号",
+      "keywords": [
+        "许癸厄亚之碗",
+        "Bowl of Hygieia",
+        "Miscellaneous Symbols and Pictographs",
+        "1F54F",
+        "U+1F54F",
+        "符号"
+      ],
+      "text": "可用于表达「许癸厄亚之碗」相关含义。"
+    },
+    {
+      "id": "symbol-1f571-5889",
+      "emoji": "🕱",
+      "name": "黑色骷髅与交叉骨",
+      "category": "符号",
+      "keywords": [
+        "黑色骷髅与交叉骨",
+        "Black Skull and Crossbones",
+        "Miscellaneous Symbols and Pictographs",
+        "1F571",
+        "U+1F571",
+        "符号"
+      ],
+      "text": "可用于表达「黑色骷髅与交叉骨」相关含义。"
+    },
+    {
+      "id": "symbol-1f572-5890",
+      "emoji": "🕲",
+      "name": "禁止海盗",
+      "category": "符号",
+      "keywords": [
+        "禁止海盗",
+        "No Piracy",
+        "Miscellaneous Symbols and Pictographs",
+        "1F572",
+        "U+1F572",
+        "符号"
+      ],
+      "text": "可用于表达「禁止海盗」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d0-5984",
+      "emoji": "🗐",
+      "name": "多页",
+      "category": "符号",
+      "keywords": [
+        "多页",
+        "Pages",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D0",
+        "U+1F5D0",
+        "符号"
+      ],
+      "text": "可用于表达「多页」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d4-5988",
+      "emoji": "🗔",
+      "name": "桌面窗口",
+      "category": "符号",
+      "keywords": [
+        "桌面窗口",
+        "Desktop Window",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D4",
+        "U+1F5D4",
+        "符号"
+      ],
+      "text": "可用于表达「桌面窗口」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d5-5989",
+      "emoji": "🗕",
+      "name": "最小化",
+      "category": "符号",
+      "keywords": [
+        "最小化",
+        "Minimize",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D5",
+        "U+1F5D5",
+        "符号"
+      ],
+      "text": "可用于表达「最小化」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d6-5990",
+      "emoji": "🗖",
+      "name": "最大化",
+      "category": "符号",
+      "keywords": [
+        "最大化",
+        "Maximize",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D6",
+        "U+1F5D6",
+        "符号"
+      ],
+      "text": "可用于表达「最大化」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d7-5991",
+      "emoji": "🗗",
+      "name": "重叠",
+      "category": "符号",
+      "keywords": [
+        "重叠",
+        "Overlap",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D7",
+        "U+1F5D7",
+        "符号"
+      ],
+      "text": "可用于表达「重叠」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d8-5992",
+      "emoji": "🗘",
+      "name": "顺时针右与左半圆箭头",
+      "category": "符号",
+      "keywords": [
+        "顺时针右与左半圆箭头",
+        "Clockwise Right and Left Semicircle Arrows",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D8",
+        "U+1F5D8",
+        "符号"
+      ],
+      "text": "可用于表达「顺时针右与左半圆箭头」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d9-5993",
+      "emoji": "🗙",
+      "name": "取消叉号",
+      "category": "符号",
+      "keywords": [
+        "取消叉号",
+        "Cancellation X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D9",
+        "U+1F5D9",
+        "符号"
+      ],
+      "text": "可用于表达「取消叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5da-5994",
+      "emoji": "🗚",
+      "name": "增大字体大小符号",
+      "category": "符号",
+      "keywords": [
+        "增大字体大小符号",
+        "Increase Font Size Symbol",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5DA",
+        "U+1F5DA",
+        "符号"
+      ],
+      "text": "可用于表达「增大字体大小符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5db-5995",
+      "emoji": "🗛",
+      "name": "减小字体大小符号",
+      "category": "符号",
+      "keywords": [
+        "减小字体大小符号",
+        "Decrease Font Size Symbol",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5DB",
+        "U+1F5DB",
+        "符号"
+      ],
+      "text": "可用于表达「减小字体大小符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5df-5999",
+      "emoji": "🗟",
+      "name": "页面带圆圈文字",
+      "category": "符号",
+      "keywords": [
+        "页面带圆圈文字",
+        "Page with Circled Text",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5DF",
+        "U+1F5DF",
+        "符号"
+      ],
+      "text": "可用于表达「页面带圆圈文字」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e0-6000",
+      "emoji": "🗠",
+      "name": "股票图表",
+      "category": "符号",
+      "keywords": [
+        "股票图表",
+        "Stock Chart",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E0",
+        "U+1F5E0",
+        "符号"
+      ],
+      "text": "可用于表达「股票图表」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e4-6004",
+      "emoji": "🗤",
+      "name": "三光线上方",
+      "category": "符号",
+      "keywords": [
+        "三光线上方",
+        "Three Rays Above",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E4",
+        "U+1F5E4",
+        "符号"
+      ],
+      "text": "可用于表达「三光线上方」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e5-6005",
+      "emoji": "🗥",
+      "name": "三光线下方",
+      "category": "符号",
+      "keywords": [
+        "三光线下方",
+        "Three Rays Below",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E5",
+        "U+1F5E5",
+        "符号"
+      ],
+      "text": "可用于表达「三光线下方」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e6-6006",
+      "emoji": "🗦",
+      "name": "三光线左",
+      "category": "符号",
+      "keywords": [
+        "三光线左",
+        "Three Rays Left",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E6",
+        "U+1F5E6",
+        "符号"
+      ],
+      "text": "可用于表达「三光线左」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e7-6007",
+      "emoji": "🗧",
+      "name": "三光线右",
+      "category": "符号",
+      "keywords": [
+        "三光线右",
+        "Three Rays Right",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E7",
+        "U+1F5E7",
+        "符号"
+      ],
+      "text": "可用于表达「三光线右」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f4-6020",
+      "emoji": "🗴",
+      "name": "选票手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票手写叉号",
+        "Ballot Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F4",
+        "U+1F5F4",
+        "符号"
+      ],
+      "text": "可用于表达「选票手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f5-6021",
+      "emoji": "🗵",
+      "name": "选票图标带手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票图标带手写叉号",
+        "Ballot Box with Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F5",
+        "U+1F5F5",
+        "符号"
+      ],
+      "text": "可用于表达「选票图标带手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f6-6022",
+      "emoji": "🗶",
+      "name": "选票粗体手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票粗体手写叉号",
+        "Ballot Bold Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F6",
+        "U+1F5F6",
+        "符号"
+      ],
+      "text": "可用于表达「选票粗体手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f7-6023",
+      "emoji": "🗷",
+      "name": "选票图标带粗体手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票图标带粗体手写叉号",
+        "Ballot Box with Bold Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F7",
+        "U+1F5F7",
+        "符号"
+      ],
+      "text": "可用于表达「选票图标带粗体手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f8-6024",
+      "emoji": "🗸",
+      "name": "细勾选标记",
+      "category": "符号",
+      "keywords": [
+        "细勾选标记",
+        "Light Check Mark",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F8",
+        "U+1F5F8",
+        "符号"
+      ],
+      "text": "可用于表达「细勾选标记」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f9-6025",
+      "emoji": "🗹",
+      "name": "选票图标带粗体勾选",
+      "category": "符号",
+      "keywords": [
+        "选票图标带粗体勾选",
+        "Ballot Box with Bold Check",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F9",
+        "U+1F5F9",
+        "符号"
+      ],
+      "text": "可用于表达「选票图标带粗体勾选」相关含义。"
+    },
+    {
+      "id": "symbol-1f900-6032",
+      "emoji": "🤀",
+      "name": "圆圈十字展开图标四点",
+      "category": "符号",
+      "keywords": [
+        "圆圈十字展开图标四点",
+        "Circled Cross Formee With Four Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F900",
+        "U+1F900",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈十字展开图标四点」相关含义。"
+    },
+    {
+      "id": "symbol-1f901-6033",
+      "emoji": "🤁",
+      "name": "圆圈十字展开图标双点",
+      "category": "符号",
+      "keywords": [
+        "圆圈十字展开图标双点",
+        "Circled Cross Formee With Two Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F901",
+        "U+1F901",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈十字展开图标双点」相关含义。"
+    },
+    {
+      "id": "symbol-1f902-6034",
+      "emoji": "🤂",
+      "name": "圆圈十字展开",
+      "category": "符号",
+      "keywords": [
+        "圆圈十字展开",
+        "Circled Cross Formee",
+        "Supplemental Symbols and Pictographs",
+        "1F902",
+        "U+1F902",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈十字展开」相关含义。"
+    },
+    {
+      "id": "symbol-1f903-6035",
+      "emoji": "🤃",
+      "name": "左半圆图标四点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标四点",
+        "Left Half Circle With Four Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F903",
+        "U+1F903",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标四点」相关含义。"
+    },
+    {
+      "id": "symbol-1f904-6036",
+      "emoji": "🤄",
+      "name": "左半圆图标三点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标三点",
+        "Left Half Circle With Three Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F904",
+        "U+1F904",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标三点」相关含义。"
+    },
+    {
+      "id": "symbol-1f905-6037",
+      "emoji": "🤅",
+      "name": "左半圆图标双点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标双点",
+        "Left Half Circle With Two Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F905",
+        "U+1F905",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标双点」相关含义。"
+    },
+    {
+      "id": "symbol-1f906-6038",
+      "emoji": "🤆",
+      "name": "左半圆图标点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标点",
+        "Left Half Circle With Dot",
+        "Supplemental Symbols and Pictographs",
+        "1F906",
+        "U+1F906",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标点」相关含义。"
+    },
+    {
+      "id": "symbol-1f907-6039",
+      "emoji": "🤇",
+      "name": "左半圆",
+      "category": "符号",
+      "keywords": [
+        "左半圆",
+        "Left Half Circle",
+        "Supplemental Symbols and Pictographs",
+        "1F907",
+        "U+1F907",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆」相关含义。"
+    },
+    {
+      "id": "symbol-1f908-6040",
+      "emoji": "🤈",
+      "name": "下向钩",
+      "category": "符号",
+      "keywords": [
+        "下向钩",
+        "Downward Facing Hook",
+        "Supplemental Symbols and Pictographs",
+        "1F908",
+        "U+1F908",
+        "符号"
+      ],
+      "text": "可用于表达「下向钩」相关含义。"
+    },
+    {
+      "id": "symbol-1f909-6041",
+      "emoji": "🤉",
+      "name": "下向缺口钩",
+      "category": "符号",
+      "keywords": [
+        "下向缺口钩",
+        "Downward Facing Notched Hook",
+        "Supplemental Symbols and Pictographs",
+        "1F909",
+        "U+1F909",
+        "符号"
+      ],
+      "text": "可用于表达「下向缺口钩」相关含义。"
+    },
+    {
+      "id": "symbol-1f90a-6042",
+      "emoji": "🤊",
+      "name": "带点下向钩",
+      "category": "符号",
+      "keywords": [
+        "带点下向钩",
+        "Downward Facing Hook With Dot",
+        "Supplemental Symbols and Pictographs",
+        "1F90A",
+        "U+1F90A",
+        "符号"
+      ],
+      "text": "可用于表达「带点下向钩」相关含义。"
+    },
+    {
+      "id": "symbol-1f90b-6043",
+      "emoji": "🤋",
+      "name": "带点下向缺口钩",
+      "category": "符号",
+      "keywords": [
+        "带点下向缺口钩",
+        "Downward Facing Notched Hook With Dot",
+        "Supplemental Symbols and Pictographs",
+        "1F90B",
+        "U+1F90B",
+        "符号"
+      ],
+      "text": "可用于表达「带点下向缺口钩」相关含义。"
     }
   ]
 }
