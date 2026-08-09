@@ -1,5 +1,4 @@
 // 符号搜索和排序工具函数
-import { pinyin } from 'pinyin';
 import { SymbolData } from './types';
 
 /**
@@ -20,48 +19,11 @@ export function searchSymbols(symbols: SymbolData[], query: string): SymbolData[
     const basicMatch = 
       symbol.symbol.toLowerCase().includes(lowerQuery) ||
       symbol.name.toLowerCase().includes(lowerQuery) ||
-      symbol.pronunciation.toLowerCase().includes(lowerQuery) ||
       symbol.notes.toLowerCase().includes(lowerQuery) ||
       symbol.searchTerms.some((term: string) => term.toLowerCase().includes(lowerQuery));
-    
-    // 拼音搜索逻辑 — 优先使用服务端预计算字段，避免客户端重复调用 pinyin()
-    const pinyinMatch = (() => {
-      try {
-        // 预计算字段可用时直接读取（O(1) 字符串匹配）
-        if (symbol._namePinyin !== undefined) {
-          return symbol._namePinyin.includes(lowerQuery) ||
-                 (symbol._notesPinyin ?? '').includes(lowerQuery) ||
-                 (symbol._searchTermsPinyin ?? []).some(termPinyin => termPinyin.includes(lowerQuery));
-        }
-
-        // 回退：实时计算（兼容未预计算的历史数据）
-        const namePinyin = pinyin(symbol.name, {
-          style: 'normal', // 不带声调
-          heteronym: false // 不返回多音字的所有读音
-        }).join('').toLowerCase();
-
-        // 将符号备注转换为拼音进行匹配
-        const notesPinyin = pinyin(symbol.notes, {
-          style: 'normal',
-          heteronym: false
-        }).join('').toLowerCase();
-
-        // 将搜索词转换为拼音进行匹配
-        const searchTermsPinyin = symbol.searchTerms.map(term =>
-          pinyin(term, {
-            style: 'normal',
-            heteronym: false
-          }).join('').toLowerCase()
-        );
-
-        return namePinyin.includes(lowerQuery) ||
-               notesPinyin.includes(lowerQuery) ||
-               searchTermsPinyin.some(termPinyin => termPinyin.includes(lowerQuery));
-      } catch {
-        // 如果拼音转换出错，返回false
-        return false;
-      }
-    })();
+    const pinyinMatch = (symbol._namePinyin ?? '').includes(lowerQuery) ||
+      (symbol._notesPinyin ?? '').includes(lowerQuery) ||
+      (symbol._searchTermsPinyin ?? []).some(termPinyin => termPinyin.includes(lowerQuery));
     
     return basicMatch || pinyinMatch;
   });
@@ -126,31 +88,4 @@ export function sortSymbols(symbols: SymbolData[], category: string, hasSearchQu
     return symbols; // "全部"分类保持服务端已打乱的顺序
   }
   return [...symbols].sort((a, b) => a.symbol.localeCompare(b.symbol));
-}
-
-/**
- * 综合处理符号数据：过滤、搜索、排序
- * @param symbols 原始符号数组
- * @param category 当前分类
- * @param searchQuery 搜索查询
- * @returns 处理后的符号数组
- */
-export function processSymbols(
-  symbols: SymbolData[], 
-  category: string, 
-  searchQuery: string
-): SymbolData[] {
-  // 1. 按分类过滤
-  let filtered = filterSymbolsByCategory(symbols, category);
-  
-  // 2. 按搜索查询过滤
-  if (searchQuery.trim()) {
-    filtered = searchSymbols(filtered, searchQuery);
-  }
-  
-  // 3. 排序 (非全部标签时按字母排序)
-  const hasSearchQuery = searchQuery.trim().length > 0;
-  filtered = sortSymbols(filtered, category, hasSearchQuery);
-  
-  return filtered;
 }

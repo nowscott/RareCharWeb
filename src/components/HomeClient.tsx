@@ -1,8 +1,8 @@
 'use client';
 
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import Link from 'next/link';
-import { CategoryStat, InitialCategoryData, PaginatedSymbolResponse } from '@/lib/core/types';
+import { CategoryStat, PaginatedSymbolResponse } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
 import { SymbolList } from '@/components/symbols';
 import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
@@ -12,7 +12,6 @@ interface HomeClientProps {
   apiEndpoint: string;
   categories: CategoryStat[];
   initialData: PaginatedSymbolResponse;
-  initialCategoryData?: InitialCategoryData;
   initialSeed: number;
   pageTitle?: string;
   pageDescription?: string;
@@ -24,14 +23,12 @@ export default function HomeClient({
   apiEndpoint,
   categories,
   initialData,
-  initialCategoryData,
   initialSeed,
   pageTitle = "复制符",
   pageDescription = "快速查找特殊符号，一键复制"
 }: HomeClientProps) {
   const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
-  const [prefetchRequest, setPrefetchRequest] = useState<{ category: string; nonce: number } | null>(null);
 
   useEffect(() => {
     optimizeSymbolRendering();
@@ -44,17 +41,6 @@ export default function HomeClient({
     setActiveCategory(category);
     setSearchQuery('');
   }, []);
-
-  const handleCategoryPrefetch = useCallback((category: string) => {
-    setPrefetchRequest({ category, nonce: Date.now() });
-  }, []);
-
-  const initialPrefetchCategories = useMemo(
-    () => categories
-      .filter((category) => category.id !== 'all')
-      .map((category) => category.id),
-    [categories]
-  );
 
   return (
     <div className="liquid-page py-4 sm:py-8 px-4" data-client-version={HOME_CLIENT_VERSION}>
@@ -114,7 +100,6 @@ export default function HomeClient({
           <CategoryNav
             activeCategory={activeCategory}
             onSelectCategory={handleCategoryChange}
-            onPrefetchCategory={handleCategoryPrefetch}
             categories={categories}
           />
         </div>
@@ -125,10 +110,7 @@ export default function HomeClient({
           category={activeCategory}
           searchQuery={searchQuery}
           initialData={initialData}
-          initialCategoryData={initialCategoryData}
           initialSeed={initialSeed}
-          prefetchCategories={initialPrefetchCategories}
-          prefetchRequest={prefetchRequest}
         />
       </div>
     </div>

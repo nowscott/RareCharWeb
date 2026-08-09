@@ -1,6 +1,6 @@
 {
   "category": "旗帜",
-  "total": 270,
+  "total": 274,
   "items": [
     {
       "id": "emoji-1f1e8-1f1f3-57",
@@ -3126,6 +3126,70 @@
         "旗帜"
       ],
       "text": "法罗群岛的地区旗帜。"
+    },
+    {
+      "id": "symbol-2690-4549",
+      "emoji": "⚐",
+      "name": "白旗",
+      "category": "旗帜",
+      "keywords": [
+        "白旗",
+        "White Flag",
+        "Miscellaneous Symbols",
+        "2690",
+        "U+2690",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「白旗」相关含义。"
+    },
+    {
+      "id": "symbol-2691-4550",
+      "emoji": "⚑",
+      "name": "黑旗",
+      "category": "旗帜",
+      "keywords": [
+        "黑旗",
+        "Black Flag",
+        "Miscellaneous Symbols",
+        "2691",
+        "U+2691",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「黑旗」相关含义。"
+    },
+    {
+      "id": "symbol-1f3f1-5505",
+      "emoji": "🏱",
+      "name": "白色三角旗",
+      "category": "旗帜",
+      "keywords": [
+        "白色三角旗",
+        "White Pennant",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3F1",
+        "U+1F3F1",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「白色三角旗」相关含义。"
+    },
+    {
+      "id": "symbol-1f3f2-5506",
+      "emoji": "🏲",
+      "name": "黑色三角旗",
+      "category": "旗帜",
+      "keywords": [
+        "黑色三角旗",
+        "Black Pennant",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3F2",
+        "U+1F3F2",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「黑色三角旗」相关含义。"
     }
   ]
 }

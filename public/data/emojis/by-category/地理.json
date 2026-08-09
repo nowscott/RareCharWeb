@@ -1,6 +1,6 @@
 {
   "category": "地理",
-  "total": 139,
+  "total": 167,
   "items": [
     {
       "id": "emoji-26f0-fe0f-41",
@@ -1654,6 +1654,441 @@
         "地理"
       ],
       "text": "可用于表达「飞碟」相关含义。"
+    },
+    {
+      "id": "symbol-26cd-4593",
+      "emoji": "⛍",
+      "name": "无障碍车辆",
+      "category": "地理",
+      "keywords": [
+        "无障碍车辆",
+        "Disabled Car",
+        "Miscellaneous Symbols",
+        "26CD",
+        "U+26CD",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「无障碍车辆」相关含义。"
+    },
+    {
+      "id": "symbol-26d0-4596",
+      "emoji": "⛐",
+      "name": "车辆打滑",
+      "category": "地理",
+      "keywords": [
+        "车辆打滑",
+        "Car Sliding",
+        "Miscellaneous Symbols",
+        "26D0",
+        "U+26D0",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「车辆打滑」相关含义。"
+    },
+    {
+      "id": "symbol-26d2-4598",
+      "emoji": "⛒",
+      "name": "圆圈交叉车道",
+      "category": "地理",
+      "keywords": [
+        "圆圈交叉车道",
+        "Circled Crossing Lanes",
+        "Miscellaneous Symbols",
+        "26D2",
+        "U+26D2",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「圆圈交叉车道」相关含义。"
+    },
+    {
+      "id": "symbol-26d5-4601",
+      "emoji": "⛕",
+      "name": "替代单向左行标志",
+      "category": "地理",
+      "keywords": [
+        "替代单向左行标志",
+        "Alternate One-Way Left Way Traffic",
+        "Miscellaneous Symbols",
+        "26D5",
+        "U+26D5",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「替代单向左行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d6-4602",
+      "emoji": "⛖",
+      "name": "黑色双向左行标志",
+      "category": "地理",
+      "keywords": [
+        "黑色双向左行标志",
+        "Black Two-Way Left Way Traffic",
+        "Miscellaneous Symbols",
+        "26D6",
+        "U+26D6",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「黑色双向左行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d7-4603",
+      "emoji": "⛗",
+      "name": "白色双向左行标志",
+      "category": "地理",
+      "keywords": [
+        "白色双向左行标志",
+        "White Two-Way Left Way Traffic",
+        "Miscellaneous Symbols",
+        "26D7",
+        "U+26D7",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「白色双向左行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d8-4604",
+      "emoji": "⛘",
+      "name": "黑色左侧汇入车道标志",
+      "category": "地理",
+      "keywords": [
+        "黑色左侧汇入车道标志",
+        "Black Left Lane Merge",
+        "Miscellaneous Symbols",
+        "26D8",
+        "U+26D8",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「黑色左侧汇入车道标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d9-4605",
+      "emoji": "⛙",
+      "name": "白色左侧汇入车道标志",
+      "category": "地理",
+      "keywords": [
+        "白色左侧汇入车道标志",
+        "White Left Lane Merge",
+        "Miscellaneous Symbols",
+        "26D9",
+        "U+26D9",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「白色左侧汇入车道标志」相关含义。"
+    },
+    {
+      "id": "symbol-26da-4606",
+      "emoji": "⛚",
+      "name": "慢行标志",
+      "category": "地理",
+      "keywords": [
+        "慢行标志",
+        "Drive Slow Sign",
+        "Miscellaneous Symbols",
+        "26DA",
+        "U+26DA",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「慢行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26dc-4608",
+      "emoji": "⛜",
+      "name": "左侧禁止进入标志",
+      "category": "地理",
+      "keywords": [
+        "左侧禁止进入标志",
+        "Left Closed Entry",
+        "Miscellaneous Symbols",
+        "26DC",
+        "U+26DC",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「左侧禁止进入标志」相关含义。"
+    },
+    {
+      "id": "symbol-26df-4611",
+      "emoji": "⛟",
+      "name": "黑色卡车",
+      "category": "地理",
+      "keywords": [
+        "黑色卡车",
+        "Black Truck",
+        "Miscellaneous Symbols",
+        "26DF",
+        "U+26DF",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「黑色卡车」相关含义。"
+    },
+    {
+      "id": "symbol-26e0-4612",
+      "emoji": "⛠",
+      "name": "左侧限制进入标志一",
+      "category": "地理",
+      "keywords": [
+        "左侧限制进入标志一",
+        "Restricted Left Entry-1",
+        "Miscellaneous Symbols",
+        "26E0",
+        "U+26E0",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「左侧限制进入标志一」相关含义。"
+    },
+    {
+      "id": "symbol-26e1-4613",
+      "emoji": "⛡",
+      "name": "左侧限制进入标志二",
+      "category": "地理",
+      "keywords": [
+        "左侧限制进入标志二",
+        "Restricted Left Entry-2",
+        "Miscellaneous Symbols",
+        "26E1",
+        "U+26E1",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「左侧限制进入标志二」相关含义。"
+    },
+    {
+      "id": "symbol-26eb-4623",
+      "emoji": "⛫",
+      "name": "城堡",
+      "category": "地理",
+      "keywords": [
+        "城堡",
+        "Castle",
+        "Miscellaneous Symbols",
+        "26EB",
+        "U+26EB",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「城堡」相关含义。"
+    },
+    {
+      "id": "symbol-26ec-4624",
+      "emoji": "⛬",
+      "name": "历史遗址",
+      "category": "地理",
+      "keywords": [
+        "历史遗址",
+        "Historic Site",
+        "Miscellaneous Symbols",
+        "26EC",
+        "U+26EC",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「历史遗址」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c6-5215",
+      "emoji": "🛆",
+      "name": "三角形带圆角角",
+      "category": "地理",
+      "keywords": [
+        "三角形带圆角角",
+        "Triangle with Rounded Corners",
+        "Transport and Map Symbols",
+        "1F6C6",
+        "U+1F6C6",
+        "地理"
+      ],
+      "text": "可用于表达「三角形带圆角角」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c7-5216",
+      "emoji": "🛇",
+      "name": "禁止标志",
+      "category": "地理",
+      "keywords": [
+        "禁止标志",
+        "Prohibited Sign",
+        "Transport and Map Symbols",
+        "1F6C7",
+        "U+1F6C7",
+        "地理"
+      ],
+      "text": "可用于表达「禁止标志」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c8-5217",
+      "emoji": "🛈",
+      "name": "圆圈信息源",
+      "category": "地理",
+      "keywords": [
+        "圆圈信息源",
+        "Circled Information Source",
+        "Transport and Map Symbols",
+        "1F6C8",
+        "U+1F6C8",
+        "地理"
+      ],
+      "text": "可用于表达「圆圈信息源」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c9-5218",
+      "emoji": "🛉",
+      "name": "男孩符号",
+      "category": "地理",
+      "keywords": [
+        "男孩符号",
+        "Boys Symbol",
+        "Transport and Map Symbols",
+        "1F6C9",
+        "U+1F6C9",
+        "地理"
+      ],
+      "text": "可用于表达「男孩符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f6ca-5219",
+      "emoji": "🛊",
+      "name": "女孩符号",
+      "category": "地理",
+      "keywords": [
+        "女孩符号",
+        "Girls Symbol",
+        "Transport and Map Symbols",
+        "1F6CA",
+        "U+1F6CA",
+        "地理"
+      ],
+      "text": "可用于表达「女孩符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f6d3-5228",
+      "emoji": "🛓",
+      "name": "佛塔",
+      "category": "地理",
+      "keywords": [
+        "佛塔",
+        "Stupa",
+        "Transport and Map Symbols",
+        "1F6D3",
+        "U+1F6D3",
+        "地理"
+      ],
+      "text": "可用于表达「佛塔」相关含义。"
+    },
+    {
+      "id": "symbol-1f6d4-5229",
+      "emoji": "🛔",
+      "name": "宝塔",
+      "category": "地理",
+      "keywords": [
+        "宝塔",
+        "Pagoda",
+        "Transport and Map Symbols",
+        "1F6D4",
+        "U+1F6D4",
+        "地理"
+      ],
+      "text": "可用于表达「宝塔」相关含义。"
+    },
+    {
+      "id": "symbol-1f6e6-5244",
+      "emoji": "🛦",
+      "name": "上指向军用飞机",
+      "category": "地理",
+      "keywords": [
+        "上指向军用飞机",
+        "Up-Pointing Military Airplane",
+        "Transport and Map Symbols",
+        "1F6E6",
+        "U+1F6E6",
+        "地理"
+      ],
+      "text": "可用于表达「上指向军用飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6e7-5245",
+      "emoji": "🛧",
+      "name": "上指向飞机",
+      "category": "地理",
+      "keywords": [
+        "上指向飞机",
+        "Up-Pointing Airplane",
+        "Transport and Map Symbols",
+        "1F6E7",
+        "U+1F6E7",
+        "地理"
+      ],
+      "text": "可用于表达「上指向飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6e8-5246",
+      "emoji": "🛨",
+      "name": "上指向小型飞机",
+      "category": "地理",
+      "keywords": [
+        "上指向小型飞机",
+        "Up-Pointing Small Airplane",
+        "Transport and Map Symbols",
+        "1F6E8",
+        "U+1F6E8",
+        "地理"
+      ],
+      "text": "可用于表达「上指向小型飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6ea-5248",
+      "emoji": "🛪",
+      "name": "东北指向飞机",
+      "category": "地理",
+      "keywords": [
+        "东北指向飞机",
+        "Northeast-Pointing Airplane",
+        "Transport and Map Symbols",
+        "1F6EA",
+        "U+1F6EA",
+        "地理"
+      ],
+      "text": "可用于表达「东北指向飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6f1-5252",
+      "emoji": "🛱",
+      "name": "迎面消防发动机",
+      "category": "地理",
+      "keywords": [
+        "迎面消防发动机",
+        "Oncoming Fire Engine",
+        "Transport and Map Symbols",
+        "1F6F1",
+        "U+1F6F1",
+        "地理"
+      ],
+      "text": "可用于表达「迎面消防发动机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6f2-5253",
+      "emoji": "🛲",
+      "name": "柴油机车",
+      "category": "地理",
+      "keywords": [
+        "柴油机车",
+        "Diesel Locomotive",
+        "Transport and Map Symbols",
+        "1F6F2",
+        "U+1F6F2",
+        "地理"
+      ],
+      "text": "可用于表达「柴油机车」相关含义。"
     }
   ]
 }

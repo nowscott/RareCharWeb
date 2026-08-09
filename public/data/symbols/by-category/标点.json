@@ -6,7 +6,6 @@
       "id": "symbol-a1-2",
       "symbol": "¡",
       "name": "倒置感叹号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -25,7 +24,6 @@
       "id": "symbol-a7-6",
       "symbol": "§",
       "name": "章节符号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -45,7 +43,6 @@
       "id": "symbol-ab-8",
       "symbol": "«",
       "name": "双左尖括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -61,7 +58,6 @@
       "id": "symbol-b6-17",
       "symbol": "¶",
       "name": "段落标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -79,7 +75,6 @@
       "id": "symbol-b7-18",
       "symbol": "·",
       "name": "间隔号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -95,7 +90,6 @@
       "id": "symbol-bb-20",
       "symbol": "»",
       "name": "双右尖括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -111,7 +105,6 @@
       "id": "symbol-bf-21",
       "symbol": "¿",
       "name": "倒置问号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -130,7 +123,6 @@
       "id": "symbol-2014-118",
       "symbol": "—",
       "name": "破折号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -148,7 +140,6 @@
       "id": "symbol-2016-119",
       "symbol": "‖",
       "name": "重复记号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -166,7 +157,6 @@
       "id": "symbol-2022-120",
       "symbol": "•",
       "name": "实心圆点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -184,7 +174,6 @@
       "id": "symbol-2025-121",
       "symbol": "‥",
       "name": "双点号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -202,7 +191,6 @@
       "id": "symbol-2026-122",
       "symbol": "…",
       "name": "省略号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -220,7 +208,6 @@
       "id": "symbol-2039-127",
       "symbol": "‹",
       "name": "单左尖括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -238,7 +225,6 @@
       "id": "symbol-203a-128",
       "symbol": "›",
       "name": "单右尖括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -256,7 +242,6 @@
       "id": "symbol-26ac-440",
       "symbol": "⚬",
       "name": "中小白圈",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -274,7 +259,6 @@
       "id": "symbol-ff5e-781",
       "symbol": "～",
       "name": "波浪号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -290,7 +274,6 @@
       "id": "symbol-2010-1046",
       "symbol": "‐",
       "name": "连字符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -309,7 +292,6 @@
       "id": "symbol-2011-1047",
       "symbol": "‑",
       "name": "不换行连字符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -329,7 +311,6 @@
       "id": "symbol-2012-1048",
       "symbol": "‒",
       "name": "数字宽度短横线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -349,7 +330,6 @@
       "id": "symbol-2013-1049",
       "symbol": "–",
       "name": "短破折号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -369,7 +349,6 @@
       "id": "symbol-2015-1050",
       "symbol": "―",
       "name": "水平横线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -387,7 +366,6 @@
       "id": "symbol-2017-1051",
       "symbol": "‗",
       "name": "双下划线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -405,7 +383,6 @@
       "id": "symbol-2018-1052",
       "symbol": "‘",
       "name": "左单引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -424,7 +401,6 @@
       "id": "symbol-2019-1053",
       "symbol": "’",
       "name": "右单引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -443,7 +419,6 @@
       "id": "symbol-201a-1054",
       "symbol": "‚",
       "name": "低位单引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -462,7 +437,6 @@
       "id": "symbol-201b-1055",
       "symbol": "‛",
       "name": "反向高位单引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -481,7 +455,6 @@
       "id": "symbol-201c-1056",
       "symbol": "“",
       "name": "左双引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -500,7 +473,6 @@
       "id": "symbol-201d-1057",
       "symbol": "”",
       "name": "右双引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -519,7 +491,6 @@
       "id": "symbol-201e-1058",
       "symbol": "„",
       "name": "低位双引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -538,7 +509,6 @@
       "id": "symbol-201f-1059",
       "symbol": "‟",
       "name": "反向高位双引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -557,7 +527,6 @@
       "id": "symbol-2020-1060",
       "symbol": "†",
       "name": "剑标",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -575,7 +544,6 @@
       "id": "symbol-2021-1061",
       "symbol": "‡",
       "name": "双剑标",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -593,7 +561,6 @@
       "id": "symbol-2023-1062",
       "symbol": "‣",
       "name": "三角项目符号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -612,7 +579,6 @@
       "id": "symbol-2024-1063",
       "symbol": "․",
       "name": "单点引导符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -631,7 +597,6 @@
       "id": "symbol-2027-1064",
       "symbol": "‧",
       "name": "断字点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -651,7 +616,6 @@
       "id": "symbol-2034-1065",
       "symbol": "‴",
       "name": "三重撇号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -670,7 +634,6 @@
       "id": "symbol-2035-1066",
       "symbol": "‵",
       "name": "反向撇号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -689,7 +652,6 @@
       "id": "symbol-2036-1067",
       "symbol": "‶",
       "name": "反向双撇号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -708,7 +670,6 @@
       "id": "symbol-2037-1068",
       "symbol": "‷",
       "name": "反向三重撇号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -727,7 +688,6 @@
       "id": "symbol-2038-1069",
       "symbol": "‸",
       "name": "插入记号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -745,7 +705,6 @@
       "id": "symbol-203b-1070",
       "symbol": "※",
       "name": "参考标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -763,7 +722,6 @@
       "id": "symbol-203c-1071",
       "symbol": "‼",
       "name": "双感叹号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -782,7 +740,6 @@
       "id": "symbol-203d-1072",
       "symbol": "‽",
       "name": "问叹号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -800,7 +757,6 @@
       "id": "symbol-203e-1073",
       "symbol": "‾",
       "name": "上划线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -818,7 +774,6 @@
       "id": "symbol-203f-1074",
       "symbol": "‿",
       "name": "下连线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -836,7 +791,6 @@
       "id": "symbol-2040-1075",
       "symbol": "⁀",
       "name": "字符连线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -854,7 +808,6 @@
       "id": "symbol-2041-1076",
       "symbol": "⁁",
       "name": "插入点记号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -872,7 +825,6 @@
       "id": "symbol-2042-1077",
       "symbol": "⁂",
       "name": "三星号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -890,7 +842,6 @@
       "id": "symbol-2043-1078",
       "symbol": "⁃",
       "name": "连字符项目符号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -911,7 +862,6 @@
       "id": "symbol-2044-1079",
       "symbol": "⁄",
       "name": "分数斜线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -929,7 +879,6 @@
       "id": "symbol-2045-1080",
       "symbol": "⁅",
       "name": "左羽饰方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -948,7 +897,6 @@
       "id": "symbol-2046-1081",
       "symbol": "⁆",
       "name": "右羽饰方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -967,7 +915,6 @@
       "id": "symbol-2047-1082",
       "symbol": "⁇",
       "name": "双问号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -986,7 +933,6 @@
       "id": "symbol-2048-1083",
       "symbol": "⁈",
       "name": "问号感叹号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1006,7 +952,6 @@
       "id": "symbol-2049-1084",
       "symbol": "⁉",
       "name": "感叹号问号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1026,7 +971,6 @@
       "id": "symbol-204a-1085",
       "symbol": "⁊",
       "name": "蒂罗和号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1044,7 +988,6 @@
       "id": "symbol-204b-1086",
       "symbol": "⁋",
       "name": "反向段落标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1063,7 +1006,6 @@
       "id": "symbol-204c-1087",
       "symbol": "⁌",
       "name": "黑色左向项目符号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1082,7 +1024,6 @@
       "id": "symbol-204d-1088",
       "symbol": "⁍",
       "name": "黑色右向项目符号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1101,7 +1042,6 @@
       "id": "symbol-204e-1089",
       "symbol": "⁎",
       "name": "低位星号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1120,7 +1060,6 @@
       "id": "symbol-204f-1090",
       "symbol": "⁏",
       "name": "反向分号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1138,7 +1077,6 @@
       "id": "symbol-2050-1091",
       "symbol": "⁐",
       "name": "闭合校对符号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1156,7 +1094,6 @@
       "id": "symbol-2051-1092",
       "symbol": "⁑",
       "name": "竖排双星号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1175,7 +1112,6 @@
       "id": "symbol-2052-1093",
       "symbol": "⁒",
       "name": "商业减号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1193,7 +1129,6 @@
       "id": "symbol-2053-1094",
       "symbol": "⁓",
       "name": "波浪短横线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1213,7 +1148,6 @@
       "id": "symbol-2054-1095",
       "symbol": "⁔",
       "name": "反向下连线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1231,7 +1165,6 @@
       "id": "symbol-2055-1096",
       "symbol": "⁕",
       "name": "花形标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1249,7 +1182,6 @@
       "id": "symbol-2056-1097",
       "symbol": "⁖",
       "name": "三点标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1268,7 +1200,6 @@
       "id": "symbol-2057-1098",
       "symbol": "⁗",
       "name": "四重撇号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1287,7 +1218,6 @@
       "id": "symbol-2058-1099",
       "symbol": "⁘",
       "name": "四点标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1306,7 +1236,6 @@
       "id": "symbol-2059-1100",
       "symbol": "⁙",
       "name": "五点标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1325,7 +1254,6 @@
       "id": "symbol-205a-1101",
       "symbol": "⁚",
       "name": "两点标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1344,7 +1272,6 @@
       "id": "symbol-205b-1102",
       "symbol": "⁛",
       "name": "四点标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1363,7 +1290,6 @@
       "id": "symbol-205c-1103",
       "symbol": "⁜",
       "name": "点状十字",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1382,7 +1308,6 @@
       "id": "symbol-205d-1104",
       "symbol": "⁝",
       "name": "三冒号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1400,7 +1325,6 @@
       "id": "symbol-205e-1105",
       "symbol": "⁞",
       "name": "竖排四点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1419,7 +1343,6 @@
       "id": "symbol-2e00-1106",
       "symbol": "⸀",
       "name": "直角替换标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1437,7 +1360,6 @@
       "id": "symbol-2e01-1107",
       "symbol": "⸁",
       "name": "点状直角替换标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1456,7 +1378,6 @@
       "id": "symbol-2e02-1108",
       "symbol": "⸂",
       "name": "左替换括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1475,7 +1396,6 @@
       "id": "symbol-2e03-1109",
       "symbol": "⸃",
       "name": "右替换括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1494,7 +1414,6 @@
       "id": "symbol-2e04-1110",
       "symbol": "⸄",
       "name": "左点状替换括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1514,7 +1433,6 @@
       "id": "symbol-2e05-1111",
       "symbol": "⸅",
       "name": "右点状替换括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1534,7 +1452,6 @@
       "id": "symbol-2e06-1112",
       "symbol": "⸆",
       "name": "上标插入标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1552,7 +1469,6 @@
       "id": "symbol-2e07-1113",
       "symbol": "⸇",
       "name": "上标点状插入标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1571,7 +1487,6 @@
       "id": "symbol-2e08-1114",
       "symbol": "⸈",
       "name": "点状移位标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1590,7 +1505,6 @@
       "id": "symbol-2e09-1115",
       "symbol": "⸉",
       "name": "左移位括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1609,7 +1523,6 @@
       "id": "symbol-2e0a-1116",
       "symbol": "⸊",
       "name": "右移位括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1628,7 +1541,6 @@
       "id": "symbol-2e0b-1117",
       "symbol": "⸋",
       "name": "上标方块",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1646,7 +1558,6 @@
       "id": "symbol-2e0c-1118",
       "symbol": "⸌",
       "name": "左上省略括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1665,7 +1576,6 @@
       "id": "symbol-2e0d-1119",
       "symbol": "⸍",
       "name": "右上省略括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1684,7 +1594,6 @@
       "id": "symbol-2e0e-1120",
       "symbol": "⸎",
       "name": "校勘冠形符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1702,7 +1611,6 @@
       "id": "symbol-2e0f-1121",
       "symbol": "⸏",
       "name": "古典段落符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1721,7 +1629,6 @@
       "id": "symbol-2e10-1122",
       "symbol": "⸐",
       "name": "分叉段落符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1740,7 +1647,6 @@
       "id": "symbol-2e11-1123",
       "symbol": "⸑",
       "name": "反向分叉段落符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1759,7 +1665,6 @@
       "id": "symbol-2e12-1124",
       "symbol": "⸒",
       "name": "古典逗号标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1777,7 +1682,6 @@
       "id": "symbol-2e13-1125",
       "symbol": "⸓",
       "name": "点状除号校勘符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1796,7 +1700,6 @@
       "id": "symbol-2e14-1126",
       "symbol": "⸔",
       "name": "下向锚形符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1814,7 +1717,6 @@
       "id": "symbol-2e15-1127",
       "symbol": "⸕",
       "name": "上向锚形符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1832,7 +1734,6 @@
       "id": "symbol-2e16-1128",
       "symbol": "⸖",
       "name": "点状右角标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1851,7 +1752,6 @@
       "id": "symbol-2e17-1129",
       "symbol": "⸗",
       "name": "双斜连字符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1871,7 +1771,6 @@
       "id": "symbol-2e18-1130",
       "symbol": "⸘",
       "name": "倒置问叹号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1889,7 +1788,6 @@
       "id": "symbol-2e19-1131",
       "symbol": "⸙",
       "name": "棕榈枝标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1907,7 +1805,6 @@
       "id": "symbol-2e1a-1132",
       "symbol": "⸚",
       "name": "带分音符连字符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1927,7 +1824,6 @@
       "id": "symbol-2e1b-1133",
       "symbol": "⸛",
       "name": "上带圆圈波浪线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1945,7 +1841,6 @@
       "id": "symbol-2e1c-1134",
       "symbol": "⸜",
       "name": "左低位释义括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1964,7 +1859,6 @@
       "id": "symbol-2e1d-1135",
       "symbol": "⸝",
       "name": "右低位释义括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -1983,7 +1877,6 @@
       "id": "symbol-2e1e-1136",
       "symbol": "⸞",
       "name": "上带点波浪线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2002,7 +1895,6 @@
       "id": "symbol-2e1f-1137",
       "symbol": "⸟",
       "name": "下带点波浪线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2021,7 +1913,6 @@
       "id": "symbol-2e20-1138",
       "symbol": "⸠",
       "name": "左羽饰竖线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2039,7 +1930,6 @@
       "id": "symbol-2e21-1139",
       "symbol": "⸡",
       "name": "右羽饰竖线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2057,7 +1947,6 @@
       "id": "symbol-2e22-1140",
       "symbol": "⸢",
       "name": "左上半括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2076,7 +1965,6 @@
       "id": "symbol-2e23-1141",
       "symbol": "⸣",
       "name": "右上半括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2095,7 +1983,6 @@
       "id": "symbol-2e24-1142",
       "symbol": "⸤",
       "name": "左下半括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2114,7 +2001,6 @@
       "id": "symbol-2e25-1143",
       "symbol": "⸥",
       "name": "右下半括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2133,7 +2019,6 @@
       "id": "symbol-2e26-1144",
       "symbol": "⸦",
       "name": "左侧向 U 形括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2152,7 +2037,6 @@
       "id": "symbol-2e27-1145",
       "symbol": "⸧",
       "name": "右侧向 U 形括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2171,7 +2055,6 @@
       "id": "symbol-2e28-1146",
       "symbol": "⸨",
       "name": "左双圆括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2191,7 +2074,6 @@
       "id": "symbol-2e29-1147",
       "symbol": "⸩",
       "name": "右双圆括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2211,7 +2093,6 @@
       "id": "symbol-2e2a-1148",
       "symbol": "⸪",
       "name": "上二下一点标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2230,7 +2111,6 @@
       "id": "symbol-2e2b-1149",
       "symbol": "⸫",
       "name": "上一下二点标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2249,7 +2129,6 @@
       "id": "symbol-2e2c-1150",
       "symbol": "⸬",
       "name": "方形四点标点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2268,7 +2147,6 @@
       "id": "symbol-2e2d-1151",
       "symbol": "⸭",
       "name": "五点标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2287,7 +2165,6 @@
       "id": "symbol-2e2e-1152",
       "symbol": "⸮",
       "name": "反向问号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2306,7 +2183,6 @@
       "id": "symbol-2e2f-1153",
       "symbol": "ⸯ",
       "name": "竖波浪线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2324,7 +2200,6 @@
       "id": "symbol-2e30-1154",
       "symbol": "⸰",
       "name": "圆圈点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2343,7 +2218,6 @@
       "id": "symbol-2e31-1155",
       "symbol": "⸱",
       "name": "分词中点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2362,7 +2236,6 @@
       "id": "symbol-2e32-1156",
       "symbol": "⸲",
       "name": "旋转逗号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2381,7 +2254,6 @@
       "id": "symbol-2e33-1157",
       "symbol": "⸳",
       "name": "上位点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2400,7 +2272,6 @@
       "id": "symbol-2e34-1158",
       "symbol": "⸴",
       "name": "上位逗号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2419,7 +2290,6 @@
       "id": "symbol-2e35-1159",
       "symbol": "⸵",
       "name": "旋转分号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2437,7 +2307,6 @@
       "id": "symbol-2e36-1160",
       "symbol": "⸶",
       "name": "左护剑标",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2457,7 +2326,6 @@
       "id": "symbol-2e37-1161",
       "symbol": "⸷",
       "name": "右护剑标",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2477,7 +2345,6 @@
       "id": "symbol-2e38-1162",
       "symbol": "⸸",
       "name": "旋转剑标",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2497,7 +2364,6 @@
       "id": "symbol-2e39-1163",
       "symbol": "⸹",
       "name": "上半章节符号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2515,7 +2381,6 @@
       "id": "symbol-2e3a-1164",
       "symbol": "⸺",
       "name": "双倍长破折号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2535,7 +2400,6 @@
       "id": "symbol-2e3b-1165",
       "symbol": "⸻",
       "name": "三倍长破折号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2555,7 +2419,6 @@
       "id": "symbol-2e3c-1166",
       "symbol": "⸼",
       "name": "速记句点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2574,7 +2437,6 @@
       "id": "symbol-2e3d-1167",
       "symbol": "⸽",
       "name": "竖排六点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2593,7 +2455,6 @@
       "id": "symbol-2e3e-1168",
       "symbol": "⸾",
       "name": "摆动竖线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2611,7 +2472,6 @@
       "id": "symbol-2e3f-1169",
       "symbol": "⸿",
       "name": "章首标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2629,7 +2489,6 @@
       "id": "symbol-2e40-1170",
       "symbol": "⹀",
       "name": "双连字符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2649,7 +2508,6 @@
       "id": "symbol-2e41-1171",
       "symbol": "⹁",
       "name": "反向逗号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2668,7 +2526,6 @@
       "id": "symbol-2e42-1172",
       "symbol": "⹂",
       "name": "低位反向双引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2688,7 +2545,6 @@
       "id": "symbol-2e43-1173",
       "symbol": "⹃",
       "name": "左端上翘破折号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2708,7 +2564,6 @@
       "id": "symbol-2e44-1174",
       "symbol": "⹄",
       "name": "双暂停标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2726,7 +2581,6 @@
       "id": "symbol-2e45-1175",
       "symbol": "⹅",
       "name": "倒置低位卡维卡",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2744,7 +2598,6 @@
       "id": "symbol-2e46-1176",
       "symbol": "⹆",
       "name": "上带卡维卡的倒置低位卡维卡",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2762,7 +2615,6 @@
       "id": "symbol-2e47-1177",
       "symbol": "⹇",
       "name": "低位卡维卡",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2780,7 +2632,6 @@
       "id": "symbol-2e48-1178",
       "symbol": "⹈",
       "name": "带点低位卡维卡",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2799,7 +2650,6 @@
       "id": "symbol-2e49-1179",
       "symbol": "⹉",
       "name": "双层逗号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2818,7 +2668,6 @@
       "id": "symbol-2e4a-1180",
       "symbol": "⹊",
       "name": "点状斜线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2837,7 +2686,6 @@
       "id": "symbol-2e4b-1181",
       "symbol": "⹋",
       "name": "三重剑标",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2857,7 +2705,6 @@
       "id": "symbol-2e4c-1182",
       "symbol": "⹌",
       "name": "中世纪逗号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2876,7 +2723,6 @@
       "id": "symbol-2e4d-1183",
       "symbol": "⹍",
       "name": "古典段落符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2894,7 +2740,6 @@
       "id": "symbol-2e4e-1184",
       "symbol": "⹎",
       "name": "高点句读符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2912,7 +2757,6 @@
       "id": "symbol-2e4f-1185",
       "symbol": "⹏",
       "name": "康沃尔诗行分隔符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2930,7 +2774,6 @@
       "id": "symbol-2e50-1186",
       "symbol": "⹐",
       "name": "右横十字标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2948,7 +2791,6 @@
       "id": "symbol-2e51-1187",
       "symbol": "⹑",
       "name": "左横十字标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2966,7 +2808,6 @@
       "id": "symbol-2e52-1188",
       "symbol": "⹒",
       "name": "大写蒂罗和号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -2984,7 +2825,6 @@
       "id": "symbol-2e53-1189",
       "symbol": "⹓",
       "name": "中世纪感叹号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3003,7 +2843,6 @@
       "id": "symbol-2e54-1190",
       "symbol": "⹔",
       "name": "中世纪问号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3022,7 +2861,6 @@
       "id": "symbol-2e55-1191",
       "symbol": "⹕",
       "name": "带横左方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3042,7 +2880,6 @@
       "id": "symbol-2e56-1192",
       "symbol": "⹖",
       "name": "带横右方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3062,7 +2899,6 @@
       "id": "symbol-2e57-1193",
       "symbol": "⹗",
       "name": "带双横左方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3082,7 +2918,6 @@
       "id": "symbol-2e58-1194",
       "symbol": "⹘",
       "name": "带双横右方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3102,7 +2937,6 @@
       "id": "symbol-2e59-1195",
       "symbol": "⹙",
       "name": "左圆括号上半部",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3122,7 +2956,6 @@
       "id": "symbol-2e5a-1196",
       "symbol": "⹚",
       "name": "右圆括号上半部",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3142,7 +2975,6 @@
       "id": "symbol-2e5b-1197",
       "symbol": "⹛",
       "name": "左圆括号下半部",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3162,7 +2994,6 @@
       "id": "symbol-2e5c-1198",
       "symbol": "⹜",
       "name": "右圆括号下半部",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3182,7 +3013,6 @@
       "id": "symbol-2e5d-1199",
       "symbol": "⹝",
       "name": "斜连字符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3202,7 +3032,6 @@
       "id": "symbol-3001-1200",
       "symbol": "、",
       "name": "顿号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3221,7 +3050,6 @@
       "id": "symbol-3002-1201",
       "symbol": "。",
       "name": "中文句号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3240,7 +3068,6 @@
       "id": "symbol-3003-1202",
       "symbol": "〃",
       "name": "同上标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3258,7 +3085,6 @@
       "id": "symbol-3005-1203",
       "symbol": "々",
       "name": "汉字重复标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3276,7 +3102,6 @@
       "id": "symbol-3006-1204",
       "symbol": "〆",
       "name": "汉字收尾标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3294,7 +3119,6 @@
       "id": "symbol-3008-1206",
       "symbol": "〈",
       "name": "左单书名号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3314,7 +3138,6 @@
       "id": "symbol-3009-1207",
       "symbol": "〉",
       "name": "右单书名号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3334,7 +3157,6 @@
       "id": "symbol-300a-1208",
       "symbol": "《",
       "name": "左双书名号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3354,7 +3176,6 @@
       "id": "symbol-300b-1209",
       "symbol": "》",
       "name": "右双书名号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3374,7 +3195,6 @@
       "id": "symbol-300c-1210",
       "symbol": "「",
       "name": "左直角引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3394,7 +3214,6 @@
       "id": "symbol-300d-1211",
       "symbol": "」",
       "name": "右直角引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3414,7 +3233,6 @@
       "id": "symbol-300e-1212",
       "symbol": "『",
       "name": "左空心直角引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3434,7 +3252,6 @@
       "id": "symbol-300f-1213",
       "symbol": "』",
       "name": "右空心直角引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3454,7 +3271,6 @@
       "id": "symbol-3010-1214",
       "symbol": "【",
       "name": "左黑透镜括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3474,7 +3290,6 @@
       "id": "symbol-3011-1215",
       "symbol": "】",
       "name": "右黑透镜括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3494,7 +3309,6 @@
       "id": "symbol-3013-1216",
       "symbol": "〓",
       "name": "缺字标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3512,7 +3326,6 @@
       "id": "symbol-3014-1217",
       "symbol": "〔",
       "name": "左龟甲括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3532,7 +3345,6 @@
       "id": "symbol-3015-1218",
       "symbol": "〕",
       "name": "右龟甲括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3552,7 +3364,6 @@
       "id": "symbol-3016-1219",
       "symbol": "〖",
       "name": "左空心透镜括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3572,7 +3383,6 @@
       "id": "symbol-3017-1220",
       "symbol": "〗",
       "name": "右空心透镜括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3592,7 +3402,6 @@
       "id": "symbol-3018-1221",
       "symbol": "〘",
       "name": "左空心龟甲括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3612,7 +3421,6 @@
       "id": "symbol-3019-1222",
       "symbol": "〙",
       "name": "右空心龟甲括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3632,7 +3440,6 @@
       "id": "symbol-301a-1223",
       "symbol": "〚",
       "name": "左空心方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3652,7 +3459,6 @@
       "id": "symbol-301b-1224",
       "symbol": "〛",
       "name": "右空心方括号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3672,7 +3478,6 @@
       "id": "symbol-301c-1225",
       "symbol": "〜",
       "name": "波浪线",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3692,7 +3497,6 @@
       "id": "symbol-301d-1226",
       "symbol": "〝",
       "name": "反向双撇引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3712,7 +3516,6 @@
       "id": "symbol-301e-1227",
       "symbol": "〞",
       "name": "双撇引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3732,7 +3535,6 @@
       "id": "symbol-301f-1228",
       "symbol": "〟",
       "name": "低位双撇引号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3752,7 +3554,6 @@
       "id": "symbol-3020-1229",
       "symbol": "〠",
       "name": "邮政标志脸",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3770,7 +3571,6 @@
       "id": "symbol-302a-1239",
       "symbol": "〪",
       "name": "汉字平声调号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3789,7 +3589,6 @@
       "id": "symbol-302b-1240",
       "symbol": "〫",
       "name": "汉字上声调号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3808,7 +3607,6 @@
       "id": "symbol-302c-1241",
       "symbol": "〬",
       "name": "汉字去声调号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3827,7 +3625,6 @@
       "id": "symbol-302d-1242",
       "symbol": "〭",
       "name": "汉字入声调号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3846,7 +3643,6 @@
       "id": "symbol-302e-1243",
       "symbol": "〮",
       "name": "韩文单点声调符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3866,7 +3662,6 @@
       "id": "symbol-302f-1244",
       "symbol": "〯",
       "name": "韩文双点声调符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3886,7 +3681,6 @@
       "id": "symbol-3030-1245",
       "symbol": "〰",
       "name": "波浪破折号",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3906,7 +3700,6 @@
       "id": "symbol-3031-1246",
       "symbol": "〱",
       "name": "竖排假名重复符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3927,7 +3720,6 @@
       "id": "symbol-3032-1247",
       "symbol": "〲",
       "name": "带浊音竖排假名重复符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3948,7 +3740,6 @@
       "id": "symbol-3033-1248",
       "symbol": "〳",
       "name": "竖排假名重复符上半部",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3969,7 +3760,6 @@
       "id": "symbol-3034-1249",
       "symbol": "〴",
       "name": "带浊音竖排假名重复符上半部",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -3990,7 +3780,6 @@
       "id": "symbol-3035-1250",
       "symbol": "〵",
       "name": "竖排假名重复符下半部",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -4011,7 +3800,6 @@
       "id": "symbol-3036-1251",
       "symbol": "〶",
       "name": "带圈邮政标志",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -4031,7 +3819,6 @@
       "id": "symbol-3037-1252",
       "symbol": "〷",
       "name": "表意电报换行分隔符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -4049,7 +3836,6 @@
       "id": "symbol-303b-1256",
       "symbol": "〻",
       "name": "竖排汉字重复标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -4067,7 +3853,6 @@
       "id": "symbol-303c-1257",
       "symbol": "〼",
       "name": "升合标记",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -4085,7 +3870,6 @@
       "id": "symbol-303d-1258",
       "symbol": "〽",
       "name": "庵点",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -4103,7 +3887,6 @@
       "id": "symbol-303e-1259",
       "symbol": "〾",
       "name": "表意变体指示符",
-      "pronunciation": "",
       "category": [
         "标点"
       ],
@@ -4121,7 +3904,6 @@
       "id": "symbol-303f-1260",
       "symbol": "〿",
       "name": "表意半填充空格",
-      "pronunciation": "",
       "category": [
         "标点"
       ],

@@ -6,7 +6,6 @@
       "id": "symbol-2654-383",
       "symbol": "♔",
       "name": "国王",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -24,7 +23,6 @@
       "id": "symbol-2655-384",
       "symbol": "♕",
       "name": "皇后",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -42,7 +40,6 @@
       "id": "symbol-2656-385",
       "symbol": "♖",
       "name": "车",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -60,7 +57,6 @@
       "id": "symbol-2657-386",
       "symbol": "♗",
       "name": "主教",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -78,7 +74,6 @@
       "id": "symbol-2658-387",
       "symbol": "♘",
       "name": "马",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -96,7 +91,6 @@
       "id": "symbol-2659-388",
       "symbol": "♙",
       "name": "兵",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -114,7 +108,6 @@
       "id": "symbol-265a-389",
       "symbol": "♚",
       "name": "黑国王",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -132,7 +125,6 @@
       "id": "symbol-265b-390",
       "symbol": "♛",
       "name": "黑皇后",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -150,7 +142,6 @@
       "id": "symbol-265c-391",
       "symbol": "♜",
       "name": "黑车",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -168,7 +159,6 @@
       "id": "symbol-265d-392",
       "symbol": "♝",
       "name": "黑主教",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -186,7 +176,6 @@
       "id": "symbol-265e-393",
       "symbol": "♞",
       "name": "黑马",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -204,7 +193,6 @@
       "id": "symbol-265f-394",
       "symbol": "♟",
       "name": "黑兵",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -222,7 +210,6 @@
       "id": "symbol-2660-395",
       "symbol": "♠",
       "name": "实心黑桃",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -240,7 +227,6 @@
       "id": "symbol-2661-396",
       "symbol": "♡",
       "name": "空心红心",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -258,7 +244,6 @@
       "id": "symbol-2662-397",
       "symbol": "♢",
       "name": "空心方块",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -276,7 +261,6 @@
       "id": "symbol-2663-398",
       "symbol": "♣",
       "name": "实心梅花",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -294,7 +278,6 @@
       "id": "symbol-2664-399",
       "symbol": "♤",
       "name": "空心黑桃",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -312,7 +295,6 @@
       "id": "symbol-2665-400",
       "symbol": "♥",
       "name": "实心红心",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -330,7 +312,6 @@
       "id": "symbol-2666-401",
       "symbol": "♦",
       "name": "实心方块",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -348,7 +329,6 @@
       "id": "symbol-2667-402",
       "symbol": "♧",
       "name": "空心梅花",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -366,7 +346,6 @@
       "id": "symbol-2680-422",
       "symbol": "⚀",
       "name": "点数1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -384,7 +363,6 @@
       "id": "symbol-2681-423",
       "symbol": "⚁",
       "name": "点数2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -402,7 +380,6 @@
       "id": "symbol-2682-424",
       "symbol": "⚂",
       "name": "点数3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -420,7 +397,6 @@
       "id": "symbol-2683-425",
       "symbol": "⚃",
       "name": "点数4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -438,7 +414,6 @@
       "id": "symbol-2684-426",
       "symbol": "⚄",
       "name": "点数5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -456,7 +431,6 @@
       "id": "symbol-2685-427",
       "symbol": "⚅",
       "name": "点数6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -474,7 +448,6 @@
       "id": "symbol-1f000-795",
       "symbol": "🀀",
       "name": "东风",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -490,7 +463,6 @@
       "id": "symbol-1f001-796",
       "symbol": "🀁",
       "name": "南风",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -506,7 +478,6 @@
       "id": "symbol-1f002-797",
       "symbol": "🀂",
       "name": "西风",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -522,7 +493,6 @@
       "id": "symbol-1f003-798",
       "symbol": "🀃",
       "name": "北风",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -538,7 +508,6 @@
       "id": "symbol-1f004-799",
       "symbol": "🀄",
       "name": "红中",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -554,7 +523,6 @@
       "id": "symbol-1f005-800",
       "symbol": "🀅",
       "name": "發財",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -570,7 +538,6 @@
       "id": "symbol-1f006-801",
       "symbol": "🀆",
       "name": "白板",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -586,7 +553,6 @@
       "id": "symbol-1f007-802",
       "symbol": "🀇",
       "name": "一萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -602,7 +568,6 @@
       "id": "symbol-1f008-803",
       "symbol": "🀈",
       "name": "二萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -618,7 +583,6 @@
       "id": "symbol-1f009-804",
       "symbol": "🀉",
       "name": "三萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -634,7 +598,6 @@
       "id": "symbol-1f00a-805",
       "symbol": "🀊",
       "name": "四萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -650,7 +613,6 @@
       "id": "symbol-1f00b-806",
       "symbol": "🀋",
       "name": "伍萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -666,7 +628,6 @@
       "id": "symbol-1f00c-807",
       "symbol": "🀌",
       "name": "六萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -682,7 +643,6 @@
       "id": "symbol-1f00d-808",
       "symbol": "🀍",
       "name": "七萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -698,7 +658,6 @@
       "id": "symbol-1f00e-809",
       "symbol": "🀎",
       "name": "八萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -714,7 +673,6 @@
       "id": "symbol-1f00f-810",
       "symbol": "🀏",
       "name": "九萬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -730,7 +688,6 @@
       "id": "symbol-1f010-811",
       "symbol": "🀐",
       "name": "一条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -746,7 +703,6 @@
       "id": "symbol-1f011-812",
       "symbol": "🀑",
       "name": "二条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -762,7 +718,6 @@
       "id": "symbol-1f012-813",
       "symbol": "🀒",
       "name": "三条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -778,7 +733,6 @@
       "id": "symbol-1f013-814",
       "symbol": "🀓",
       "name": "四条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -794,7 +748,6 @@
       "id": "symbol-1f014-815",
       "symbol": "🀔",
       "name": "五条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -810,7 +763,6 @@
       "id": "symbol-1f015-816",
       "symbol": "🀕",
       "name": "六条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -826,7 +778,6 @@
       "id": "symbol-1f016-817",
       "symbol": "🀖",
       "name": "七条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -842,7 +793,6 @@
       "id": "symbol-1f017-818",
       "symbol": "🀗",
       "name": "八条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -858,7 +808,6 @@
       "id": "symbol-1f018-819",
       "symbol": "🀘",
       "name": "九条",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -874,7 +823,6 @@
       "id": "symbol-1f019-820",
       "symbol": "🀙",
       "name": "一筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -890,7 +838,6 @@
       "id": "symbol-1f01a-821",
       "symbol": "🀚",
       "name": "二筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -906,7 +853,6 @@
       "id": "symbol-1f01b-822",
       "symbol": "🀛",
       "name": "三筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -922,7 +868,6 @@
       "id": "symbol-1f01c-823",
       "symbol": "🀜",
       "name": "四筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -938,7 +883,6 @@
       "id": "symbol-1f01d-824",
       "symbol": "🀝",
       "name": "五筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -954,7 +898,6 @@
       "id": "symbol-1f01e-825",
       "symbol": "🀞",
       "name": "六筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -970,7 +913,6 @@
       "id": "symbol-1f01f-826",
       "symbol": "🀟",
       "name": "七筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -986,7 +928,6 @@
       "id": "symbol-1f020-827",
       "symbol": "🀠",
       "name": "八筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1002,7 +943,6 @@
       "id": "symbol-1f021-828",
       "symbol": "🀡",
       "name": "九筒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1018,7 +958,6 @@
       "id": "symbol-1f022-829",
       "symbol": "🀢",
       "name": "梅",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1034,7 +973,6 @@
       "id": "symbol-1f023-830",
       "symbol": "🀣",
       "name": "蘭",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1050,7 +988,6 @@
       "id": "symbol-1f024-831",
       "symbol": "🀤",
       "name": "竹",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1066,7 +1003,6 @@
       "id": "symbol-1f025-832",
       "symbol": "🀥",
       "name": "菊",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1082,7 +1018,6 @@
       "id": "symbol-1f026-833",
       "symbol": "🀦",
       "name": "春",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1098,7 +1033,6 @@
       "id": "symbol-1f027-834",
       "symbol": "🀧",
       "name": "夏",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1114,7 +1048,6 @@
       "id": "symbol-1f028-835",
       "symbol": "🀨",
       "name": "秋",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1130,7 +1063,6 @@
       "id": "symbol-1f029-836",
       "symbol": "🀩",
       "name": "冬",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1146,7 +1078,6 @@
       "id": "symbol-1f02a-837",
       "symbol": "🀪",
       "name": "百搭",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1162,7 +1093,6 @@
       "id": "symbol-1f02b-838",
       "symbol": "🀫",
       "name": "回",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1178,7 +1108,6 @@
       "id": "symbol-1f030-839",
       "symbol": "🀰",
       "name": "多米诺骨牌背面",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1194,7 +1123,6 @@
       "id": "symbol-1f031-840",
       "symbol": "🀱",
       "name": "多米诺骨牌0-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1210,7 +1138,6 @@
       "id": "symbol-1f032-841",
       "symbol": "🀲",
       "name": "多米诺骨牌0-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1226,7 +1153,6 @@
       "id": "symbol-1f033-842",
       "symbol": "🀳",
       "name": "多米诺骨牌0-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1242,7 +1168,6 @@
       "id": "symbol-1f034-843",
       "symbol": "🀴",
       "name": "多米诺骨牌0-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1258,7 +1183,6 @@
       "id": "symbol-1f035-844",
       "symbol": "🀵",
       "name": "多米诺骨牌0-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1274,7 +1198,6 @@
       "id": "symbol-1f036-845",
       "symbol": "🀶",
       "name": "多米诺骨牌0-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1290,7 +1213,6 @@
       "id": "symbol-1f037-846",
       "symbol": "🀷",
       "name": "多米诺骨牌0-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1306,7 +1228,6 @@
       "id": "symbol-1f038-847",
       "symbol": "🀸",
       "name": "多米诺骨牌1-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1322,7 +1243,6 @@
       "id": "symbol-1f039-848",
       "symbol": "🀹",
       "name": "多米诺骨牌1-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1338,7 +1258,6 @@
       "id": "symbol-1f03a-849",
       "symbol": "🀺",
       "name": "多米诺骨牌1-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1354,7 +1273,6 @@
       "id": "symbol-1f03b-850",
       "symbol": "🀻",
       "name": "多米诺骨牌1-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1370,7 +1288,6 @@
       "id": "symbol-1f03c-851",
       "symbol": "🀼",
       "name": "多米诺骨牌1-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1386,7 +1303,6 @@
       "id": "symbol-1f03d-852",
       "symbol": "🀽",
       "name": "多米诺骨牌1-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1402,7 +1318,6 @@
       "id": "symbol-1f03e-853",
       "symbol": "🀾",
       "name": "多米诺骨牌1-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1418,7 +1333,6 @@
       "id": "symbol-1f03f-854",
       "symbol": "🀿",
       "name": "多米诺骨牌2-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1434,7 +1348,6 @@
       "id": "symbol-1f040-855",
       "symbol": "🁀",
       "name": "多米诺骨牌2-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1450,7 +1363,6 @@
       "id": "symbol-1f041-856",
       "symbol": "🁁",
       "name": "多米诺骨牌2-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1466,7 +1378,6 @@
       "id": "symbol-1f042-857",
       "symbol": "🁂",
       "name": "多米诺骨牌2-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1482,7 +1393,6 @@
       "id": "symbol-1f043-858",
       "symbol": "🁃",
       "name": "多米诺骨牌2-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1498,7 +1408,6 @@
       "id": "symbol-1f044-859",
       "symbol": "🁄",
       "name": "多米诺骨牌2-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1514,7 +1423,6 @@
       "id": "symbol-1f045-860",
       "symbol": "🁅",
       "name": "多米诺骨牌2-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1530,7 +1438,6 @@
       "id": "symbol-1f046-861",
       "symbol": "🁆",
       "name": "多米诺骨牌3-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1546,7 +1453,6 @@
       "id": "symbol-1f047-862",
       "symbol": "🁇",
       "name": "多米诺骨牌3-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1562,7 +1468,6 @@
       "id": "symbol-1f048-863",
       "symbol": "🁈",
       "name": "多米诺骨牌3-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1578,7 +1483,6 @@
       "id": "symbol-1f049-864",
       "symbol": "🁉",
       "name": "多米诺骨牌3-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1594,7 +1498,6 @@
       "id": "symbol-1f04a-865",
       "symbol": "🁊",
       "name": "多米诺骨牌3-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1610,7 +1513,6 @@
       "id": "symbol-1f04b-866",
       "symbol": "🁋",
       "name": "多米诺骨牌3-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1626,7 +1528,6 @@
       "id": "symbol-1f04c-867",
       "symbol": "🁌",
       "name": "多米诺骨牌3-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1642,7 +1543,6 @@
       "id": "symbol-1f04d-868",
       "symbol": "🁍",
       "name": "多米诺骨牌4-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1658,7 +1558,6 @@
       "id": "symbol-1f04e-869",
       "symbol": "🁎",
       "name": "多米诺骨牌4-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1674,7 +1573,6 @@
       "id": "symbol-1f04f-870",
       "symbol": "🁏",
       "name": "多米诺骨牌4-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1690,7 +1588,6 @@
       "id": "symbol-1f050-871",
       "symbol": "🁐",
       "name": "多米诺骨牌4-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1706,7 +1603,6 @@
       "id": "symbol-1f051-872",
       "symbol": "🁑",
       "name": "多米诺骨牌4-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1722,7 +1618,6 @@
       "id": "symbol-1f052-873",
       "symbol": "🁒",
       "name": "多米诺骨牌4-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1738,7 +1633,6 @@
       "id": "symbol-1f053-874",
       "symbol": "🁓",
       "name": "多米诺骨牌4-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1754,7 +1648,6 @@
       "id": "symbol-1f054-875",
       "symbol": "🁔",
       "name": "多米诺骨牌5-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1770,7 +1663,6 @@
       "id": "symbol-1f055-876",
       "symbol": "🁕",
       "name": "多米诺骨牌5-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1786,7 +1678,6 @@
       "id": "symbol-1f056-877",
       "symbol": "🁖",
       "name": "多米诺骨牌5-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1802,7 +1693,6 @@
       "id": "symbol-1f057-878",
       "symbol": "🁗",
       "name": "多米诺骨牌5-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1818,7 +1708,6 @@
       "id": "symbol-1f058-879",
       "symbol": "🁘",
       "name": "多米诺骨牌5-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1834,7 +1723,6 @@
       "id": "symbol-1f059-880",
       "symbol": "🁙",
       "name": "多米诺骨牌5-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1850,7 +1738,6 @@
       "id": "symbol-1f05a-881",
       "symbol": "🁚",
       "name": "多米诺骨牌5-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1866,7 +1753,6 @@
       "id": "symbol-1f05b-882",
       "symbol": "🁛",
       "name": "多米诺骨牌6-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1882,7 +1768,6 @@
       "id": "symbol-1f05c-883",
       "symbol": "🁜",
       "name": "多米诺骨牌6-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1898,7 +1783,6 @@
       "id": "symbol-1f05d-884",
       "symbol": "🁝",
       "name": "多米诺骨牌6-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1914,7 +1798,6 @@
       "id": "symbol-1f05e-885",
       "symbol": "🁞",
       "name": "多米诺骨牌6-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1930,7 +1813,6 @@
       "id": "symbol-1f05f-886",
       "symbol": "🁟",
       "name": "多米诺骨牌6-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1946,7 +1828,6 @@
       "id": "symbol-1f060-887",
       "symbol": "🁠",
       "name": "多米诺骨牌6-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1962,7 +1843,6 @@
       "id": "symbol-1f061-888",
       "symbol": "🁡",
       "name": "多米诺骨牌6-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1978,7 +1858,6 @@
       "id": "symbol-1f062-889",
       "symbol": "🁢",
       "name": "多米诺骨牌背面",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -1994,7 +1873,6 @@
       "id": "symbol-1f063-890",
       "symbol": "🁣",
       "name": "多米诺骨牌0-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2010,7 +1888,6 @@
       "id": "symbol-1f064-891",
       "symbol": "🁤",
       "name": "多米诺骨牌0-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2026,7 +1903,6 @@
       "id": "symbol-1f065-892",
       "symbol": "🁥",
       "name": "多米诺骨牌0-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2042,7 +1918,6 @@
       "id": "symbol-1f066-893",
       "symbol": "🁦",
       "name": "多米诺骨牌0-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2058,7 +1933,6 @@
       "id": "symbol-1f067-894",
       "symbol": "🁧",
       "name": "多米诺骨牌0-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2074,7 +1948,6 @@
       "id": "symbol-1f068-895",
       "symbol": "🁨",
       "name": "多米诺骨牌0-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2090,7 +1963,6 @@
       "id": "symbol-1f069-896",
       "symbol": "🁩",
       "name": "多米诺骨牌0-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2106,7 +1978,6 @@
       "id": "symbol-1f06a-897",
       "symbol": "🁪",
       "name": "多米诺骨牌1-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2122,7 +1993,6 @@
       "id": "symbol-1f06b-898",
       "symbol": "🁫",
       "name": "多米诺骨牌1-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2138,7 +2008,6 @@
       "id": "symbol-1f06c-899",
       "symbol": "🁬",
       "name": "多米诺骨牌1-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2154,7 +2023,6 @@
       "id": "symbol-1f06d-900",
       "symbol": "🁭",
       "name": "多米诺骨牌1-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2170,7 +2038,6 @@
       "id": "symbol-1f06e-901",
       "symbol": "🁮",
       "name": "多米诺骨牌1-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2186,7 +2053,6 @@
       "id": "symbol-1f06f-902",
       "symbol": "🁯",
       "name": "多米诺骨牌1-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2202,7 +2068,6 @@
       "id": "symbol-1f070-903",
       "symbol": "🁰",
       "name": "多米诺骨牌1-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2218,7 +2083,6 @@
       "id": "symbol-1f071-904",
       "symbol": "🁱",
       "name": "多米诺骨牌2-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2234,7 +2098,6 @@
       "id": "symbol-1f072-905",
       "symbol": "🁲",
       "name": "多米诺骨牌2-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2250,7 +2113,6 @@
       "id": "symbol-1f073-906",
       "symbol": "🁳",
       "name": "多米诺骨牌2-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2266,7 +2128,6 @@
       "id": "symbol-1f074-907",
       "symbol": "🁴",
       "name": "多米诺骨牌2-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2282,7 +2143,6 @@
       "id": "symbol-1f075-908",
       "symbol": "🁵",
       "name": "多米诺骨牌2-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2298,7 +2158,6 @@
       "id": "symbol-1f076-909",
       "symbol": "🁶",
       "name": "多米诺骨牌2-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2314,7 +2173,6 @@
       "id": "symbol-1f077-910",
       "symbol": "🁷",
       "name": "多米诺骨牌2-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2330,7 +2188,6 @@
       "id": "symbol-1f078-911",
       "symbol": "🁸",
       "name": "多米诺骨牌3-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2346,7 +2203,6 @@
       "id": "symbol-1f079-912",
       "symbol": "🁹",
       "name": "多米诺骨牌3-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2362,7 +2218,6 @@
       "id": "symbol-1f07a-913",
       "symbol": "🁺",
       "name": "多米诺骨牌3-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2378,7 +2233,6 @@
       "id": "symbol-1f07b-914",
       "symbol": "🁻",
       "name": "多米诺骨牌3-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2394,7 +2248,6 @@
       "id": "symbol-1f07c-915",
       "symbol": "🁼",
       "name": "多米诺骨牌3-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2410,7 +2263,6 @@
       "id": "symbol-1f07d-916",
       "symbol": "🁽",
       "name": "多米诺骨牌3-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2426,7 +2278,6 @@
       "id": "symbol-1f07e-917",
       "symbol": "🁾",
       "name": "多米诺骨牌3-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2442,7 +2293,6 @@
       "id": "symbol-1f07f-918",
       "symbol": "🁿",
       "name": "多米诺骨牌4-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2458,7 +2308,6 @@
       "id": "symbol-1f080-919",
       "symbol": "🂀",
       "name": "多米诺骨牌4-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2474,7 +2323,6 @@
       "id": "symbol-1f081-920",
       "symbol": "🂁",
       "name": "多米诺骨牌4-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2490,7 +2338,6 @@
       "id": "symbol-1f082-921",
       "symbol": "🂂",
       "name": "多米诺骨牌4-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2506,7 +2353,6 @@
       "id": "symbol-1f083-922",
       "symbol": "🂃",
       "name": "多米诺骨牌4-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2522,7 +2368,6 @@
       "id": "symbol-1f084-923",
       "symbol": "🂄",
       "name": "多米诺骨牌4-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2538,7 +2383,6 @@
       "id": "symbol-1f085-924",
       "symbol": "🂅",
       "name": "多米诺骨牌4-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2554,7 +2398,6 @@
       "id": "symbol-1f086-925",
       "symbol": "🂆",
       "name": "多米诺骨牌5-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2570,7 +2413,6 @@
       "id": "symbol-1f087-926",
       "symbol": "🂇",
       "name": "多米诺骨牌5-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2586,7 +2428,6 @@
       "id": "symbol-1f088-927",
       "symbol": "🂈",
       "name": "多米诺骨牌5-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2602,7 +2443,6 @@
       "id": "symbol-1f089-928",
       "symbol": "🂉",
       "name": "多米诺骨牌5-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2618,7 +2458,6 @@
       "id": "symbol-1f08a-929",
       "symbol": "🂊",
       "name": "多米诺骨牌5-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2634,7 +2473,6 @@
       "id": "symbol-1f08b-930",
       "symbol": "🂋",
       "name": "多米诺骨牌5-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2650,7 +2488,6 @@
       "id": "symbol-1f08c-931",
       "symbol": "🂌",
       "name": "多米诺骨牌5-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2666,7 +2503,6 @@
       "id": "symbol-1f08d-932",
       "symbol": "🂍",
       "name": "多米诺骨牌6-0",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2682,7 +2518,6 @@
       "id": "symbol-1f08e-933",
       "symbol": "🂎",
       "name": "多米诺骨牌6-1",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2698,7 +2533,6 @@
       "id": "symbol-1f08f-934",
       "symbol": "🂏",
       "name": "多米诺骨牌6-2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2714,7 +2548,6 @@
       "id": "symbol-1f090-935",
       "symbol": "🂐",
       "name": "多米诺骨牌6-3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2730,7 +2563,6 @@
       "id": "symbol-1f091-936",
       "symbol": "🂑",
       "name": "多米诺骨牌6-4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2746,7 +2578,6 @@
       "id": "symbol-1f092-937",
       "symbol": "🂒",
       "name": "多米诺骨牌6-5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2762,7 +2593,6 @@
       "id": "symbol-1f093-938",
       "symbol": "🂓",
       "name": "多米诺骨牌6-6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2778,7 +2608,6 @@
       "id": "symbol-1f0a0-939",
       "symbol": "🂠",
       "name": "扑克牌背面",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2794,7 +2623,6 @@
       "id": "symbol-1f0a1-940",
       "symbol": "🂡",
       "name": "黑桃A",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2810,7 +2638,6 @@
       "id": "symbol-1f0a2-941",
       "symbol": "🂢",
       "name": "黑桃2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2826,7 +2653,6 @@
       "id": "symbol-1f0a3-942",
       "symbol": "🂣",
       "name": "黑桃3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2842,7 +2668,6 @@
       "id": "symbol-1f0a4-943",
       "symbol": "🂤",
       "name": "黑桃4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2858,7 +2683,6 @@
       "id": "symbol-1f0a5-944",
       "symbol": "🂥",
       "name": "黑桃5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2874,7 +2698,6 @@
       "id": "symbol-1f0a6-945",
       "symbol": "🂦",
       "name": "黑桃6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2890,7 +2713,6 @@
       "id": "symbol-1f0a7-946",
       "symbol": "🂧",
       "name": "黑桃7",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2906,7 +2728,6 @@
       "id": "symbol-1f0a8-947",
       "symbol": "🂨",
       "name": "黑桃8",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2922,7 +2743,6 @@
       "id": "symbol-1f0a9-948",
       "symbol": "🂩",
       "name": "黑桃9",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2938,7 +2758,6 @@
       "id": "symbol-1f0aa-949",
       "symbol": "🂪",
       "name": "黑桃10",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2954,7 +2773,6 @@
       "id": "symbol-1f0ab-950",
       "symbol": "🂫",
       "name": "黑桃J",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2970,7 +2788,6 @@
       "id": "symbol-1f0ac-951",
       "symbol": "🂬",
       "name": "黑桃骑士",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -2986,7 +2803,6 @@
       "id": "symbol-1f0ad-952",
       "symbol": "🂭",
       "name": "黑桃Q",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3002,7 +2818,6 @@
       "id": "symbol-1f0ae-953",
       "symbol": "🂮",
       "name": "黑桃K",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3018,7 +2833,6 @@
       "id": "symbol-1f0b1-954",
       "symbol": "🂱",
       "name": "红桃A",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3034,7 +2848,6 @@
       "id": "symbol-1f0b2-955",
       "symbol": "🂲",
       "name": "红桃2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3050,7 +2863,6 @@
       "id": "symbol-1f0b3-956",
       "symbol": "🂳",
       "name": "红桃3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3066,7 +2878,6 @@
       "id": "symbol-1f0b4-957",
       "symbol": "🂴",
       "name": "红桃4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3082,7 +2893,6 @@
       "id": "symbol-1f0b5-958",
       "symbol": "🂵",
       "name": "红桃5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3098,7 +2908,6 @@
       "id": "symbol-1f0b6-959",
       "symbol": "🂶",
       "name": "红桃6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3114,7 +2923,6 @@
       "id": "symbol-1f0b7-960",
       "symbol": "🂷",
       "name": "红桃7",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3130,7 +2938,6 @@
       "id": "symbol-1f0b8-961",
       "symbol": "🂸",
       "name": "红桃8",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3146,7 +2953,6 @@
       "id": "symbol-1f0b9-962",
       "symbol": "🂹",
       "name": "红桃9",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3162,7 +2968,6 @@
       "id": "symbol-1f0ba-963",
       "symbol": "🂺",
       "name": "红桃10",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3178,7 +2983,6 @@
       "id": "symbol-1f0bb-964",
       "symbol": "🂻",
       "name": "红桃J",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3194,7 +2998,6 @@
       "id": "symbol-1f0bc-965",
       "symbol": "🂼",
       "name": "红桃骑士",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3210,7 +3013,6 @@
       "id": "symbol-1f0bd-966",
       "symbol": "🂽",
       "name": "红桃Q",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3226,7 +3028,6 @@
       "id": "symbol-1f0be-967",
       "symbol": "🂾",
       "name": "红桃K",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3242,7 +3043,6 @@
       "id": "symbol-1f0c1-968",
       "symbol": "🃁",
       "name": "方块A",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3258,7 +3058,6 @@
       "id": "symbol-1f0c2-969",
       "symbol": "🃂",
       "name": "方块2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3274,7 +3073,6 @@
       "id": "symbol-1f0c3-970",
       "symbol": "🃃",
       "name": "方块3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3290,7 +3088,6 @@
       "id": "symbol-1f0c4-971",
       "symbol": "🃄",
       "name": "方块4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3306,7 +3103,6 @@
       "id": "symbol-1f0c5-972",
       "symbol": "🃅",
       "name": "方块5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3322,7 +3118,6 @@
       "id": "symbol-1f0c6-973",
       "symbol": "🃆",
       "name": "方块6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3338,7 +3133,6 @@
       "id": "symbol-1f0c7-974",
       "symbol": "🃇",
       "name": "方块7",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3354,7 +3148,6 @@
       "id": "symbol-1f0c8-975",
       "symbol": "🃈",
       "name": "方块8",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3370,7 +3163,6 @@
       "id": "symbol-1f0c9-976",
       "symbol": "🃉",
       "name": "方块9",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3386,7 +3178,6 @@
       "id": "symbol-1f0ca-977",
       "symbol": "🃊",
       "name": "方块10",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3402,7 +3193,6 @@
       "id": "symbol-1f0cb-978",
       "symbol": "🃋",
       "name": "方块J",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3418,7 +3208,6 @@
       "id": "symbol-1f0cc-979",
       "symbol": "🃌",
       "name": "方块骑士",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3434,7 +3223,6 @@
       "id": "symbol-1f0cd-980",
       "symbol": "🃍",
       "name": "方块Q",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3450,7 +3238,6 @@
       "id": "symbol-1f0ce-981",
       "symbol": "🃎",
       "name": "方块K",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3466,7 +3253,6 @@
       "id": "symbol-1f0cf-982",
       "symbol": "🃏",
       "name": "小丑",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3482,7 +3268,6 @@
       "id": "symbol-1f0d1-983",
       "symbol": "🃑",
       "name": "梅花A",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3498,7 +3283,6 @@
       "id": "symbol-1f0d2-984",
       "symbol": "🃒",
       "name": "梅花2",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3514,7 +3298,6 @@
       "id": "symbol-1f0d3-985",
       "symbol": "🃓",
       "name": "梅花3",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3530,7 +3313,6 @@
       "id": "symbol-1f0d4-986",
       "symbol": "🃔",
       "name": "梅花4",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3546,7 +3328,6 @@
       "id": "symbol-1f0d5-987",
       "symbol": "🃕",
       "name": "梅花5",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3562,7 +3343,6 @@
       "id": "symbol-1f0d6-988",
       "symbol": "🃖",
       "name": "梅花6",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3578,7 +3358,6 @@
       "id": "symbol-1f0d7-989",
       "symbol": "🃗",
       "name": "梅花7",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3594,7 +3373,6 @@
       "id": "symbol-1f0d8-990",
       "symbol": "🃘",
       "name": "梅花8",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3610,7 +3388,6 @@
       "id": "symbol-1f0d9-991",
       "symbol": "🃙",
       "name": "梅花9",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3626,7 +3403,6 @@
       "id": "symbol-1f0da-992",
       "symbol": "🃚",
       "name": "梅花10",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3642,7 +3418,6 @@
       "id": "symbol-1f0db-993",
       "symbol": "🃛",
       "name": "梅花J",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3658,7 +3433,6 @@
       "id": "symbol-1f0dc-994",
       "symbol": "🃜",
       "name": "梅花骑士",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3674,7 +3448,6 @@
       "id": "symbol-1f0dd-995",
       "symbol": "🃝",
       "name": "梅花Q",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3690,7 +3463,6 @@
       "id": "symbol-1f0de-996",
       "symbol": "🃞",
       "name": "梅花K",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3706,7 +3478,6 @@
       "id": "symbol-1f0df-997",
       "symbol": "🃟",
       "name": "黑白小丑",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3722,7 +3493,6 @@
       "id": "symbol-1fa60-998",
       "symbol": "🩠",
       "name": "红帅",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3738,7 +3508,6 @@
       "id": "symbol-1fa61-999",
       "symbol": "🩡",
       "name": "红仕",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3754,7 +3523,6 @@
       "id": "symbol-1fa62-1000",
       "symbol": "🩢",
       "name": "红相",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3770,7 +3538,6 @@
       "id": "symbol-1fa63-1001",
       "symbol": "🩣",
       "name": "红马",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3786,7 +3553,6 @@
       "id": "symbol-1fa64-1002",
       "symbol": "🩤",
       "name": "红车",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3802,7 +3568,6 @@
       "id": "symbol-1fa65-1003",
       "symbol": "🩥",
       "name": "红炮",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3818,7 +3583,6 @@
       "id": "symbol-1fa66-1004",
       "symbol": "🩦",
       "name": "红兵",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3834,7 +3598,6 @@
       "id": "symbol-1fa67-1005",
       "symbol": "🩧",
       "name": "黑将",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3850,7 +3613,6 @@
       "id": "symbol-1fa68-1006",
       "symbol": "🩨",
       "name": "黑士",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3866,7 +3628,6 @@
       "id": "symbol-1fa69-1007",
       "symbol": "🩩",
       "name": "黑象",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3882,7 +3643,6 @@
       "id": "symbol-1fa6a-1008",
       "symbol": "🩪",
       "name": "黑马",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3898,7 +3658,6 @@
       "id": "symbol-1fa6b-1009",
       "symbol": "🩫",
       "name": "黑车",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3914,7 +3673,6 @@
       "id": "symbol-1fa6c-1010",
       "symbol": "🩬",
       "name": "黑炮",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],
@@ -3930,7 +3688,6 @@
       "id": "symbol-1fa6d-1011",
       "symbol": "🩭",
       "name": "黑卒",
-      "pronunciation": "",
       "category": [
         "娱乐"
       ],

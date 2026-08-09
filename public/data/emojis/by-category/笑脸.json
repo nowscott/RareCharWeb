@@ -1,6 +1,6 @@
 {
   "category": "笑脸",
-  "total": 132,
+  "total": 133,
   "items": [
     {
       "id": "emoji-263a-fe0f-1",
@@ -1004,15 +1004,16 @@
     {
       "id": "emoji-1faea-699",
       "emoji": "🫪",
-      "name": "Distorted Face",
+      "name": "变形脸",
       "category": "笑脸",
       "keywords": [
+        "变形脸",
         "Distorted Face",
         "扭曲的脸",
         "忧虑和消极",
         "笑脸"
       ],
-      "text": "可用于表达「Distorted Face」相关含义。"
+      "text": "🫪 可用于表达“变形脸”相关含义。"
     },
     {
       "id": "emoji-1f97a-700",
@@ -1557,6 +1558,22 @@
         "笑脸"
       ],
       "text": "可用于表达头晕、眼冒金星、震惊或恍惚的状态。"
+    },
+    {
+      "id": "symbol-263b-4531",
+      "emoji": "☻",
+      "name": "黑色笑脸",
+      "category": "笑脸",
+      "keywords": [
+        "黑色笑脸",
+        "Black Smiling Face",
+        "Miscellaneous Symbols",
+        "263B",
+        "U+263B",
+        "符号",
+        "笑脸"
+      ],
+      "text": "可用于表达「黑色笑脸」相关含义。"
     }
   ]
 }

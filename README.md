@@ -163,7 +163,7 @@ npm run data:build
 - `--delay-ms=N`：来源页面之间的请求间隔，默认 `1200`
 - `--dry-run`：只统计，不写入数据文件
 
-`npm run data:build` 会读取当前线上条目 `public/data/symbols/items.json` 与 `public/data/emojis/items.json`，重建 `manifest.json`、分类分片、ID 索引和 `random-pool.json`。分类分片写入当前分类的完整条目，方便按需加载；`index.json` 保存 ID 到分类分片的轻量定位信息；`random-pool.json` 只保存 ID 列表，用于轻量随机抽样。爬取得到、仍需分类归并和文案整理的条目保留在 `public/data/pending/`。
+`npm run data:build` 会读取当前线上条目 `public/data/symbols/items.json` 与 `public/data/emojis/items.json`，重建 `manifest.json` 和分类分片。分类分片写入当前分类的完整条目；爬取得到、仍需分类归并和文案整理的条目保留在 `public/data/pending/`。
 
 ## 🧹 后续数据整理工作流
 
@@ -311,7 +311,7 @@ NODE
 2. **按数据类型和分类拆分列表数据**
    - 当前符号线上条目保存在 `public/data/symbols/items.json`，分类索引保存在 `public/data/symbols/by-category/数学.json`、`标点.json` 等。
    - Emoji 同样使用 `public/data/emojis/items.json` 和 `public/data/emojis/by-category/笑脸.json`、`旗帜.json` 等。
-   - `all` 页面不要长期依赖一个超大的 all 文件，可以额外生成轻量的 `featured.json` 或 `random-pool.json`，只放首页随机展示需要的字段。
+   - `all` 页面继续使用服务端分页；只有出现实际消费者时才新增专用索引文件。
 
 3. **列表字段和详情字段分离**
    - 列表分片只保留 `id`、`symbol`、`name`、`category`、必要的短搜索词和极短说明。
@@ -339,7 +339,7 @@ NODE
    - 对随机首页，可以继续使用小时 seed，但随机池应从轻量数据中抽取，避免每小时对完整数据打乱。
 
 8. **给整理脚本增加构建产物步骤**
-   - 后续 `npm run data:update` 只负责采集原始数据到 `pending/`，`npm run data:build` 负责根据线上 `items.json` 生成 manifest、分类分片、block 分片、搜索索引和详情分片。
+   - 后续 `npm run data:update` 只负责采集原始数据到 `pending/`，`npm run data:build` 负责根据线上 `items.json` 生成 manifest 和分类分片。
    - 线上只读取 `public/data/symbols/items.json` 和 `public/data/emojis/items.json`；待处理数据不进入线上展示。
    - 这样人工整理、自动抓取和线上加载可以解耦，避免直接修改线上消费格式导致页面代码频繁变化。
 

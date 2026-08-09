@@ -6,7 +6,6 @@
       "id": "symbol-2640-364",
       "symbol": "♀",
       "name": "金星&女性",
-      "pronunciation": "",
       "category": [
         "天文",
         "性别"
@@ -26,7 +25,6 @@
       "id": "symbol-2642-366",
       "symbol": "♂",
       "name": "火星&男性",
-      "pronunciation": "",
       "category": [
         "天文",
         "性别"
@@ -46,7 +44,6 @@
       "id": "symbol-26a2-432",
       "symbol": "⚢",
       "name": "女同性恋",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -64,7 +61,6 @@
       "id": "symbol-26a3-433",
       "symbol": "⚣",
       "name": "男同性恋",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -82,7 +78,6 @@
       "id": "symbol-26a4-434",
       "symbol": "⚤",
       "name": "异性恋",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -100,7 +95,6 @@
       "id": "symbol-26a5-435",
       "symbol": "⚥",
       "name": "雌雄同体",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -118,7 +112,6 @@
       "id": "symbol-26a6-436",
       "symbol": "⚦",
       "name": "删除线男",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -136,7 +129,6 @@
       "id": "symbol-26a7-437",
       "symbol": "⚧",
       "name": "跨性别",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -154,7 +146,6 @@
       "id": "symbol-26a8-438",
       "symbol": "⚨",
       "name": "双性人",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -172,7 +163,6 @@
       "id": "symbol-26a9-439",
       "symbol": "⚩",
       "name": "水平删除线男",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -190,7 +180,6 @@
       "id": "symbol-26ad-441",
       "symbol": "⚭",
       "name": "婚姻",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -208,7 +197,6 @@
       "id": "symbol-26ae-442",
       "symbol": "⚮",
       "name": "离婚",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -226,7 +214,6 @@
       "id": "symbol-26af-443",
       "symbol": "⚯",
       "name": "未婚关系",
-      "pronunciation": "",
       "category": [
         "性别"
       ],
@@ -244,7 +231,6 @@
       "id": "symbol-26b2-444",
       "symbol": "⚲",
       "name": "中性",
-      "pronunciation": "",
       "category": [
         "性别"
       ],

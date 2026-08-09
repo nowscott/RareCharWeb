@@ -1,12 +1,11 @@
 {
   "category": "形状",
-  "total": 104,
+  "total": 576,
   "items": [
     {
       "id": "symbol-25a0-299",
       "symbol": "■",
       "name": "实心方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -24,7 +23,6 @@
       "id": "symbol-25a1-300",
       "symbol": "□",
       "name": "空心方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -42,7 +40,6 @@
       "id": "symbol-25a2-301",
       "symbol": "▢",
       "name": "圆角空心方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -60,7 +57,6 @@
       "id": "symbol-25a3-302",
       "symbol": "▣",
       "name": "实心方块中空白方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -78,7 +74,6 @@
       "id": "symbol-25a4-303",
       "symbol": "▤",
       "name": "水平条纹方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -96,7 +91,6 @@
       "id": "symbol-25a5-304",
       "symbol": "▥",
       "name": "垂直条纹方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -114,7 +108,6 @@
       "id": "symbol-25a6-305",
       "symbol": "▦",
       "name": "网格条纹方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -132,7 +125,6 @@
       "id": "symbol-25a7-306",
       "symbol": "▧",
       "name": "左斜线条纹方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -150,7 +142,6 @@
       "id": "symbol-25a8-307",
       "symbol": "▨",
       "name": "右斜线条纹方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -168,7 +159,6 @@
       "id": "symbol-25a9-308",
       "symbol": "▩",
       "name": "十字条纹方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -186,7 +176,6 @@
       "id": "symbol-25aa-309",
       "symbol": "▪",
       "name": "小实心方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -204,7 +193,6 @@
       "id": "symbol-25ab-310",
       "symbol": "▫",
       "name": "小空心方块",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -222,7 +210,6 @@
       "id": "symbol-25ac-311",
       "symbol": "▬",
       "name": "实心矩形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -240,7 +227,6 @@
       "id": "symbol-25ad-312",
       "symbol": "▭",
       "name": "空心矩形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -258,7 +244,6 @@
       "id": "symbol-25ae-313",
       "symbol": "▮",
       "name": "实心竖矩形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -276,7 +261,6 @@
       "id": "symbol-25af-314",
       "symbol": "▯",
       "name": "空心竖矩形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -294,7 +278,6 @@
       "id": "symbol-25b0-315",
       "symbol": "▰",
       "name": "实心平行四边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -312,7 +295,6 @@
       "id": "symbol-25b1-316",
       "symbol": "▱",
       "name": "空心平行四边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -330,7 +312,6 @@
       "id": "symbol-25b2-317",
       "symbol": "▲",
       "name": "实心上三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -348,7 +329,6 @@
       "id": "symbol-25b3-318",
       "symbol": "△",
       "name": "空心上三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -366,7 +346,6 @@
       "id": "symbol-25b4-319",
       "symbol": "▴",
       "name": "小实心上三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -384,7 +363,6 @@
       "id": "symbol-25b5-320",
       "symbol": "▵",
       "name": "小空心上三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -402,7 +380,6 @@
       "id": "symbol-25b6-321",
       "symbol": "▶",
       "name": "实心右三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -420,7 +397,6 @@
       "id": "symbol-25b7-322",
       "symbol": "▷",
       "name": "空心右三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -438,7 +414,6 @@
       "id": "symbol-25b8-323",
       "symbol": "▸",
       "name": "小实心右三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -456,7 +431,6 @@
       "id": "symbol-25b9-324",
       "symbol": "▹",
       "name": "小空心右三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -474,7 +448,6 @@
       "id": "symbol-25ba-325",
       "symbol": "►",
       "name": "实心右指针",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -492,7 +465,6 @@
       "id": "symbol-25bb-326",
       "symbol": "▻",
       "name": "空心右指针",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -510,7 +482,6 @@
       "id": "symbol-25bc-327",
       "symbol": "▼",
       "name": "实心下三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -528,7 +499,6 @@
       "id": "symbol-25bd-328",
       "symbol": "▽",
       "name": "空心下三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -546,7 +516,6 @@
       "id": "symbol-25be-329",
       "symbol": "▾",
       "name": "小实心下三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -564,7 +533,6 @@
       "id": "symbol-25bf-330",
       "symbol": "▿",
       "name": "小空心下三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -582,7 +550,6 @@
       "id": "symbol-25c0-331",
       "symbol": "◀",
       "name": "实心左三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -600,7 +567,6 @@
       "id": "symbol-25c1-332",
       "symbol": "◁",
       "name": "空心左三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -618,7 +584,6 @@
       "id": "symbol-25c2-333",
       "symbol": "◂",
       "name": "小实心左三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -636,7 +601,6 @@
       "id": "symbol-25c3-334",
       "symbol": "◃",
       "name": "小空心左三角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -654,7 +618,6 @@
       "id": "symbol-25c4-335",
       "symbol": "◄",
       "name": "实心左指针",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -672,7 +635,6 @@
       "id": "symbol-25c5-336",
       "symbol": "◅",
       "name": "空心左指针",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -690,7 +652,6 @@
       "id": "symbol-2b12-2134",
       "symbol": "⬒",
       "name": "方形带上半半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -708,7 +669,6 @@
       "id": "symbol-2b13-2135",
       "symbol": "⬓",
       "name": "方形带下半半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -726,7 +686,6 @@
       "id": "symbol-2b14-2136",
       "symbol": "⬔",
       "name": "方形带右上对角半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -744,7 +703,6 @@
       "id": "symbol-2b15-2137",
       "symbol": "⬕",
       "name": "方形带下左对角半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -762,7 +720,6 @@
       "id": "symbol-2b16-2138",
       "symbol": "⬖",
       "name": "菱形带左半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -780,7 +737,6 @@
       "id": "symbol-2b17-2139",
       "symbol": "⬗",
       "name": "菱形带右半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -798,7 +754,6 @@
       "id": "symbol-2b18-2140",
       "symbol": "⬘",
       "name": "菱形带上半半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -816,7 +771,6 @@
       "id": "symbol-2b19-2141",
       "symbol": "⬙",
       "name": "菱形带下半半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -834,7 +788,6 @@
       "id": "symbol-2b1a-2142",
       "symbol": "⬚",
       "name": "点状方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -852,7 +805,6 @@
       "id": "symbol-2b1b-2143",
       "symbol": "⬛",
       "name": "黑色大方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -870,7 +822,6 @@
       "id": "symbol-2b1c-2144",
       "symbol": "⬜",
       "name": "白色大方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -888,7 +839,6 @@
       "id": "symbol-2b1d-2145",
       "symbol": "⬝",
       "name": "黑色特小方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -906,7 +856,6 @@
       "id": "symbol-2b1e-2146",
       "symbol": "⬞",
       "name": "白色特小方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -924,7 +873,6 @@
       "id": "symbol-2b1f-2147",
       "symbol": "⬟",
       "name": "黑色五边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -942,7 +890,6 @@
       "id": "symbol-2b20-2148",
       "symbol": "⬠",
       "name": "白色五边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -960,7 +907,6 @@
       "id": "symbol-2b21-2149",
       "symbol": "⬡",
       "name": "白色六边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -978,7 +924,6 @@
       "id": "symbol-2b22-2150",
       "symbol": "⬢",
       "name": "黑色六边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -996,7 +941,6 @@
       "id": "symbol-2b23-2151",
       "symbol": "⬣",
       "name": "水平黑色六边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1014,7 +958,6 @@
       "id": "symbol-2b24-2152",
       "symbol": "⬤",
       "name": "黑色大圆形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1032,7 +975,6 @@
       "id": "symbol-2b25-2153",
       "symbol": "⬥",
       "name": "黑色中等菱形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1050,7 +992,6 @@
       "id": "symbol-2b26-2154",
       "symbol": "⬦",
       "name": "白色中等菱形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1068,7 +1009,6 @@
       "id": "symbol-2b27-2155",
       "symbol": "⬧",
       "name": "黑色中等菱形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1086,7 +1026,6 @@
       "id": "symbol-2b28-2156",
       "symbol": "⬨",
       "name": "白色中等菱形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1104,7 +1043,6 @@
       "id": "symbol-2b29-2157",
       "symbol": "⬩",
       "name": "黑色小菱形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1122,7 +1060,6 @@
       "id": "symbol-2b2a-2158",
       "symbol": "⬪",
       "name": "黑色小菱形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1140,7 +1077,6 @@
       "id": "symbol-2b2b-2159",
       "symbol": "⬫",
       "name": "白色小菱形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1158,7 +1094,6 @@
       "id": "symbol-2b2c-2160",
       "symbol": "⬬",
       "name": "黑色水平椭圆",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1176,7 +1111,6 @@
       "id": "symbol-2b2d-2161",
       "symbol": "⬭",
       "name": "白色水平椭圆",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1194,7 +1128,6 @@
       "id": "symbol-2b2e-2162",
       "symbol": "⬮",
       "name": "黑色垂直椭圆",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1212,7 +1145,6 @@
       "id": "symbol-2b2f-2163",
       "symbol": "⬯",
       "name": "白色垂直椭圆",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1230,7 +1162,6 @@
       "id": "symbol-2b51-2196",
       "symbol": "⭑",
       "name": "黑色小星形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1248,7 +1179,6 @@
       "id": "symbol-2b52-2197",
       "symbol": "⭒",
       "name": "白色小星形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1266,7 +1196,6 @@
       "id": "symbol-2b53-2198",
       "symbol": "⭓",
       "name": "黑色右指向五边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1284,7 +1213,6 @@
       "id": "symbol-2b54-2199",
       "symbol": "⭔",
       "name": "白色右指向五边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1302,7 +1230,6 @@
       "id": "symbol-2b55-2200",
       "symbol": "⭕",
       "name": "红色空心圆形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1320,7 +1247,6 @@
       "id": "symbol-2b56-2201",
       "symbol": "⭖",
       "name": "粗椭圆带椭圆内部",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1338,7 +1264,6 @@
       "id": "symbol-2b57-2202",
       "symbol": "⭗",
       "name": "粗圆形带圆形内部",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1356,7 +1281,6 @@
       "id": "symbol-2b58-2203",
       "symbol": "⭘",
       "name": "粗圆形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1374,7 +1298,6 @@
       "id": "symbol-2b59-2204",
       "symbol": "⭙",
       "name": "粗带圈斜十字",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1392,7 +1315,6 @@
       "id": "symbol-2bba-2299",
       "symbol": "⮺",
       "name": "重叠白色方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1410,7 +1332,6 @@
       "id": "symbol-2bbb-2300",
       "symbol": "⮻",
       "name": "重叠黑白方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1424,7 +1345,6 @@
       "id": "symbol-2bbc-2301",
       "symbol": "⮼",
       "name": "重叠黑色方形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1442,7 +1362,6 @@
       "id": "symbol-2bbd-2302",
       "symbol": "⮽",
       "name": "投票框带细叉号",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1460,7 +1379,6 @@
       "id": "symbol-2bbe-2303",
       "symbol": "⮾",
       "name": "带圈叉号",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1478,7 +1396,6 @@
       "id": "symbol-2bbf-2304",
       "symbol": "⮿",
       "name": "带圈粗体叉号",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1496,7 +1413,6 @@
       "id": "symbol-2bc0-2305",
       "symbol": "⯀",
       "name": "黑色方形居中",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1514,7 +1430,6 @@
       "id": "symbol-2bc1-2306",
       "symbol": "⯁",
       "name": "黑色菱形居中",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1532,7 +1447,6 @@
       "id": "symbol-2bc2-2307",
       "symbol": "⯂",
       "name": "旋转黑色五边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1550,7 +1464,6 @@
       "id": "symbol-2bc3-2308",
       "symbol": "⯃",
       "name": "水平黑色八边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1568,7 +1481,6 @@
       "id": "symbol-2bc4-2309",
       "symbol": "⯄",
       "name": "黑色八边形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1586,7 +1498,6 @@
       "id": "symbol-2bc5-2310",
       "symbol": "⯅",
       "name": "黑色中等上指向三角形居中",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1604,7 +1515,6 @@
       "id": "symbol-2bc6-2311",
       "symbol": "⯆",
       "name": "黑色中等下指向三角形居中",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1622,7 +1532,6 @@
       "id": "symbol-2bc7-2312",
       "symbol": "⯇",
       "name": "黑色中等左指向三角形居中",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1640,7 +1549,6 @@
       "id": "symbol-2bc8-2313",
       "symbol": "⯈",
       "name": "黑色中等右指向三角形居中",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1658,7 +1566,6 @@
       "id": "symbol-2bca-2315",
       "symbol": "⯊",
       "name": "上半半黑色圆形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1676,7 +1583,6 @@
       "id": "symbol-2bcb-2316",
       "symbol": "⯋",
       "name": "下半半黑色圆形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1694,7 +1600,6 @@
       "id": "symbol-2bcc-2317",
       "symbol": "⯌",
       "name": "细四尖黑色尖角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1712,7 +1617,6 @@
       "id": "symbol-2bcd-2318",
       "symbol": "⯍",
       "name": "旋转细四尖黑色尖角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1730,7 +1634,6 @@
       "id": "symbol-2bce-2319",
       "symbol": "⯎",
       "name": "白色四尖尖角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1748,7 +1651,6 @@
       "id": "symbol-2bcf-2320",
       "symbol": "⯏",
       "name": "旋转白色四尖尖角",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1766,7 +1668,6 @@
       "id": "symbol-2bd0-2321",
       "symbol": "⯐",
       "name": "方形位置指示符",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1784,7 +1685,6 @@
       "id": "symbol-2bde-2335",
       "symbol": "⯞",
       "name": "黑色菱形十字上",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1802,7 +1702,6 @@
       "id": "symbol-2be8-2345",
       "symbol": "⯨",
       "name": "左半黑色星形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1820,7 +1719,6 @@
       "id": "symbol-2be9-2346",
       "symbol": "⯩",
       "name": "右半黑色星形",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1838,7 +1736,6 @@
       "id": "symbol-2bea-2347",
       "symbol": "⯪",
       "name": "星形带左半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1856,7 +1753,6 @@
       "id": "symbol-2beb-2348",
       "symbol": "⯫",
       "name": "星形带右半黑色",
-      "pronunciation": "",
       "category": [
         "形状"
       ],
@@ -1869,6 +1765,7658 @@
         "U+2BEB"
       ],
       "notes": "⯫ 是星形带右半黑色，Unicode 编码为 U+2BEB，适合用于几何图形、图例标注、状态提示或装饰性排版。"
+    },
+    {
+      "id": "symbol-25c6-3985",
+      "symbol": "◆",
+      "name": "黑色菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色菱形",
+        "Black Diamond",
+        "形状",
+        "25C6",
+        "U+25C6",
+        "Geometric Shapes"
+      ],
+      "notes": "◆ 是黑色菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25c7-3986",
+      "symbol": "◇",
+      "name": "白色菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色菱形",
+        "White Diamond",
+        "形状",
+        "25C7",
+        "U+25C7",
+        "Geometric Shapes"
+      ],
+      "notes": "◇ 是白色菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25c8-3987",
+      "symbol": "◈",
+      "name": "白色菱形内含黑色小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色菱形内含黑色小菱形",
+        "White Diamond Containing Black Small Diamond",
+        "形状",
+        "25C8",
+        "U+25C8",
+        "Geometric Shapes"
+      ],
+      "notes": "◈ 是白色菱形内含黑色小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25c9-3988",
+      "symbol": "◉",
+      "name": "鱼眼",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "鱼眼",
+        "Fisheye",
+        "形状",
+        "25C9",
+        "U+25C9",
+        "Geometric Shapes"
+      ],
+      "notes": "◉ 是鱼眼的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ca-3989",
+      "symbol": "◊",
+      "name": "菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "菱形",
+        "Lozenge",
+        "形状",
+        "25CA",
+        "U+25CA",
+        "Geometric Shapes"
+      ],
+      "notes": "◊ 是菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25cb-3990",
+      "symbol": "○",
+      "name": "白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色圆",
+        "White Circle",
+        "形状",
+        "25CB",
+        "U+25CB",
+        "Geometric Shapes"
+      ],
+      "notes": "○ 是白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25cc-3991",
+      "symbol": "◌",
+      "name": "点状圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "点状圆",
+        "Dotted Circle",
+        "形状",
+        "25CC",
+        "U+25CC",
+        "Geometric Shapes"
+      ],
+      "notes": "◌ 是点状圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25cd-3992",
+      "symbol": "◍",
+      "name": "圆带垂直填充",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆带垂直填充",
+        "Circle with Vertical Fill",
+        "形状",
+        "25CD",
+        "U+25CD",
+        "Geometric Shapes"
+      ],
+      "notes": "◍ 是圆带垂直填充的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ce-3993",
+      "symbol": "◎",
+      "name": "靶心",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "靶心",
+        "Bullseye",
+        "形状",
+        "25CE",
+        "U+25CE",
+        "Geometric Shapes"
+      ],
+      "notes": "◎ 是靶心的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25cf-3994",
+      "symbol": "●",
+      "name": "黑色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色圆",
+        "Black Circle",
+        "形状",
+        "25CF",
+        "U+25CF",
+        "Geometric Shapes"
+      ],
+      "notes": "● 是黑色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d0-3995",
+      "symbol": "◐",
+      "name": "圆带左半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆带左半黑色",
+        "Circle with Left Half Black",
+        "形状",
+        "25D0",
+        "U+25D0",
+        "Geometric Shapes"
+      ],
+      "notes": "◐ 是圆带左半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d1-3996",
+      "symbol": "◑",
+      "name": "圆带右半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆带右半黑色",
+        "Circle with Right Half Black",
+        "形状",
+        "25D1",
+        "U+25D1",
+        "Geometric Shapes"
+      ],
+      "notes": "◑ 是圆带右半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d2-3997",
+      "symbol": "◒",
+      "name": "圆带下部半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆带下部半黑色",
+        "Circle with Lower Half Black",
+        "形状",
+        "25D2",
+        "U+25D2",
+        "Geometric Shapes"
+      ],
+      "notes": "◒ 是圆带下部半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d3-3998",
+      "symbol": "◓",
+      "name": "圆带上部半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆带上部半黑色",
+        "Circle with Upper Half Black",
+        "形状",
+        "25D3",
+        "U+25D3",
+        "Geometric Shapes"
+      ],
+      "notes": "◓ 是圆带上部半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d4-3999",
+      "symbol": "◔",
+      "name": "圆带上部右象限黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆带上部右象限黑色",
+        "Circle with Upper Right Quadrant Black",
+        "形状",
+        "25D4",
+        "U+25D4",
+        "Geometric Shapes"
+      ],
+      "notes": "◔ 是圆带上部右象限黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d5-4000",
+      "symbol": "◕",
+      "name": "圆带全部除上部左象限黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆带全部除上部左象限黑色",
+        "Circle with All But Upper Left Quadrant Black",
+        "形状",
+        "25D5",
+        "U+25D5",
+        "Geometric Shapes"
+      ],
+      "notes": "◕ 是圆带全部除上部左象限黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d6-4001",
+      "symbol": "◖",
+      "name": "左半黑色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左半黑色圆",
+        "Left Half Black Circle",
+        "形状",
+        "25D6",
+        "U+25D6",
+        "Geometric Shapes"
+      ],
+      "notes": "◖ 是左半黑色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d7-4002",
+      "symbol": "◗",
+      "name": "右半黑色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "右半黑色圆",
+        "Right Half Black Circle",
+        "形状",
+        "25D7",
+        "U+25D7",
+        "Geometric Shapes"
+      ],
+      "notes": "◗ 是右半黑色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d8-4003",
+      "symbol": "◘",
+      "name": "反白圆点",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆点",
+        "Inverse Bullet",
+        "形状",
+        "25D8",
+        "U+25D8",
+        "Geometric Shapes"
+      ],
+      "notes": "◘ 是反白圆点的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25d9-4004",
+      "symbol": "◙",
+      "name": "反白白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白白色圆",
+        "Inverse White Circle",
+        "形状",
+        "25D9",
+        "U+25D9",
+        "Geometric Shapes"
+      ],
+      "notes": "◙ 是反白白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25da-4005",
+      "symbol": "◚",
+      "name": "上部半反白白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部半反白白色圆",
+        "Upper Half Inverse White Circle",
+        "形状",
+        "25DA",
+        "U+25DA",
+        "Geometric Shapes"
+      ],
+      "notes": "◚ 是上部半反白白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25db-4006",
+      "symbol": "◛",
+      "name": "下部半反白白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部半反白白色圆",
+        "Lower Half Inverse White Circle",
+        "形状",
+        "25DB",
+        "U+25DB",
+        "Geometric Shapes"
+      ],
+      "notes": "◛ 是下部半反白白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25dc-4007",
+      "symbol": "◜",
+      "name": "上部左象限圆弧弧",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部左象限圆弧弧",
+        "Upper Left Quadrant Circular Arc",
+        "形状",
+        "25DC",
+        "U+25DC",
+        "Geometric Shapes"
+      ],
+      "notes": "◜ 是上部左象限圆弧弧的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25dd-4008",
+      "symbol": "◝",
+      "name": "上部右象限圆弧弧",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部右象限圆弧弧",
+        "Upper Right Quadrant Circular Arc",
+        "形状",
+        "25DD",
+        "U+25DD",
+        "Geometric Shapes"
+      ],
+      "notes": "◝ 是上部右象限圆弧弧的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25de-4009",
+      "symbol": "◞",
+      "name": "下部右象限圆弧弧",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部右象限圆弧弧",
+        "Lower Right Quadrant Circular Arc",
+        "形状",
+        "25DE",
+        "U+25DE",
+        "Geometric Shapes"
+      ],
+      "notes": "◞ 是下部右象限圆弧弧的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25df-4010",
+      "symbol": "◟",
+      "name": "下部左象限圆弧弧",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部左象限圆弧弧",
+        "Lower Left Quadrant Circular Arc",
+        "形状",
+        "25DF",
+        "U+25DF",
+        "Geometric Shapes"
+      ],
+      "notes": "◟ 是下部左象限圆弧弧的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e0-4011",
+      "symbol": "◠",
+      "name": "上部半圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部半圆",
+        "Upper Half Circle",
+        "形状",
+        "25E0",
+        "U+25E0",
+        "Geometric Shapes"
+      ],
+      "notes": "◠ 是上部半圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e1-4012",
+      "symbol": "◡",
+      "name": "下部半圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部半圆",
+        "Lower Half Circle",
+        "形状",
+        "25E1",
+        "U+25E1",
+        "Geometric Shapes"
+      ],
+      "notes": "◡ 是下部半圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e2-4013",
+      "symbol": "◢",
+      "name": "黑色下部右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色下部右三角形",
+        "Black Lower Right Triangle",
+        "形状",
+        "25E2",
+        "U+25E2",
+        "Geometric Shapes"
+      ],
+      "notes": "◢ 是黑色下部右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e3-4014",
+      "symbol": "◣",
+      "name": "黑色下部左三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色下部左三角形",
+        "Black Lower Left Triangle",
+        "形状",
+        "25E3",
+        "U+25E3",
+        "Geometric Shapes"
+      ],
+      "notes": "◣ 是黑色下部左三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e4-4015",
+      "symbol": "◤",
+      "name": "黑色上部左三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色上部左三角形",
+        "Black Upper Left Triangle",
+        "形状",
+        "25E4",
+        "U+25E4",
+        "Geometric Shapes"
+      ],
+      "notes": "◤ 是黑色上部左三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e5-4016",
+      "symbol": "◥",
+      "name": "黑色上部右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色上部右三角形",
+        "Black Upper Right Triangle",
+        "形状",
+        "25E5",
+        "U+25E5",
+        "Geometric Shapes"
+      ],
+      "notes": "◥ 是黑色上部右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e6-4017",
+      "symbol": "◦",
+      "name": "白色项目符号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色项目符号",
+        "White Bullet",
+        "形状",
+        "25E6",
+        "U+25E6",
+        "Geometric Shapes"
+      ],
+      "notes": "◦ 是白色项目符号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e7-4018",
+      "symbol": "◧",
+      "name": "方形带左半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带左半黑色",
+        "Square with Left Half Black",
+        "形状",
+        "25E7",
+        "U+25E7",
+        "Geometric Shapes"
+      ],
+      "notes": "◧ 是方形带左半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e8-4019",
+      "symbol": "◨",
+      "name": "方形带右半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带右半黑色",
+        "Square with Right Half Black",
+        "形状",
+        "25E8",
+        "U+25E8",
+        "Geometric Shapes"
+      ],
+      "notes": "◨ 是方形带右半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25e9-4020",
+      "symbol": "◩",
+      "name": "方形带上部左对角半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带上部左对角半黑色",
+        "Square with Upper Left Diagonal Half Black",
+        "形状",
+        "25E9",
+        "U+25E9",
+        "Geometric Shapes"
+      ],
+      "notes": "◩ 是方形带上部左对角半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ea-4021",
+      "symbol": "◪",
+      "name": "方形带下部右对角半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形带下部右对角半黑色",
+        "Square with Lower Right Diagonal Half Black",
+        "形状",
+        "25EA",
+        "U+25EA",
+        "Geometric Shapes"
+      ],
+      "notes": "◪ 是方形带下部右对角半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25eb-4022",
+      "symbol": "◫",
+      "name": "白色方形带垂直二等分线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色方形带垂直二等分线",
+        "White Square with Vertical Bisecting Line",
+        "形状",
+        "25EB",
+        "U+25EB",
+        "Geometric Shapes"
+      ],
+      "notes": "◫ 是白色方形带垂直二等分线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ec-4023",
+      "symbol": "◬",
+      "name": "白色上-指向三角形带点",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色上-指向三角形带点",
+        "White Up-Pointing Triangle with Dot",
+        "形状",
+        "25EC",
+        "U+25EC",
+        "Geometric Shapes"
+      ],
+      "notes": "◬ 是白色上-指向三角形带点的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ed-4024",
+      "symbol": "◭",
+      "name": "上-指向三角形带左半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上-指向三角形带左半黑色",
+        "Up-Pointing Triangle with Left Half Black",
+        "形状",
+        "25ED",
+        "U+25ED",
+        "Geometric Shapes"
+      ],
+      "notes": "◭ 是上-指向三角形带左半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ee-4025",
+      "symbol": "◮",
+      "name": "上-指向三角形带右半黑色",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上-指向三角形带右半黑色",
+        "Up-Pointing Triangle with Right Half Black",
+        "形状",
+        "25EE",
+        "U+25EE",
+        "Geometric Shapes"
+      ],
+      "notes": "◮ 是上-指向三角形带右半黑色的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ef-4026",
+      "symbol": "◯",
+      "name": "大圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "大圆",
+        "Large Circle",
+        "形状",
+        "25EF",
+        "U+25EF",
+        "Geometric Shapes"
+      ],
+      "notes": "◯ 是大圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f0-4027",
+      "symbol": "◰",
+      "name": "白色方形带上部左象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色方形带上部左象限",
+        "White Square with Upper Left Quadrant",
+        "形状",
+        "25F0",
+        "U+25F0",
+        "Geometric Shapes"
+      ],
+      "notes": "◰ 是白色方形带上部左象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f1-4028",
+      "symbol": "◱",
+      "name": "白色方形带下部左象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色方形带下部左象限",
+        "White Square with Lower Left Quadrant",
+        "形状",
+        "25F1",
+        "U+25F1",
+        "Geometric Shapes"
+      ],
+      "notes": "◱ 是白色方形带下部左象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f2-4029",
+      "symbol": "◲",
+      "name": "白色方形带下部右象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色方形带下部右象限",
+        "White Square with Lower Right Quadrant",
+        "形状",
+        "25F2",
+        "U+25F2",
+        "Geometric Shapes"
+      ],
+      "notes": "◲ 是白色方形带下部右象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f3-4030",
+      "symbol": "◳",
+      "name": "白色方形带上部右象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色方形带上部右象限",
+        "White Square with Upper Right Quadrant",
+        "形状",
+        "25F3",
+        "U+25F3",
+        "Geometric Shapes"
+      ],
+      "notes": "◳ 是白色方形带上部右象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f4-4031",
+      "symbol": "◴",
+      "name": "白色圆带上部左象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色圆带上部左象限",
+        "White Circle with Upper Left Quadrant",
+        "形状",
+        "25F4",
+        "U+25F4",
+        "Geometric Shapes"
+      ],
+      "notes": "◴ 是白色圆带上部左象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f5-4032",
+      "symbol": "◵",
+      "name": "白色圆带下部左象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色圆带下部左象限",
+        "White Circle with Lower Left Quadrant",
+        "形状",
+        "25F5",
+        "U+25F5",
+        "Geometric Shapes"
+      ],
+      "notes": "◵ 是白色圆带下部左象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f6-4033",
+      "symbol": "◶",
+      "name": "白色圆带下部右象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色圆带下部右象限",
+        "White Circle with Lower Right Quadrant",
+        "形状",
+        "25F6",
+        "U+25F6",
+        "Geometric Shapes"
+      ],
+      "notes": "◶ 是白色圆带下部右象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f7-4034",
+      "symbol": "◷",
+      "name": "白色圆带上部右象限",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色圆带上部右象限",
+        "White Circle with Upper Right Quadrant",
+        "形状",
+        "25F7",
+        "U+25F7",
+        "Geometric Shapes"
+      ],
+      "notes": "◷ 是白色圆带上部右象限的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f8-4035",
+      "symbol": "◸",
+      "name": "上部左三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部左三角形",
+        "Upper Left Triangle",
+        "形状",
+        "25F8",
+        "U+25F8",
+        "Geometric Shapes"
+      ],
+      "notes": "◸ 是上部左三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25f9-4036",
+      "symbol": "◹",
+      "name": "上部右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部右三角形",
+        "Upper Right Triangle",
+        "形状",
+        "25F9",
+        "U+25F9",
+        "Geometric Shapes"
+      ],
+      "notes": "◹ 是上部右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25fa-4037",
+      "symbol": "◺",
+      "name": "下部左三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部左三角形",
+        "Lower Left Triangle",
+        "形状",
+        "25FA",
+        "U+25FA",
+        "Geometric Shapes"
+      ],
+      "notes": "◺ 是下部左三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25fb-4038",
+      "symbol": "◻",
+      "name": "白色中等方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色中等方形",
+        "White Medium Square",
+        "形状",
+        "25FB",
+        "U+25FB",
+        "Geometric Shapes"
+      ],
+      "notes": "◻ 是白色中等方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25fc-4039",
+      "symbol": "◼",
+      "name": "黑色中等方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等方形",
+        "Black Medium Square",
+        "形状",
+        "25FC",
+        "U+25FC",
+        "Geometric Shapes"
+      ],
+      "notes": "◼ 是黑色中等方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25fd-4040",
+      "symbol": "◽",
+      "name": "白色中等-小方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色中等-小方形",
+        "White Medium-Small Square",
+        "形状",
+        "25FD",
+        "U+25FD",
+        "Geometric Shapes"
+      ],
+      "notes": "◽ 是白色中等-小方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25fe-4041",
+      "symbol": "◾",
+      "name": "黑色中等-小方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等-小方形",
+        "Black Medium-Small Square",
+        "形状",
+        "25FE",
+        "U+25FE",
+        "Geometric Shapes"
+      ],
+      "notes": "◾ 是黑色中等-小方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-25ff-4042",
+      "symbol": "◿",
+      "name": "下部右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部右三角形",
+        "Lower Right Triangle",
+        "形状",
+        "25FF",
+        "U+25FF",
+        "Geometric Shapes"
+      ],
+      "notes": "◿ 是下部右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f780-4043",
+      "symbol": "🞀",
+      "name": "黑色左-指向等腰右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色左-指向等腰右三角形",
+        "Black Left-Pointing Isosceles Right Triangle",
+        "形状",
+        "1F780",
+        "U+1F780"
+      ],
+      "notes": "🞀 是黑色左-指向等腰右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f781-4044",
+      "symbol": "🞁",
+      "name": "黑色上-指向等腰右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色上-指向等腰右三角形",
+        "Black Up-Pointing Isosceles Right Triangle",
+        "形状",
+        "1F781",
+        "U+1F781"
+      ],
+      "notes": "🞁 是黑色上-指向等腰右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f782-4045",
+      "symbol": "🞂",
+      "name": "黑色右-指向等腰右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色右-指向等腰右三角形",
+        "Black Right-Pointing Isosceles Right Triangle",
+        "形状",
+        "1F782",
+        "U+1F782"
+      ],
+      "notes": "🞂 是黑色右-指向等腰右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f783-4046",
+      "symbol": "🞃",
+      "name": "黑色下-指向等腰右三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色下-指向等腰右三角形",
+        "Black Down-Pointing Isosceles Right Triangle",
+        "形状",
+        "1F783",
+        "U+1F783"
+      ],
+      "notes": "🞃 是黑色下-指向等腰右三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f784-4047",
+      "symbol": "🞄",
+      "name": "黑色微小圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色微小圆",
+        "Black Slightly Small Circle",
+        "形状",
+        "1F784",
+        "U+1F784"
+      ],
+      "notes": "🞄 是黑色微小圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f785-4048",
+      "symbol": "🞅",
+      "name": "中等粗白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等粗白色圆",
+        "Medium Bold White Circle",
+        "形状",
+        "1F785",
+        "U+1F785"
+      ],
+      "notes": "🞅 是中等粗白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f786-4049",
+      "symbol": "🞆",
+      "name": "粗白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗白色圆",
+        "Bold White Circle",
+        "形状",
+        "1F786",
+        "U+1F786"
+      ],
+      "notes": "🞆 是粗白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f787-4050",
+      "symbol": "🞇",
+      "name": "粗白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗白色圆",
+        "Heavy White Circle",
+        "形状",
+        "1F787",
+        "U+1F787"
+      ],
+      "notes": "🞇 是粗白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f788-4051",
+      "symbol": "🞈",
+      "name": "特重白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重白色圆",
+        "Very Heavy White Circle",
+        "形状",
+        "1F788",
+        "U+1F788"
+      ],
+      "notes": "🞈 是特重白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f789-4052",
+      "symbol": "🞉",
+      "name": "极重白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "极重白色圆",
+        "Extremely Heavy White Circle",
+        "形状",
+        "1F789",
+        "U+1F789"
+      ],
+      "notes": "🞉 是极重白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f78a-4053",
+      "symbol": "🞊",
+      "name": "白色圆内含黑色小圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色圆内含黑色小圆",
+        "White Circle Containing Black Small Circle",
+        "形状",
+        "1F78A",
+        "U+1F78A"
+      ],
+      "notes": "🞊 是白色圆内含黑色小圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f78b-4054",
+      "symbol": "🞋",
+      "name": "圆形靶标",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆形靶标",
+        "Round Target",
+        "形状",
+        "1F78B",
+        "U+1F78B"
+      ],
+      "notes": "🞋 是圆形靶标的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f78c-4055",
+      "symbol": "🞌",
+      "name": "黑色极小方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色极小方形",
+        "Black Tiny Square",
+        "形状",
+        "1F78C",
+        "U+1F78C"
+      ],
+      "notes": "🞌 是黑色极小方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f78d-4056",
+      "symbol": "🞍",
+      "name": "黑色微小方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色微小方形",
+        "Black Slightly Small Square",
+        "形状",
+        "1F78D",
+        "U+1F78D"
+      ],
+      "notes": "🞍 是黑色微小方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f78e-4057",
+      "symbol": "🞎",
+      "name": "细白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细白色方形",
+        "Light White Square",
+        "形状",
+        "1F78E",
+        "U+1F78E"
+      ],
+      "notes": "🞎 是细白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f78f-4058",
+      "symbol": "🞏",
+      "name": "中等白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等白色方形",
+        "Medium White Square",
+        "形状",
+        "1F78F",
+        "U+1F78F"
+      ],
+      "notes": "🞏 是中等白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f790-4059",
+      "symbol": "🞐",
+      "name": "粗白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗白色方形",
+        "Bold White Square",
+        "形状",
+        "1F790",
+        "U+1F790"
+      ],
+      "notes": "🞐 是粗白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f791-4060",
+      "symbol": "🞑",
+      "name": "粗白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗白色方形",
+        "Heavy White Square",
+        "形状",
+        "1F791",
+        "U+1F791"
+      ],
+      "notes": "🞑 是粗白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f792-4061",
+      "symbol": "🞒",
+      "name": "特重白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重白色方形",
+        "Very Heavy White Square",
+        "形状",
+        "1F792",
+        "U+1F792"
+      ],
+      "notes": "🞒 是特重白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f793-4062",
+      "symbol": "🞓",
+      "name": "极重白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "极重白色方形",
+        "Extremely Heavy White Square",
+        "形状",
+        "1F793",
+        "U+1F793"
+      ],
+      "notes": "🞓 是极重白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f794-4063",
+      "symbol": "🞔",
+      "name": "白色方形内含黑色特小方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色方形内含黑色特小方形",
+        "White Square Containing Black Very Small Square",
+        "形状",
+        "1F794",
+        "U+1F794"
+      ],
+      "notes": "🞔 是白色方形内含黑色特小方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f795-4064",
+      "symbol": "🞕",
+      "name": "白色方形内含黑色中等方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色方形内含黑色中等方形",
+        "White Square Containing Black Medium Square",
+        "形状",
+        "1F795",
+        "U+1F795"
+      ],
+      "notes": "🞕 是白色方形内含黑色中等方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f796-4065",
+      "symbol": "🞖",
+      "name": "方形靶标",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方形靶标",
+        "Square Target",
+        "形状",
+        "1F796",
+        "U+1F796"
+      ],
+      "notes": "🞖 是方形靶标的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f797-4066",
+      "symbol": "🞗",
+      "name": "黑色极小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色极小菱形",
+        "Black Tiny Diamond",
+        "形状",
+        "1F797",
+        "U+1F797"
+      ],
+      "notes": "🞗 是黑色极小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f798-4067",
+      "symbol": "🞘",
+      "name": "黑色特小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色特小菱形",
+        "Black Very Small Diamond",
+        "形状",
+        "1F798",
+        "U+1F798"
+      ],
+      "notes": "🞘 是黑色特小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f799-4068",
+      "symbol": "🞙",
+      "name": "黑色中等小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等小菱形",
+        "Black Medium Small Diamond",
+        "形状",
+        "1F799",
+        "U+1F799"
+      ],
+      "notes": "🞙 是黑色中等小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f79a-4069",
+      "symbol": "🞚",
+      "name": "白色菱形内含黑色特小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色菱形内含黑色特小菱形",
+        "White Diamond Containing Black Very Small Diamond",
+        "形状",
+        "1F79A",
+        "U+1F79A"
+      ],
+      "notes": "🞚 是白色菱形内含黑色特小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f79b-4070",
+      "symbol": "🞛",
+      "name": "白色菱形内含黑色中等菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色菱形内含黑色中等菱形",
+        "White Diamond Containing Black Medium Diamond",
+        "形状",
+        "1F79B",
+        "U+1F79B"
+      ],
+      "notes": "🞛 是白色菱形内含黑色中等菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f79c-4071",
+      "symbol": "🞜",
+      "name": "菱形靶标",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "菱形靶标",
+        "Diamond Target",
+        "形状",
+        "1F79C",
+        "U+1F79C"
+      ],
+      "notes": "🞜 是菱形靶标的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f79d-4072",
+      "symbol": "🞝",
+      "name": "黑色极小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色极小菱形",
+        "Black Tiny Lozenge",
+        "形状",
+        "1F79D",
+        "U+1F79D"
+      ],
+      "notes": "🞝 是黑色极小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f79e-4073",
+      "symbol": "🞞",
+      "name": "黑色特小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色特小菱形",
+        "Black Very Small Lozenge",
+        "形状",
+        "1F79E",
+        "U+1F79E"
+      ],
+      "notes": "🞞 是黑色特小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f79f-4074",
+      "symbol": "🞟",
+      "name": "黑色中等小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中等小菱形",
+        "Black Medium Small Lozenge",
+        "形状",
+        "1F79F",
+        "U+1F79F"
+      ],
+      "notes": "🞟 是黑色中等小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a0-4075",
+      "symbol": "🞠",
+      "name": "白色菱形内含黑色小菱形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色菱形内含黑色小菱形",
+        "White Lozenge Containing Black Small Lozenge",
+        "形状",
+        "1F7A0",
+        "U+1F7A0"
+      ],
+      "notes": "🞠 是白色菱形内含黑色小菱形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a1-4076",
+      "symbol": "🞡",
+      "name": "细希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细希腊十字",
+        "Thin Greek Cross",
+        "形状",
+        "1F7A1",
+        "U+1F7A1"
+      ],
+      "notes": "🞡 是细希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a2-4077",
+      "symbol": "🞢",
+      "name": "轻希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "轻希腊十字",
+        "Light Greek Cross",
+        "形状",
+        "1F7A2",
+        "U+1F7A2"
+      ],
+      "notes": "🞢 是轻希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a3-4078",
+      "symbol": "🞣",
+      "name": "中等希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等希腊十字",
+        "Medium Greek Cross",
+        "形状",
+        "1F7A3",
+        "U+1F7A3"
+      ],
+      "notes": "🞣 是中等希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a4-4079",
+      "symbol": "🞤",
+      "name": "粗希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗希腊十字",
+        "Bold Greek Cross",
+        "形状",
+        "1F7A4",
+        "U+1F7A4"
+      ],
+      "notes": "🞤 是粗希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a5-4080",
+      "symbol": "🞥",
+      "name": "特粗希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特粗希腊十字",
+        "Very Bold Greek Cross",
+        "形状",
+        "1F7A5",
+        "U+1F7A5"
+      ],
+      "notes": "🞥 是特粗希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a6-4081",
+      "symbol": "🞦",
+      "name": "特重希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重希腊十字",
+        "Very Heavy Greek Cross",
+        "形状",
+        "1F7A6",
+        "U+1F7A6"
+      ],
+      "notes": "🞦 是特重希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a7-4082",
+      "symbol": "🞧",
+      "name": "极重希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "极重希腊十字",
+        "Extremely Heavy Greek Cross",
+        "形状",
+        "1F7A7",
+        "U+1F7A7"
+      ],
+      "notes": "🞧 是极重希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a8-4083",
+      "symbol": "🞨",
+      "name": "细圣安德鲁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细圣安德鲁十字",
+        "Thin Saltire",
+        "形状",
+        "1F7A8",
+        "U+1F7A8"
+      ],
+      "notes": "🞨 是细圣安德鲁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7a9-4084",
+      "symbol": "🞩",
+      "name": "细圣安德鲁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细圣安德鲁十字",
+        "Light Saltire",
+        "形状",
+        "1F7A9",
+        "U+1F7A9"
+      ],
+      "notes": "🞩 是细圣安德鲁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7aa-4085",
+      "symbol": "🞪",
+      "name": "中等圣安德鲁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等圣安德鲁十字",
+        "Medium Saltire",
+        "形状",
+        "1F7AA",
+        "U+1F7AA"
+      ],
+      "notes": "🞪 是中等圣安德鲁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ab-4086",
+      "symbol": "🞫",
+      "name": "粗圣安德鲁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗圣安德鲁十字",
+        "Bold Saltire",
+        "形状",
+        "1F7AB",
+        "U+1F7AB"
+      ],
+      "notes": "🞫 是粗圣安德鲁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ac-4087",
+      "symbol": "🞬",
+      "name": "粗圣安德鲁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗圣安德鲁十字",
+        "Heavy Saltire",
+        "形状",
+        "1F7AC",
+        "U+1F7AC"
+      ],
+      "notes": "🞬 是粗圣安德鲁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ad-4088",
+      "symbol": "🞭",
+      "name": "特重圣安德鲁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重圣安德鲁十字",
+        "Very Heavy Saltire",
+        "形状",
+        "1F7AD",
+        "U+1F7AD"
+      ],
+      "notes": "🞭 是特重圣安德鲁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ae-4089",
+      "symbol": "🞮",
+      "name": "极重圣安德鲁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "极重圣安德鲁十字",
+        "Extremely Heavy Saltire",
+        "形状",
+        "1F7AE",
+        "U+1F7AE"
+      ],
+      "notes": "🞮 是极重圣安德鲁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7af-4090",
+      "symbol": "🞯",
+      "name": "轻型五辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "轻型五辐星号",
+        "Light Five Spoked Asterisk",
+        "形状",
+        "1F7AF",
+        "U+1F7AF"
+      ],
+      "notes": "🞯 是轻型五辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b0-4091",
+      "symbol": "🞰",
+      "name": "中等五辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等五辐星号",
+        "Medium Five Spoked Asterisk",
+        "形状",
+        "1F7B0",
+        "U+1F7B0"
+      ],
+      "notes": "🞰 是中等五辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b1-4092",
+      "symbol": "🞱",
+      "name": "粗型五辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗型五辐星号",
+        "Bold Five Spoked Asterisk",
+        "形状",
+        "1F7B1",
+        "U+1F7B1"
+      ],
+      "notes": "🞱 是粗型五辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b2-4093",
+      "symbol": "🞲",
+      "name": "重型五辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "重型五辐星号",
+        "Heavy Five Spoked Asterisk",
+        "形状",
+        "1F7B2",
+        "U+1F7B2"
+      ],
+      "notes": "🞲 是重型五辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b3-4094",
+      "symbol": "🞳",
+      "name": "特重五辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重五辐星号",
+        "Very Heavy Five Spoked Asterisk",
+        "形状",
+        "1F7B3",
+        "U+1F7B3"
+      ],
+      "notes": "🞳 是特重五辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b4-4095",
+      "symbol": "🞴",
+      "name": "极重五辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "极重五辐星号",
+        "Extremely Heavy Five Spoked Asterisk",
+        "形状",
+        "1F7B4",
+        "U+1F7B4"
+      ],
+      "notes": "🞴 是极重五辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b5-4096",
+      "symbol": "🞵",
+      "name": "轻型六辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "轻型六辐星号",
+        "Light Six Spoked Asterisk",
+        "形状",
+        "1F7B5",
+        "U+1F7B5"
+      ],
+      "notes": "🞵 是轻型六辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b6-4097",
+      "symbol": "🞶",
+      "name": "中等六辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等六辐星号",
+        "Medium Six Spoked Asterisk",
+        "形状",
+        "1F7B6",
+        "U+1F7B6"
+      ],
+      "notes": "🞶 是中等六辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b7-4098",
+      "symbol": "🞷",
+      "name": "粗型六辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗型六辐星号",
+        "Bold Six Spoked Asterisk",
+        "形状",
+        "1F7B7",
+        "U+1F7B7"
+      ],
+      "notes": "🞷 是粗型六辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b8-4099",
+      "symbol": "🞸",
+      "name": "重型六辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "重型六辐星号",
+        "Heavy Six Spoked Asterisk",
+        "形状",
+        "1F7B8",
+        "U+1F7B8"
+      ],
+      "notes": "🞸 是重型六辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7b9-4100",
+      "symbol": "🞹",
+      "name": "特重六辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重六辐星号",
+        "Very Heavy Six Spoked Asterisk",
+        "形状",
+        "1F7B9",
+        "U+1F7B9"
+      ],
+      "notes": "🞹 是特重六辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ba-4101",
+      "symbol": "🞺",
+      "name": "极重六辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "极重六辐星号",
+        "Extremely Heavy Six Spoked Asterisk",
+        "形状",
+        "1F7BA",
+        "U+1F7BA"
+      ],
+      "notes": "🞺 是极重六辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7bb-4102",
+      "symbol": "🞻",
+      "name": "轻型八辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "轻型八辐星号",
+        "Light Eight Spoked Asterisk",
+        "形状",
+        "1F7BB",
+        "U+1F7BB"
+      ],
+      "notes": "🞻 是轻型八辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7bc-4103",
+      "symbol": "🞼",
+      "name": "中等八辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等八辐星号",
+        "Medium Eight Spoked Asterisk",
+        "形状",
+        "1F7BC",
+        "U+1F7BC"
+      ],
+      "notes": "🞼 是中等八辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7bd-4104",
+      "symbol": "🞽",
+      "name": "粗型八辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗型八辐星号",
+        "Bold Eight Spoked Asterisk",
+        "形状",
+        "1F7BD",
+        "U+1F7BD"
+      ],
+      "notes": "🞽 是粗型八辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7be-4105",
+      "symbol": "🞾",
+      "name": "重型八辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "重型八辐星号",
+        "Heavy Eight Spoked Asterisk",
+        "形状",
+        "1F7BE",
+        "U+1F7BE"
+      ],
+      "notes": "🞾 是重型八辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7bf-4106",
+      "symbol": "🞿",
+      "name": "特重八辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重八辐星号",
+        "Very Heavy Eight Spoked Asterisk",
+        "形状",
+        "1F7BF",
+        "U+1F7BF"
+      ],
+      "notes": "🞿 是特重八辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c0-4107",
+      "symbol": "🟀",
+      "name": "细三尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细三尖角黑色星形",
+        "Light Three Pointed Black Star",
+        "形状",
+        "1F7C0",
+        "U+1F7C0"
+      ],
+      "notes": "🟀 是细三尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c1-4108",
+      "symbol": "🟁",
+      "name": "中等三尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等三尖角黑色星形",
+        "Medium Three Pointed Black Star",
+        "形状",
+        "1F7C1",
+        "U+1F7C1"
+      ],
+      "notes": "🟁 是中等三尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c2-4109",
+      "symbol": "🟂",
+      "name": "三尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "三尖角黑色星形",
+        "Three Pointed Black Star",
+        "形状",
+        "1F7C2",
+        "U+1F7C2"
+      ],
+      "notes": "🟂 是三尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c3-4110",
+      "symbol": "🟃",
+      "name": "中等三尖角风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等三尖角风车星形",
+        "Medium Three Pointed Pinwheel Star",
+        "形状",
+        "1F7C3",
+        "U+1F7C3"
+      ],
+      "notes": "🟃 是中等三尖角风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c4-4111",
+      "symbol": "🟄",
+      "name": "细四尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细四尖角黑色星形",
+        "Light Four Pointed Black Star",
+        "形状",
+        "1F7C4",
+        "U+1F7C4"
+      ],
+      "notes": "🟄 是细四尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c5-4112",
+      "symbol": "🟅",
+      "name": "中等四尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等四尖角黑色星形",
+        "Medium Four Pointed Black Star",
+        "形状",
+        "1F7C5",
+        "U+1F7C5"
+      ],
+      "notes": "🟅 是中等四尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c6-4113",
+      "symbol": "🟆",
+      "name": "四尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "四尖角黑色星形",
+        "Four Pointed Black Star",
+        "形状",
+        "1F7C6",
+        "U+1F7C6"
+      ],
+      "notes": "🟆 是四尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c7-4114",
+      "symbol": "🟇",
+      "name": "中等四尖角风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等四尖角风车星形",
+        "Medium Four Pointed Pinwheel Star",
+        "形状",
+        "1F7C7",
+        "U+1F7C7"
+      ],
+      "notes": "🟇 是中等四尖角风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c8-4115",
+      "symbol": "🟈",
+      "name": "反向细四尖角风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反向细四尖角风车星形",
+        "Reverse Light Four Pointed Pinwheel Star",
+        "形状",
+        "1F7C8",
+        "U+1F7C8"
+      ],
+      "notes": "🟈 是反向细四尖角风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7c9-4116",
+      "symbol": "🟉",
+      "name": "细五尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细五尖角黑色星形",
+        "Light Five Pointed Black Star",
+        "形状",
+        "1F7C9",
+        "U+1F7C9"
+      ],
+      "notes": "🟉 是细五尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ca-4117",
+      "symbol": "🟊",
+      "name": "粗五尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗五尖角黑色星形",
+        "Heavy Five Pointed Black Star",
+        "形状",
+        "1F7CA",
+        "U+1F7CA"
+      ],
+      "notes": "🟊 是粗五尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7cb-4118",
+      "symbol": "🟋",
+      "name": "中等六尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等六尖角黑色星形",
+        "Medium Six Pointed Black Star",
+        "形状",
+        "1F7CB",
+        "U+1F7CB"
+      ],
+      "notes": "🟋 是中等六尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7cc-4119",
+      "symbol": "🟌",
+      "name": "粗六尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗六尖角黑色星形",
+        "Heavy Six Pointed Black Star",
+        "形状",
+        "1F7CC",
+        "U+1F7CC"
+      ],
+      "notes": "🟌 是粗六尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7cd-4120",
+      "symbol": "🟍",
+      "name": "六尖角风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "六尖角风车星形",
+        "Six Pointed Pinwheel Star",
+        "形状",
+        "1F7CD",
+        "U+1F7CD"
+      ],
+      "notes": "🟍 是六尖角风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ce-4121",
+      "symbol": "🟎",
+      "name": "中等八尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等八尖角黑色星形",
+        "Medium Eight Pointed Black Star",
+        "形状",
+        "1F7CE",
+        "U+1F7CE"
+      ],
+      "notes": "🟎 是中等八尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7cf-4122",
+      "symbol": "🟏",
+      "name": "粗八尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗八尖角黑色星形",
+        "Heavy Eight Pointed Black Star",
+        "形状",
+        "1F7CF",
+        "U+1F7CF"
+      ],
+      "notes": "🟏 是粗八尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d0-4123",
+      "symbol": "🟐",
+      "name": "特重八尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "特重八尖角黑色星形",
+        "Very Heavy Eight Pointed Black Star",
+        "形状",
+        "1F7D0",
+        "U+1F7D0"
+      ],
+      "notes": "🟐 是特重八尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d1-4124",
+      "symbol": "🟑",
+      "name": "粗八尖角风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗八尖角风车星形",
+        "Heavy Eight Pointed Pinwheel Star",
+        "形状",
+        "1F7D1",
+        "U+1F7D1"
+      ],
+      "notes": "🟑 是粗八尖角风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d2-4125",
+      "symbol": "🟒",
+      "name": "细十二尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细十二尖角黑色星形",
+        "Light Twelve Pointed Black Star",
+        "形状",
+        "1F7D2",
+        "U+1F7D2"
+      ],
+      "notes": "🟒 是细十二尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d3-4126",
+      "symbol": "🟓",
+      "name": "粗十二尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗十二尖角黑色星形",
+        "Heavy Twelve Pointed Black Star",
+        "形状",
+        "1F7D3",
+        "U+1F7D3"
+      ],
+      "notes": "🟓 是粗十二尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d4-4127",
+      "symbol": "🟔",
+      "name": "粗十二尖角风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗十二尖角风车星形",
+        "Heavy Twelve Pointed Pinwheel Star",
+        "形状",
+        "1F7D4",
+        "U+1F7D4"
+      ],
+      "notes": "🟔 是粗十二尖角风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d5-4128",
+      "symbol": "🟕",
+      "name": "带圈三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带圈三角形",
+        "Circled Triangle",
+        "形状",
+        "1F7D5",
+        "U+1F7D5"
+      ],
+      "notes": "🟕 是带圈三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d6-4129",
+      "symbol": "🟖",
+      "name": "反白带圈三角形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白带圈三角形",
+        "Negative Circled Triangle",
+        "形状",
+        "1F7D6",
+        "U+1F7D6"
+      ],
+      "notes": "🟖 是反白带圈三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d7-4130",
+      "symbol": "🟗",
+      "name": "带圈方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带圈方形",
+        "Circled Square",
+        "形状",
+        "1F7D7",
+        "U+1F7D7"
+      ],
+      "notes": "🟗 是带圈方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d8-4131",
+      "symbol": "🟘",
+      "name": "反白带圈方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白带圈方形",
+        "Negative Circled Square",
+        "形状",
+        "1F7D8",
+        "U+1F7D8"
+      ],
+      "notes": "🟘 是反白带圈方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7d9-4132",
+      "symbol": "🟙",
+      "name": "九尖角白色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "九尖角白色星形",
+        "Nine Pointed White Star",
+        "形状",
+        "1F7D9",
+        "U+1F7D9"
+      ],
+      "notes": "🟙 是九尖角白色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e0-4133",
+      "symbol": "🟠",
+      "name": "橙色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "橙色圆",
+        "Orange Circle",
+        "形状",
+        "1F7E0",
+        "U+1F7E0"
+      ],
+      "notes": "🟠 是橙色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e1-4134",
+      "symbol": "🟡",
+      "name": "黄色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黄色圆",
+        "Yellow Circle",
+        "形状",
+        "1F7E1",
+        "U+1F7E1"
+      ],
+      "notes": "🟡 是黄色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e2-4135",
+      "symbol": "🟢",
+      "name": "绿色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "绿色圆",
+        "Green Circle",
+        "形状",
+        "1F7E2",
+        "U+1F7E2"
+      ],
+      "notes": "🟢 是绿色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e3-4136",
+      "symbol": "🟣",
+      "name": "紫色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "紫色圆",
+        "Purple Circle",
+        "形状",
+        "1F7E3",
+        "U+1F7E3"
+      ],
+      "notes": "🟣 是紫色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e4-4137",
+      "symbol": "🟤",
+      "name": "棕色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "棕色圆",
+        "Brown Circle",
+        "形状",
+        "1F7E4",
+        "U+1F7E4"
+      ],
+      "notes": "🟤 是棕色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e5-4138",
+      "symbol": "🟥",
+      "name": "红色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "红色方形",
+        "Red Square",
+        "形状",
+        "1F7E5",
+        "U+1F7E5"
+      ],
+      "notes": "🟥 是红色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e6-4139",
+      "symbol": "🟦",
+      "name": "蓝色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "蓝色方形",
+        "Blue Square",
+        "形状",
+        "1F7E6",
+        "U+1F7E6"
+      ],
+      "notes": "🟦 是蓝色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e7-4140",
+      "symbol": "🟧",
+      "name": "橙色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "橙色方形",
+        "Orange Square",
+        "形状",
+        "1F7E7",
+        "U+1F7E7"
+      ],
+      "notes": "🟧 是橙色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e8-4141",
+      "symbol": "🟨",
+      "name": "黄色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黄色方形",
+        "Yellow Square",
+        "形状",
+        "1F7E8",
+        "U+1F7E8"
+      ],
+      "notes": "🟨 是黄色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7e9-4142",
+      "symbol": "🟩",
+      "name": "绿色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "绿色方形",
+        "Green Square",
+        "形状",
+        "1F7E9",
+        "U+1F7E9"
+      ],
+      "notes": "🟩 是绿色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7ea-4143",
+      "symbol": "🟪",
+      "name": "紫色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "紫色方形",
+        "Purple Square",
+        "形状",
+        "1F7EA",
+        "U+1F7EA"
+      ],
+      "notes": "🟪 是紫色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7eb-4144",
+      "symbol": "🟫",
+      "name": "棕色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "棕色方形",
+        "Brown Square",
+        "形状",
+        "1F7EB",
+        "U+1F7EB"
+      ],
+      "notes": "🟫 是棕色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-1f7f0-4145",
+      "symbol": "🟰",
+      "name": "粗等号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗等号",
+        "Heavy Equals Sign",
+        "形状",
+        "1F7F0",
+        "U+1F7F0"
+      ],
+      "notes": "🟰 是粗等号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2500-4146",
+      "symbol": "─",
+      "name": "制表线细水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细水平",
+        "Box Drawings Light Horizontal",
+        "形状",
+        "2500",
+        "U+2500"
+      ],
+      "notes": "─ 是制表线细水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2501-4147",
+      "symbol": "━",
+      "name": "制表线粗水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗水平",
+        "Box Drawings Heavy Horizontal",
+        "形状",
+        "2501",
+        "U+2501"
+      ],
+      "notes": "━ 是制表线粗水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2502-4148",
+      "symbol": "│",
+      "name": "制表线细垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细垂直",
+        "Box Drawings Light Vertical",
+        "形状",
+        "2502",
+        "U+2502"
+      ],
+      "notes": "│ 是制表线细垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2503-4149",
+      "symbol": "┃",
+      "name": "制表线粗垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗垂直",
+        "Box Drawings Heavy Vertical",
+        "形状",
+        "2503",
+        "U+2503"
+      ],
+      "notes": "┃ 是制表线粗垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2504-4150",
+      "symbol": "┄",
+      "name": "制表线细三线虚线水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细三线虚线水平",
+        "Box Drawings Light Triple Dash Horizontal",
+        "形状",
+        "2504",
+        "U+2504"
+      ],
+      "notes": "┄ 是制表线细三线虚线水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2505-4151",
+      "symbol": "┅",
+      "name": "制表线粗三线虚线水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗三线虚线水平",
+        "Box Drawings Heavy Triple Dash Horizontal",
+        "形状",
+        "2505",
+        "U+2505"
+      ],
+      "notes": "┅ 是制表线粗三线虚线水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2506-4152",
+      "symbol": "┆",
+      "name": "制表线细三线虚线垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细三线虚线垂直",
+        "Box Drawings Light Triple Dash Vertical",
+        "形状",
+        "2506",
+        "U+2506"
+      ],
+      "notes": "┆ 是制表线细三线虚线垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2507-4153",
+      "symbol": "┇",
+      "name": "制表线粗三线虚线垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗三线虚线垂直",
+        "Box Drawings Heavy Triple Dash Vertical",
+        "形状",
+        "2507",
+        "U+2507"
+      ],
+      "notes": "┇ 是制表线粗三线虚线垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2508-4154",
+      "symbol": "┈",
+      "name": "制表线细四线虚线水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细四线虚线水平",
+        "Box Drawings Light Quadruple Dash Horizontal",
+        "形状",
+        "2508",
+        "U+2508"
+      ],
+      "notes": "┈ 是制表线细四线虚线水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2509-4155",
+      "symbol": "┉",
+      "name": "制表线粗四线虚线水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗四线虚线水平",
+        "Box Drawings Heavy Quadruple Dash Horizontal",
+        "形状",
+        "2509",
+        "U+2509"
+      ],
+      "notes": "┉ 是制表线粗四线虚线水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-250a-4156",
+      "symbol": "┊",
+      "name": "制表线细四线虚线垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细四线虚线垂直",
+        "Box Drawings Light Quadruple Dash Vertical",
+        "形状",
+        "250A",
+        "U+250A"
+      ],
+      "notes": "┊ 是制表线细四线虚线垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-250b-4157",
+      "symbol": "┋",
+      "name": "制表线粗四线虚线垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗四线虚线垂直",
+        "Box Drawings Heavy Quadruple Dash Vertical",
+        "形状",
+        "250B",
+        "U+250B"
+      ],
+      "notes": "┋ 是制表线粗四线虚线垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-250c-4158",
+      "symbol": "┌",
+      "name": "制表线细下与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细下与右",
+        "Box Drawings Light Down and Right",
+        "形状",
+        "250C",
+        "U+250C"
+      ],
+      "notes": "┌ 是制表线细下与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-250d-4159",
+      "symbol": "┍",
+      "name": "制表线下细与右粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下细与右粗",
+        "Box Drawings Down Light and Right Heavy",
+        "形状",
+        "250D",
+        "U+250D"
+      ],
+      "notes": "┍ 是制表线下细与右粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-250e-4160",
+      "symbol": "┎",
+      "name": "制表线下粗与右细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下粗与右细",
+        "Box Drawings Down Heavy and Right Light",
+        "形状",
+        "250E",
+        "U+250E"
+      ],
+      "notes": "┎ 是制表线下粗与右细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-250f-4161",
+      "symbol": "┏",
+      "name": "制表线粗下与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗下与右",
+        "Box Drawings Heavy Down and Right",
+        "形状",
+        "250F",
+        "U+250F"
+      ],
+      "notes": "┏ 是制表线粗下与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2510-4162",
+      "symbol": "┐",
+      "name": "制表线细下与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细下与左",
+        "Box Drawings Light Down and Left",
+        "形状",
+        "2510",
+        "U+2510"
+      ],
+      "notes": "┐ 是制表线细下与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2511-4163",
+      "symbol": "┑",
+      "name": "制表线下细与左粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下细与左粗",
+        "Box Drawings Down Light and Left Heavy",
+        "形状",
+        "2511",
+        "U+2511"
+      ],
+      "notes": "┑ 是制表线下细与左粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2512-4164",
+      "symbol": "┒",
+      "name": "制表线下粗与左细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下粗与左细",
+        "Box Drawings Down Heavy and Left Light",
+        "形状",
+        "2512",
+        "U+2512"
+      ],
+      "notes": "┒ 是制表线下粗与左细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2513-4165",
+      "symbol": "┓",
+      "name": "制表线粗下与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗下与左",
+        "Box Drawings Heavy Down and Left",
+        "形状",
+        "2513",
+        "U+2513"
+      ],
+      "notes": "┓ 是制表线粗下与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2514-4166",
+      "symbol": "└",
+      "name": "制表线细上与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细上与右",
+        "Box Drawings Light Up and Right",
+        "形状",
+        "2514",
+        "U+2514"
+      ],
+      "notes": "└ 是制表线细上与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2515-4167",
+      "symbol": "┕",
+      "name": "制表线上细与右粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上细与右粗",
+        "Box Drawings Up Light and Right Heavy",
+        "形状",
+        "2515",
+        "U+2515"
+      ],
+      "notes": "┕ 是制表线上细与右粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2516-4168",
+      "symbol": "┖",
+      "name": "制表线上粗与右细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上粗与右细",
+        "Box Drawings Up Heavy and Right Light",
+        "形状",
+        "2516",
+        "U+2516"
+      ],
+      "notes": "┖ 是制表线上粗与右细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2517-4169",
+      "symbol": "┗",
+      "name": "制表线粗上与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗上与右",
+        "Box Drawings Heavy Up and Right",
+        "形状",
+        "2517",
+        "U+2517"
+      ],
+      "notes": "┗ 是制表线粗上与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2518-4170",
+      "symbol": "┘",
+      "name": "制表线细上与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细上与左",
+        "Box Drawings Light Up and Left",
+        "形状",
+        "2518",
+        "U+2518"
+      ],
+      "notes": "┘ 是制表线细上与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2519-4171",
+      "symbol": "┙",
+      "name": "制表线上细与左粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上细与左粗",
+        "Box Drawings Up Light and Left Heavy",
+        "形状",
+        "2519",
+        "U+2519"
+      ],
+      "notes": "┙ 是制表线上细与左粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-251a-4172",
+      "symbol": "┚",
+      "name": "制表线上粗与左细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上粗与左细",
+        "Box Drawings Up Heavy and Left Light",
+        "形状",
+        "251A",
+        "U+251A"
+      ],
+      "notes": "┚ 是制表线上粗与左细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-251b-4173",
+      "symbol": "┛",
+      "name": "制表线粗上与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗上与左",
+        "Box Drawings Heavy Up and Left",
+        "形状",
+        "251B",
+        "U+251B"
+      ],
+      "notes": "┛ 是制表线粗上与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-251c-4174",
+      "symbol": "├",
+      "name": "制表线细垂直与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细垂直与右",
+        "Box Drawings Light Vertical and Right",
+        "形状",
+        "251C",
+        "U+251C"
+      ],
+      "notes": "├ 是制表线细垂直与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-251d-4175",
+      "symbol": "┝",
+      "name": "制表线垂直细与右粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直细与右粗",
+        "Box Drawings Vertical Light and Right Heavy",
+        "形状",
+        "251D",
+        "U+251D"
+      ],
+      "notes": "┝ 是制表线垂直细与右粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-251e-4176",
+      "symbol": "┞",
+      "name": "制表线上粗与右下细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上粗与右下细",
+        "Box Drawings Up Heavy and Right Down Light",
+        "形状",
+        "251E",
+        "U+251E"
+      ],
+      "notes": "┞ 是制表线上粗与右下细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-251f-4177",
+      "symbol": "┟",
+      "name": "制表线下粗与右上细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下粗与右上细",
+        "Box Drawings Down Heavy and Right Up Light",
+        "形状",
+        "251F",
+        "U+251F"
+      ],
+      "notes": "┟ 是制表线下粗与右上细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2520-4178",
+      "symbol": "┠",
+      "name": "制表线垂直粗与右细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直粗与右细",
+        "Box Drawings Vertical Heavy and Right Light",
+        "形状",
+        "2520",
+        "U+2520"
+      ],
+      "notes": "┠ 是制表线垂直粗与右细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2521-4179",
+      "symbol": "┡",
+      "name": "制表线下细与右上粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下细与右上粗",
+        "Box Drawings Down Light and Right Up Heavy",
+        "形状",
+        "2521",
+        "U+2521"
+      ],
+      "notes": "┡ 是制表线下细与右上粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2522-4180",
+      "symbol": "┢",
+      "name": "制表线上细与右下粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上细与右下粗",
+        "Box Drawings Up Light and Right Down Heavy",
+        "形状",
+        "2522",
+        "U+2522"
+      ],
+      "notes": "┢ 是制表线上细与右下粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2523-4181",
+      "symbol": "┣",
+      "name": "制表线粗垂直与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗垂直与右",
+        "Box Drawings Heavy Vertical and Right",
+        "形状",
+        "2523",
+        "U+2523"
+      ],
+      "notes": "┣ 是制表线粗垂直与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2524-4182",
+      "symbol": "┤",
+      "name": "制表线细垂直与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细垂直与左",
+        "Box Drawings Light Vertical and Left",
+        "形状",
+        "2524",
+        "U+2524"
+      ],
+      "notes": "┤ 是制表线细垂直与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2525-4183",
+      "symbol": "┥",
+      "name": "制表线垂直细与左粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直细与左粗",
+        "Box Drawings Vertical Light and Left Heavy",
+        "形状",
+        "2525",
+        "U+2525"
+      ],
+      "notes": "┥ 是制表线垂直细与左粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2526-4184",
+      "symbol": "┦",
+      "name": "制表线上粗与左下细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上粗与左下细",
+        "Box Drawings Up Heavy and Left Down Light",
+        "形状",
+        "2526",
+        "U+2526"
+      ],
+      "notes": "┦ 是制表线上粗与左下细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2527-4185",
+      "symbol": "┧",
+      "name": "制表线下粗与左上细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下粗与左上细",
+        "Box Drawings Down Heavy and Left Up Light",
+        "形状",
+        "2527",
+        "U+2527"
+      ],
+      "notes": "┧ 是制表线下粗与左上细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2528-4186",
+      "symbol": "┨",
+      "name": "制表线垂直粗与左细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直粗与左细",
+        "Box Drawings Vertical Heavy and Left Light",
+        "形状",
+        "2528",
+        "U+2528"
+      ],
+      "notes": "┨ 是制表线垂直粗与左细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2529-4187",
+      "symbol": "┩",
+      "name": "制表线下细与左上粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下细与左上粗",
+        "Box Drawings Down Light and Left Up Heavy",
+        "形状",
+        "2529",
+        "U+2529"
+      ],
+      "notes": "┩ 是制表线下细与左上粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-252a-4188",
+      "symbol": "┪",
+      "name": "制表线上细与左下粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上细与左下粗",
+        "Box Drawings Up Light and Left Down Heavy",
+        "形状",
+        "252A",
+        "U+252A"
+      ],
+      "notes": "┪ 是制表线上细与左下粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-252b-4189",
+      "symbol": "┫",
+      "name": "制表线粗垂直与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗垂直与左",
+        "Box Drawings Heavy Vertical and Left",
+        "形状",
+        "252B",
+        "U+252B"
+      ],
+      "notes": "┫ 是制表线粗垂直与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-252c-4190",
+      "symbol": "┬",
+      "name": "制表线细下与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细下与水平",
+        "Box Drawings Light Down and Horizontal",
+        "形状",
+        "252C",
+        "U+252C"
+      ],
+      "notes": "┬ 是制表线细下与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-252d-4191",
+      "symbol": "┭",
+      "name": "制表线左粗与右下细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左粗与右下细",
+        "Box Drawings Left Heavy and Right Down Light",
+        "形状",
+        "252D",
+        "U+252D"
+      ],
+      "notes": "┭ 是制表线左粗与右下细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-252e-4192",
+      "symbol": "┮",
+      "name": "制表线右粗与左下细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右粗与左下细",
+        "Box Drawings Right Heavy and Left Down Light",
+        "形状",
+        "252E",
+        "U+252E"
+      ],
+      "notes": "┮ 是制表线右粗与左下细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-252f-4193",
+      "symbol": "┯",
+      "name": "制表线下细与水平粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下细与水平粗",
+        "Box Drawings Down Light and Horizontal Heavy",
+        "形状",
+        "252F",
+        "U+252F"
+      ],
+      "notes": "┯ 是制表线下细与水平粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2530-4194",
+      "symbol": "┰",
+      "name": "制表线下粗与水平细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下粗与水平细",
+        "Box Drawings Down Heavy and Horizontal Light",
+        "形状",
+        "2530",
+        "U+2530"
+      ],
+      "notes": "┰ 是制表线下粗与水平细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2531-4195",
+      "symbol": "┱",
+      "name": "制表线右细与左下粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右细与左下粗",
+        "Box Drawings Right Light and Left Down Heavy",
+        "形状",
+        "2531",
+        "U+2531"
+      ],
+      "notes": "┱ 是制表线右细与左下粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2532-4196",
+      "symbol": "┲",
+      "name": "制表线左细与右下粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左细与右下粗",
+        "Box Drawings Left Light and Right Down Heavy",
+        "形状",
+        "2532",
+        "U+2532"
+      ],
+      "notes": "┲ 是制表线左细与右下粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2533-4197",
+      "symbol": "┳",
+      "name": "制表线粗下与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗下与水平",
+        "Box Drawings Heavy Down and Horizontal",
+        "形状",
+        "2533",
+        "U+2533"
+      ],
+      "notes": "┳ 是制表线粗下与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2534-4198",
+      "symbol": "┴",
+      "name": "制表线细上与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细上与水平",
+        "Box Drawings Light Up and Horizontal",
+        "形状",
+        "2534",
+        "U+2534"
+      ],
+      "notes": "┴ 是制表线细上与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2535-4199",
+      "symbol": "┵",
+      "name": "制表线左粗与右上细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左粗与右上细",
+        "Box Drawings Left Heavy and Right Up Light",
+        "形状",
+        "2535",
+        "U+2535"
+      ],
+      "notes": "┵ 是制表线左粗与右上细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2536-4200",
+      "symbol": "┶",
+      "name": "制表线右粗与左上细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右粗与左上细",
+        "Box Drawings Right Heavy and Left Up Light",
+        "形状",
+        "2536",
+        "U+2536"
+      ],
+      "notes": "┶ 是制表线右粗与左上细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2537-4201",
+      "symbol": "┷",
+      "name": "制表线上细与水平粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上细与水平粗",
+        "Box Drawings Up Light and Horizontal Heavy",
+        "形状",
+        "2537",
+        "U+2537"
+      ],
+      "notes": "┷ 是制表线上细与水平粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2538-4202",
+      "symbol": "┸",
+      "name": "制表线上粗与水平细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上粗与水平细",
+        "Box Drawings Up Heavy and Horizontal Light",
+        "形状",
+        "2538",
+        "U+2538"
+      ],
+      "notes": "┸ 是制表线上粗与水平细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2539-4203",
+      "symbol": "┹",
+      "name": "制表线右细与左上粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右细与左上粗",
+        "Box Drawings Right Light and Left Up Heavy",
+        "形状",
+        "2539",
+        "U+2539"
+      ],
+      "notes": "┹ 是制表线右细与左上粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-253a-4204",
+      "symbol": "┺",
+      "name": "制表线左细与右上粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左细与右上粗",
+        "Box Drawings Left Light and Right Up Heavy",
+        "形状",
+        "253A",
+        "U+253A"
+      ],
+      "notes": "┺ 是制表线左细与右上粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-253b-4205",
+      "symbol": "┻",
+      "name": "制表线粗上与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗上与水平",
+        "Box Drawings Heavy Up and Horizontal",
+        "形状",
+        "253B",
+        "U+253B"
+      ],
+      "notes": "┻ 是制表线粗上与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-253c-4206",
+      "symbol": "┼",
+      "name": "制表线细垂直与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细垂直与水平",
+        "Box Drawings Light Vertical and Horizontal",
+        "形状",
+        "253C",
+        "U+253C"
+      ],
+      "notes": "┼ 是制表线细垂直与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-253d-4207",
+      "symbol": "┽",
+      "name": "制表线左粗与右垂直细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左粗与右垂直细",
+        "Box Drawings Left Heavy and Right Vertical Light",
+        "形状",
+        "253D",
+        "U+253D"
+      ],
+      "notes": "┽ 是制表线左粗与右垂直细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-253e-4208",
+      "symbol": "┾",
+      "name": "制表线右粗与左垂直细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右粗与左垂直细",
+        "Box Drawings Right Heavy and Left Vertical Light",
+        "形状",
+        "253E",
+        "U+253E"
+      ],
+      "notes": "┾ 是制表线右粗与左垂直细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-253f-4209",
+      "symbol": "┿",
+      "name": "制表线垂直细与水平粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直细与水平粗",
+        "Box Drawings Vertical Light and Horizontal Heavy",
+        "形状",
+        "253F",
+        "U+253F"
+      ],
+      "notes": "┿ 是制表线垂直细与水平粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2540-4210",
+      "symbol": "╀",
+      "name": "制表线上粗与下水平细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上粗与下水平细",
+        "Box Drawings Up Heavy and Down Horizontal Light",
+        "形状",
+        "2540",
+        "U+2540"
+      ],
+      "notes": "╀ 是制表线上粗与下水平细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2541-4211",
+      "symbol": "╁",
+      "name": "制表线下粗与上水平细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下粗与上水平细",
+        "Box Drawings Down Heavy and Up Horizontal Light",
+        "形状",
+        "2541",
+        "U+2541"
+      ],
+      "notes": "╁ 是制表线下粗与上水平细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2542-4212",
+      "symbol": "╂",
+      "name": "制表线垂直粗与水平细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直粗与水平细",
+        "Box Drawings Vertical Heavy and Horizontal Light",
+        "形状",
+        "2542",
+        "U+2542"
+      ],
+      "notes": "╂ 是制表线垂直粗与水平细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2543-4213",
+      "symbol": "╃",
+      "name": "制表线左上粗与右下细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左上粗与右下细",
+        "Box Drawings Left Up Heavy and Right Down Light",
+        "形状",
+        "2543",
+        "U+2543"
+      ],
+      "notes": "╃ 是制表线左上粗与右下细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2544-4214",
+      "symbol": "╄",
+      "name": "制表线右上粗与左下细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右上粗与左下细",
+        "Box Drawings Right Up Heavy and Left Down Light",
+        "形状",
+        "2544",
+        "U+2544"
+      ],
+      "notes": "╄ 是制表线右上粗与左下细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2545-4215",
+      "symbol": "╅",
+      "name": "制表线左下粗与右上细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左下粗与右上细",
+        "Box Drawings Left Down Heavy and Right Up Light",
+        "形状",
+        "2545",
+        "U+2545"
+      ],
+      "notes": "╅ 是制表线左下粗与右上细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2546-4216",
+      "symbol": "╆",
+      "name": "制表线右下粗与左上细",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右下粗与左上细",
+        "Box Drawings Right Down Heavy and Left Up Light",
+        "形状",
+        "2546",
+        "U+2546"
+      ],
+      "notes": "╆ 是制表线右下粗与左上细的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2547-4217",
+      "symbol": "╇",
+      "name": "制表线下细与上水平粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下细与上水平粗",
+        "Box Drawings Down Light and Up Horizontal Heavy",
+        "形状",
+        "2547",
+        "U+2547"
+      ],
+      "notes": "╇ 是制表线下细与上水平粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2548-4218",
+      "symbol": "╈",
+      "name": "制表线上细与下水平粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上细与下水平粗",
+        "Box Drawings Up Light and Down Horizontal Heavy",
+        "形状",
+        "2548",
+        "U+2548"
+      ],
+      "notes": "╈ 是制表线上细与下水平粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2549-4219",
+      "symbol": "╉",
+      "name": "制表线右细与左垂直粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线右细与左垂直粗",
+        "Box Drawings Right Light and Left Vertical Heavy",
+        "形状",
+        "2549",
+        "U+2549"
+      ],
+      "notes": "╉ 是制表线右细与左垂直粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-254a-4220",
+      "symbol": "╊",
+      "name": "制表线左细与右垂直粗",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线左细与右垂直粗",
+        "Box Drawings Left Light and Right Vertical Heavy",
+        "形状",
+        "254A",
+        "U+254A"
+      ],
+      "notes": "╊ 是制表线左细与右垂直粗的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-254b-4221",
+      "symbol": "╋",
+      "name": "制表线粗垂直与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗垂直与水平",
+        "Box Drawings Heavy Vertical and Horizontal",
+        "形状",
+        "254B",
+        "U+254B"
+      ],
+      "notes": "╋ 是制表线粗垂直与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-254c-4222",
+      "symbol": "╌",
+      "name": "制表线细双线虚线水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细双线虚线水平",
+        "Box Drawings Light Double Dash Horizontal",
+        "形状",
+        "254C",
+        "U+254C"
+      ],
+      "notes": "╌ 是制表线细双线虚线水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-254d-4223",
+      "symbol": "╍",
+      "name": "制表线粗双线虚线水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗双线虚线水平",
+        "Box Drawings Heavy Double Dash Horizontal",
+        "形状",
+        "254D",
+        "U+254D"
+      ],
+      "notes": "╍ 是制表线粗双线虚线水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-254e-4224",
+      "symbol": "╎",
+      "name": "制表线细双线虚线垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细双线虚线垂直",
+        "Box Drawings Light Double Dash Vertical",
+        "形状",
+        "254E",
+        "U+254E"
+      ],
+      "notes": "╎ 是制表线细双线虚线垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-254f-4225",
+      "symbol": "╏",
+      "name": "制表线粗双线虚线垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗双线虚线垂直",
+        "Box Drawings Heavy Double Dash Vertical",
+        "形状",
+        "254F",
+        "U+254F"
+      ],
+      "notes": "╏ 是制表线粗双线虚线垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2550-4226",
+      "symbol": "═",
+      "name": "制表线双线水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线水平",
+        "Box Drawings Double Horizontal",
+        "形状",
+        "2550",
+        "U+2550"
+      ],
+      "notes": "═ 是制表线双线水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2551-4227",
+      "symbol": "║",
+      "name": "制表线双线垂直",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线垂直",
+        "Box Drawings Double Vertical",
+        "形状",
+        "2551",
+        "U+2551"
+      ],
+      "notes": "║ 是制表线双线垂直的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2552-4228",
+      "symbol": "╒",
+      "name": "制表线下单线与右双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下单线与右双线",
+        "Box Drawings Down Single and Right Double",
+        "形状",
+        "2552",
+        "U+2552"
+      ],
+      "notes": "╒ 是制表线下单线与右双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2553-4229",
+      "symbol": "╓",
+      "name": "制表线下双线与右单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下双线与右单线",
+        "Box Drawings Down Double and Right Single",
+        "形状",
+        "2553",
+        "U+2553"
+      ],
+      "notes": "╓ 是制表线下双线与右单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2554-4230",
+      "symbol": "╔",
+      "name": "制表线双线下与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线下与右",
+        "Box Drawings Double Down and Right",
+        "形状",
+        "2554",
+        "U+2554"
+      ],
+      "notes": "╔ 是制表线双线下与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2555-4231",
+      "symbol": "╕",
+      "name": "制表线下单线与左双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下单线与左双线",
+        "Box Drawings Down Single and Left Double",
+        "形状",
+        "2555",
+        "U+2555"
+      ],
+      "notes": "╕ 是制表线下单线与左双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2556-4232",
+      "symbol": "╖",
+      "name": "制表线下双线与左单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下双线与左单线",
+        "Box Drawings Down Double and Left Single",
+        "形状",
+        "2556",
+        "U+2556"
+      ],
+      "notes": "╖ 是制表线下双线与左单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2557-4233",
+      "symbol": "╗",
+      "name": "制表线双线下与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线下与左",
+        "Box Drawings Double Down and Left",
+        "形状",
+        "2557",
+        "U+2557"
+      ],
+      "notes": "╗ 是制表线双线下与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2558-4234",
+      "symbol": "╘",
+      "name": "制表线上单线与右双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上单线与右双线",
+        "Box Drawings Up Single and Right Double",
+        "形状",
+        "2558",
+        "U+2558"
+      ],
+      "notes": "╘ 是制表线上单线与右双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2559-4235",
+      "symbol": "╙",
+      "name": "制表线上双线与右单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上双线与右单线",
+        "Box Drawings Up Double and Right Single",
+        "形状",
+        "2559",
+        "U+2559"
+      ],
+      "notes": "╙ 是制表线上双线与右单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-255a-4236",
+      "symbol": "╚",
+      "name": "制表线双线上与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线上与右",
+        "Box Drawings Double Up and Right",
+        "形状",
+        "255A",
+        "U+255A"
+      ],
+      "notes": "╚ 是制表线双线上与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-255b-4237",
+      "symbol": "╛",
+      "name": "制表线上单线与左双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上单线与左双线",
+        "Box Drawings Up Single and Left Double",
+        "形状",
+        "255B",
+        "U+255B"
+      ],
+      "notes": "╛ 是制表线上单线与左双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-255c-4238",
+      "symbol": "╜",
+      "name": "制表线上双线与左单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上双线与左单线",
+        "Box Drawings Up Double and Left Single",
+        "形状",
+        "255C",
+        "U+255C"
+      ],
+      "notes": "╜ 是制表线上双线与左单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-255d-4239",
+      "symbol": "╝",
+      "name": "制表线双线上与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线上与左",
+        "Box Drawings Double Up and Left",
+        "形状",
+        "255D",
+        "U+255D"
+      ],
+      "notes": "╝ 是制表线双线上与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-255e-4240",
+      "symbol": "╞",
+      "name": "制表线垂直单线与右双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直单线与右双线",
+        "Box Drawings Vertical Single and Right Double",
+        "形状",
+        "255E",
+        "U+255E"
+      ],
+      "notes": "╞ 是制表线垂直单线与右双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-255f-4241",
+      "symbol": "╟",
+      "name": "制表线垂直双线与右单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直双线与右单线",
+        "Box Drawings Vertical Double and Right Single",
+        "形状",
+        "255F",
+        "U+255F"
+      ],
+      "notes": "╟ 是制表线垂直双线与右单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2560-4242",
+      "symbol": "╠",
+      "name": "制表线双线垂直与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线垂直与右",
+        "Box Drawings Double Vertical and Right",
+        "形状",
+        "2560",
+        "U+2560"
+      ],
+      "notes": "╠ 是制表线双线垂直与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2561-4243",
+      "symbol": "╡",
+      "name": "制表线垂直单线与左双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直单线与左双线",
+        "Box Drawings Vertical Single and Left Double",
+        "形状",
+        "2561",
+        "U+2561"
+      ],
+      "notes": "╡ 是制表线垂直单线与左双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2562-4244",
+      "symbol": "╢",
+      "name": "制表线垂直双线与左单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直双线与左单线",
+        "Box Drawings Vertical Double and Left Single",
+        "形状",
+        "2562",
+        "U+2562"
+      ],
+      "notes": "╢ 是制表线垂直双线与左单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2563-4245",
+      "symbol": "╣",
+      "name": "制表线双线垂直与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线垂直与左",
+        "Box Drawings Double Vertical and Left",
+        "形状",
+        "2563",
+        "U+2563"
+      ],
+      "notes": "╣ 是制表线双线垂直与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2564-4246",
+      "symbol": "╤",
+      "name": "制表线下单线与水平双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下单线与水平双线",
+        "Box Drawings Down Single and Horizontal Double",
+        "形状",
+        "2564",
+        "U+2564"
+      ],
+      "notes": "╤ 是制表线下单线与水平双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2565-4247",
+      "symbol": "╥",
+      "name": "制表线下双线与水平单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线下双线与水平单线",
+        "Box Drawings Down Double and Horizontal Single",
+        "形状",
+        "2565",
+        "U+2565"
+      ],
+      "notes": "╥ 是制表线下双线与水平单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2566-4248",
+      "symbol": "╦",
+      "name": "制表线双线下与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线下与水平",
+        "Box Drawings Double Down and Horizontal",
+        "形状",
+        "2566",
+        "U+2566"
+      ],
+      "notes": "╦ 是制表线双线下与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2567-4249",
+      "symbol": "╧",
+      "name": "制表线上单线与水平双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上单线与水平双线",
+        "Box Drawings Up Single and Horizontal Double",
+        "形状",
+        "2567",
+        "U+2567"
+      ],
+      "notes": "╧ 是制表线上单线与水平双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2568-4250",
+      "symbol": "╨",
+      "name": "制表线上双线与水平单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线上双线与水平单线",
+        "Box Drawings Up Double and Horizontal Single",
+        "形状",
+        "2568",
+        "U+2568"
+      ],
+      "notes": "╨ 是制表线上双线与水平单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2569-4251",
+      "symbol": "╩",
+      "name": "制表线双线上与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线上与水平",
+        "Box Drawings Double Up and Horizontal",
+        "形状",
+        "2569",
+        "U+2569"
+      ],
+      "notes": "╩ 是制表线双线上与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-256a-4252",
+      "symbol": "╪",
+      "name": "制表线垂直单线与水平双线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直单线与水平双线",
+        "Box Drawings Vertical Single and Horizontal Double",
+        "形状",
+        "256A",
+        "U+256A"
+      ],
+      "notes": "╪ 是制表线垂直单线与水平双线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-256b-4253",
+      "symbol": "╫",
+      "name": "制表线垂直双线与水平单线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线垂直双线与水平单线",
+        "Box Drawings Vertical Double and Horizontal Single",
+        "形状",
+        "256B",
+        "U+256B"
+      ],
+      "notes": "╫ 是制表线垂直双线与水平单线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-256c-4254",
+      "symbol": "╬",
+      "name": "制表线双线垂直与水平",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线双线垂直与水平",
+        "Box Drawings Double Vertical and Horizontal",
+        "形状",
+        "256C",
+        "U+256C"
+      ],
+      "notes": "╬ 是制表线双线垂直与水平的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-256d-4255",
+      "symbol": "╭",
+      "name": "制表线细弧下与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细弧下与右",
+        "Box Drawings Light Arc Down and Right",
+        "形状",
+        "256D",
+        "U+256D"
+      ],
+      "notes": "╭ 是制表线细弧下与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-256e-4256",
+      "symbol": "╮",
+      "name": "制表线细弧下与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细弧下与左",
+        "Box Drawings Light Arc Down and Left",
+        "形状",
+        "256E",
+        "U+256E"
+      ],
+      "notes": "╮ 是制表线细弧下与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-256f-4257",
+      "symbol": "╯",
+      "name": "制表线细弧上与左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细弧上与左",
+        "Box Drawings Light Arc Up and Left",
+        "形状",
+        "256F",
+        "U+256F"
+      ],
+      "notes": "╯ 是制表线细弧上与左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2570-4258",
+      "symbol": "╰",
+      "name": "制表线细弧上与右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细弧上与右",
+        "Box Drawings Light Arc Up and Right",
+        "形状",
+        "2570",
+        "U+2570"
+      ],
+      "notes": "╰ 是制表线细弧上与右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2571-4259",
+      "symbol": "╱",
+      "name": "制表线细对角上部右到下部左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细对角上部右到下部左",
+        "Box Drawings Light Diagonal Upper Right To Lower Left",
+        "形状",
+        "2571",
+        "U+2571"
+      ],
+      "notes": "╱ 是制表线细对角上部右到下部左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2572-4260",
+      "symbol": "╲",
+      "name": "制表线细对角上部左到下部右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细对角上部左到下部右",
+        "Box Drawings Light Diagonal Upper Left To Lower Right",
+        "形状",
+        "2572",
+        "U+2572"
+      ],
+      "notes": "╲ 是制表线细对角上部左到下部右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2573-4261",
+      "symbol": "╳",
+      "name": "细对角交叉线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细对角交叉线",
+        "Box Drawings Light Diagonal Cross",
+        "形状",
+        "2573",
+        "U+2573"
+      ],
+      "notes": "╳ 是细对角交叉线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2574-4262",
+      "symbol": "╴",
+      "name": "制表线细左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细左",
+        "Box Drawings Light Left",
+        "形状",
+        "2574",
+        "U+2574"
+      ],
+      "notes": "╴ 是制表线细左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2575-4263",
+      "symbol": "╵",
+      "name": "制表线细上",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细上",
+        "Box Drawings Light Up",
+        "形状",
+        "2575",
+        "U+2575"
+      ],
+      "notes": "╵ 是制表线细上的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2576-4264",
+      "symbol": "╶",
+      "name": "制表线细右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细右",
+        "Box Drawings Light Right",
+        "形状",
+        "2576",
+        "U+2576"
+      ],
+      "notes": "╶ 是制表线细右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2577-4265",
+      "symbol": "╷",
+      "name": "制表线细下",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细下",
+        "Box Drawings Light Down",
+        "形状",
+        "2577",
+        "U+2577"
+      ],
+      "notes": "╷ 是制表线细下的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2578-4266",
+      "symbol": "╸",
+      "name": "制表线粗左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗左",
+        "Box Drawings Heavy Left",
+        "形状",
+        "2578",
+        "U+2578"
+      ],
+      "notes": "╸ 是制表线粗左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2579-4267",
+      "symbol": "╹",
+      "name": "制表线粗上",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗上",
+        "Box Drawings Heavy Up",
+        "形状",
+        "2579",
+        "U+2579"
+      ],
+      "notes": "╹ 是制表线粗上的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-257a-4268",
+      "symbol": "╺",
+      "name": "制表线粗右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗右",
+        "Box Drawings Heavy Right",
+        "形状",
+        "257A",
+        "U+257A"
+      ],
+      "notes": "╺ 是制表线粗右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-257b-4269",
+      "symbol": "╻",
+      "name": "制表线粗下",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗下",
+        "Box Drawings Heavy Down",
+        "形状",
+        "257B",
+        "U+257B"
+      ],
+      "notes": "╻ 是制表线粗下的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-257c-4270",
+      "symbol": "╼",
+      "name": "制表线细左与粗右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细左与粗右",
+        "Box Drawings Light Left and Heavy Right",
+        "形状",
+        "257C",
+        "U+257C"
+      ],
+      "notes": "╼ 是制表线细左与粗右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-257d-4271",
+      "symbol": "╽",
+      "name": "制表线细上与粗下",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线细上与粗下",
+        "Box Drawings Light Up and Heavy Down",
+        "形状",
+        "257D",
+        "U+257D"
+      ],
+      "notes": "╽ 是制表线细上与粗下的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-257e-4272",
+      "symbol": "╾",
+      "name": "制表线粗左与细右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗左与细右",
+        "Box Drawings Heavy Left and Light Right",
+        "形状",
+        "257E",
+        "U+257E"
+      ],
+      "notes": "╾ 是制表线粗左与细右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-257f-4273",
+      "symbol": "╿",
+      "name": "制表线粗上与细下",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "制表线粗上与细下",
+        "Box Drawings Heavy Up and Light Down",
+        "形状",
+        "257F",
+        "U+257F"
+      ],
+      "notes": "╿ 是制表线粗上与细下的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2580-4274",
+      "symbol": "▀",
+      "name": "上部半方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部半方块",
+        "Upper Half Block",
+        "形状",
+        "2580",
+        "U+2580"
+      ],
+      "notes": "▀ 是上部半方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2581-4275",
+      "symbol": "▁",
+      "name": "下八分之一方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下八分之一方块",
+        "Lower One Eighth Block",
+        "形状",
+        "2581",
+        "U+2581"
+      ],
+      "notes": "▁ 是下八分之一方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2582-4276",
+      "symbol": "▂",
+      "name": "下四分之一方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下四分之一方块",
+        "Lower One Quarter Block",
+        "形状",
+        "2582",
+        "U+2582"
+      ],
+      "notes": "▂ 是下四分之一方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2583-4277",
+      "symbol": "▃",
+      "name": "下八分之三方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下八分之三方块",
+        "Lower Three Eighths Block",
+        "形状",
+        "2583",
+        "U+2583"
+      ],
+      "notes": "▃ 是下八分之三方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2584-4278",
+      "symbol": "▄",
+      "name": "下部半方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部半方块",
+        "Lower Half Block",
+        "形状",
+        "2584",
+        "U+2584"
+      ],
+      "notes": "▄ 是下部半方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2585-4279",
+      "symbol": "▅",
+      "name": "下八分之五方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下八分之五方块",
+        "Lower Five Eighths Block",
+        "形状",
+        "2585",
+        "U+2585"
+      ],
+      "notes": "▅ 是下八分之五方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2586-4280",
+      "symbol": "▆",
+      "name": "下四分之三方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下四分之三方块",
+        "Lower Three Quarters Block",
+        "形状",
+        "2586",
+        "U+2586"
+      ],
+      "notes": "▆ 是下四分之三方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2587-4281",
+      "symbol": "▇",
+      "name": "下八分之七方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下八分之七方块",
+        "Lower Seven Eighths Block",
+        "形状",
+        "2587",
+        "U+2587"
+      ],
+      "notes": "▇ 是下八分之七方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2588-4282",
+      "symbol": "█",
+      "name": "全方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "全方块",
+        "Full Block",
+        "形状",
+        "2588",
+        "U+2588"
+      ],
+      "notes": "█ 是全方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2589-4283",
+      "symbol": "▉",
+      "name": "左八分之七方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左八分之七方块",
+        "Left Seven Eighths Block",
+        "形状",
+        "2589",
+        "U+2589"
+      ],
+      "notes": "▉ 是左八分之七方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-258a-4284",
+      "symbol": "▊",
+      "name": "左四分之三方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左四分之三方块",
+        "Left Three Quarters Block",
+        "形状",
+        "258A",
+        "U+258A"
+      ],
+      "notes": "▊ 是左四分之三方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-258b-4285",
+      "symbol": "▋",
+      "name": "左八分之五方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左八分之五方块",
+        "Left Five Eighths Block",
+        "形状",
+        "258B",
+        "U+258B"
+      ],
+      "notes": "▋ 是左八分之五方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-258c-4286",
+      "symbol": "▌",
+      "name": "左半方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左半方块",
+        "Left Half Block",
+        "形状",
+        "258C",
+        "U+258C"
+      ],
+      "notes": "▌ 是左半方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-258d-4287",
+      "symbol": "▍",
+      "name": "左八分之三方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左八分之三方块",
+        "Left Three Eighths Block",
+        "形状",
+        "258D",
+        "U+258D"
+      ],
+      "notes": "▍ 是左八分之三方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-258e-4288",
+      "symbol": "▎",
+      "name": "左四分之一方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左四分之一方块",
+        "Left One Quarter Block",
+        "形状",
+        "258E",
+        "U+258E"
+      ],
+      "notes": "▎ 是左四分之一方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-258f-4289",
+      "symbol": "▏",
+      "name": "左八分之一方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "左八分之一方块",
+        "Left One Eighth Block",
+        "形状",
+        "258F",
+        "U+258F"
+      ],
+      "notes": "▏ 是左八分之一方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2590-4290",
+      "symbol": "▐",
+      "name": "右半方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "右半方块",
+        "Right Half Block",
+        "形状",
+        "2590",
+        "U+2590"
+      ],
+      "notes": "▐ 是右半方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2591-4291",
+      "symbol": "░",
+      "name": "浅色阴影",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "浅色阴影",
+        "Light Shade",
+        "形状",
+        "2591",
+        "U+2591"
+      ],
+      "notes": "░ 是浅色阴影的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2592-4292",
+      "symbol": "▒",
+      "name": "中等阴影",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等阴影",
+        "Medium Shade",
+        "形状",
+        "2592",
+        "U+2592"
+      ],
+      "notes": "▒ 是中等阴影的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2593-4293",
+      "symbol": "▓",
+      "name": "深色阴影",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "深色阴影",
+        "Dark Shade",
+        "形状",
+        "2593",
+        "U+2593"
+      ],
+      "notes": "▓ 是深色阴影的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2594-4294",
+      "symbol": "▔",
+      "name": "上部八分之一方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部八分之一方块",
+        "Upper One Eighth Block",
+        "形状",
+        "2594",
+        "U+2594"
+      ],
+      "notes": "▔ 是上部八分之一方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2595-4295",
+      "symbol": "▕",
+      "name": "右八分之一方块",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "右八分之一方块",
+        "Right One Eighth Block",
+        "形状",
+        "2595",
+        "U+2595"
+      ],
+      "notes": "▕ 是右八分之一方块的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2596-4296",
+      "symbol": "▖",
+      "name": "象限下部左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限下部左",
+        "Quadrant Lower Left",
+        "形状",
+        "2596",
+        "U+2596"
+      ],
+      "notes": "▖ 是象限下部左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2597-4297",
+      "symbol": "▗",
+      "name": "象限下部右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限下部右",
+        "Quadrant Lower Right",
+        "形状",
+        "2597",
+        "U+2597"
+      ],
+      "notes": "▗ 是象限下部右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2598-4298",
+      "symbol": "▘",
+      "name": "象限上部左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部左",
+        "Quadrant Upper Left",
+        "形状",
+        "2598",
+        "U+2598"
+      ],
+      "notes": "▘ 是象限上部左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2599-4299",
+      "symbol": "▙",
+      "name": "象限上部左与下部左与下部右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部左与下部左与下部右",
+        "Quadrant Upper Left and Lower Left and Lower Right",
+        "形状",
+        "2599",
+        "U+2599"
+      ],
+      "notes": "▙ 是象限上部左与下部左与下部右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-259a-4300",
+      "symbol": "▚",
+      "name": "象限上部左与下部右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部左与下部右",
+        "Quadrant Upper Left and Lower Right",
+        "形状",
+        "259A",
+        "U+259A"
+      ],
+      "notes": "▚ 是象限上部左与下部右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-259b-4301",
+      "symbol": "▛",
+      "name": "象限上部左与上部右与下部左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部左与上部右与下部左",
+        "Quadrant Upper Left and Upper Right and Lower Left",
+        "形状",
+        "259B",
+        "U+259B"
+      ],
+      "notes": "▛ 是象限上部左与上部右与下部左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-259c-4302",
+      "symbol": "▜",
+      "name": "象限上部左与上部右与下部右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部左与上部右与下部右",
+        "Quadrant Upper Left and Upper Right and Lower Right",
+        "形状",
+        "259C",
+        "U+259C"
+      ],
+      "notes": "▜ 是象限上部左与上部右与下部右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-259d-4303",
+      "symbol": "▝",
+      "name": "象限上部右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部右",
+        "Quadrant Upper Right",
+        "形状",
+        "259D",
+        "U+259D"
+      ],
+      "notes": "▝ 是象限上部右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-259e-4304",
+      "symbol": "▞",
+      "name": "象限上部右与下部左",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部右与下部左",
+        "Quadrant Upper Right and Lower Left",
+        "形状",
+        "259E",
+        "U+259E"
+      ],
+      "notes": "▞ 是象限上部右与下部左的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-259f-4305",
+      "symbol": "▟",
+      "name": "象限上部右与下部左与下部右",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "象限上部右与下部左与下部右",
+        "Quadrant Upper Right and Lower Left and Lower Right",
+        "形状",
+        "259F",
+        "U+259F"
+      ],
+      "notes": "▟ 是象限上部右与下部左与下部右的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2700-4306",
+      "symbol": "✀",
+      "name": "黑色安全剪刀",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色安全剪刀",
+        "Black Safety Scissors",
+        "形状",
+        "2700",
+        "U+2700"
+      ],
+      "notes": "✀ 是黑色安全剪刀的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2701-4307",
+      "symbol": "✁",
+      "name": "上部刀刃剪刀",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部刀刃剪刀",
+        "Upper Blade Scissors",
+        "形状",
+        "2701",
+        "U+2701"
+      ],
+      "notes": "✁ 是上部刀刃剪刀的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2702-4308",
+      "symbol": "✂",
+      "name": "剪刀",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "剪刀",
+        "Scissors",
+        "形状",
+        "2702",
+        "U+2702"
+      ],
+      "notes": "✂ 是剪刀的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2703-4309",
+      "symbol": "✃",
+      "name": "下刃剪刀",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下刃剪刀",
+        "Lower Blade Scissors",
+        "形状",
+        "2703",
+        "U+2703"
+      ],
+      "notes": "✃ 是下刃剪刀的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2704-4310",
+      "symbol": "✄",
+      "name": "白色剪刀",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色剪刀",
+        "White Scissors",
+        "形状",
+        "2704",
+        "U+2704"
+      ],
+      "notes": "✄ 是白色剪刀的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2705-4311",
+      "symbol": "✅",
+      "name": "方框对勾",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "方框对勾",
+        "Check Mark Button",
+        "形状",
+        "2705",
+        "U+2705"
+      ],
+      "notes": "✅ 是方框对勾的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2706-4312",
+      "symbol": "✆",
+      "name": "电话位置标志",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "电话位置标志",
+        "Telephone Location Sign",
+        "形状",
+        "2706",
+        "U+2706"
+      ],
+      "notes": "✆ 是电话位置标志的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2707-4313",
+      "symbol": "✇",
+      "name": "磁带驱动器",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "磁带驱动器",
+        "Tape Drive",
+        "形状",
+        "2707",
+        "U+2707"
+      ],
+      "notes": "✇ 是磁带驱动器的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2708-4314",
+      "symbol": "✈",
+      "name": "飞机",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "飞机",
+        "Airplane",
+        "形状",
+        "2708",
+        "U+2708"
+      ],
+      "notes": "✈ 是飞机的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2709-4315",
+      "symbol": "✉",
+      "name": "信封",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "信封",
+        "Envelope",
+        "形状",
+        "2709",
+        "U+2709"
+      ],
+      "notes": "✉ 是信封的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-270a-4316",
+      "symbol": "✊",
+      "name": "举起的拳头",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "举起的拳头",
+        "Raised Fist",
+        "形状",
+        "270A",
+        "U+270A"
+      ],
+      "notes": "✊ 是举起的拳头的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-270b-4317",
+      "symbol": "✋",
+      "name": "举起的手",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "举起的手",
+        "Raised Hand",
+        "形状",
+        "270B",
+        "U+270B"
+      ],
+      "notes": "✋ 是举起的手的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-270c-4318",
+      "symbol": "✌",
+      "name": "胜利手势",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "胜利手势",
+        "Victory Hand",
+        "形状",
+        "270C",
+        "U+270C"
+      ],
+      "notes": "✌ 是胜利手势的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-270d-4319",
+      "symbol": "✍",
+      "name": "书写的手",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "书写的手",
+        "Writing Hand",
+        "形状",
+        "270D",
+        "U+270D"
+      ],
+      "notes": "✍ 是书写的手的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-270e-4320",
+      "symbol": "✎",
+      "name": "下部右铅笔",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部右铅笔",
+        "Lower Right Pencil",
+        "形状",
+        "270E",
+        "U+270E"
+      ],
+      "notes": "✎ 是下部右铅笔的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-270f-4321",
+      "symbol": "✏",
+      "name": "铅笔",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "铅笔",
+        "Pencil",
+        "形状",
+        "270F",
+        "U+270F"
+      ],
+      "notes": "✏ 是铅笔的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2710-4322",
+      "symbol": "✐",
+      "name": "上部右铅笔",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部右铅笔",
+        "Upper Right Pencil",
+        "形状",
+        "2710",
+        "U+2710"
+      ],
+      "notes": "✐ 是上部右铅笔的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2711-4323",
+      "symbol": "✑",
+      "name": "白色笔尖",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色笔尖",
+        "White Nib",
+        "形状",
+        "2711",
+        "U+2711"
+      ],
+      "notes": "✑ 是白色笔尖的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2712-4324",
+      "symbol": "✒",
+      "name": "黑色笔尖",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色笔尖",
+        "Black Nib",
+        "形状",
+        "2712",
+        "U+2712"
+      ],
+      "notes": "✒ 是黑色笔尖的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2713-4325",
+      "symbol": "✓",
+      "name": "对勾",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "对勾",
+        "Check Mark",
+        "形状",
+        "2713",
+        "U+2713"
+      ],
+      "notes": "✓ 是对勾的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2714-4326",
+      "symbol": "✔",
+      "name": "对勾",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "对勾",
+        "Check Mark",
+        "形状",
+        "2714",
+        "U+2714"
+      ],
+      "notes": "✔ 是对勾的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2715-4327",
+      "symbol": "✕",
+      "name": "乘号叉",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "乘号叉",
+        "Multiplication X",
+        "形状",
+        "2715",
+        "U+2715"
+      ],
+      "notes": "✕ 是乘号叉的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2716-4328",
+      "symbol": "✖",
+      "name": "粗乘号叉",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗乘号叉",
+        "Multiply",
+        "形状",
+        "2716",
+        "U+2716"
+      ],
+      "notes": "✖ 是粗乘号叉的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2717-4329",
+      "symbol": "✗",
+      "name": "选票叉号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "选票叉号",
+        "Ballot X",
+        "形状",
+        "2717",
+        "U+2717"
+      ],
+      "notes": "✗ 是选票叉号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2718-4330",
+      "symbol": "✘",
+      "name": "粗选票叉号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗选票叉号",
+        "Heavy Ballot X",
+        "形状",
+        "2718",
+        "U+2718"
+      ],
+      "notes": "✘ 是粗选票叉号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2719-4331",
+      "symbol": "✙",
+      "name": "空心希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心希腊十字",
+        "Outlined Greek Cross",
+        "形状",
+        "2719",
+        "U+2719"
+      ],
+      "notes": "✙ 是空心希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-271a-4332",
+      "symbol": "✚",
+      "name": "粗希腊十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗希腊十字",
+        "Heavy Greek Cross",
+        "形状",
+        "271A",
+        "U+271A"
+      ],
+      "notes": "✚ 是粗希腊十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-271b-4333",
+      "symbol": "✛",
+      "name": "中心镂空十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中心镂空十字",
+        "Open Centre Cross",
+        "形状",
+        "271B",
+        "U+271B"
+      ],
+      "notes": "✛ 是中心镂空十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-271c-4334",
+      "symbol": "✜",
+      "name": "粗中心镂空十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗中心镂空十字",
+        "Heavy Open Centre Cross",
+        "形状",
+        "271C",
+        "U+271C"
+      ],
+      "notes": "✜ 是粗中心镂空十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-271e-4335",
+      "symbol": "✞",
+      "name": "带阴影白色拉丁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带阴影白色拉丁十字",
+        "Shadowed White Latin Cross",
+        "形状",
+        "271E",
+        "U+271E"
+      ],
+      "notes": "✞ 是带阴影白色拉丁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-271f-4336",
+      "symbol": "✟",
+      "name": "空心拉丁十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心拉丁十字",
+        "Outlined Latin Cross",
+        "形状",
+        "271F",
+        "U+271F"
+      ],
+      "notes": "✟ 是空心拉丁十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2720-4337",
+      "symbol": "✠",
+      "name": "马耳他十字",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "马耳他十字",
+        "Maltese Cross",
+        "形状",
+        "2720",
+        "U+2720"
+      ],
+      "notes": "✠ 是马耳他十字的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2722-4338",
+      "symbol": "✢",
+      "name": "四泪滴辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "四泪滴辐星号",
+        "Four Teardrop-Spoked Asterisk",
+        "形状",
+        "2722",
+        "U+2722"
+      ],
+      "notes": "✢ 是四泪滴辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2723-4339",
+      "symbol": "✣",
+      "name": "四气球辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "四气球辐星号",
+        "Four Balloon-Spoked Asterisk",
+        "形状",
+        "2723",
+        "U+2723"
+      ],
+      "notes": "✣ 是四气球辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2724-4340",
+      "symbol": "✤",
+      "name": "粗四气球辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗四气球辐星号",
+        "Heavy Four Balloon-Spoked Asterisk",
+        "形状",
+        "2724",
+        "U+2724"
+      ],
+      "notes": "✤ 是粗四气球辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2725-4341",
+      "symbol": "✥",
+      "name": "四梅花辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "四梅花辐星号",
+        "Four Club-Spoked Asterisk",
+        "形状",
+        "2725",
+        "U+2725"
+      ],
+      "notes": "✥ 是四梅花辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2726-4342",
+      "symbol": "✦",
+      "name": "黑色四尖角星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色四尖角星形",
+        "Black Four Pointed Star",
+        "形状",
+        "2726",
+        "U+2726"
+      ],
+      "notes": "✦ 是黑色四尖角星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2727-4343",
+      "symbol": "✧",
+      "name": "白色四尖角星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色四尖角星形",
+        "White Four Pointed Star",
+        "形状",
+        "2727",
+        "U+2727"
+      ],
+      "notes": "✧ 是白色四尖角星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2728-4344",
+      "symbol": "✨",
+      "name": "多重闪光",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "多重闪光",
+        "Sparkles",
+        "形状",
+        "2728",
+        "U+2728"
+      ],
+      "notes": "✨ 是多重闪光的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2729-4345",
+      "symbol": "✩",
+      "name": "强调轮廓白色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "强调轮廓白色星形",
+        "Stress Outlined White Star",
+        "形状",
+        "2729",
+        "U+2729"
+      ],
+      "notes": "✩ 是强调轮廓白色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-272a-4346",
+      "symbol": "✪",
+      "name": "带圈白色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带圈白色星形",
+        "Circled White Star",
+        "形状",
+        "272A",
+        "U+272A"
+      ],
+      "notes": "✪ 是带圈白色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-272b-4347",
+      "symbol": "✫",
+      "name": "镂空中心黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "镂空中心黑色星形",
+        "Open Centre Black Star",
+        "形状",
+        "272B",
+        "U+272B"
+      ],
+      "notes": "✫ 是镂空中心黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-272c-4348",
+      "symbol": "✬",
+      "name": "黑色中心白色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色中心白色星形",
+        "Black Centre White Star",
+        "形状",
+        "272C",
+        "U+272C"
+      ],
+      "notes": "✬ 是黑色中心白色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-272d-4349",
+      "symbol": "✭",
+      "name": "轮廓黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "轮廓黑色星形",
+        "Outlined Black Star",
+        "形状",
+        "272D",
+        "U+272D"
+      ],
+      "notes": "✭ 是轮廓黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-272e-4350",
+      "symbol": "✮",
+      "name": "粗轮廓黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗轮廓黑色星形",
+        "Heavy Outlined Black Star",
+        "形状",
+        "272E",
+        "U+272E"
+      ],
+      "notes": "✮ 是粗轮廓黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-272f-4351",
+      "symbol": "✯",
+      "name": "风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "风车星形",
+        "Pinwheel Star",
+        "形状",
+        "272F",
+        "U+272F"
+      ],
+      "notes": "✯ 是风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2730-4352",
+      "symbol": "✰",
+      "name": "带阴影白色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带阴影白色星形",
+        "Shadowed White Star",
+        "形状",
+        "2730",
+        "U+2730"
+      ],
+      "notes": "✰ 是带阴影白色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2731-4353",
+      "symbol": "✱",
+      "name": "粗星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗星号",
+        "Heavy Asterisk",
+        "形状",
+        "2731",
+        "U+2731"
+      ],
+      "notes": "✱ 是粗星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2732-4354",
+      "symbol": "✲",
+      "name": "空心星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心星号",
+        "Open Centre Asterisk",
+        "形状",
+        "2732",
+        "U+2732"
+      ],
+      "notes": "✲ 是空心星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2733-4355",
+      "symbol": "✳",
+      "name": "八辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "八辐星号",
+        "Eight-Spoked Asterisk",
+        "形状",
+        "2733",
+        "U+2733"
+      ],
+      "notes": "✳ 是八辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2734-4356",
+      "symbol": "✴",
+      "name": "八-尖角星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "八-尖角星形",
+        "Eight-Pointed Star",
+        "形状",
+        "2734",
+        "U+2734"
+      ],
+      "notes": "✴ 是八-尖角星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2735-4357",
+      "symbol": "✵",
+      "name": "八尖角风车星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "八尖角风车星形",
+        "Eight Pointed Pinwheel Star",
+        "形状",
+        "2735",
+        "U+2735"
+      ],
+      "notes": "✵ 是八尖角风车星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2736-4358",
+      "symbol": "✶",
+      "name": "六尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "六尖角黑色星形",
+        "Six Pointed Black Star",
+        "形状",
+        "2736",
+        "U+2736"
+      ],
+      "notes": "✶ 是六尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2737-4359",
+      "symbol": "✷",
+      "name": "八尖角直线型黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "八尖角直线型黑色星形",
+        "Eight Pointed Rectilinear Black Star",
+        "形状",
+        "2737",
+        "U+2737"
+      ],
+      "notes": "✷ 是八尖角直线型黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2738-4360",
+      "symbol": "✸",
+      "name": "粗八尖角直线型黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗八尖角直线型黑色星形",
+        "Heavy Eight Pointed Rectilinear Black Star",
+        "形状",
+        "2738",
+        "U+2738"
+      ],
+      "notes": "✸ 是粗八尖角直线型黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2739-4361",
+      "symbol": "✹",
+      "name": "十二尖角黑色星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "十二尖角黑色星形",
+        "Twelve Pointed Black Star",
+        "形状",
+        "2739",
+        "U+2739"
+      ],
+      "notes": "✹ 是十二尖角黑色星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-273a-4362",
+      "symbol": "✺",
+      "name": "十六角星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "十六角星号",
+        "Sixteen Pointed Asterisk",
+        "形状",
+        "273A",
+        "U+273A"
+      ],
+      "notes": "✺ 是十六角星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-273b-4363",
+      "symbol": "✻",
+      "name": "泪滴辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "泪滴辐星号",
+        "Teardrop-Spoked Asterisk",
+        "形状",
+        "273B",
+        "U+273B"
+      ],
+      "notes": "✻ 是泪滴辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-273c-4364",
+      "symbol": "✼",
+      "name": "空心泪滴辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "空心泪滴辐星号",
+        "Open Centre Teardrop-Spoked Asterisk",
+        "形状",
+        "273C",
+        "U+273C"
+      ],
+      "notes": "✼ 是空心泪滴辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-273d-4365",
+      "symbol": "✽",
+      "name": "粗泪滴辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗泪滴辐星号",
+        "Heavy Teardrop-Spoked Asterisk",
+        "形状",
+        "273D",
+        "U+273D"
+      ],
+      "notes": "✽ 是粗泪滴辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-273e-4366",
+      "symbol": "✾",
+      "name": "六花瓣黑色与白色小花饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "六花瓣黑色与白色小花饰",
+        "Six Petalled Black and White Florette",
+        "形状",
+        "273E",
+        "U+273E"
+      ],
+      "notes": "✾ 是六花瓣黑色与白色小花饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-273f-4367",
+      "symbol": "✿",
+      "name": "黑色小花饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色小花饰",
+        "Black Florette",
+        "形状",
+        "273F",
+        "U+273F"
+      ],
+      "notes": "✿ 是黑色小花饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2740-4368",
+      "symbol": "❀",
+      "name": "白色小花饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色小花饰",
+        "White Florette",
+        "形状",
+        "2740",
+        "U+2740"
+      ],
+      "notes": "❀ 是白色小花饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2741-4369",
+      "symbol": "❁",
+      "name": "八花瓣轮廓黑色小花饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "八花瓣轮廓黑色小花饰",
+        "Eight Petalled Outlined Black Florette",
+        "形状",
+        "2741",
+        "U+2741"
+      ],
+      "notes": "❁ 是八花瓣轮廓黑色小花饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2742-4370",
+      "symbol": "❂",
+      "name": "带圈镂空中心八尖角星形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带圈镂空中心八尖角星形",
+        "Circled Open Centre Eight Pointed Star",
+        "形状",
+        "2742",
+        "U+2742"
+      ],
+      "notes": "❂ 是带圈镂空中心八尖角星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2743-4371",
+      "symbol": "❃",
+      "name": "粗泪滴辐风车星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗泪滴辐风车星号",
+        "Heavy Teardrop-Spoked Pinwheel Asterisk",
+        "形状",
+        "2743",
+        "U+2743"
+      ],
+      "notes": "❃ 是粗泪滴辐风车星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2744-4372",
+      "symbol": "❄",
+      "name": "雪花",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "雪花",
+        "Snowflake",
+        "形状",
+        "2744",
+        "U+2744"
+      ],
+      "notes": "❄ 是雪花的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2745-4373",
+      "symbol": "❅",
+      "name": "紧密三叶雪花",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "紧密三叶雪花",
+        "Tight Trifoliate Snowflake",
+        "形状",
+        "2745",
+        "U+2745"
+      ],
+      "notes": "❅ 是紧密三叶雪花的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2746-4374",
+      "symbol": "❆",
+      "name": "粗人字形雪花",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗人字形雪花",
+        "Heavy Chevron Snowflake",
+        "形状",
+        "2746",
+        "U+2746"
+      ],
+      "notes": "❆ 是粗人字形雪花的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2747-4375",
+      "symbol": "❇",
+      "name": "闪光符号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "闪光符号",
+        "Sparkle",
+        "形状",
+        "2747",
+        "U+2747"
+      ],
+      "notes": "❇ 是闪光符号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2748-4376",
+      "symbol": "❈",
+      "name": "粗闪光符号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗闪光符号",
+        "Heavy Sparkle",
+        "形状",
+        "2748",
+        "U+2748"
+      ],
+      "notes": "❈ 是粗闪光符号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2749-4377",
+      "symbol": "❉",
+      "name": "气球辐星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "气球辐星号",
+        "Balloon-Spoked Asterisk",
+        "形状",
+        "2749",
+        "U+2749"
+      ],
+      "notes": "❉ 是气球辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-274a-4378",
+      "symbol": "❊",
+      "name": "八泪滴辐螺旋桨星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "八泪滴辐螺旋桨星号",
+        "Eight Teardrop-Spoked Propeller Asterisk",
+        "形状",
+        "274A",
+        "U+274A"
+      ],
+      "notes": "❊ 是八泪滴辐螺旋桨星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-274b-4379",
+      "symbol": "❋",
+      "name": "粗八泪滴辐螺旋桨星号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗八泪滴辐螺旋桨星号",
+        "Heavy Eight Teardrop-Spoked Propeller Asterisk",
+        "形状",
+        "274B",
+        "U+274B"
+      ],
+      "notes": "❋ 是粗八泪滴辐螺旋桨星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-274c-4380",
+      "symbol": "❌",
+      "name": "叉号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "叉号",
+        "Cross Mark",
+        "形状",
+        "274C",
+        "U+274C"
+      ],
+      "notes": "❌ 是叉号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-274d-4381",
+      "symbol": "❍",
+      "name": "带阴影白色圆",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "带阴影白色圆",
+        "Shadowed White Circle",
+        "形状",
+        "274D",
+        "U+274D"
+      ],
+      "notes": "❍ 是带阴影白色圆的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-274e-4382",
+      "symbol": "❎",
+      "name": "反白方框叉号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白方框叉号",
+        "Cross Mark Button",
+        "形状",
+        "274E",
+        "U+274E"
+      ],
+      "notes": "❎ 是反白方框叉号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-274f-4383",
+      "symbol": "❏",
+      "name": "下部右下投影-带阴影白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部右下投影-带阴影白色方形",
+        "Lower Right Drop-Shadowed White Square",
+        "形状",
+        "274F",
+        "U+274F"
+      ],
+      "notes": "❏ 是下部右下投影-带阴影白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2750-4384",
+      "symbol": "❐",
+      "name": "上部右下投影-带阴影白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部右下投影-带阴影白色方形",
+        "Upper Right Drop-Shadowed White Square",
+        "形状",
+        "2750",
+        "U+2750"
+      ],
+      "notes": "❐ 是上部右下投影-带阴影白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2751-4385",
+      "symbol": "❑",
+      "name": "下部右带阴影白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "下部右带阴影白色方形",
+        "Lower Right Shadowed White Square",
+        "形状",
+        "2751",
+        "U+2751"
+      ],
+      "notes": "❑ 是下部右带阴影白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2752-4386",
+      "symbol": "❒",
+      "name": "上部右带阴影白色方形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "上部右带阴影白色方形",
+        "Upper Right Shadowed White Square",
+        "形状",
+        "2752",
+        "U+2752"
+      ],
+      "notes": "❒ 是上部右带阴影白色方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2753-4387",
+      "symbol": "❓",
+      "name": "黑色问号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色问号装饰",
+        "Red Question Mark",
+        "形状",
+        "2753",
+        "U+2753"
+      ],
+      "notes": "❓ 是黑色问号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2754-4388",
+      "symbol": "❔",
+      "name": "白色问号标记",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色问号标记",
+        "White Question Mark",
+        "形状",
+        "2754",
+        "U+2754"
+      ],
+      "notes": "❔ 是白色问号标记的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2755-4389",
+      "symbol": "❕",
+      "name": "白色感叹号标记",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "白色感叹号标记",
+        "White Exclamation Mark",
+        "形状",
+        "2755",
+        "U+2755"
+      ],
+      "notes": "❕ 是白色感叹号标记的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2756-4390",
+      "symbol": "❖",
+      "name": "黑色菱形减号白色X",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "黑色菱形减号白色X",
+        "Black Diamond Minus White X",
+        "形状",
+        "2756",
+        "U+2756"
+      ],
+      "notes": "❖ 是黑色菱形减号白色X的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2757-4391",
+      "symbol": "❗",
+      "name": "粗感叹号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗感叹号",
+        "Red Exclamation Mark",
+        "形状",
+        "2757",
+        "U+2757"
+      ],
+      "notes": "❗ 是粗感叹号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2758-4392",
+      "symbol": "❘",
+      "name": "细垂直横线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细垂直横线",
+        "Light Vertical Bar",
+        "形状",
+        "2758",
+        "U+2758"
+      ],
+      "notes": "❘ 是细垂直横线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2759-4393",
+      "symbol": "❙",
+      "name": "中等垂直横线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等垂直横线",
+        "Medium Vertical Bar",
+        "形状",
+        "2759",
+        "U+2759"
+      ],
+      "notes": "❙ 是中等垂直横线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-275a-4394",
+      "symbol": "❚",
+      "name": "粗垂直横线",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗垂直横线",
+        "Heavy Vertical Bar",
+        "形状",
+        "275A",
+        "U+275A"
+      ],
+      "notes": "❚ 是粗垂直横线的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-275b-4395",
+      "symbol": "❛",
+      "name": "粗单左弯引号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗单左弯引号装饰",
+        "Heavy Single Turned Comma Quotation Mark Ornament",
+        "形状",
+        "275B",
+        "U+275B"
+      ],
+      "notes": "❛ 是粗单左弯引号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-275c-4396",
+      "symbol": "❜",
+      "name": "粗单右弯引号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗单右弯引号装饰",
+        "Heavy Single Comma Quotation Mark Ornament",
+        "形状",
+        "275C",
+        "U+275C"
+      ],
+      "notes": "❜ 是粗单右弯引号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-275d-4397",
+      "symbol": "❝",
+      "name": "粗双左弯引号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗双左弯引号装饰",
+        "Heavy Double Turned Comma Quotation Mark Ornament",
+        "形状",
+        "275D",
+        "U+275D"
+      ],
+      "notes": "❝ 是粗双左弯引号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-275e-4398",
+      "symbol": "❞",
+      "name": "粗双右弯引号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗双右弯引号装饰",
+        "Heavy Double Comma Quotation Mark Ornament",
+        "形状",
+        "275E",
+        "U+275E"
+      ],
+      "notes": "❞ 是粗双右弯引号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-275f-4399",
+      "symbol": "❟",
+      "name": "粗低位单弯引号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗低位单弯引号装饰",
+        "Heavy Low Single Comma Quotation Mark Ornament",
+        "形状",
+        "275F",
+        "U+275F"
+      ],
+      "notes": "❟ 是粗低位单弯引号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2760-4400",
+      "symbol": "❠",
+      "name": "粗低位双弯引号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗低位双弯引号装饰",
+        "Heavy Low Double Comma Quotation Mark Ornament",
+        "形状",
+        "2760",
+        "U+2760"
+      ],
+      "notes": "❠ 是粗低位双弯引号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2761-4401",
+      "symbol": "❡",
+      "name": "弯柄段落标志装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "弯柄段落标志装饰",
+        "Curved Stem Paragraph Sign Ornament",
+        "形状",
+        "2761",
+        "U+2761"
+      ],
+      "notes": "❡ 是弯柄段落标志装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2762-4402",
+      "symbol": "❢",
+      "name": "粗感叹号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗感叹号装饰",
+        "Heavy Exclamation Mark Ornament",
+        "形状",
+        "2762",
+        "U+2762"
+      ],
+      "notes": "❢ 是粗感叹号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2763-4403",
+      "symbol": "❣",
+      "name": "心形感叹号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "心形感叹号",
+        "Heart Exclamation",
+        "形状",
+        "2763",
+        "U+2763"
+      ],
+      "notes": "❣ 是心形感叹号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2764-4404",
+      "symbol": "❤",
+      "name": "红心",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "红心",
+        "Red Heart",
+        "形状",
+        "2764",
+        "U+2764"
+      ],
+      "notes": "❤ 是红心的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2765-4405",
+      "symbol": "❥",
+      "name": "旋转粗黑色心形项目符号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "旋转粗黑色心形项目符号",
+        "Rotated Heavy Black Heart Bullet",
+        "形状",
+        "2765",
+        "U+2765"
+      ],
+      "notes": "❥ 是旋转粗黑色心形项目符号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2766-4406",
+      "symbol": "❦",
+      "name": "花饰心形",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "花饰心形",
+        "Floral Heart",
+        "形状",
+        "2766",
+        "U+2766"
+      ],
+      "notes": "❦ 是花饰心形的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2767-4407",
+      "symbol": "❧",
+      "name": "旋转花饰心形项目符号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "旋转花饰心形项目符号",
+        "Rotated Floral Heart Bullet",
+        "形状",
+        "2767",
+        "U+2767"
+      ],
+      "notes": "❧ 是旋转花饰心形项目符号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2768-4408",
+      "symbol": "❨",
+      "name": "中等左圆括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等左圆括号装饰",
+        "Medium Left Parenthesis Ornament",
+        "形状",
+        "2768",
+        "U+2768"
+      ],
+      "notes": "❨ 是中等左圆括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2769-4409",
+      "symbol": "❩",
+      "name": "中等右圆括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等右圆括号装饰",
+        "Medium Right Parenthesis Ornament",
+        "形状",
+        "2769",
+        "U+2769"
+      ],
+      "notes": "❩ 是中等右圆括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-276a-4410",
+      "symbol": "❪",
+      "name": "中等扁平左圆括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等扁平左圆括号装饰",
+        "Medium Flattened Left Parenthesis Ornament",
+        "形状",
+        "276A",
+        "U+276A"
+      ],
+      "notes": "❪ 是中等扁平左圆括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-276b-4411",
+      "symbol": "❫",
+      "name": "中等扁平右圆括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等扁平右圆括号装饰",
+        "Medium Flattened Right Parenthesis Ornament",
+        "形状",
+        "276B",
+        "U+276B"
+      ],
+      "notes": "❫ 是中等扁平右圆括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-276c-4412",
+      "symbol": "❬",
+      "name": "中等左-指向尖角括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等左-指向尖角括号装饰",
+        "Medium Left-Pointing Angle Bracket Ornament",
+        "形状",
+        "276C",
+        "U+276C"
+      ],
+      "notes": "❬ 是中等左-指向尖角括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-276d-4413",
+      "symbol": "❭",
+      "name": "中等右-指向尖角括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等右-指向尖角括号装饰",
+        "Medium Right-Pointing Angle Bracket Ornament",
+        "形状",
+        "276D",
+        "U+276D"
+      ],
+      "notes": "❭ 是中等右-指向尖角括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-276e-4414",
+      "symbol": "❮",
+      "name": "粗左-指向尖角引号标记装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗左-指向尖角引号标记装饰",
+        "Heavy Left-Pointing Angle Quotation Mark Ornament",
+        "形状",
+        "276E",
+        "U+276E"
+      ],
+      "notes": "❮ 是粗左-指向尖角引号标记装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-276f-4415",
+      "symbol": "❯",
+      "name": "粗右-指向尖角引号标记装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗右-指向尖角引号标记装饰",
+        "Heavy Right-Pointing Angle Quotation Mark Ornament",
+        "形状",
+        "276F",
+        "U+276F"
+      ],
+      "notes": "❯ 是粗右-指向尖角引号标记装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2770-4416",
+      "symbol": "❰",
+      "name": "粗左-指向尖角括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗左-指向尖角括号装饰",
+        "Heavy Left-Pointing Angle Bracket Ornament",
+        "形状",
+        "2770",
+        "U+2770"
+      ],
+      "notes": "❰ 是粗左-指向尖角括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2771-4417",
+      "symbol": "❱",
+      "name": "粗右-指向尖角括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "粗右-指向尖角括号装饰",
+        "Heavy Right-Pointing Angle Bracket Ornament",
+        "形状",
+        "2771",
+        "U+2771"
+      ],
+      "notes": "❱ 是粗右-指向尖角括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2772-4418",
+      "symbol": "❲",
+      "name": "细左龟甲括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细左龟甲括号装饰",
+        "Light Left Tortoise Shell Bracket Ornament",
+        "形状",
+        "2772",
+        "U+2772"
+      ],
+      "notes": "❲ 是细左龟甲括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2773-4419",
+      "symbol": "❳",
+      "name": "细右龟甲括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "细右龟甲括号装饰",
+        "Light Right Tortoise Shell Bracket Ornament",
+        "形状",
+        "2773",
+        "U+2773"
+      ],
+      "notes": "❳ 是细右龟甲括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2774-4420",
+      "symbol": "❴",
+      "name": "中等左花括号括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等左花括号括号装饰",
+        "Medium Left Curly Bracket Ornament",
+        "形状",
+        "2774",
+        "U+2774"
+      ],
+      "notes": "❴ 是中等左花括号括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2775-4421",
+      "symbol": "❵",
+      "name": "中等右花括号括号装饰",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "中等右花括号括号装饰",
+        "Medium Right Curly Bracket Ornament",
+        "形状",
+        "2775",
+        "U+2775"
+      ],
+      "notes": "❵ 是中等右花括号括号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2776-4422",
+      "symbol": "❶",
+      "name": "装饰反白带圈数字一",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字一",
+        "Dingbat Negative Circled Digit One",
+        "形状",
+        "2776",
+        "U+2776"
+      ],
+      "notes": "❶ 是装饰反白带圈数字一的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2777-4423",
+      "symbol": "❷",
+      "name": "装饰反白带圈数字二",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字二",
+        "Dingbat Negative Circled Digit Two",
+        "形状",
+        "2777",
+        "U+2777"
+      ],
+      "notes": "❷ 是装饰反白带圈数字二的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2778-4424",
+      "symbol": "❸",
+      "name": "装饰反白带圈数字三",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字三",
+        "Dingbat Negative Circled Digit Three",
+        "形状",
+        "2778",
+        "U+2778"
+      ],
+      "notes": "❸ 是装饰反白带圈数字三的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2779-4425",
+      "symbol": "❹",
+      "name": "装饰反白带圈数字四",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字四",
+        "Dingbat Negative Circled Digit Four",
+        "形状",
+        "2779",
+        "U+2779"
+      ],
+      "notes": "❹ 是装饰反白带圈数字四的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-277a-4426",
+      "symbol": "❺",
+      "name": "装饰反白带圈数字五",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字五",
+        "Dingbat Negative Circled Digit Five",
+        "形状",
+        "277A",
+        "U+277A"
+      ],
+      "notes": "❺ 是装饰反白带圈数字五的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-277b-4427",
+      "symbol": "❻",
+      "name": "装饰反白带圈数字六",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字六",
+        "Dingbat Negative Circled Digit Six",
+        "形状",
+        "277B",
+        "U+277B"
+      ],
+      "notes": "❻ 是装饰反白带圈数字六的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-277c-4428",
+      "symbol": "❼",
+      "name": "装饰反白带圈数字七",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字七",
+        "Dingbat Negative Circled Digit Seven",
+        "形状",
+        "277C",
+        "U+277C"
+      ],
+      "notes": "❼ 是装饰反白带圈数字七的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-277d-4429",
+      "symbol": "❽",
+      "name": "装饰反白带圈数字八",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字八",
+        "Dingbat Negative Circled Digit Eight",
+        "形状",
+        "277D",
+        "U+277D"
+      ],
+      "notes": "❽ 是装饰反白带圈数字八的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-277e-4430",
+      "symbol": "❾",
+      "name": "装饰反白带圈数字九",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字九",
+        "Dingbat Negative Circled Digit Nine",
+        "形状",
+        "277E",
+        "U+277E"
+      ],
+      "notes": "❾ 是装饰反白带圈数字九的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-277f-4431",
+      "symbol": "❿",
+      "name": "装饰反白带圈数字十",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "装饰反白带圈数字十",
+        "Dingbat Negative Circled Number Ten",
+        "形状",
+        "277F",
+        "U+277F"
+      ],
+      "notes": "❿ 是装饰反白带圈数字十的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2780-4432",
+      "symbol": "➀",
+      "name": "圆圈无衬线数字一",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字一",
+        "Dingbat 圆d Sans-Serif Digit One",
+        "Dingbat Circled Sans-Serif Digit One",
+        "形状",
+        "2780",
+        "U+2780"
+      ],
+      "notes": "➀ 是圆圈无衬线数字一的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2781-4433",
+      "symbol": "➁",
+      "name": "圆圈无衬线数字二",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字二",
+        "Dingbat 圆d Sans-Serif Digit Two",
+        "Dingbat Circled Sans-Serif Digit Two",
+        "形状",
+        "2781",
+        "U+2781"
+      ],
+      "notes": "➁ 是圆圈无衬线数字二的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2782-4434",
+      "symbol": "➂",
+      "name": "圆圈无衬线数字三",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字三",
+        "Dingbat 圆d Sans-Serif Digit Three",
+        "Dingbat Circled Sans-Serif Digit Three",
+        "形状",
+        "2782",
+        "U+2782"
+      ],
+      "notes": "➂ 是圆圈无衬线数字三的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2783-4435",
+      "symbol": "➃",
+      "name": "圆圈无衬线数字四",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字四",
+        "Dingbat 圆d 无衬线体 数字 Four",
+        "Dingbat Circled Sans-Serif Digit Four",
+        "Dingbats",
+        "2783",
+        "U+2783",
+        "形状"
+      ],
+      "notes": "➃ 是圆圈无衬线数字四的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2784-4436",
+      "symbol": "➄",
+      "name": "圆圈无衬线数字五",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字五",
+        "Dingbat 圆d 无衬线体 数字 Five",
+        "Dingbat Circled Sans-Serif Digit Five",
+        "Dingbats",
+        "2784",
+        "U+2784",
+        "形状"
+      ],
+      "notes": "➄ 是圆圈无衬线数字五的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2785-4437",
+      "symbol": "➅",
+      "name": "圆圈无衬线数字六",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字六",
+        "Dingbat 圆d 无衬线体 数字 Six",
+        "Dingbat Circled Sans-Serif Digit Six",
+        "Dingbats",
+        "2785",
+        "U+2785",
+        "形状"
+      ],
+      "notes": "➅ 是圆圈无衬线数字六的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2786-4438",
+      "symbol": "➆",
+      "name": "圆圈无衬线数字七",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字七",
+        "Dingbat 圆d 无衬线体 数字 Seven",
+        "Dingbat Circled Sans-Serif Digit Seven",
+        "Dingbats",
+        "2786",
+        "U+2786",
+        "形状"
+      ],
+      "notes": "➆ 是圆圈无衬线数字七的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2787-4439",
+      "symbol": "➇",
+      "name": "圆圈无衬线数字八",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字八",
+        "Dingbat 圆d 无衬线体 数字 Eight",
+        "Dingbat Circled Sans-Serif Digit Eight",
+        "Dingbats",
+        "2787",
+        "U+2787",
+        "形状"
+      ],
+      "notes": "➇ 是圆圈无衬线数字八的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2788-4440",
+      "symbol": "➈",
+      "name": "圆圈无衬线数字九",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字九",
+        "Dingbat 圆d 无衬线体 数字 Nine",
+        "Dingbat Circled Sans-Serif Digit Nine",
+        "Dingbats",
+        "2788",
+        "U+2788",
+        "形状"
+      ],
+      "notes": "➈ 是圆圈无衬线数字九的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2789-4441",
+      "symbol": "➉",
+      "name": "圆圈无衬线数字十",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "圆圈无衬线数字十",
+        "Dingbat 圆d 无衬线体 纽mber Ten",
+        "Dingbat Circled Sans-Serif Number Ten",
+        "Dingbats",
+        "2789",
+        "U+2789",
+        "形状"
+      ],
+      "notes": "➉ 是圆圈无衬线数字十的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-278a-4442",
+      "symbol": "➊",
+      "name": "反白圆圈无衬线数字一",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字一",
+        "Dingbat Negative 圆d 无衬线体 数字 One",
+        "Dingbat Negative Circled Sans-Serif Digit One",
+        "Dingbats",
+        "278A",
+        "U+278A",
+        "形状"
+      ],
+      "notes": "➊ 是反白圆圈无衬线数字一的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-278b-4443",
+      "symbol": "➋",
+      "name": "反白圆圈无衬线数字二",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字二",
+        "Dingbat Negative 圆d 无衬线体 数字 Two",
+        "Dingbat Negative Circled Sans-Serif Digit Two",
+        "Dingbats",
+        "278B",
+        "U+278B",
+        "形状"
+      ],
+      "notes": "➋ 是反白圆圈无衬线数字二的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-278c-4444",
+      "symbol": "➌",
+      "name": "反白圆圈无衬线数字三",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字三",
+        "Dingbat Negative 圆d 无衬线体 数字 Three",
+        "Dingbat Negative Circled Sans-Serif Digit Three",
+        "Dingbats",
+        "278C",
+        "U+278C",
+        "形状"
+      ],
+      "notes": "➌ 是反白圆圈无衬线数字三的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-278d-4445",
+      "symbol": "➍",
+      "name": "反白圆圈无衬线数字四",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字四",
+        "Dingbat Negative 圆d 无衬线体 数字 Four",
+        "Dingbat Negative Circled Sans-Serif Digit Four",
+        "Dingbats",
+        "278D",
+        "U+278D",
+        "形状"
+      ],
+      "notes": "➍ 是反白圆圈无衬线数字四的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-278e-4446",
+      "symbol": "➎",
+      "name": "反白圆圈无衬线数字五",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字五",
+        "Dingbat Negative 圆d 无衬线体 数字 Five",
+        "Dingbat Negative Circled Sans-Serif Digit Five",
+        "Dingbats",
+        "278E",
+        "U+278E",
+        "形状"
+      ],
+      "notes": "➎ 是反白圆圈无衬线数字五的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-278f-4447",
+      "symbol": "➏",
+      "name": "反白圆圈无衬线数字六",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字六",
+        "Dingbat Negative 圆d 无衬线体 数字 Six",
+        "Dingbat Negative Circled Sans-Serif Digit Six",
+        "Dingbats",
+        "278F",
+        "U+278F",
+        "形状"
+      ],
+      "notes": "➏ 是反白圆圈无衬线数字六的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2790-4448",
+      "symbol": "➐",
+      "name": "反白圆圈无衬线数字七",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字七",
+        "Dingbat Negative 圆d 无衬线体 数字 Seven",
+        "Dingbat Negative Circled Sans-Serif Digit Seven",
+        "Dingbats",
+        "2790",
+        "U+2790",
+        "形状"
+      ],
+      "notes": "➐ 是反白圆圈无衬线数字七的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2791-4449",
+      "symbol": "➑",
+      "name": "反白圆圈无衬线数字八",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字八",
+        "Dingbat Negative 圆d 无衬线体 数字 Eight",
+        "Dingbat Negative Circled Sans-Serif Digit Eight",
+        "Dingbats",
+        "2791",
+        "U+2791",
+        "形状"
+      ],
+      "notes": "➑ 是反白圆圈无衬线数字八的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2792-4450",
+      "symbol": "➒",
+      "name": "反白圆圈无衬线数字九",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字九",
+        "Dingbat Negative 圆d 无衬线体 数字 Nine",
+        "Dingbat Negative Circled Sans-Serif Digit Nine",
+        "Dingbats",
+        "2792",
+        "U+2792",
+        "形状"
+      ],
+      "notes": "➒ 是反白圆圈无衬线数字九的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2793-4451",
+      "symbol": "➓",
+      "name": "反白圆圈无衬线数字十",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "反白圆圈无衬线数字十",
+        "Dingbat Negative 圆d 无衬线体 纽mber Ten",
+        "Dingbat Negative Circled Sans-Serif Number Ten",
+        "Dingbats",
+        "2793",
+        "U+2793",
+        "形状"
+      ],
+      "notes": "➓ 是反白圆圈无衬线数字十的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2795-4453",
+      "symbol": "➕",
+      "name": "加号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "加号",
+        "Plus",
+        "Dingbats",
+        "2795",
+        "U+2795",
+        "形状"
+      ],
+      "notes": "➕ 是加号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2796-4454",
+      "symbol": "➖",
+      "name": "减号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "减号",
+        "Minus",
+        "Dingbats",
+        "2796",
+        "U+2796",
+        "形状"
+      ],
+      "notes": "➖ 是减号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-2797-4455",
+      "symbol": "➗",
+      "name": "除号",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "除号",
+        "Divide",
+        "Dingbats",
+        "2797",
+        "U+2797",
+        "形状"
+      ],
+      "notes": "➗ 是除号的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-27b0-4480",
+      "symbol": "➰",
+      "name": "卷曲环",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "卷曲环",
+        "Curly Loop",
+        "Dingbats",
+        "27B0",
+        "U+27B0",
+        "形状"
+      ],
+      "notes": "➰ 是卷曲环的 Unicode 图形字符，可用于图标、标记和文本排版。"
+    },
+    {
+      "id": "symbol-27bf-4495",
+      "symbol": "➿",
+      "name": "双卷曲环",
+      "category": [
+        "形状"
+      ],
+      "searchTerms": [
+        "双卷曲环",
+        "Double Curly Loop",
+        "Dingbats",
+        "27BF",
+        "U+27BF",
+        "形状"
+      ],
+      "notes": "➿ 是双卷曲环的 Unicode 图形字符，可用于图标、标记和文本排版。"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "category": "身体",
-  "total": 330,
+  "total": 360,
   "items": [
     {
       "id": "emoji-1f44b-67",
@@ -807,15 +807,16 @@
     {
       "id": "emoji-1f44c-748",
       "emoji": "👌",
-      "name": "OK",
+      "name": "OK手势",
       "category": "身体",
       "keywords": [
+        "OK手势",
         "OK",
         "Ok",
         "手和身体部位",
         "身体"
       ],
-      "text": "可用于表达「OK」相关含义。"
+      "text": "👌 可用于表达“OK手势”相关含义。"
     },
     {
       "id": "emoji-1f44c-1f3fb-1969",
@@ -4117,15 +4118,16 @@
     {
       "id": "emoji-1f9ec-800",
       "emoji": "🧬",
-      "name": "DNA",
+      "name": "DNA双螺旋",
       "category": "身体",
       "keywords": [
+        "DNA双螺旋",
         "DNA",
         "Dna",
         "手和身体部位",
         "身体"
       ],
-      "text": "可用于表达「DNA」相关含义。"
+      "text": "🧬 可用于表达“DNA双螺旋”相关含义。"
     },
     {
       "id": "emoji-1fa78-801",
@@ -4438,6 +4440,486 @@
       ],
       "text": "可用于表达「握手」的较深肤色、中等-深肤色变体。",
       "variantBase": "🤝"
+    },
+    {
+      "id": "symbol-1f3fb-5515",
+      "emoji": "🏻",
+      "name": "浅肤色",
+      "category": "身体",
+      "keywords": [
+        "浅肤色",
+        "Light Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FB",
+        "U+1F3FB",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「浅肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3fc-5516",
+      "emoji": "🏼",
+      "name": "中浅肤色",
+      "category": "身体",
+      "keywords": [
+        "中浅肤色",
+        "Medium-Light Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FC",
+        "U+1F3FC",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「中浅肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3fd-5517",
+      "emoji": "🏽",
+      "name": "中等肤色",
+      "category": "身体",
+      "keywords": [
+        "中等肤色",
+        "Medium Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FD",
+        "U+1F3FD",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「中等肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3fe-5518",
+      "emoji": "🏾",
+      "name": "中深肤色",
+      "category": "身体",
+      "keywords": [
+        "中深肤色",
+        "Medium-Dark Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FE",
+        "U+1F3FE",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「中深肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3ff-5519",
+      "emoji": "🏿",
+      "name": "深肤色",
+      "category": "身体",
+      "keywords": [
+        "深肤色",
+        "Dark Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FF",
+        "U+1F3FF",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「深肤色」相关含义。"
+    },
+    {
+      "id": "symbol-261a-4517",
+      "emoji": "☚",
+      "name": "黑色左指向手",
+      "category": "身体",
+      "keywords": [
+        "黑色左指向手",
+        "Black Left Pointing Index",
+        "Miscellaneous Symbols",
+        "261A",
+        "U+261A",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色左指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261b-4518",
+      "emoji": "☛",
+      "name": "黑色右指向手",
+      "category": "身体",
+      "keywords": [
+        "黑色右指向手",
+        "Black Right Pointing Index",
+        "Miscellaneous Symbols",
+        "261B",
+        "U+261B",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色右指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261c-4519",
+      "emoji": "☜",
+      "name": "白色左指向手",
+      "category": "身体",
+      "keywords": [
+        "白色左指向手",
+        "White Left Pointing Index",
+        "Miscellaneous Symbols",
+        "261C",
+        "U+261C",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色左指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261e-4521",
+      "emoji": "☞",
+      "name": "白色右指向手",
+      "category": "身体",
+      "keywords": [
+        "白色右指向手",
+        "White Right Pointing Index",
+        "Miscellaneous Symbols",
+        "261E",
+        "U+261E",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色右指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261f-4522",
+      "emoji": "☟",
+      "name": "白色下指向手",
+      "category": "身体",
+      "keywords": [
+        "白色下指向手",
+        "White Down Pointing Index",
+        "Miscellaneous Symbols",
+        "261F",
+        "U+261F",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色下指向手」相关含义。"
+    },
+    {
+      "id": "symbol-1f58e-5918",
+      "emoji": "🖎",
+      "name": "左手书写",
+      "category": "身体",
+      "keywords": [
+        "左手书写",
+        "Left Writing Hand",
+        "Miscellaneous Symbols and Pictographs",
+        "1F58E",
+        "U+1F58E",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「左手书写」相关含义。"
+    },
+    {
+      "id": "symbol-1f58f-5919",
+      "emoji": "🖏",
+      "name": "旋转 OK 手势",
+      "category": "身体",
+      "keywords": [
+        "旋转 OK 手势",
+        "Turned Ok Hand Sign",
+        "Miscellaneous Symbols and Pictographs",
+        "1F58F",
+        "U+1F58F",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「旋转 OK 手势」相关含义。"
+    },
+    {
+      "id": "symbol-1f591-5921",
+      "emoji": "🖑",
+      "name": "反向张开手掌",
+      "category": "身体",
+      "keywords": [
+        "反向张开手掌",
+        "Reversed Raised Hand with Fingers Splayed",
+        "Miscellaneous Symbols and Pictographs",
+        "1F591",
+        "U+1F591",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向张开手掌」相关含义。"
+    },
+    {
+      "id": "symbol-1f592-5922",
+      "emoji": "🖒",
+      "name": "反向点赞",
+      "category": "身体",
+      "keywords": [
+        "反向点赞",
+        "Reversed Thumbs Up Sign",
+        "Miscellaneous Symbols and Pictographs",
+        "1F592",
+        "U+1F592",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向点赞」相关含义。"
+    },
+    {
+      "id": "symbol-1f593-5923",
+      "emoji": "🖓",
+      "name": "反向踩",
+      "category": "身体",
+      "keywords": [
+        "反向踩",
+        "Reversed Thumbs Down Sign",
+        "Miscellaneous Symbols and Pictographs",
+        "1F593",
+        "U+1F593",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向踩」相关含义。"
+    },
+    {
+      "id": "symbol-1f594-5924",
+      "emoji": "🖔",
+      "name": "反向胜利手势",
+      "category": "身体",
+      "keywords": [
+        "反向胜利手势",
+        "Reversed Victory Hand",
+        "Miscellaneous Symbols and Pictographs",
+        "1F594",
+        "U+1F594",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向胜利手势」相关含义。"
+    },
+    {
+      "id": "symbol-1f597-5927",
+      "emoji": "🖗",
+      "name": "白色下指向左手食指",
+      "category": "身体",
+      "keywords": [
+        "白色下指向左手食指",
+        "White Down Pointing Left Hand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F597",
+        "U+1F597",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色下指向左手食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f598-5928",
+      "emoji": "🖘",
+      "name": "侧向白色左指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色左指向食指",
+        "Sideways White Left Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F598",
+        "U+1F598",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色左指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f599-5929",
+      "emoji": "🖙",
+      "name": "侧向白色右指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色右指向食指",
+        "Sideways White Right Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F599",
+        "U+1F599",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色右指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59a-5930",
+      "emoji": "🖚",
+      "name": "侧向黑色左指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色左指向食指",
+        "Sideways Black Left Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59A",
+        "U+1F59A",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色左指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59b-5931",
+      "emoji": "🖛",
+      "name": "侧向黑色右指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色右指向食指",
+        "Sideways Black Right Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59B",
+        "U+1F59B",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色右指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59c-5932",
+      "emoji": "🖜",
+      "name": "黑色左指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色左指向手背食指",
+        "Black Left Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59C",
+        "U+1F59C",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色左指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59d-5933",
+      "emoji": "🖝",
+      "name": "黑色右指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色右指向手背食指",
+        "Black Right Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59D",
+        "U+1F59D",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色右指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59e-5934",
+      "emoji": "🖞",
+      "name": "侧向白色上指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色上指向食指",
+        "Sideways White Up Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59E",
+        "U+1F59E",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色上指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59f-5935",
+      "emoji": "🖟",
+      "name": "侧向白色下指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色下指向食指",
+        "Sideways White Down Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59F",
+        "U+1F59F",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色下指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a0-5936",
+      "emoji": "🖠",
+      "name": "侧向黑色上指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色上指向食指",
+        "Sideways Black Up Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A0",
+        "U+1F5A0",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色上指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a1-5937",
+      "emoji": "🖡",
+      "name": "侧向黑色下指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色下指向食指",
+        "Sideways Black Down Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A1",
+        "U+1F5A1",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色下指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a2-5938",
+      "emoji": "🖢",
+      "name": "黑色上指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色上指向手背食指",
+        "Black Up Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A2",
+        "U+1F5A2",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色上指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a3-5939",
+      "emoji": "🖣",
+      "name": "黑色下指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色下指向手背食指",
+        "Black Down Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A3",
+        "U+1F5A3",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色下指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e2-6002",
+      "emoji": "🗢",
+      "name": "嘴唇",
+      "category": "身体",
+      "keywords": [
+        "嘴唇",
+        "Lips",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E2",
+        "U+1F5E2",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「嘴唇」相关含义。"
     }
   ]
 }

@@ -6,7 +6,6 @@
       "id": "symbol-2620-342",
       "symbol": "☠",
       "name": "剧毒",
-      "pronunciation": "",
       "category": [
         "危险"
       ],
@@ -24,7 +23,6 @@
       "id": "symbol-2622-343",
       "symbol": "☢",
       "name": "辐射",
-      "pronunciation": "",
       "category": [
         "危险"
       ],
@@ -42,7 +40,6 @@
       "id": "symbol-2623-344",
       "symbol": "☣",
       "name": "生物危害",
-      "pronunciation": "",
       "category": [
         "危险"
       ],
@@ -60,7 +57,6 @@
       "id": "symbol-26a0-430",
       "symbol": "⚠",
       "name": "警告",
-      "pronunciation": "",
       "category": [
         "危险"
       ],

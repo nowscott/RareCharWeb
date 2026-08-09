@@ -1,6 +1,6 @@
 {
   "category": "奖项",
-  "total": 6,
+  "total": 7,
   "items": [
     {
       "id": "emoji-1f396-fe0f-260",
@@ -67,6 +67,22 @@
         "奖项"
       ],
       "text": "铜牌，颁发给在竞赛等体育赛事中获得第三名的个人或团队。\n铜牌 在 2016 被批准为 统一码9.0 的一部分，并在 2016 被添加到 Emoji 3.0 中.\n"
+    },
+    {
+      "id": "symbol-1f3f6-5510",
+      "emoji": "🏶",
+      "name": "黑色花饰",
+      "category": "奖项",
+      "keywords": [
+        "黑色花饰",
+        "Black Rosette",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3F6",
+        "U+1F3F6",
+        "符号",
+        "奖项"
+      ],
+      "text": "可用于表达「黑色花饰」相关含义。"
     }
   ]
 }

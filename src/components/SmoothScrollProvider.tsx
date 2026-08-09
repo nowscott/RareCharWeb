@@ -13,8 +13,8 @@ export default function SmoothScrollProvider({ children }: SmoothScrollProviderP
       root
       options={{
         autoRaf: true,
-        lerp: 0.1,
-        wheelMultiplier: 0.72,
+        lerp: 0.16,
+        wheelMultiplier: 1,
         touchMultiplier: 1,
         syncTouch: false
       }}

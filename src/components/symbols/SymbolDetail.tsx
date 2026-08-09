@@ -99,6 +99,7 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
         <div className="absolute top-4 right-4 z-10">
           <button 
             onClick={onClose}
+            aria-label="关闭详情"
             className="w-8 h-8 flex items-center justify-center rounded-full bg-white/45 dark:bg-gray-900/45 text-gray-500 hover:text-gray-800 dark:text-gray-300 dark:hover:text-white hover:bg-white/70 dark:hover:bg-gray-800/70 transition-all duration-200 backdrop-blur-xl border border-white/50"
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -118,11 +119,6 @@ const SymbolDetail: React.FC<SymbolDetailProps> = ({ symbol, onClose }) => {
               {activeSymbol.symbol}
             </div>
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">{activeSymbol.name}</h2>
-            {symbol.pronunciation && (
-              <p className="text-gray-600 dark:text-gray-400">
-                发音: {symbol.pronunciation}
-              </p>
-            )}
           </div>
 
           {/* 信息卡片区域 */}

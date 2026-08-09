@@ -33,7 +33,6 @@
 - `symbol`：保留原符号，不要改写
 - `id`：保留原 ID，除非发现冲突
 - `name`：从英文名改成简洁中文名
-- `pronunciation`：通常保持空字符串
 - `category`：使用现有中文分类体系
 - `searchTerms`：保留英文名、Unicode 编码，同时加入中文名、中文分类、常用别名
 - `notes`：改成中文说明，不要只保留机械来源文案
@@ -57,19 +56,14 @@
 1. 从 `public/data/pending/symbols.json.items` 移除
 2. 追加到 `public/data/symbols/items.json.items`
 3. 更新两个文件的 `total`
-4. 不要手动修改 `by-category`、`index.json`、`random-pool.json`
+4. 不要手动修改 `by-category`
 5. 运行数据构建脚本：
 
 ```bash
 npm run data:build
 ```
 
-该脚本会重建：
-
-- `public/data/symbols/by-category/*.json`
-- `public/data/symbols/index.json`
-- `public/data/symbols/random-pool.json`
-- `public/data/manifest.json`
+该脚本会重建分类分片和 `public/data/manifest.json`。
 
 ## 数据一致性校验
 
@@ -84,7 +78,6 @@ npm run data:build
   - `id`
   - `symbol`
   - `name`
-  - `pronunciation`
   - `category`
   - `searchTerms`
   - `notes`
@@ -112,9 +105,7 @@ npm run build
 
 提交前确认：
 
-- `by-category` 仍是完整 item，不是 ID-only
-- `random-pool.json` 仍然只放 ID
-- `index.json` 仍是嵌套 `items` 结构
+- `by-category` 仍是完整 item
 - 没有误改 emoji 数据
 - 没有误改线上 symbols 之外的无关文件
 
@@ -128,4 +119,3 @@ npm run build
 - `npm run lint` 成功
 - `npm run build` 成功
 - 数据一致性校验通过
-

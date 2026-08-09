@@ -1,6 +1,6 @@
 {
   "category": "活动",
-  "total": 74,
+  "total": 75,
   "items": [
     {
       "id": "emoji-1f383-74",
@@ -868,6 +868,22 @@
         "活动"
       ],
       "text": "可用于表达「调色盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f93b-6091",
+      "emoji": "🤻",
+      "name": "现代五项",
+      "category": "活动",
+      "keywords": [
+        "现代五项",
+        "Modern Pentathlon",
+        "Supplemental Symbols and Pictographs",
+        "1F93B",
+        "U+1F93B",
+        "符号",
+        "活动"
+      ],
+      "text": "可用于表达「现代五项」相关含义。"
     }
   ]
 }

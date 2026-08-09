@@ -1,5 +1,5 @@
 {
-  "total": 3948,
+  "total": 4154,
   "items": [
     {
       "id": "emoji-263a-fe0f-1",
@@ -8046,15 +8046,16 @@
     {
       "id": "emoji-1faea-699",
       "emoji": "🫪",
-      "name": "Distorted Face",
+      "name": "变形脸",
       "category": "笑脸",
       "keywords": [
+        "变形脸",
         "Distorted Face",
         "扭曲的脸",
         "忧虑和消极",
         "笑脸"
       ],
-      "text": "可用于表达「Distorted Face」相关含义。"
+      "text": "🫪 可用于表达“变形脸”相关含义。"
     },
     {
       "id": "emoji-1f97a-700",
@@ -8928,15 +8929,16 @@
     {
       "id": "emoji-1f44c-748",
       "emoji": "👌",
-      "name": "OK",
+      "name": "OK手势",
       "category": "身体",
       "keywords": [
+        "OK手势",
         "OK",
         "Ok",
         "手和身体部位",
         "身体"
       ],
-      "text": "可用于表达「OK」相关含义。"
+      "text": "👌 可用于表达“OK手势”相关含义。"
     },
     {
       "id": "emoji-1f44c-1f3fb-1969",
@@ -12238,15 +12240,16 @@
     {
       "id": "emoji-1f9ec-800",
       "emoji": "🧬",
-      "name": "DNA",
+      "name": "DNA双螺旋",
       "category": "身体",
       "keywords": [
+        "DNA双螺旋",
         "DNA",
         "Dna",
         "手和身体部位",
         "身体"
       ],
-      "text": "可用于表达「DNA」相关含义。"
+      "text": "🧬 可用于表达“DNA双螺旋”相关含义。"
     },
     {
       "id": "emoji-1fa78-801",
@@ -13757,15 +13760,16 @@
     {
       "id": "emoji-1f9d1-200d-1fa70-925",
       "emoji": "🧑‍🩰",
-      "name": "Ballet Dancer",
+      "name": "芭蕾舞者",
       "category": "行为",
       "keywords": [
+        "芭蕾舞者",
         "Ballet Dancer",
         "芭蕾舞演员",
         "活动与运动",
         "行为"
       ],
-      "text": "可用于表达「Ballet Dancer」相关含义。"
+      "text": "🧑‍🩰 可用于表达“芭蕾舞者”相关含义。"
     },
     {
       "id": "emoji-1f483-926",
@@ -15705,15 +15709,16 @@
     {
       "id": "emoji-1fac8-1087",
       "emoji": "🫈",
-      "name": "Hairy Creature",
+      "name": "毛茸茸的生物",
       "category": "角色",
       "keywords": [
+        "毛茸茸的生物",
         "Hairy Creature",
         "多毛生物",
         "职业、角色和幻想",
         "角色"
       ],
-      "text": "可用于表达「Hairy Creature」相关含义。"
+      "text": "🫈 可用于表达“毛茸茸的生物”相关含义。"
     },
     {
       "id": "emoji-1f9d1-200d-1f91d-200d-1f9d1-1088",
@@ -20632,15 +20637,16 @@
     {
       "id": "emoji-1f4c0-1493",
       "emoji": "📀",
-      "name": "DVD",
+      "name": "DVD光盘",
       "category": "物品",
       "keywords": [
+        "DVD光盘",
         "DVD",
         "Dvd",
         "IT & AV",
         "物品"
       ],
-      "text": "可用于表达「DVD」相关含义。"
+      "text": "📀 可用于表达“DVD光盘”相关含义。"
     },
     {
       "id": "emoji-1f3a5-1494",
@@ -51694,6 +51700,3228 @@
       ],
       "text": "可用于表达「情侣」的较深肤色、中等-深肤色变体。",
       "variantBase": "💑"
+    },
+    {
+      "id": "symbol-1f3fb-5515",
+      "emoji": "🏻",
+      "name": "浅肤色",
+      "category": "身体",
+      "keywords": [
+        "浅肤色",
+        "Light Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FB",
+        "U+1F3FB",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「浅肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3fc-5516",
+      "emoji": "🏼",
+      "name": "中浅肤色",
+      "category": "身体",
+      "keywords": [
+        "中浅肤色",
+        "Medium-Light Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FC",
+        "U+1F3FC",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「中浅肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3fd-5517",
+      "emoji": "🏽",
+      "name": "中等肤色",
+      "category": "身体",
+      "keywords": [
+        "中等肤色",
+        "Medium Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FD",
+        "U+1F3FD",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「中等肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3fe-5518",
+      "emoji": "🏾",
+      "name": "中深肤色",
+      "category": "身体",
+      "keywords": [
+        "中深肤色",
+        "Medium-Dark Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FE",
+        "U+1F3FE",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「中深肤色」相关含义。"
+    },
+    {
+      "id": "symbol-1f3ff-5519",
+      "emoji": "🏿",
+      "name": "深肤色",
+      "category": "身体",
+      "keywords": [
+        "深肤色",
+        "Dark Skin Tone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3FF",
+        "U+1F3FF",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「深肤色」相关含义。"
+    },
+    {
+      "id": "symbol-2607-4499",
+      "emoji": "☇",
+      "name": "闪电",
+      "category": "天气",
+      "keywords": [
+        "闪电",
+        "Lightning",
+        "Miscellaneous Symbols",
+        "2607",
+        "U+2607",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「闪电」相关含义。"
+    },
+    {
+      "id": "symbol-2608-4500",
+      "emoji": "☈",
+      "name": "雷暴",
+      "category": "天气",
+      "keywords": [
+        "雷暴",
+        "Thunderstorm",
+        "Miscellaneous Symbols",
+        "2608",
+        "U+2608",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「雷暴」相关含义。"
+    },
+    {
+      "id": "symbol-260f-4506",
+      "emoji": "☏",
+      "name": "白色电话",
+      "category": "物品",
+      "keywords": [
+        "白色电话",
+        "White Telephone",
+        "Miscellaneous Symbols",
+        "260F",
+        "U+260F",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「白色电话」相关含义。"
+    },
+    {
+      "id": "symbol-261a-4517",
+      "emoji": "☚",
+      "name": "黑色左指向手",
+      "category": "身体",
+      "keywords": [
+        "黑色左指向手",
+        "Black Left Pointing Index",
+        "Miscellaneous Symbols",
+        "261A",
+        "U+261A",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色左指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261b-4518",
+      "emoji": "☛",
+      "name": "黑色右指向手",
+      "category": "身体",
+      "keywords": [
+        "黑色右指向手",
+        "Black Right Pointing Index",
+        "Miscellaneous Symbols",
+        "261B",
+        "U+261B",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色右指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261c-4519",
+      "emoji": "☜",
+      "name": "白色左指向手",
+      "category": "身体",
+      "keywords": [
+        "白色左指向手",
+        "White Left Pointing Index",
+        "Miscellaneous Symbols",
+        "261C",
+        "U+261C",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色左指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261e-4521",
+      "emoji": "☞",
+      "name": "白色右指向手",
+      "category": "身体",
+      "keywords": [
+        "白色右指向手",
+        "White Right Pointing Index",
+        "Miscellaneous Symbols",
+        "261E",
+        "U+261E",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色右指向手」相关含义。"
+    },
+    {
+      "id": "symbol-261f-4522",
+      "emoji": "☟",
+      "name": "白色下指向手",
+      "category": "身体",
+      "keywords": [
+        "白色下指向手",
+        "White Down Pointing Index",
+        "Miscellaneous Symbols",
+        "261F",
+        "U+261F",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色下指向手」相关含义。"
+    },
+    {
+      "id": "symbol-262b-4528",
+      "emoji": "☫",
+      "name": "法尔西符号",
+      "category": "符号",
+      "keywords": [
+        "法尔西符号",
+        "Farsi Symbol",
+        "Miscellaneous Symbols",
+        "262B",
+        "U+262B",
+        "符号"
+      ],
+      "text": "可用于表达「法尔西符号」相关含义。"
+    },
+    {
+      "id": "symbol-263b-4531",
+      "emoji": "☻",
+      "name": "黑色笑脸",
+      "category": "笑脸",
+      "keywords": [
+        "黑色笑脸",
+        "Black Smiling Face",
+        "Miscellaneous Symbols",
+        "263B",
+        "U+263B",
+        "符号",
+        "笑脸"
+      ],
+      "text": "可用于表达「黑色笑脸」相关含义。"
+    },
+    {
+      "id": "symbol-263e-4532",
+      "emoji": "☾",
+      "name": "下弦月",
+      "category": "天气",
+      "keywords": [
+        "下弦月",
+        "Last Quarter Moon",
+        "Miscellaneous Symbols",
+        "263E",
+        "U+263E",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「下弦月」相关含义。"
+    },
+    {
+      "id": "symbol-2690-4549",
+      "emoji": "⚐",
+      "name": "白旗",
+      "category": "旗帜",
+      "keywords": [
+        "白旗",
+        "White Flag",
+        "Miscellaneous Symbols",
+        "2690",
+        "U+2690",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「白旗」相关含义。"
+    },
+    {
+      "id": "symbol-2691-4550",
+      "emoji": "⚑",
+      "name": "黑旗",
+      "category": "旗帜",
+      "keywords": [
+        "黑旗",
+        "Black Flag",
+        "Miscellaneous Symbols",
+        "2691",
+        "U+2691",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「黑旗」相关含义。"
+    },
+    {
+      "id": "symbol-2698-4555",
+      "emoji": "⚘",
+      "name": "花朵",
+      "category": "植物",
+      "keywords": [
+        "花朵",
+        "Flower",
+        "Miscellaneous Symbols",
+        "2698",
+        "U+2698",
+        "符号",
+        "植物"
+      ],
+      "text": "可用于表达「花朵」相关含义。"
+    },
+    {
+      "id": "symbol-26c6-4586",
+      "emoji": "⛆",
+      "name": "雨",
+      "category": "天气",
+      "keywords": [
+        "雨",
+        "Rain",
+        "Miscellaneous Symbols",
+        "26C6",
+        "U+26C6",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「雨」相关含义。"
+    },
+    {
+      "id": "symbol-26c7-4587",
+      "emoji": "⛇",
+      "name": "黑色雪人",
+      "category": "天气",
+      "keywords": [
+        "黑色雪人",
+        "Black Snowman",
+        "Miscellaneous Symbols",
+        "26C7",
+        "U+26C7",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「黑色雪人」相关含义。"
+    },
+    {
+      "id": "symbol-26cd-4593",
+      "emoji": "⛍",
+      "name": "无障碍车辆",
+      "category": "地理",
+      "keywords": [
+        "无障碍车辆",
+        "Disabled Car",
+        "Miscellaneous Symbols",
+        "26CD",
+        "U+26CD",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「无障碍车辆」相关含义。"
+    },
+    {
+      "id": "symbol-26d0-4596",
+      "emoji": "⛐",
+      "name": "车辆打滑",
+      "category": "地理",
+      "keywords": [
+        "车辆打滑",
+        "Car Sliding",
+        "Miscellaneous Symbols",
+        "26D0",
+        "U+26D0",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「车辆打滑」相关含义。"
+    },
+    {
+      "id": "symbol-26d2-4598",
+      "emoji": "⛒",
+      "name": "圆圈交叉车道",
+      "category": "地理",
+      "keywords": [
+        "圆圈交叉车道",
+        "Circled Crossing Lanes",
+        "Miscellaneous Symbols",
+        "26D2",
+        "U+26D2",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「圆圈交叉车道」相关含义。"
+    },
+    {
+      "id": "symbol-26d5-4601",
+      "emoji": "⛕",
+      "name": "替代单向左行标志",
+      "category": "地理",
+      "keywords": [
+        "替代单向左行标志",
+        "Alternate One-Way Left Way Traffic",
+        "Miscellaneous Symbols",
+        "26D5",
+        "U+26D5",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「替代单向左行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d6-4602",
+      "emoji": "⛖",
+      "name": "黑色双向左行标志",
+      "category": "地理",
+      "keywords": [
+        "黑色双向左行标志",
+        "Black Two-Way Left Way Traffic",
+        "Miscellaneous Symbols",
+        "26D6",
+        "U+26D6",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「黑色双向左行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d7-4603",
+      "emoji": "⛗",
+      "name": "白色双向左行标志",
+      "category": "地理",
+      "keywords": [
+        "白色双向左行标志",
+        "White Two-Way Left Way Traffic",
+        "Miscellaneous Symbols",
+        "26D7",
+        "U+26D7",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「白色双向左行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d8-4604",
+      "emoji": "⛘",
+      "name": "黑色左侧汇入车道标志",
+      "category": "地理",
+      "keywords": [
+        "黑色左侧汇入车道标志",
+        "Black Left Lane Merge",
+        "Miscellaneous Symbols",
+        "26D8",
+        "U+26D8",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「黑色左侧汇入车道标志」相关含义。"
+    },
+    {
+      "id": "symbol-26d9-4605",
+      "emoji": "⛙",
+      "name": "白色左侧汇入车道标志",
+      "category": "地理",
+      "keywords": [
+        "白色左侧汇入车道标志",
+        "White Left Lane Merge",
+        "Miscellaneous Symbols",
+        "26D9",
+        "U+26D9",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「白色左侧汇入车道标志」相关含义。"
+    },
+    {
+      "id": "symbol-26da-4606",
+      "emoji": "⛚",
+      "name": "慢行标志",
+      "category": "地理",
+      "keywords": [
+        "慢行标志",
+        "Drive Slow Sign",
+        "Miscellaneous Symbols",
+        "26DA",
+        "U+26DA",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「慢行标志」相关含义。"
+    },
+    {
+      "id": "symbol-26db-4607",
+      "emoji": "⛛",
+      "name": "粗白色下三角",
+      "category": "符号",
+      "keywords": [
+        "粗白色下三角",
+        "Heavy White Down-Pointing Triangle",
+        "Miscellaneous Symbols",
+        "26DB",
+        "U+26DB",
+        "符号"
+      ],
+      "text": "可用于表达「粗白色下三角」相关含义。"
+    },
+    {
+      "id": "symbol-26dc-4608",
+      "emoji": "⛜",
+      "name": "左侧禁止进入标志",
+      "category": "地理",
+      "keywords": [
+        "左侧禁止进入标志",
+        "Left Closed Entry",
+        "Miscellaneous Symbols",
+        "26DC",
+        "U+26DC",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「左侧禁止进入标志」相关含义。"
+    },
+    {
+      "id": "symbol-26dd-4609",
+      "emoji": "⛝",
+      "name": "方框圣安德鲁十字",
+      "category": "符号",
+      "keywords": [
+        "方框圣安德鲁十字",
+        "Squared Saltire",
+        "Miscellaneous Symbols",
+        "26DD",
+        "U+26DD",
+        "符号"
+      ],
+      "text": "可用于表达「方框圣安德鲁十字」相关含义。"
+    },
+    {
+      "id": "symbol-26de-4610",
+      "emoji": "⛞",
+      "name": "黑方框白圆内斜落线",
+      "category": "符号",
+      "keywords": [
+        "黑方框白圆内斜落线",
+        "Falling Diagonal In White Circle In Black Square",
+        "Miscellaneous Symbols",
+        "26DE",
+        "U+26DE",
+        "符号"
+      ],
+      "text": "可用于表达「黑方框白圆内斜落线」相关含义。"
+    },
+    {
+      "id": "symbol-26df-4611",
+      "emoji": "⛟",
+      "name": "黑色卡车",
+      "category": "地理",
+      "keywords": [
+        "黑色卡车",
+        "Black Truck",
+        "Miscellaneous Symbols",
+        "26DF",
+        "U+26DF",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「黑色卡车」相关含义。"
+    },
+    {
+      "id": "symbol-26e0-4612",
+      "emoji": "⛠",
+      "name": "左侧限制进入标志一",
+      "category": "地理",
+      "keywords": [
+        "左侧限制进入标志一",
+        "Restricted Left Entry-1",
+        "Miscellaneous Symbols",
+        "26E0",
+        "U+26E0",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「左侧限制进入标志一」相关含义。"
+    },
+    {
+      "id": "symbol-26e1-4613",
+      "emoji": "⛡",
+      "name": "左侧限制进入标志二",
+      "category": "地理",
+      "keywords": [
+        "左侧限制进入标志二",
+        "Restricted Left Entry-2",
+        "Miscellaneous Symbols",
+        "26E1",
+        "U+26E1",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「左侧限制进入标志二」相关含义。"
+    },
+    {
+      "id": "symbol-26e3-4615",
+      "emoji": "⛣",
+      "name": "带斜线双点圆",
+      "category": "符号",
+      "keywords": [
+        "带斜线双点圆",
+        "Heavy Circle with Stroke and Two Dots Above",
+        "Miscellaneous Symbols",
+        "26E3",
+        "U+26E3",
+        "符号"
+      ],
+      "text": "可用于表达「带斜线双点圆」相关含义。"
+    },
+    {
+      "id": "symbol-26eb-4623",
+      "emoji": "⛫",
+      "name": "城堡",
+      "category": "地理",
+      "keywords": [
+        "城堡",
+        "Castle",
+        "Miscellaneous Symbols",
+        "26EB",
+        "U+26EB",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「城堡」相关含义。"
+    },
+    {
+      "id": "symbol-26ec-4624",
+      "emoji": "⛬",
+      "name": "历史遗址",
+      "category": "地理",
+      "keywords": [
+        "历史遗址",
+        "Historic Site",
+        "Miscellaneous Symbols",
+        "26EC",
+        "U+26EC",
+        "符号",
+        "地理"
+      ],
+      "text": "可用于表达「历史遗址」相关含义。"
+    },
+    {
+      "id": "symbol-23f4-4888",
+      "emoji": "⏴",
+      "name": "黑色中等左三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等左三角",
+        "Black Medium Left-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F4",
+        "U+23F4",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等左三角」相关含义。"
+    },
+    {
+      "id": "symbol-23f5-4889",
+      "emoji": "⏵",
+      "name": "黑色中等右三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等右三角",
+        "Black Medium Right-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F5",
+        "U+23F5",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等右三角」相关含义。"
+    },
+    {
+      "id": "symbol-23f6-4890",
+      "emoji": "⏶",
+      "name": "黑色中等上三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等上三角",
+        "Black Medium Up-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F6",
+        "U+23F6",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等上三角」相关含义。"
+    },
+    {
+      "id": "symbol-23f7-4891",
+      "emoji": "⏷",
+      "name": "黑色中等下三角",
+      "category": "符号",
+      "keywords": [
+        "黑色中等下三角",
+        "Black Medium Down-Pointing Triangle",
+        "Miscellaneous Technical",
+        "23F7",
+        "U+23F7",
+        "符号"
+      ],
+      "text": "可用于表达「黑色中等下三角」相关含义。"
+    },
+    {
+      "id": "symbol-23fb-4895",
+      "emoji": "⏻",
+      "name": "电源符号",
+      "category": "符号",
+      "keywords": [
+        "电源符号",
+        "Power Symbol",
+        "Miscellaneous Technical",
+        "23FB",
+        "U+23FB",
+        "符号"
+      ],
+      "text": "可用于表达「电源符号」相关含义。"
+    },
+    {
+      "id": "symbol-23fc-4896",
+      "emoji": "⏼",
+      "name": "电源开关符号",
+      "category": "符号",
+      "keywords": [
+        "电源开关符号",
+        "Power On-Off Symbol",
+        "Miscellaneous Technical",
+        "23FC",
+        "U+23FC",
+        "符号"
+      ],
+      "text": "可用于表达「电源开关符号」相关含义。"
+    },
+    {
+      "id": "symbol-23fd-4897",
+      "emoji": "⏽",
+      "name": "电源开启符号",
+      "category": "符号",
+      "keywords": [
+        "电源开启符号",
+        "Power On Symbol",
+        "Miscellaneous Technical",
+        "23FD",
+        "U+23FD",
+        "符号"
+      ],
+      "text": "可用于表达「电源开启符号」相关含义。"
+    },
+    {
+      "id": "symbol-23fe-4898",
+      "emoji": "⏾",
+      "name": "电源睡眠符号",
+      "category": "符号",
+      "keywords": [
+        "电源睡眠符号",
+        "Power Sleep Symbol",
+        "Miscellaneous Technical",
+        "23FE",
+        "U+23FE",
+        "符号"
+      ],
+      "text": "可用于表达「电源睡眠符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f322-5298",
+      "emoji": "🌢",
+      "name": "黑色水滴",
+      "category": "天气",
+      "keywords": [
+        "黑色水滴",
+        "Black Droplet",
+        "Miscellaneous Symbols and Pictographs",
+        "1F322",
+        "U+1F322",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「黑色水滴」相关含义。"
+    },
+    {
+      "id": "symbol-1f323-5299",
+      "emoji": "🌣",
+      "name": "白色太阳",
+      "category": "天气",
+      "keywords": [
+        "白色太阳",
+        "White Sun",
+        "Miscellaneous Symbols and Pictographs",
+        "1F323",
+        "U+1F323",
+        "符号",
+        "天气"
+      ],
+      "text": "可用于表达「白色太阳」相关含义。"
+    },
+    {
+      "id": "symbol-1f394-5412",
+      "emoji": "🎔",
+      "name": "左尖心形",
+      "category": "符号",
+      "keywords": [
+        "左尖心形",
+        "Heart with Tip On the Left",
+        "Miscellaneous Symbols and Pictographs",
+        "1F394",
+        "U+1F394",
+        "符号"
+      ],
+      "text": "可用于表达「左尖心形」相关含义。"
+    },
+    {
+      "id": "symbol-1f395-5413",
+      "emoji": "🎕",
+      "name": "花束",
+      "category": "植物",
+      "keywords": [
+        "花束",
+        "Bouquet of Flowers",
+        "Miscellaneous Symbols and Pictographs",
+        "1F395",
+        "U+1F395",
+        "符号",
+        "植物"
+      ],
+      "text": "可用于表达「花束」相关含义。"
+    },
+    {
+      "id": "symbol-1f398-5416",
+      "emoji": "🎘",
+      "name": "带插孔的音乐键盘",
+      "category": "物品",
+      "keywords": [
+        "带插孔的音乐键盘",
+        "Musical Keyboard with Jacks",
+        "Miscellaneous Symbols and Pictographs",
+        "1F398",
+        "U+1F398",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「带插孔的音乐键盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f39c-5420",
+      "emoji": "🎜",
+      "name": "上行连梁音符",
+      "category": "物品",
+      "keywords": [
+        "上行连梁音符",
+        "Beamed Ascending Musical Notes",
+        "Miscellaneous Symbols and Pictographs",
+        "1F39C",
+        "U+1F39C",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「上行连梁音符」相关含义。"
+    },
+    {
+      "id": "symbol-1f39d-5421",
+      "emoji": "🎝",
+      "name": "下行连梁音符",
+      "category": "物品",
+      "keywords": [
+        "下行连梁音符",
+        "Beamed Descending Musical Notes",
+        "Miscellaneous Symbols and Pictographs",
+        "1F39D",
+        "U+1F39D",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「下行连梁音符」相关含义。"
+    },
+    {
+      "id": "symbol-1f3f1-5505",
+      "emoji": "🏱",
+      "name": "白色三角旗",
+      "category": "旗帜",
+      "keywords": [
+        "白色三角旗",
+        "White Pennant",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3F1",
+        "U+1F3F1",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「白色三角旗」相关含义。"
+    },
+    {
+      "id": "symbol-1f3f2-5506",
+      "emoji": "🏲",
+      "name": "黑色三角旗",
+      "category": "旗帜",
+      "keywords": [
+        "黑色三角旗",
+        "Black Pennant",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3F2",
+        "U+1F3F2",
+        "符号",
+        "旗帜"
+      ],
+      "text": "可用于表达「黑色三角旗」相关含义。"
+    },
+    {
+      "id": "symbol-1f3f6-5510",
+      "emoji": "🏶",
+      "name": "黑色花饰",
+      "category": "奖项",
+      "keywords": [
+        "黑色花饰",
+        "Black Rosette",
+        "Miscellaneous Symbols and Pictographs",
+        "1F3F6",
+        "U+1F3F6",
+        "符号",
+        "奖项"
+      ],
+      "text": "可用于表达「黑色花饰」相关含义。"
+    },
+    {
+      "id": "symbol-1f4fe-5774",
+      "emoji": "📾",
+      "name": "便携式立体声设备",
+      "category": "物品",
+      "keywords": [
+        "便携式立体声设备",
+        "Portable Stereo",
+        "Miscellaneous Symbols and Pictographs",
+        "1F4FE",
+        "U+1F4FE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便携式立体声设备」相关含义。"
+    },
+    {
+      "id": "symbol-1f53e-5838",
+      "emoji": "🔾",
+      "name": "右下阴影白圆",
+      "category": "符号",
+      "keywords": [
+        "右下阴影白圆",
+        "Lower Right Shadowed White Circle",
+        "Miscellaneous Symbols and Pictographs",
+        "1F53E",
+        "U+1F53E",
+        "符号"
+      ],
+      "text": "可用于表达「右下阴影白圆」相关含义。"
+    },
+    {
+      "id": "symbol-1f53f-5839",
+      "emoji": "🔿",
+      "name": "右上阴影白圆",
+      "category": "符号",
+      "keywords": [
+        "右上阴影白圆",
+        "Upper Right Shadowed White Circle",
+        "Miscellaneous Symbols and Pictographs",
+        "1F53F",
+        "U+1F53F",
+        "符号"
+      ],
+      "text": "可用于表达「右上阴影白圆」相关含义。"
+    },
+    {
+      "id": "symbol-1f540-5840",
+      "emoji": "🕀",
+      "name": "圆圈苹果十字",
+      "category": "符号",
+      "keywords": [
+        "圆圈苹果十字",
+        "Circled Cross Pommee",
+        "Miscellaneous Symbols and Pictographs",
+        "1F540",
+        "U+1F540",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈苹果十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f541-5841",
+      "emoji": "🕁",
+      "name": "下带半圆苹果十字",
+      "category": "符号",
+      "keywords": [
+        "下带半圆苹果十字",
+        "Cross Pommee with Half-Circle Below",
+        "Miscellaneous Symbols and Pictographs",
+        "1F541",
+        "U+1F541",
+        "符号"
+      ],
+      "text": "可用于表达「下带半圆苹果十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f542-5842",
+      "emoji": "🕂",
+      "name": "苹果十字",
+      "category": "符号",
+      "keywords": [
+        "苹果十字",
+        "Cross Pommee",
+        "Miscellaneous Symbols and Pictographs",
+        "1F542",
+        "U+1F542",
+        "符号"
+      ],
+      "text": "可用于表达「苹果十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f543-5843",
+      "emoji": "🕃",
+      "name": "左缺口半圆三点",
+      "category": "符号",
+      "keywords": [
+        "左缺口半圆三点",
+        "Notched Left Semicircle with Three Dots",
+        "Miscellaneous Symbols and Pictographs",
+        "1F543",
+        "U+1F543",
+        "符号"
+      ],
+      "text": "可用于表达「左缺口半圆三点」相关含义。"
+    },
+    {
+      "id": "symbol-1f544-5844",
+      "emoji": "🕄",
+      "name": "右缺口半圆三点",
+      "category": "符号",
+      "keywords": [
+        "右缺口半圆三点",
+        "Notched Right Semicircle with Three Dots",
+        "Miscellaneous Symbols and Pictographs",
+        "1F544",
+        "U+1F544",
+        "符号"
+      ],
+      "text": "可用于表达「右缺口半圆三点」相关含义。"
+    },
+    {
+      "id": "symbol-1f545-5845",
+      "emoji": "🕅",
+      "name": "段落标记符号",
+      "category": "符号",
+      "keywords": [
+        "段落标记符号",
+        "Symbol for Marks Chapter",
+        "Miscellaneous Symbols and Pictographs",
+        "1F545",
+        "U+1F545",
+        "符号"
+      ],
+      "text": "可用于表达「段落标记符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f546-5846",
+      "emoji": "🕆",
+      "name": "白色拉丁十字",
+      "category": "符号",
+      "keywords": [
+        "白色拉丁十字",
+        "White Latin Cross",
+        "Miscellaneous Symbols and Pictographs",
+        "1F546",
+        "U+1F546",
+        "符号"
+      ],
+      "text": "可用于表达「白色拉丁十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f547-5847",
+      "emoji": "🕇",
+      "name": "粗体拉丁十字",
+      "category": "符号",
+      "keywords": [
+        "粗体拉丁十字",
+        "Heavy Latin Cross",
+        "Miscellaneous Symbols and Pictographs",
+        "1F547",
+        "U+1F547",
+        "符号"
+      ],
+      "text": "可用于表达「粗体拉丁十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f548-5848",
+      "emoji": "🕈",
+      "name": "凯尔特十字",
+      "category": "符号",
+      "keywords": [
+        "凯尔特十字",
+        "Celtic Cross",
+        "Miscellaneous Symbols and Pictographs",
+        "1F548",
+        "U+1F548",
+        "符号"
+      ],
+      "text": "可用于表达「凯尔特十字」相关含义。"
+    },
+    {
+      "id": "symbol-1f54f-5855",
+      "emoji": "🕏",
+      "name": "许癸厄亚之碗",
+      "category": "符号",
+      "keywords": [
+        "许癸厄亚之碗",
+        "Bowl of Hygieia",
+        "Miscellaneous Symbols and Pictographs",
+        "1F54F",
+        "U+1F54F",
+        "符号"
+      ],
+      "text": "可用于表达「许癸厄亚之碗」相关含义。"
+    },
+    {
+      "id": "symbol-1f568-5880",
+      "emoji": "🕨",
+      "name": "右向扬声器",
+      "category": "物品",
+      "keywords": [
+        "右向扬声器",
+        "Right Speaker",
+        "Miscellaneous Symbols and Pictographs",
+        "1F568",
+        "U+1F568",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「右向扬声器」相关含义。"
+    },
+    {
+      "id": "symbol-1f569-5881",
+      "emoji": "🕩",
+      "name": "单声波右向扬声器",
+      "category": "物品",
+      "keywords": [
+        "单声波右向扬声器",
+        "Right Speaker with One Sound Wave",
+        "Miscellaneous Symbols and Pictographs",
+        "1F569",
+        "U+1F569",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「单声波右向扬声器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56a-5882",
+      "emoji": "🕪",
+      "name": "三声波右向扬声器",
+      "category": "物品",
+      "keywords": [
+        "三声波右向扬声器",
+        "Right Speaker with Three Sound Waves",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56A",
+        "U+1F56A",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「三声波右向扬声器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56b-5883",
+      "emoji": "🕫",
+      "name": "扩音器",
+      "category": "物品",
+      "keywords": [
+        "扩音器",
+        "Bullhorn",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56B",
+        "U+1F56B",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「扩音器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56c-5884",
+      "emoji": "🕬",
+      "name": "带声波扩音器",
+      "category": "物品",
+      "keywords": [
+        "带声波扩音器",
+        "Bullhorn with Sound Waves",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56C",
+        "U+1F56C",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「带声波扩音器」相关含义。"
+    },
+    {
+      "id": "symbol-1f56d-5885",
+      "emoji": "🕭",
+      "name": "响铃",
+      "category": "物品",
+      "keywords": [
+        "响铃",
+        "Ringing Bell",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56D",
+        "U+1F56D",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「响铃」相关含义。"
+    },
+    {
+      "id": "symbol-1f56e-5886",
+      "emoji": "🕮",
+      "name": "书本",
+      "category": "物品",
+      "keywords": [
+        "书本",
+        "Book",
+        "Miscellaneous Symbols and Pictographs",
+        "1F56E",
+        "U+1F56E",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「书本」相关含义。"
+    },
+    {
+      "id": "symbol-1f571-5889",
+      "emoji": "🕱",
+      "name": "黑色骷髅与交叉骨",
+      "category": "符号",
+      "keywords": [
+        "黑色骷髅与交叉骨",
+        "Black Skull and Crossbones",
+        "Miscellaneous Symbols and Pictographs",
+        "1F571",
+        "U+1F571",
+        "符号"
+      ],
+      "text": "可用于表达「黑色骷髅与交叉骨」相关含义。"
+    },
+    {
+      "id": "symbol-1f572-5890",
+      "emoji": "🕲",
+      "name": "禁止海盗",
+      "category": "符号",
+      "keywords": [
+        "禁止海盗",
+        "No Piracy",
+        "Miscellaneous Symbols and Pictographs",
+        "1F572",
+        "U+1F572",
+        "符号"
+      ],
+      "text": "可用于表达「禁止海盗」相关含义。"
+    },
+    {
+      "id": "symbol-1f57b-5899",
+      "emoji": "🕻",
+      "name": "左手持电话听筒",
+      "category": "物品",
+      "keywords": [
+        "左手持电话听筒",
+        "Left Hand Telephone Receiver",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57B",
+        "U+1F57B",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「左手持电话听筒」相关含义。"
+    },
+    {
+      "id": "symbol-1f57c-5900",
+      "emoji": "🕼",
+      "name": "带页面电话听筒",
+      "category": "物品",
+      "keywords": [
+        "带页面电话听筒",
+        "Telephone Receiver with Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57C",
+        "U+1F57C",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「带页面电话听筒」相关含义。"
+    },
+    {
+      "id": "symbol-1f57d-5901",
+      "emoji": "🕽",
+      "name": "右手持电话听筒",
+      "category": "物品",
+      "keywords": [
+        "右手持电话听筒",
+        "Right Hand Telephone Receiver",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57D",
+        "U+1F57D",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「右手持电话听筒」相关含义。"
+    },
+    {
+      "id": "symbol-1f57e-5902",
+      "emoji": "🕾",
+      "name": "白色按键电话",
+      "category": "物品",
+      "keywords": [
+        "白色按键电话",
+        "White Touchtone Telephone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57E",
+        "U+1F57E",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「白色按键电话」相关含义。"
+    },
+    {
+      "id": "symbol-1f57f-5903",
+      "emoji": "🕿",
+      "name": "黑色按键电话",
+      "category": "物品",
+      "keywords": [
+        "黑色按键电话",
+        "Black Touchtone Telephone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F57F",
+        "U+1F57F",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色按键电话」相关含义。"
+    },
+    {
+      "id": "symbol-1f580-5904",
+      "emoji": "🖀",
+      "name": "调制解调器上的电话",
+      "category": "物品",
+      "keywords": [
+        "调制解调器上的电话",
+        "Telephone On Top of Modem",
+        "Miscellaneous Symbols and Pictographs",
+        "1F580",
+        "U+1F580",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「调制解调器上的电话」相关含义。"
+    },
+    {
+      "id": "symbol-1f581-5905",
+      "emoji": "🖁",
+      "name": "翻盖手机",
+      "category": "物品",
+      "keywords": [
+        "翻盖手机",
+        "Clamshell Mobile Phone",
+        "Miscellaneous Symbols and Pictographs",
+        "1F581",
+        "U+1F581",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「翻盖手机」相关含义。"
+    },
+    {
+      "id": "symbol-1f582-5906",
+      "emoji": "🖂",
+      "name": "信封背面",
+      "category": "物品",
+      "keywords": [
+        "信封背面",
+        "Back of Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F582",
+        "U+1F582",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「信封背面」相关含义。"
+    },
+    {
+      "id": "symbol-1f583-5907",
+      "emoji": "🖃",
+      "name": "贴邮票信封",
+      "category": "物品",
+      "keywords": [
+        "贴邮票信封",
+        "Stamped Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F583",
+        "U+1F583",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「贴邮票信封」相关含义。"
+    },
+    {
+      "id": "symbol-1f584-5908",
+      "emoji": "🖄",
+      "name": "闪电信封",
+      "category": "物品",
+      "keywords": [
+        "闪电信封",
+        "Envelope with Lightning",
+        "Miscellaneous Symbols and Pictographs",
+        "1F584",
+        "U+1F584",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「闪电信封」相关含义。"
+    },
+    {
+      "id": "symbol-1f585-5909",
+      "emoji": "🖅",
+      "name": "飞行信封",
+      "category": "物品",
+      "keywords": [
+        "飞行信封",
+        "Flying Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F585",
+        "U+1F585",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「飞行信封」相关含义。"
+    },
+    {
+      "id": "symbol-1f586-5910",
+      "emoji": "🖆",
+      "name": "邮票信封上的笔",
+      "category": "物品",
+      "keywords": [
+        "邮票信封上的笔",
+        "Pen Over Stamped Envelope",
+        "Miscellaneous Symbols and Pictographs",
+        "1F586",
+        "U+1F586",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「邮票信封上的笔」相关含义。"
+    },
+    {
+      "id": "symbol-1f588-5912",
+      "emoji": "🖈",
+      "name": "黑色图钉",
+      "category": "物品",
+      "keywords": [
+        "黑色图钉",
+        "Black Pushpin",
+        "Miscellaneous Symbols and Pictographs",
+        "1F588",
+        "U+1F588",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色图钉」相关含义。"
+    },
+    {
+      "id": "symbol-1f589-5913",
+      "emoji": "🖉",
+      "name": "左下铅笔",
+      "category": "物品",
+      "keywords": [
+        "左下铅笔",
+        "Lower Left Pencil",
+        "Miscellaneous Symbols and Pictographs",
+        "1F589",
+        "U+1F589",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「左下铅笔」相关含义。"
+    },
+    {
+      "id": "symbol-1f58e-5918",
+      "emoji": "🖎",
+      "name": "左手书写",
+      "category": "身体",
+      "keywords": [
+        "左手书写",
+        "Left Writing Hand",
+        "Miscellaneous Symbols and Pictographs",
+        "1F58E",
+        "U+1F58E",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「左手书写」相关含义。"
+    },
+    {
+      "id": "symbol-1f58f-5919",
+      "emoji": "🖏",
+      "name": "旋转 OK 手势",
+      "category": "身体",
+      "keywords": [
+        "旋转 OK 手势",
+        "Turned Ok Hand Sign",
+        "Miscellaneous Symbols and Pictographs",
+        "1F58F",
+        "U+1F58F",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「旋转 OK 手势」相关含义。"
+    },
+    {
+      "id": "symbol-1f591-5921",
+      "emoji": "🖑",
+      "name": "反向张开手掌",
+      "category": "身体",
+      "keywords": [
+        "反向张开手掌",
+        "Reversed Raised Hand with Fingers Splayed",
+        "Miscellaneous Symbols and Pictographs",
+        "1F591",
+        "U+1F591",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向张开手掌」相关含义。"
+    },
+    {
+      "id": "symbol-1f592-5922",
+      "emoji": "🖒",
+      "name": "反向点赞",
+      "category": "身体",
+      "keywords": [
+        "反向点赞",
+        "Reversed Thumbs Up Sign",
+        "Miscellaneous Symbols and Pictographs",
+        "1F592",
+        "U+1F592",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向点赞」相关含义。"
+    },
+    {
+      "id": "symbol-1f593-5923",
+      "emoji": "🖓",
+      "name": "反向踩",
+      "category": "身体",
+      "keywords": [
+        "反向踩",
+        "Reversed Thumbs Down Sign",
+        "Miscellaneous Symbols and Pictographs",
+        "1F593",
+        "U+1F593",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向踩」相关含义。"
+    },
+    {
+      "id": "symbol-1f594-5924",
+      "emoji": "🖔",
+      "name": "反向胜利手势",
+      "category": "身体",
+      "keywords": [
+        "反向胜利手势",
+        "Reversed Victory Hand",
+        "Miscellaneous Symbols and Pictographs",
+        "1F594",
+        "U+1F594",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「反向胜利手势」相关含义。"
+    },
+    {
+      "id": "symbol-1f597-5927",
+      "emoji": "🖗",
+      "name": "白色下指向左手食指",
+      "category": "身体",
+      "keywords": [
+        "白色下指向左手食指",
+        "White Down Pointing Left Hand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F597",
+        "U+1F597",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「白色下指向左手食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f598-5928",
+      "emoji": "🖘",
+      "name": "侧向白色左指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色左指向食指",
+        "Sideways White Left Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F598",
+        "U+1F598",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色左指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f599-5929",
+      "emoji": "🖙",
+      "name": "侧向白色右指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色右指向食指",
+        "Sideways White Right Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F599",
+        "U+1F599",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色右指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59a-5930",
+      "emoji": "🖚",
+      "name": "侧向黑色左指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色左指向食指",
+        "Sideways Black Left Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59A",
+        "U+1F59A",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色左指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59b-5931",
+      "emoji": "🖛",
+      "name": "侧向黑色右指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色右指向食指",
+        "Sideways Black Right Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59B",
+        "U+1F59B",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色右指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59c-5932",
+      "emoji": "🖜",
+      "name": "黑色左指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色左指向手背食指",
+        "Black Left Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59C",
+        "U+1F59C",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色左指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59d-5933",
+      "emoji": "🖝",
+      "name": "黑色右指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色右指向手背食指",
+        "Black Right Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59D",
+        "U+1F59D",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色右指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59e-5934",
+      "emoji": "🖞",
+      "name": "侧向白色上指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色上指向食指",
+        "Sideways White Up Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59E",
+        "U+1F59E",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色上指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f59f-5935",
+      "emoji": "🖟",
+      "name": "侧向白色下指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向白色下指向食指",
+        "Sideways White Down Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F59F",
+        "U+1F59F",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向白色下指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a0-5936",
+      "emoji": "🖠",
+      "name": "侧向黑色上指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色上指向食指",
+        "Sideways Black Up Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A0",
+        "U+1F5A0",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色上指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a1-5937",
+      "emoji": "🖡",
+      "name": "侧向黑色下指向食指",
+      "category": "身体",
+      "keywords": [
+        "侧向黑色下指向食指",
+        "Sideways Black Down Pointing Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A1",
+        "U+1F5A1",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「侧向黑色下指向食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a2-5938",
+      "emoji": "🖢",
+      "name": "黑色上指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色上指向手背食指",
+        "Black Up Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A2",
+        "U+1F5A2",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色上指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a3-5939",
+      "emoji": "🖣",
+      "name": "黑色下指向手背食指",
+      "category": "身体",
+      "keywords": [
+        "黑色下指向手背食指",
+        "Black Down Pointing Backhand Index",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A3",
+        "U+1F5A3",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「黑色下指向手背食指」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a6-5942",
+      "emoji": "🖦",
+      "name": "键盘与鼠标",
+      "category": "物品",
+      "keywords": [
+        "键盘与鼠标",
+        "Keyboard and Mouse",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A6",
+        "U+1F5A6",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「键盘与鼠标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a7-5943",
+      "emoji": "🖧",
+      "name": "三联网电脑",
+      "category": "物品",
+      "keywords": [
+        "三联网电脑",
+        "Three Networked Computers",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A7",
+        "U+1F5A7",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「三联网电脑」相关含义。"
+    },
+    {
+      "id": "symbol-1f5a9-5945",
+      "emoji": "🖩",
+      "name": "袖珍计算器",
+      "category": "物品",
+      "keywords": [
+        "袖珍计算器",
+        "Pocket Calculator",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5A9",
+        "U+1F5A9",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「袖珍计算器」相关含义。"
+    },
+    {
+      "id": "symbol-1f5aa-5946",
+      "emoji": "🖪",
+      "name": "黑色硬壳软盘磁盘",
+      "category": "物品",
+      "keywords": [
+        "黑色硬壳软盘磁盘",
+        "Black Hard Shell Floppy Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AA",
+        "U+1F5AA",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色硬壳软盘磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ab-5947",
+      "emoji": "🖫",
+      "name": "白色硬壳软盘磁盘",
+      "category": "物品",
+      "keywords": [
+        "白色硬壳软盘磁盘",
+        "White Hard Shell Floppy Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AB",
+        "U+1F5AB",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「白色硬壳软盘磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ac-5948",
+      "emoji": "🖬",
+      "name": "软壳软盘磁盘",
+      "category": "物品",
+      "keywords": [
+        "软壳软盘磁盘",
+        "Soft Shell Floppy Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AC",
+        "U+1F5AC",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「软壳软盘磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ad-5949",
+      "emoji": "🖭",
+      "name": "磁带盒",
+      "category": "物品",
+      "keywords": [
+        "磁带盒",
+        "Tape Cartridge",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AD",
+        "U+1F5AD",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「磁带盒」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ae-5950",
+      "emoji": "🖮",
+      "name": "有线键盘",
+      "category": "物品",
+      "keywords": [
+        "有线键盘",
+        "Wired Keyboard",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AE",
+        "U+1F5AE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「有线键盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5af-5951",
+      "emoji": "🖯",
+      "name": "单键鼠标",
+      "category": "物品",
+      "keywords": [
+        "单键鼠标",
+        "One Button Mouse",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5AF",
+        "U+1F5AF",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「单键鼠标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b0-5952",
+      "emoji": "🖰",
+      "name": "双键鼠标",
+      "category": "物品",
+      "keywords": [
+        "双键鼠标",
+        "Two Button Mouse",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B0",
+        "U+1F5B0",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「双键鼠标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b3-5955",
+      "emoji": "🖳",
+      "name": "旧式个人电脑",
+      "category": "物品",
+      "keywords": [
+        "旧式个人电脑",
+        "Old Personal Computer",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B3",
+        "U+1F5B3",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「旧式个人电脑」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b4-5956",
+      "emoji": "🖴",
+      "name": "硬磁盘",
+      "category": "物品",
+      "keywords": [
+        "硬磁盘",
+        "Hard Disk",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B4",
+        "U+1F5B4",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「硬磁盘」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b5-5957",
+      "emoji": "🖵",
+      "name": "显示屏",
+      "category": "物品",
+      "keywords": [
+        "显示屏",
+        "Screen",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B5",
+        "U+1F5B5",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「显示屏」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b6-5958",
+      "emoji": "🖶",
+      "name": "打印机图标",
+      "category": "物品",
+      "keywords": [
+        "打印机图标",
+        "Printer Icon",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B6",
+        "U+1F5B6",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「打印机图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b7-5959",
+      "emoji": "🖷",
+      "name": "传真图标",
+      "category": "物品",
+      "keywords": [
+        "传真图标",
+        "Fax Icon",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B7",
+        "U+1F5B7",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「传真图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b8-5960",
+      "emoji": "🖸",
+      "name": "光学光盘图标",
+      "category": "物品",
+      "keywords": [
+        "光学光盘图标",
+        "Optical Disc Icon",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B8",
+        "U+1F5B8",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「光学光盘图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5b9-5961",
+      "emoji": "🖹",
+      "name": "文档带文字",
+      "category": "物品",
+      "keywords": [
+        "文档带文字",
+        "Document with Text",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5B9",
+        "U+1F5B9",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档带文字」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ba-5962",
+      "emoji": "🖺",
+      "name": "文档带文字与图片",
+      "category": "物品",
+      "keywords": [
+        "文档带文字与图片",
+        "Document with Text and Picture",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BA",
+        "U+1F5BA",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档带文字与图片」相关含义。"
+    },
+    {
+      "id": "symbol-1f5bb-5963",
+      "emoji": "🖻",
+      "name": "文档带图片",
+      "category": "物品",
+      "keywords": [
+        "文档带图片",
+        "Document with Picture",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BB",
+        "U+1F5BB",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档带图片」相关含义。"
+    },
+    {
+      "id": "symbol-1f5bd-5965",
+      "emoji": "🖽",
+      "name": "边框带分格",
+      "category": "物品",
+      "keywords": [
+        "边框带分格",
+        "Frame with Tiles",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BD",
+        "U+1F5BD",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「边框带分格」相关含义。"
+    },
+    {
+      "id": "symbol-1f5be-5966",
+      "emoji": "🖾",
+      "name": "边框带一叉号",
+      "category": "物品",
+      "keywords": [
+        "边框带一叉号",
+        "Frame with an X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BE",
+        "U+1F5BE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「边框带一叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5bf-5967",
+      "emoji": "🖿",
+      "name": "黑色文件夹",
+      "category": "物品",
+      "keywords": [
+        "黑色文件夹",
+        "Black Folder",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5BF",
+        "U+1F5BF",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「黑色文件夹」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c0-5968",
+      "emoji": "🗀",
+      "name": "文件夹",
+      "category": "物品",
+      "keywords": [
+        "文件夹",
+        "Folder",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C0",
+        "U+1F5C0",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文件夹」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c1-5969",
+      "emoji": "🗁",
+      "name": "打开文件夹",
+      "category": "物品",
+      "keywords": [
+        "打开文件夹",
+        "Open Folder",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C1",
+        "U+1F5C1",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「打开文件夹」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c5-5973",
+      "emoji": "🗅",
+      "name": "空白便笺",
+      "category": "物品",
+      "keywords": [
+        "空白便笺",
+        "Empty Note",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C5",
+        "U+1F5C5",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白便笺」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c6-5974",
+      "emoji": "🗆",
+      "name": "空白便笺页面",
+      "category": "物品",
+      "keywords": [
+        "空白便笺页面",
+        "Empty Note Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C6",
+        "U+1F5C6",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白便笺页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c7-5975",
+      "emoji": "🗇",
+      "name": "空白便笺本",
+      "category": "物品",
+      "keywords": [
+        "空白便笺本",
+        "Empty Note Pad",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C7",
+        "U+1F5C7",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白便笺本」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c8-5976",
+      "emoji": "🗈",
+      "name": "便笺",
+      "category": "物品",
+      "keywords": [
+        "便笺",
+        "Note",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C8",
+        "U+1F5C8",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便笺」相关含义。"
+    },
+    {
+      "id": "symbol-1f5c9-5977",
+      "emoji": "🗉",
+      "name": "便笺页面",
+      "category": "物品",
+      "keywords": [
+        "便笺页面",
+        "Note Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5C9",
+        "U+1F5C9",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便笺页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ca-5978",
+      "emoji": "🗊",
+      "name": "便笺本",
+      "category": "物品",
+      "keywords": [
+        "便笺本",
+        "Note Pad",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CA",
+        "U+1F5CA",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「便笺本」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cb-5979",
+      "emoji": "🗋",
+      "name": "空白文档",
+      "category": "物品",
+      "keywords": [
+        "空白文档",
+        "Empty Document",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CB",
+        "U+1F5CB",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白文档」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cc-5980",
+      "emoji": "🗌",
+      "name": "空白页面",
+      "category": "物品",
+      "keywords": [
+        "空白页面",
+        "Empty Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CC",
+        "U+1F5CC",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cd-5981",
+      "emoji": "🗍",
+      "name": "空白多页",
+      "category": "物品",
+      "keywords": [
+        "空白多页",
+        "Empty Pages",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CD",
+        "U+1F5CD",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「空白多页」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ce-5982",
+      "emoji": "🗎",
+      "name": "文档",
+      "category": "物品",
+      "keywords": [
+        "文档",
+        "Document",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CE",
+        "U+1F5CE",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「文档」相关含义。"
+    },
+    {
+      "id": "symbol-1f5cf-5983",
+      "emoji": "🗏",
+      "name": "页面",
+      "category": "物品",
+      "keywords": [
+        "页面",
+        "Page",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5CF",
+        "U+1F5CF",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「页面」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c6-5215",
+      "emoji": "🛆",
+      "name": "三角形带圆角角",
+      "category": "地理",
+      "keywords": [
+        "三角形带圆角角",
+        "Triangle with Rounded Corners",
+        "Transport and Map Symbols",
+        "1F6C6",
+        "U+1F6C6",
+        "地理"
+      ],
+      "text": "可用于表达「三角形带圆角角」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c7-5216",
+      "emoji": "🛇",
+      "name": "禁止标志",
+      "category": "地理",
+      "keywords": [
+        "禁止标志",
+        "Prohibited Sign",
+        "Transport and Map Symbols",
+        "1F6C7",
+        "U+1F6C7",
+        "地理"
+      ],
+      "text": "可用于表达「禁止标志」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c8-5217",
+      "emoji": "🛈",
+      "name": "圆圈信息源",
+      "category": "地理",
+      "keywords": [
+        "圆圈信息源",
+        "Circled Information Source",
+        "Transport and Map Symbols",
+        "1F6C8",
+        "U+1F6C8",
+        "地理"
+      ],
+      "text": "可用于表达「圆圈信息源」相关含义。"
+    },
+    {
+      "id": "symbol-1f6c9-5218",
+      "emoji": "🛉",
+      "name": "男孩符号",
+      "category": "地理",
+      "keywords": [
+        "男孩符号",
+        "Boys Symbol",
+        "Transport and Map Symbols",
+        "1F6C9",
+        "U+1F6C9",
+        "地理"
+      ],
+      "text": "可用于表达「男孩符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f6ca-5219",
+      "emoji": "🛊",
+      "name": "女孩符号",
+      "category": "地理",
+      "keywords": [
+        "女孩符号",
+        "Girls Symbol",
+        "Transport and Map Symbols",
+        "1F6CA",
+        "U+1F6CA",
+        "地理"
+      ],
+      "text": "可用于表达「女孩符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f6d3-5228",
+      "emoji": "🛓",
+      "name": "佛塔",
+      "category": "地理",
+      "keywords": [
+        "佛塔",
+        "Stupa",
+        "Transport and Map Symbols",
+        "1F6D3",
+        "U+1F6D3",
+        "地理"
+      ],
+      "text": "可用于表达「佛塔」相关含义。"
+    },
+    {
+      "id": "symbol-1f6d4-5229",
+      "emoji": "🛔",
+      "name": "宝塔",
+      "category": "地理",
+      "keywords": [
+        "宝塔",
+        "Pagoda",
+        "Transport and Map Symbols",
+        "1F6D4",
+        "U+1F6D4",
+        "地理"
+      ],
+      "text": "可用于表达「宝塔」相关含义。"
+    },
+    {
+      "id": "symbol-1f6e6-5244",
+      "emoji": "🛦",
+      "name": "上指向军用飞机",
+      "category": "地理",
+      "keywords": [
+        "上指向军用飞机",
+        "Up-Pointing Military Airplane",
+        "Transport and Map Symbols",
+        "1F6E6",
+        "U+1F6E6",
+        "地理"
+      ],
+      "text": "可用于表达「上指向军用飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6e7-5245",
+      "emoji": "🛧",
+      "name": "上指向飞机",
+      "category": "地理",
+      "keywords": [
+        "上指向飞机",
+        "Up-Pointing Airplane",
+        "Transport and Map Symbols",
+        "1F6E7",
+        "U+1F6E7",
+        "地理"
+      ],
+      "text": "可用于表达「上指向飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6e8-5246",
+      "emoji": "🛨",
+      "name": "上指向小型飞机",
+      "category": "地理",
+      "keywords": [
+        "上指向小型飞机",
+        "Up-Pointing Small Airplane",
+        "Transport and Map Symbols",
+        "1F6E8",
+        "U+1F6E8",
+        "地理"
+      ],
+      "text": "可用于表达「上指向小型飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6ea-5248",
+      "emoji": "🛪",
+      "name": "东北指向飞机",
+      "category": "地理",
+      "keywords": [
+        "东北指向飞机",
+        "Northeast-Pointing Airplane",
+        "Transport and Map Symbols",
+        "1F6EA",
+        "U+1F6EA",
+        "地理"
+      ],
+      "text": "可用于表达「东北指向飞机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6f1-5252",
+      "emoji": "🛱",
+      "name": "迎面消防发动机",
+      "category": "地理",
+      "keywords": [
+        "迎面消防发动机",
+        "Oncoming Fire Engine",
+        "Transport and Map Symbols",
+        "1F6F1",
+        "U+1F6F1",
+        "地理"
+      ],
+      "text": "可用于表达「迎面消防发动机」相关含义。"
+    },
+    {
+      "id": "symbol-1f6f2-5253",
+      "emoji": "🛲",
+      "name": "柴油机车",
+      "category": "地理",
+      "keywords": [
+        "柴油机车",
+        "Diesel Locomotive",
+        "Transport and Map Symbols",
+        "1F6F2",
+        "U+1F6F2",
+        "地理"
+      ],
+      "text": "可用于表达「柴油机车」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d0-5984",
+      "emoji": "🗐",
+      "name": "多页",
+      "category": "符号",
+      "keywords": [
+        "多页",
+        "Pages",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D0",
+        "U+1F5D0",
+        "符号"
+      ],
+      "text": "可用于表达「多页」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d4-5988",
+      "emoji": "🗔",
+      "name": "桌面窗口",
+      "category": "符号",
+      "keywords": [
+        "桌面窗口",
+        "Desktop Window",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D4",
+        "U+1F5D4",
+        "符号"
+      ],
+      "text": "可用于表达「桌面窗口」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d5-5989",
+      "emoji": "🗕",
+      "name": "最小化",
+      "category": "符号",
+      "keywords": [
+        "最小化",
+        "Minimize",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D5",
+        "U+1F5D5",
+        "符号"
+      ],
+      "text": "可用于表达「最小化」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d6-5990",
+      "emoji": "🗖",
+      "name": "最大化",
+      "category": "符号",
+      "keywords": [
+        "最大化",
+        "Maximize",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D6",
+        "U+1F5D6",
+        "符号"
+      ],
+      "text": "可用于表达「最大化」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d7-5991",
+      "emoji": "🗗",
+      "name": "重叠",
+      "category": "符号",
+      "keywords": [
+        "重叠",
+        "Overlap",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D7",
+        "U+1F5D7",
+        "符号"
+      ],
+      "text": "可用于表达「重叠」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d8-5992",
+      "emoji": "🗘",
+      "name": "顺时针右与左半圆箭头",
+      "category": "符号",
+      "keywords": [
+        "顺时针右与左半圆箭头",
+        "Clockwise Right and Left Semicircle Arrows",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D8",
+        "U+1F5D8",
+        "符号"
+      ],
+      "text": "可用于表达「顺时针右与左半圆箭头」相关含义。"
+    },
+    {
+      "id": "symbol-1f5d9-5993",
+      "emoji": "🗙",
+      "name": "取消叉号",
+      "category": "符号",
+      "keywords": [
+        "取消叉号",
+        "Cancellation X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5D9",
+        "U+1F5D9",
+        "符号"
+      ],
+      "text": "可用于表达「取消叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5da-5994",
+      "emoji": "🗚",
+      "name": "增大字体大小符号",
+      "category": "符号",
+      "keywords": [
+        "增大字体大小符号",
+        "Increase Font Size Symbol",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5DA",
+        "U+1F5DA",
+        "符号"
+      ],
+      "text": "可用于表达「增大字体大小符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5db-5995",
+      "emoji": "🗛",
+      "name": "减小字体大小符号",
+      "category": "符号",
+      "keywords": [
+        "减小字体大小符号",
+        "Decrease Font Size Symbol",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5DB",
+        "U+1F5DB",
+        "符号"
+      ],
+      "text": "可用于表达「减小字体大小符号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5df-5999",
+      "emoji": "🗟",
+      "name": "页面带圆圈文字",
+      "category": "符号",
+      "keywords": [
+        "页面带圆圈文字",
+        "Page with Circled Text",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5DF",
+        "U+1F5DF",
+        "符号"
+      ],
+      "text": "可用于表达「页面带圆圈文字」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e0-6000",
+      "emoji": "🗠",
+      "name": "股票图表",
+      "category": "符号",
+      "keywords": [
+        "股票图表",
+        "Stock Chart",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E0",
+        "U+1F5E0",
+        "符号"
+      ],
+      "text": "可用于表达「股票图表」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e2-6002",
+      "emoji": "🗢",
+      "name": "嘴唇",
+      "category": "身体",
+      "keywords": [
+        "嘴唇",
+        "Lips",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E2",
+        "U+1F5E2",
+        "符号",
+        "身体"
+      ],
+      "text": "可用于表达「嘴唇」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e4-6004",
+      "emoji": "🗤",
+      "name": "三光线上方",
+      "category": "符号",
+      "keywords": [
+        "三光线上方",
+        "Three Rays Above",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E4",
+        "U+1F5E4",
+        "符号"
+      ],
+      "text": "可用于表达「三光线上方」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e5-6005",
+      "emoji": "🗥",
+      "name": "三光线下方",
+      "category": "符号",
+      "keywords": [
+        "三光线下方",
+        "Three Rays Below",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E5",
+        "U+1F5E5",
+        "符号"
+      ],
+      "text": "可用于表达「三光线下方」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e6-6006",
+      "emoji": "🗦",
+      "name": "三光线左",
+      "category": "符号",
+      "keywords": [
+        "三光线左",
+        "Three Rays Left",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E6",
+        "U+1F5E6",
+        "符号"
+      ],
+      "text": "可用于表达「三光线左」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e7-6007",
+      "emoji": "🗧",
+      "name": "三光线右",
+      "category": "符号",
+      "keywords": [
+        "三光线右",
+        "Three Rays Right",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E7",
+        "U+1F5E7",
+        "符号"
+      ],
+      "text": "可用于表达「三光线右」相关含义。"
+    },
+    {
+      "id": "symbol-1f5e9-6009",
+      "emoji": "🗩",
+      "name": "右对话气泡",
+      "category": "行为",
+      "keywords": [
+        "右对话气泡",
+        "Right Speech Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5E9",
+        "U+1F5E9",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「右对话气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ea-6010",
+      "emoji": "🗪",
+      "name": "双对话图标",
+      "category": "行为",
+      "keywords": [
+        "双对话图标",
+        "Two Speech Bubbles",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EA",
+        "U+1F5EA",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「双对话图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5eb-6011",
+      "emoji": "🗫",
+      "name": "三对话图标",
+      "category": "行为",
+      "keywords": [
+        "三对话图标",
+        "Three Speech Bubbles",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EB",
+        "U+1F5EB",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「三对话图标」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ec-6012",
+      "emoji": "🗬",
+      "name": "左思考气泡",
+      "category": "行为",
+      "keywords": [
+        "左思考气泡",
+        "Left Thought Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EC",
+        "U+1F5EC",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「左思考气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ed-6013",
+      "emoji": "🗭",
+      "name": "右思考气泡",
+      "category": "行为",
+      "keywords": [
+        "右思考气泡",
+        "Right Thought Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5ED",
+        "U+1F5ED",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「右思考气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5ee-6014",
+      "emoji": "🗮",
+      "name": "左愤怒气泡",
+      "category": "行为",
+      "keywords": [
+        "左愤怒气泡",
+        "Left Anger Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5EE",
+        "U+1F5EE",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「左愤怒气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f0-6016",
+      "emoji": "🗰",
+      "name": "心情气泡",
+      "category": "行为",
+      "keywords": [
+        "心情气泡",
+        "Mood Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F0",
+        "U+1F5F0",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「心情气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f1-6017",
+      "emoji": "🗱",
+      "name": "闪电心情气泡",
+      "category": "行为",
+      "keywords": [
+        "闪电心情气泡",
+        "Lightning Mood Bubble",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F1",
+        "U+1F5F1",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「闪电心情气泡」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f2-6018",
+      "emoji": "🗲",
+      "name": "闪电心情",
+      "category": "行为",
+      "keywords": [
+        "闪电心情",
+        "Lightning Mood",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F2",
+        "U+1F5F2",
+        "符号",
+        "行为"
+      ],
+      "text": "可用于表达「闪电心情」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f4-6020",
+      "emoji": "🗴",
+      "name": "选票手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票手写叉号",
+        "Ballot Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F4",
+        "U+1F5F4",
+        "符号"
+      ],
+      "text": "可用于表达「选票手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f5-6021",
+      "emoji": "🗵",
+      "name": "选票图标带手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票图标带手写叉号",
+        "Ballot Box with Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F5",
+        "U+1F5F5",
+        "符号"
+      ],
+      "text": "可用于表达「选票图标带手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f6-6022",
+      "emoji": "🗶",
+      "name": "选票粗体手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票粗体手写叉号",
+        "Ballot Bold Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F6",
+        "U+1F5F6",
+        "符号"
+      ],
+      "text": "可用于表达「选票粗体手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f7-6023",
+      "emoji": "🗷",
+      "name": "选票图标带粗体手写叉号",
+      "category": "符号",
+      "keywords": [
+        "选票图标带粗体手写叉号",
+        "Ballot Box with Bold Script X",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F7",
+        "U+1F5F7",
+        "符号"
+      ],
+      "text": "可用于表达「选票图标带粗体手写叉号」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f8-6024",
+      "emoji": "🗸",
+      "name": "细勾选标记",
+      "category": "符号",
+      "keywords": [
+        "细勾选标记",
+        "Light Check Mark",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F8",
+        "U+1F5F8",
+        "符号"
+      ],
+      "text": "可用于表达「细勾选标记」相关含义。"
+    },
+    {
+      "id": "symbol-1f5f9-6025",
+      "emoji": "🗹",
+      "name": "选票图标带粗体勾选",
+      "category": "符号",
+      "keywords": [
+        "选票图标带粗体勾选",
+        "Ballot Box with Bold Check",
+        "Miscellaneous Symbols and Pictographs",
+        "1F5F9",
+        "U+1F5F9",
+        "符号"
+      ],
+      "text": "可用于表达「选票图标带粗体勾选」相关含义。"
+    },
+    {
+      "id": "symbol-1f900-6032",
+      "emoji": "🤀",
+      "name": "圆圈十字展开图标四点",
+      "category": "符号",
+      "keywords": [
+        "圆圈十字展开图标四点",
+        "Circled Cross Formee With Four Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F900",
+        "U+1F900",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈十字展开图标四点」相关含义。"
+    },
+    {
+      "id": "symbol-1f901-6033",
+      "emoji": "🤁",
+      "name": "圆圈十字展开图标双点",
+      "category": "符号",
+      "keywords": [
+        "圆圈十字展开图标双点",
+        "Circled Cross Formee With Two Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F901",
+        "U+1F901",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈十字展开图标双点」相关含义。"
+    },
+    {
+      "id": "symbol-1f902-6034",
+      "emoji": "🤂",
+      "name": "圆圈十字展开",
+      "category": "符号",
+      "keywords": [
+        "圆圈十字展开",
+        "Circled Cross Formee",
+        "Supplemental Symbols and Pictographs",
+        "1F902",
+        "U+1F902",
+        "符号"
+      ],
+      "text": "可用于表达「圆圈十字展开」相关含义。"
+    },
+    {
+      "id": "symbol-1f903-6035",
+      "emoji": "🤃",
+      "name": "左半圆图标四点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标四点",
+        "Left Half Circle With Four Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F903",
+        "U+1F903",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标四点」相关含义。"
+    },
+    {
+      "id": "symbol-1f904-6036",
+      "emoji": "🤄",
+      "name": "左半圆图标三点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标三点",
+        "Left Half Circle With Three Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F904",
+        "U+1F904",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标三点」相关含义。"
+    },
+    {
+      "id": "symbol-1f905-6037",
+      "emoji": "🤅",
+      "name": "左半圆图标双点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标双点",
+        "Left Half Circle With Two Dots",
+        "Supplemental Symbols and Pictographs",
+        "1F905",
+        "U+1F905",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标双点」相关含义。"
+    },
+    {
+      "id": "symbol-1f906-6038",
+      "emoji": "🤆",
+      "name": "左半圆图标点",
+      "category": "符号",
+      "keywords": [
+        "左半圆图标点",
+        "Left Half Circle With Dot",
+        "Supplemental Symbols and Pictographs",
+        "1F906",
+        "U+1F906",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆图标点」相关含义。"
+    },
+    {
+      "id": "symbol-1f907-6039",
+      "emoji": "🤇",
+      "name": "左半圆",
+      "category": "符号",
+      "keywords": [
+        "左半圆",
+        "Left Half Circle",
+        "Supplemental Symbols and Pictographs",
+        "1F907",
+        "U+1F907",
+        "符号"
+      ],
+      "text": "可用于表达「左半圆」相关含义。"
+    },
+    {
+      "id": "symbol-1f908-6040",
+      "emoji": "🤈",
+      "name": "下向钩",
+      "category": "符号",
+      "keywords": [
+        "下向钩",
+        "Downward Facing Hook",
+        "Supplemental Symbols and Pictographs",
+        "1F908",
+        "U+1F908",
+        "符号"
+      ],
+      "text": "可用于表达「下向钩」相关含义。"
+    },
+    {
+      "id": "symbol-1f909-6041",
+      "emoji": "🤉",
+      "name": "下向缺口钩",
+      "category": "符号",
+      "keywords": [
+        "下向缺口钩",
+        "Downward Facing Notched Hook",
+        "Supplemental Symbols and Pictographs",
+        "1F909",
+        "U+1F909",
+        "符号"
+      ],
+      "text": "可用于表达「下向缺口钩」相关含义。"
+    },
+    {
+      "id": "symbol-1f90a-6042",
+      "emoji": "🤊",
+      "name": "带点下向钩",
+      "category": "符号",
+      "keywords": [
+        "带点下向钩",
+        "Downward Facing Hook With Dot",
+        "Supplemental Symbols and Pictographs",
+        "1F90A",
+        "U+1F90A",
+        "符号"
+      ],
+      "text": "可用于表达「带点下向钩」相关含义。"
+    },
+    {
+      "id": "symbol-1f90b-6043",
+      "emoji": "🤋",
+      "name": "带点下向缺口钩",
+      "category": "符号",
+      "keywords": [
+        "带点下向缺口钩",
+        "Downward Facing Notched Hook With Dot",
+        "Supplemental Symbols and Pictographs",
+        "1F90B",
+        "U+1F90B",
+        "符号"
+      ],
+      "text": "可用于表达「带点下向缺口钩」相关含义。"
+    },
+    {
+      "id": "symbol-1f93b-6091",
+      "emoji": "🤻",
+      "name": "现代五项",
+      "category": "活动",
+      "keywords": [
+        "现代五项",
+        "Modern Pentathlon",
+        "Supplemental Symbols and Pictographs",
+        "1F93B",
+        "U+1F93B",
+        "符号",
+        "活动"
+      ],
+      "text": "可用于表达「现代五项」相关含义。"
+    },
+    {
+      "id": "symbol-1f946-6102",
+      "emoji": "🥆",
+      "name": "步枪",
+      "category": "物品",
+      "keywords": [
+        "步枪",
+        "Rifle",
+        "Supplemental Symbols and Pictographs",
+        "1F946",
+        "U+1F946",
+        "符号",
+        "物品"
+      ],
+      "text": "可用于表达「步枪」相关含义。"
     }
   ]
 }

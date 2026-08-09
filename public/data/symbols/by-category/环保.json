@@ -6,7 +6,6 @@
       "id": "symbol-2672-410",
       "symbol": "♲",
       "name": "可循环利用",
-      "pronunciation": "",
       "category": [
         "环保"
       ],
@@ -23,12 +22,12 @@
     {
       "id": "symbol-2673-411",
       "symbol": "♳",
-      "name": "PET&PETE",
-      "pronunciation": "",
+      "name": "1号塑料回收标志（PET）",
       "category": [
         "环保"
       ],
       "searchTerms": [
+        "1号塑料回收标志（PET）",
         "PET&PETE",
         "环保",
         "2673",
@@ -41,12 +40,12 @@
     {
       "id": "symbol-2674-412",
       "symbol": "♴",
-      "name": "HDPE",
-      "pronunciation": "",
+      "name": "2号塑料回收标志（HDPE）",
       "category": [
         "环保"
       ],
       "searchTerms": [
+        "2号塑料回收标志（HDPE）",
         "HDPE",
         "环保",
         "2674",
@@ -59,12 +58,12 @@
     {
       "id": "symbol-2675-413",
       "symbol": "♵",
-      "name": "PVC",
-      "pronunciation": "",
+      "name": "3号塑料回收标志（PVC）",
       "category": [
         "环保"
       ],
       "searchTerms": [
+        "3号塑料回收标志（PVC）",
         "PVC",
         "环保",
         "2675",
@@ -77,12 +76,12 @@
     {
       "id": "symbol-2676-414",
       "symbol": "♶",
-      "name": "LDPE",
-      "pronunciation": "",
+      "name": "4号塑料回收标志（LDPE）",
       "category": [
         "环保"
       ],
       "searchTerms": [
+        "4号塑料回收标志（LDPE）",
         "LDPE",
         "环保",
         "2676",
@@ -95,12 +94,12 @@
     {
       "id": "symbol-2677-415",
       "symbol": "♷",
-      "name": "PP",
-      "pronunciation": "",
+      "name": "5号塑料回收标志（PP）",
       "category": [
         "环保"
       ],
       "searchTerms": [
+        "5号塑料回收标志（PP）",
         "PP",
         "环保",
         "2677",
@@ -113,12 +112,12 @@
     {
       "id": "symbol-2678-416",
       "symbol": "♸",
-      "name": "PS",
-      "pronunciation": "",
+      "name": "6号塑料回收标志（PS）",
       "category": [
         "环保"
       ],
       "searchTerms": [
+        "6号塑料回收标志（PS）",
         "PS",
         "环保",
         "2678",
@@ -131,12 +130,12 @@
     {
       "id": "symbol-2679-417",
       "symbol": "♹",
-      "name": "PC",
-      "pronunciation": "",
+      "name": "7号塑料回收标志（其他塑料）",
       "category": [
         "环保"
       ],
       "searchTerms": [
+        "7号塑料回收标志（其他塑料）",
         "PC",
         "环保",
         "2679",
@@ -150,7 +149,6 @@
       "id": "symbol-267a-418",
       "symbol": "♺",
       "name": "塑料回收",
-      "pronunciation": "",
       "category": [
         "环保"
       ],
@@ -168,7 +166,6 @@
       "id": "symbol-267b-419",
       "symbol": "♻",
       "name": "回收",
-      "pronunciation": "",
       "category": [
         "环保"
       ],
@@ -186,7 +183,6 @@
       "id": "symbol-267c-420",
       "symbol": "♼",
       "name": "国际废弃物",
-      "pronunciation": "",
       "category": [
         "环保"
       ],
@@ -204,7 +200,6 @@
       "id": "symbol-267d-421",
       "symbol": "♽",
       "name": "部分回收",
-      "pronunciation": "",
       "category": [
         "环保"
       ],
