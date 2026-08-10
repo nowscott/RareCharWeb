@@ -6,6 +6,7 @@ import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 import ChunkLoadRecovery from '@/components/ChunkLoadRecovery';
 import FontHealthChecker from '@/components/FontHealthChecker';
 import SmoothScrollProvider from '@/components/SmoothScrollProvider';
+import Providers from './providers';
 
 export const metadata: Metadata = {
   title: "复制符 - 特殊符号查询工具",
@@ -61,12 +62,14 @@ export default function RootLayout({
         <link rel="preconnect" href="https://f.0211120.xyz" crossOrigin="anonymous" />
       </head>
       <body className="antialiased">
-        <SmoothScrollProvider>
-          <ChunkLoadRecovery />
-          <ServiceWorkerRegister />
-          {children}
-          <FontHealthChecker />
-        </SmoothScrollProvider>
+        <Providers>
+          <SmoothScrollProvider>
+            <ChunkLoadRecovery />
+            <ServiceWorkerRegister />
+            {children}
+            <FontHealthChecker />
+          </SmoothScrollProvider>
+        </Providers>
       </body>
     </html>
   );
