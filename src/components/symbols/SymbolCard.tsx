@@ -1,17 +1,14 @@
-import React, { useState } from 'react';
+import React, { memo, useState } from 'react';
 import { SymbolData } from '@/lib/core/types';
 import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 import { getSymbolClassName } from '@/lib/font/fontUtils';
 
 interface SymbolCardProps {
-  symbol: SymbolData | {
-    symbol: string;
-    name: string;
-  };
-  onClick?: () => void;
+  symbol: SymbolData;
+  onSelect?: (symbol: SymbolData) => void;
 }
 
-const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
+const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onSelect }) => {
   const [copySuccess, setCopySuccess] = useState(false);
   const variantCount = 'variants' in symbol ? symbol.variants?.length ?? 0 : 0;
 
@@ -28,7 +25,7 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
   return (
     <LiquidGlassSurface
       variant="card"
-      onClick={onClick}
+      onClick={() => onSelect?.(symbol)}
       className="liquid-card p-3 sm:p-4 flex flex-col items-center justify-center cursor-pointer h-28 sm:h-32 relative group touch-manipulation"
     >
       {variantCount > 0 && (
@@ -60,4 +57,4 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onClick }) => {
   );
 };
 
-export default SymbolCard;
+export default memo(SymbolCard);
