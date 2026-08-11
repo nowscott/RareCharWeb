@@ -21,9 +21,8 @@ export function searchSymbols(symbols: SymbolData[], query: string): SymbolData[
       symbol.name.toLowerCase().includes(lowerQuery) ||
       symbol.notes.toLowerCase().includes(lowerQuery) ||
       symbol.searchTerms.some((term: string) => term.toLowerCase().includes(lowerQuery));
-    const pinyinMatch = (symbol._namePinyin ?? '').includes(lowerQuery) ||
-      (symbol._notesPinyin ?? '').includes(lowerQuery) ||
-      (symbol._searchTermsPinyin ?? []).some(termPinyin => termPinyin.includes(lowerQuery));
+    const pinyinMatch = (symbol._searchPinyin ?? [])
+      .some(termPinyin => termPinyin.includes(lowerQuery));
     
     return basicMatch || pinyinMatch;
   });

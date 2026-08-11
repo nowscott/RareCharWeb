@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T14:55:26.743Z",
+  "generatedAt": "2026-08-11T07:48:32.940Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
@@ -17,6 +17,7 @@
   "outputs": {
     "symbols": {
       "items": "symbols/items.json",
+      "searchPinyin": "symbols/search-pinyin.json",
       "byCategory": [
         {
           "id": "标点",
@@ -160,6 +161,7 @@
     },
     "emojis": {
       "items": "emojis/items.json",
+      "searchPinyin": "emojis/search-pinyin.json",
       "byCategory": [
         {
           "id": "地理",

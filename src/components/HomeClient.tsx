@@ -6,7 +6,7 @@ import { CategoryStat, PaginatedSymbolResponse } from '@/lib/core/types';
 import { SearchBar, CategoryNav } from '@/components/navigation';
 import { SymbolList } from '@/components/symbols';
 import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
-import { optimizeSymbolRendering, waitForFontsLoad } from '@/lib/font/fontUtils';
+import { optimizeSymbolRendering } from '@/lib/font/fontUtils';
 
 interface HomeClientProps {
   apiEndpoint: string;
@@ -29,17 +29,33 @@ export default function HomeClient({
 }: HomeClientProps) {
   const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
+  const [debouncedSearchQuery, setDebouncedSearchQuery] = useState('');
+  const [isSearchComposing, setIsSearchComposing] = useState(false);
 
   useEffect(() => {
     optimizeSymbolRendering();
-    waitForFontsLoad().catch((error) => {
-      console.warn('Font loading failed:', error);
-    });
+  }, []);
+
+  useEffect(() => {
+    if (isSearchComposing) return;
+    if (!searchQuery) return;
+
+    const timer = window.setTimeout(() => {
+      setDebouncedSearchQuery(searchQuery);
+    }, 300);
+
+    return () => window.clearTimeout(timer);
+  }, [isSearchComposing, searchQuery]);
+
+  const handleSearchChange = useCallback((query: string) => {
+    setSearchQuery(query);
+    if (!query) setDebouncedSearchQuery('');
   }, []);
 
   const handleCategoryChange = useCallback((category: string) => {
     setActiveCategory(category);
     setSearchQuery('');
+    setDebouncedSearchQuery('');
   }, []);
 
   return (
@@ -58,6 +74,7 @@ export default function HomeClient({
                   <LiquidGlassSurface variant="pill" active={pageTitle === "复制符"} tone="symbol">
                     <Link
                       href="/home"
+                      prefetch={false}
                       className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "复制符" ? 'text-white' : ''}`}
                     >
                       <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -69,6 +86,7 @@ export default function HomeClient({
                   <LiquidGlassSurface variant="pill" active={pageTitle === "Emoji"} tone="emoji">
                     <Link
                       href="/emoji"
+                      prefetch={false}
                       className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "Emoji" ? 'text-white' : ''}`}
                     >
                       <span className="text-lg">😀</span>
@@ -78,6 +96,7 @@ export default function HomeClient({
                   <LiquidGlassSurface variant="pill" active={pageTitle === "关于"} tone="about">
                     <Link
                       href="/about"
+                      prefetch={false}
                       className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "关于" ? 'text-white' : ''}`}
                     >
                       <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -93,7 +112,11 @@ export default function HomeClient({
         </nav>
 
         <div className="mb-6">
-          <SearchBar value={searchQuery} onSearch={setSearchQuery} />
+          <SearchBar
+            value={searchQuery}
+            onSearch={handleSearchChange}
+            onCompositionChange={setIsSearchComposing}
+          />
         </div>
 
         <div className="mb-6">
@@ -108,7 +131,7 @@ export default function HomeClient({
           key={apiEndpoint}
           apiEndpoint={apiEndpoint}
           category={activeCategory}
-          searchQuery={searchQuery}
+          searchQuery={debouncedSearchQuery}
           initialData={initialData}
           initialSeed={initialSeed}
         />

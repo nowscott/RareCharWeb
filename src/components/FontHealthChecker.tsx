@@ -2,7 +2,6 @@
 
 import { useCallback, useEffect, useState } from 'react';
 import { getFontDebugInfo } from '@/lib/font/fontUtils';
-import { getFontCacheStatus } from '@/lib/font/fontCache';
 
 interface FontHealthData {
   available: string[];
@@ -24,19 +23,8 @@ interface DebugInfo {
 }
 
 export default function FontHealthChecker() {
-  const isProduction = process.env.NODE_ENV === 'production';
-  const [isEnabled, setIsEnabled] = useState(() => !isProduction);
   const [isOpen, setIsOpen] = useState(false);
   const [debugInfo, setDebugInfo] = useState<DebugInfo | null>(null);
-  const [fontCacheStatus, setFontCacheStatus] = useState<{
-    isValid: boolean;
-    ageHours: number;
-    timestamp: number;
-    version: string;
-    loadedFonts: number;
-    cachedFonts: number;
-    availableFonts: number;
-  } | null>(null);
   const [isLoading, setIsLoading] = useState(false);
 
   const runHealthCheck = useCallback(async () => {
@@ -44,10 +32,6 @@ export default function FontHealthChecker() {
     try {
       const info = await getFontDebugInfo();
       setDebugInfo(info as DebugInfo);
-      
-      // 获取字体缓存状态
-      const cacheStatus = getFontCacheStatus();
-      setFontCacheStatus(cacheStatus);
     } catch (error) {
       console.error('Font health check failed:', error);
     } finally {
@@ -55,21 +39,9 @@ export default function FontHealthChecker() {
     }
   }, []);
 
-
-
   useEffect(() => {
-    if (!isProduction) return;
-    setIsEnabled(window.localStorage.getItem('rarechar_font_debug') === '1');
-  }, [isProduction]);
-
-  useEffect(() => {
-    if (!isEnabled) return;
     runHealthCheck();
-  }, [isEnabled, runHealthCheck]);
-
-  if (!isEnabled) {
-    return null;
-  }
+  }, [runHealthCheck]);
 
   if (!isOpen) {
     return (
@@ -116,19 +88,6 @@ export default function FontHealthChecker() {
                 <p>字体API支持: {debugInfo.fontLoadingAPISupported ? '✅' : '❌'}</p>
               </div>
             </div>
-
-            {fontCacheStatus && (
-               <div>
-                 <h4 className="font-medium text-gray-900 dark:text-white mb-1">字体缓存状态</h4>
-                 <div className="text-gray-600 dark:text-gray-300 space-y-1">
-                   <p>缓存有效: {fontCacheStatus.isValid ? '✅' : '❌'}</p>
-                   <p>缓存时间: {fontCacheStatus.ageHours}小时前</p>
-                   <p>已加载字体: {fontCacheStatus.loadedFonts}个</p>
-                   <p>可用字体: {fontCacheStatus.availableFonts}个</p>
-
-                 </div>
-               </div>
-             )}
 
             <div>
               <h4 className="font-medium text-gray-900 dark:text-white mb-1">可用字体 ({debugInfo.fontHealth.available.length})</h4>

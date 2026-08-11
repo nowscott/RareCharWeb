@@ -6,9 +6,10 @@ import { LiquidGlassSurface } from '@/components/ui/LiquidGlassSurface';
 interface SearchBarProps {
   value: string;
   onSearch: (query: string) => void;
+  onCompositionChange?: (isComposing: boolean) => void;
 }
 
-const SearchBar: React.FC<SearchBarProps> = ({ value, onSearch }) => {
+const SearchBar: React.FC<SearchBarProps> = ({ value, onSearch, onCompositionChange }) => {
   const inputId = 'search-input'; // 使用固定 ID 避免 Hydration 错误
 
   return (
@@ -28,6 +29,11 @@ const SearchBar: React.FC<SearchBarProps> = ({ value, onSearch }) => {
             placeholder="输入检索词，实时显示结果..."
             value={value}
             onChange={(e) => onSearch(e.target.value)}
+            onCompositionStart={() => onCompositionChange?.(true)}
+            onCompositionEnd={(e) => {
+              onSearch(e.currentTarget.value);
+              onCompositionChange?.(false);
+            }}
             autoComplete="off"
           />
         </div>

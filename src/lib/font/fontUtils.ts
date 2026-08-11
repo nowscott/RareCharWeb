@@ -8,11 +8,6 @@
  * - 符号渲染优化
  */
 
-import {
-  isFontAvailable as isCachedFontAvailable,
-  preloadCriticalFonts as preloadCachedCriticalFonts
-} from './fontCache';
-
 // 字体栈配置类型
 type FontStack = {
   primary: string[];
@@ -94,17 +89,9 @@ export const getSymbolFontStackForDevice = (deviceType: DeviceType): string => {
   return buildFontStack(fontStack);
 };
 
-// 检测字体是否可用 - 使用字体缓存系统
+// 检测字体是否可用
 export const isFontAvailable = async (fontName: string): Promise<boolean> => {
-  if (typeof window === 'undefined') return false;
-
-  try {
-    // 使用字体缓存系统的检测功能
-    return isCachedFontAvailable(fontName);
-  } catch (error) {
-    console.warn(`Font availability check failed for ${fontName}:`, error);
-    return false;
-  }
+  return isFontAvailableSync(fontName);
 };
 
 // 同步版本的字体检测（向后兼容）
@@ -169,44 +156,6 @@ export const applySymbolFont = (element: HTMLElement): void => {
     style.webkitTextSizeAdjust = '100%';
     element.style.fontFeatureSettings = 'normal';
   }
-};
-
-// 字体加载状态检测和性能监控
-let fontLoadStartTime: number | null = null;
-
-export const waitForFontsLoad = async (): Promise<void> => {
-  if (typeof window === 'undefined' || !('fonts' in document)) {
-    return Promise.resolve();
-  }
-  
-  try {
-    fontLoadStartTime = performance.now();
-    await document.fonts.ready;
-    
-    // 记录字体加载时间
-    if (fontLoadStartTime) {
-      const loadTime = performance.now() - fontLoadStartTime;
-      console.debug(`Fonts loaded in ${loadTime.toFixed(2)}ms`);
-    }
-    
-    // 额外等待一小段时间确保字体完全加载
-    return new Promise(resolve => {
-      setTimeout(resolve, 100);
-    });
-  } catch (error) {
-    console.warn('Font loading detection failed:', error);
-    return Promise.resolve();
-  }
-};
-
-
-
-// 预加载关键字体 - 集成字体缓存系统
-export const preloadCriticalFonts = async (): Promise<void> => {
-  if (typeof window === 'undefined') return;
-
-  // 使用字体缓存系统的预加载功能
-  await preloadCachedCriticalFonts();
 };
 
 // 字体健康检查 - 诊断字体加载问题
@@ -283,10 +232,6 @@ export const optimizeSymbolRendering = (): void => {
     if (isSafari()) {
       body.classList.add('safari-browser');
     }
-    
-    // 预加载关键字体
-    preloadCriticalFonts();
-    
     console.debug('Symbol rendering optimization applied for:', getDeviceType());
   } catch (error) {
     console.error('Failed to optimize symbol rendering:', error);

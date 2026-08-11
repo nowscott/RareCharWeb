@@ -60,6 +60,9 @@ function toDisplaySymbol(group: SymbolData[]): SymbolData {
         ...variant.searchTerms
       ])
     ]),
+    _searchSourceIds: uniqueCompact(
+      group.flatMap((symbol) => symbol._searchSourceIds ?? [symbol.id ?? symbol.symbol])
+    ),
     variants: variants.length > 0 ? variants : undefined
   };
 }

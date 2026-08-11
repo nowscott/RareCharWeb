@@ -1,6 +1,5 @@
 import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
-import { pinyin } from 'pinyin';
 import { calculateCategoryStats } from '@/lib/core/apiUtils';
 import { EmojiData, PaginatedSymbolResponse, SymbolData, SymbolDataResponse } from '@/lib/core/types';
 import { groupEmojiSkinToneVariants } from '@/lib/core/emojiVariants';
@@ -18,6 +17,12 @@ export interface PaginatedParams {
 let _symbolsCache: SymbolDataResponse | null = null;
 let _emojiCache: SymbolDataResponse | null = null;
 let _manifestCache: DataManifest | null = null;
+let _manifestPromise: Promise<DataManifest> | null = null;
+const _searchIndexPromises: Partial<Record<DatasetType, Promise<Map<string, string[]>>>> = {};
+const _attachedSearchIndexes = new Set<DatasetType>();
+const _warnedSearchIndexes = new Set<DatasetType>();
+
+type DatasetType = 'symbols' | 'emojis';
 
 export interface DataManifest {
   generatedAt?: string;
@@ -28,10 +33,12 @@ export interface DataManifest {
   outputs?: {
     symbols?: {
       items?: string;
+      searchPinyin?: string;
       byCategory?: DataManifestCategory[];
     };
     emojis?: {
       items?: string;
+      searchPinyin?: string;
       byCategory?: DataManifestCategory[];
     };
   };
@@ -55,6 +62,11 @@ interface CategoryShard<T> {
   items?: T[];
 }
 
+interface SearchPinyinIndexFile {
+  schemaVersion?: unknown;
+  items?: unknown;
+}
+
 function getPublicDataPath(...segments: string[]) {
   return join(process.cwd(), 'public', 'data', ...segments);
 }
@@ -66,44 +78,27 @@ async function getDataVersion(type: 'symbols' | 'emojis'): Promise<string> {
 }
 
 async function getManifest(): Promise<DataManifest> {
-  if (!_manifestCache) {
-    const raw = await readFile(getPublicDataPath('manifest.json'), 'utf8');
-    _manifestCache = JSON.parse(raw) as DataManifest;
+  if (_manifestCache) return _manifestCache;
+
+  if (!_manifestPromise) {
+    _manifestPromise = readFile(getPublicDataPath('manifest.json'), 'utf8')
+      .then((raw) => {
+        _manifestCache = JSON.parse(raw) as DataManifest;
+        return _manifestCache;
+      });
   }
 
-  return _manifestCache;
+  return _manifestPromise;
 }
 
 export async function getLocalDataManifest(): Promise<DataManifest> {
   return getManifest();
 }
 
-/**
- * 为 SymbolData 预计算拼音搜索字段
- * 避免客户端每次按键都调用 pinyin()（1000 条 × 3 字段 = 3000 次/按键）
- */
-function precomputePinyin(symbols: SymbolData[]): void {
-  for (const s of symbols) {
-    try {
-      s._namePinyin = pinyin(s.name, { style: 'normal', heteronym: false }).join('').toLowerCase();
-      s._notesPinyin = pinyin(s.notes, { style: 'normal', heteronym: false }).join('').toLowerCase();
-      s._searchTermsPinyin = s.searchTerms.map(term =>
-        pinyin(term, { style: 'normal', heteronym: false }).join('').toLowerCase()
-      );
-    } catch {
-      // 拼音转换失败则置空
-      s._namePinyin = '';
-      s._notesPinyin = '';
-      s._searchTermsPinyin = [];
-    }
-  }
-}
-
 export async function getLocalSymbolDataResponse(): Promise<SymbolDataResponse> {
   if (_symbolsCache) return _symbolsCache;
 
   const symbols = await loadSymbolsFromCategoryShards();
-  precomputePinyin(symbols);
 
   const categoryStats = calculateCategoryStats(symbols);
   const version = await getDataVersion('symbols');
@@ -133,10 +128,9 @@ export async function getLocalEmojiDataResponse(): Promise<SymbolDataResponse> {
     category: [emoji.category],
     searchTerms: emoji.keywords || [],
     notes: emoji.text || '',
-    _variantBaseSymbol: emoji.variantBase
+    _variantBaseSymbol: emoji.variantBase,
+    _searchSourceIds: [emoji.id ?? emoji.emoji]
   })));
-
-  precomputePinyin(symbols);
 
   const categoryStats = calculateCategoryStats(symbols);
 
@@ -236,13 +230,87 @@ function dedupeRecords<T>(records: T[], getKey: (record: T) => string): T[] {
  * 对已缓存的符号数据进行分页查询，支持分类筛选、搜索和随机打乱
  */
 export async function getPaginatedSymbols(params: PaginatedParams): Promise<PaginatedSymbolResponse> {
-  const data = await getLocalSymbolDataResponse();
+  const [data, searchIndex] = await Promise.all([
+    getLocalSymbolDataResponse(),
+    params.search?.trim() ? getSearchPinyinIndex('symbols') : null
+  ]);
+  attachSearchPinyin('symbols', data.symbols, searchIndex);
   return paginateSymbols(data.symbols, params);
 }
 
 export async function getPaginatedEmoji(params: PaginatedParams): Promise<PaginatedSymbolResponse> {
-  const data = await getLocalEmojiDataResponse();
+  const [data, searchIndex] = await Promise.all([
+    getLocalEmojiDataResponse(),
+    params.search?.trim() ? getSearchPinyinIndex('emojis') : null
+  ]);
+  attachSearchPinyin('emojis', data.symbols, searchIndex);
   return paginateSymbols(data.symbols, params);
+}
+
+async function getSearchPinyinIndex(type: DatasetType): Promise<Map<string, string[]> | null> {
+  if (!_searchIndexPromises[type]) {
+    _searchIndexPromises[type] = loadSearchPinyinIndex(type);
+  }
+  const searchIndexPromise = _searchIndexPromises[type];
+
+  try {
+    return await searchIndexPromise;
+  } catch (error) {
+    if (_searchIndexPromises[type] === searchIndexPromise) {
+      delete _searchIndexPromises[type];
+    }
+    if (!_warnedSearchIndexes.has(type)) {
+      _warnedSearchIndexes.add(type);
+      console.warn(`Failed to load ${type} search pinyin index; using basic search only.`, error);
+    }
+    return null;
+  }
+}
+
+async function loadSearchPinyinIndex(type: DatasetType): Promise<Map<string, string[]>> {
+  const manifest = await getManifest();
+  const file = manifest.outputs?.[type]?.searchPinyin;
+  if (!file) throw new Error(`Missing ${type} search pinyin output in manifest`);
+
+  const data = await readJsonData<SearchPinyinIndexFile>(file);
+  if (data.schemaVersion !== 1 || !Array.isArray(data.items)) {
+    throw new Error(`Invalid ${type} search pinyin index`);
+  }
+
+  const index = new Map<string, string[]>();
+  for (const item of data.items) {
+    if (!Array.isArray(item) || typeof item[0] !== 'string' || !Array.isArray(item[1])) {
+      throw new Error(`Invalid ${type} search pinyin index entry`);
+    }
+
+    const values = item[1];
+    if (!values.every((value) => typeof value === 'string')) {
+      throw new Error(`Invalid ${type} search pinyin values for ${item[0]}`);
+    }
+    if (index.has(item[0])) throw new Error(`Duplicate ${type} search pinyin key: ${item[0]}`);
+    index.set(item[0], values);
+  }
+
+  const expectedCount = manifest.datasets?.[type]?.online;
+  if (typeof expectedCount === 'number' && index.size !== expectedCount) {
+    throw new Error(`${type} search pinyin count mismatch: ${index.size} !== ${expectedCount}`);
+  }
+
+  return index;
+}
+
+function attachSearchPinyin(
+  type: DatasetType,
+  symbols: SymbolData[],
+  index: Map<string, string[]> | null
+): void {
+  if (!index || _attachedSearchIndexes.has(type)) return;
+
+  for (const symbol of symbols) {
+    const sourceIds = symbol._searchSourceIds ?? [symbol.id ?? symbol.symbol];
+    symbol._searchPinyin = [...new Set(sourceIds.flatMap((id) => index.get(id) ?? []))];
+  }
+  _attachedSearchIndexes.add(type);
 }
 
 function toClientSymbol(symbol: SymbolData): SymbolData {

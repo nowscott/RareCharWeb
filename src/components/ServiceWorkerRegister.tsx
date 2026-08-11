@@ -2,138 +2,49 @@
 
 import { useEffect } from 'react';
 
-// Service Worker 注册组件
+const LEGACY_FONT_CACHE_NAMES = new Set([
+  'rarechar-fonts-v1',
+  'rarechar-fonts-cache'
+]);
+
 export default function ServiceWorkerRegister() {
   useEffect(() => {
-    const registerServiceWorker = async () => {
+    const removeLegacyCaches = async () => {
       try {
-        // console.log('[SW] Registering service worker...');
-        
-        const registration = await navigator.serviceWorker.register('/sw.js', {
-          scope: '/'
-        });
-
-        // console.log('[SW] Service worker registered successfully:', registration.scope);
-
-        // 监听更新
-        registration.addEventListener('updatefound', () => {
-          const newWorker = registration.installing;
-          if (newWorker) {
-            // console.log('[SW] New service worker installing...');
-            
-            newWorker.addEventListener('statechange', () => {
-              if (newWorker.state === 'installed') {
-                if (navigator.serviceWorker.controller) {
-                  // console.log('[SW] New service worker installed, update available');
-                  // 可以在这里通知用户有更新
-                } else {
-                  // console.log('[SW] Service worker installed for the first time');
-                }
-              }
-            });
-          }
-        });
-
-        // 监听控制器变化
-        navigator.serviceWorker.addEventListener('controllerchange', () => {
-          // console.log('[SW] Service worker controller changed');
-        });
-
+        window.localStorage.removeItem('rarechar_font_cache');
       } catch (error) {
-        console.error('[SW] Service worker registration failed:', error);
+        console.warn('[SW] Failed to remove legacy font metadata:', error);
+      }
+      if (!('caches' in window)) return;
+
+      const cacheNames = await window.caches.keys();
+      await Promise.all(
+        cacheNames
+          .filter((cacheName) => LEGACY_FONT_CACHE_NAMES.has(cacheName))
+          .map((cacheName) => window.caches.delete(cacheName))
+      );
+    };
+
+    const updateLegacyWorker = async () => {
+      if (!('serviceWorker' in navigator)) return;
+
+      try {
+        const rootScope = new URL('/', window.location.href).href;
+        const registrations = await navigator.serviceWorker.getRegistrations();
+        await Promise.all(
+          registrations
+            .filter((registration) => registration.scope === rootScope)
+            .map((registration) => registration.update())
+        );
+      } catch (error) {
+        console.warn('[SW] Failed to update legacy service worker:', error);
       }
     };
 
-    // 检查浏览器是否支持Service Worker
-    if ('serviceWorker' in navigator) {
-      if (process.env.NODE_ENV !== 'production') {
-        navigator.serviceWorker.getRegistrations()
-          .then((registrations) => Promise.all(registrations.map((registration) => registration.unregister())))
-          .catch((error) => {
-            console.warn('[SW] Failed to unregister service workers in development:', error);
-          });
-        return;
-      }
-
-      registerServiceWorker();
-    } else {
-      console.warn('[SW] Service Worker not supported in this browser');
-    }
+    Promise.all([removeLegacyCaches(), updateLegacyWorker()]).catch((error) => {
+      console.warn('[SW] Legacy cleanup failed:', error);
+    });
   }, []);
 
-  // 清除字体缓存的工具函数
-  const clearFontCache = async (): Promise<boolean> => {
-    if (!('serviceWorker' in navigator) || !navigator.serviceWorker.controller) {
-      console.warn('[SW] Service worker not available for cache clearing');
-      return false;
-    }
-
-    try {
-      const messageChannel = new MessageChannel();
-      
-      return new Promise((resolve) => {
-        messageChannel.port1.onmessage = (event) => {
-          resolve(event.data.success);
-        };
-        
-        navigator.serviceWorker.controller!.postMessage(
-          { type: 'CLEAR_FONT_CACHE' },
-          [messageChannel.port2]
-        );
-      });
-    } catch (error) {
-      console.error('[SW] Failed to clear font cache:', error);
-      return false;
-    }
-  };
-
-  // 获取缓存状态的工具函数
-  const getCacheStatus = async (): Promise<{ cacheSize: number; cachedUrls: string[] } | null> => {
-    if (!('serviceWorker' in navigator) || !navigator.serviceWorker.controller) {
-      return null;
-    }
-
-    try {
-      const messageChannel = new MessageChannel();
-      
-      return new Promise((resolve) => {
-        messageChannel.port1.onmessage = (event) => {
-          resolve(event.data);
-        };
-        
-        navigator.serviceWorker.controller!.postMessage(
-          { type: 'GET_CACHE_STATUS' },
-          [messageChannel.port2]
-        );
-      });
-    } catch (error) {
-      console.error('[SW] Failed to get cache status:', error);
-      return null;
-    }
-  };
-
-  // 将工具函数暴露到全局，供其他组件使用
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      (window as unknown as { fontCacheUtils: { clearFontCache: () => Promise<boolean>; getCacheStatus: () => Promise<{ cacheSize: number; cachedUrls: string[] } | null> } }).fontCacheUtils = {
-        clearFontCache,
-        getCacheStatus
-      };
-    }
-  }, []);
-
-  return null; // 这个组件不渲染任何内容
-}
-
-// 类型定义
-export interface FontCacheUtils {
-  clearFontCache: () => Promise<boolean>;
-  getCacheStatus: () => Promise<{ cacheSize: number; cachedUrls: string[] } | null>;
-}
-
-// 声明全局类型
-declare global {
-  interface Window {
-    fontCacheUtils?: FontCacheUtils;
-  }
+  return null;
 }

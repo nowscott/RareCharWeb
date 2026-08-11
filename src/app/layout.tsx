@@ -1,11 +1,9 @@
 import type { Metadata } from 'next';
 import React from 'react';
-import 'lenis/dist/lenis.css';
 import "./styles/globals.css";
 import ServiceWorkerRegister from '@/components/ServiceWorkerRegister';
 import ChunkLoadRecovery from '@/components/ChunkLoadRecovery';
-import FontHealthChecker from '@/components/FontHealthChecker';
-import SmoothScrollProvider from '@/components/SmoothScrollProvider';
+import FontHealthLoader from '@/components/FontHealthLoader';
 import Providers from './providers';
 
 export const metadata: Metadata = {
@@ -30,28 +28,6 @@ export default function RootLayout({
           href="https://f.0211120.xyz/font/%E5%BE%97%E6%84%8F%E9%BB%91/result.css" 
           crossOrigin="anonymous"
         />
-        <link
-          rel="preload"
-          href="/fonts/noto-serif/noto-serif-symbols.ttf"
-          as="font"
-          type="font/ttf"
-          crossOrigin="anonymous"
-        />
-        <link
-          rel="preload"
-          href="/fonts/noto-sans-symbols-2/NotoSansSymbols2-Regular.ttf"
-          as="font"
-          type="font/ttf"
-          crossOrigin="anonymous"
-        />
-        <link
-          rel="preload"
-          href="/fonts/noto-sans-math/NotoSansMath-Regular.ttf"
-          as="font"
-          type="font/ttf"
-          crossOrigin="anonymous"
-        />
-        
         {/* 移动端优化 */}
         <meta name="format-detection" content="telephone=no" />
         <meta name="mobile-web-app-capable" content="yes" />
@@ -63,12 +39,10 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         <Providers>
-          <SmoothScrollProvider>
-            <ChunkLoadRecovery />
-            <ServiceWorkerRegister />
-            {children}
-            <FontHealthChecker />
-          </SmoothScrollProvider>
+          <ChunkLoadRecovery />
+          <ServiceWorkerRegister />
+          {children}
+          <FontHealthLoader />
         </Providers>
       </body>
     </html>

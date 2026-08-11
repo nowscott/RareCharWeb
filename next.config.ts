@@ -10,19 +10,11 @@ const nextConfig: NextConfig = {
   ],
   
   
-  // 静态资源缓存配置
+  // 字体文件缓存配置
   async headers() {
+    if (process.env.NODE_ENV !== 'production') return [];
+
     return [
-      {
-        source: '/_next/static/(.*)',
-        headers: [
-          {
-            key: 'Cache-Control',
-            value: 'public, max-age=31536000, immutable',
-          },
-        ],
-      },
-      // 字体文件缓存配置
       {
         source: '/fonts/(.*)',
         headers: [
