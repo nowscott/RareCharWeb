@@ -9,7 +9,6 @@ export default function NavigationButtons() {
       <LiquidGlassSurface variant="pill">
         <Link
           href="/home"
-          prefetch={false}
           className="liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95"
         >
           <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -21,7 +20,6 @@ export default function NavigationButtons() {
       <LiquidGlassSurface variant="pill">
         <Link
           href="/emoji"
-          prefetch={false}
           className="liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95"
         >
           <span className="text-lg">😀</span>
@@ -31,7 +29,6 @@ export default function NavigationButtons() {
       <LiquidGlassSurface variant="pill" active tone="about">
         <Link
           href="/about"
-          prefetch={false}
           className="liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base text-white touch-manipulation active:scale-95"
         >
           <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">

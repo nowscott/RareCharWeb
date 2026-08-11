@@ -74,7 +74,6 @@ export default function HomeClient({
                   <LiquidGlassSurface variant="pill" active={pageTitle === "复制符"} tone="symbol">
                     <Link
                       href="/home"
-                      prefetch={false}
                       className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "复制符" ? 'text-white' : ''}`}
                     >
                       <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -86,7 +85,6 @@ export default function HomeClient({
                   <LiquidGlassSurface variant="pill" active={pageTitle === "Emoji"} tone="emoji">
                     <Link
                       href="/emoji"
-                      prefetch={false}
                       className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "Emoji" ? 'text-white' : ''}`}
                     >
                       <span className="text-lg">😀</span>
@@ -96,7 +94,6 @@ export default function HomeClient({
                   <LiquidGlassSurface variant="pill" active={pageTitle === "关于"} tone="about">
                     <Link
                       href="/about"
-                      prefetch={false}
                       className={`liquid-nav-button liquid-focus px-3 py-2 sm:px-4 sm:py-2 flex items-center justify-center sm:justify-start sm:space-x-2 text-sm sm:text-base touch-manipulation active:scale-95 ${pageTitle === "关于" ? 'text-white' : ''}`}
                     >
                       <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:h-5 sm:w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
