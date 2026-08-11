@@ -4,6 +4,7 @@ import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { pinyin } from 'pinyin';
+import { findTextDefaultEmojiSymbolOverlaps } from './emoji-boundary.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const rootDir = join(__dirname, '..');
@@ -47,6 +48,10 @@ async function main() {
   const emojis = getItems(emojiItems, 'emojis/items.json');
   const pendingSymbolItems = getItems(pendingSymbols, 'pending/symbols.json');
   const pendingEmojiItems = getItems(pendingEmojis, 'pending/emojis.json');
+  assertNoTextDefaultEmojiSymbolOverlaps(
+    [...symbols, ...pendingSymbolItems],
+    [...emojis, ...pendingEmojiItems]
+  );
   const emojiSkinToneVariantKeys = getEmojiSkinToneVariantKeys(emojis);
   const symbolSearchPinyin = buildSearchPinyinIndex(symbols, {
     keyOf: (item) => item.id ?? item.symbol,
@@ -147,6 +152,14 @@ async function main() {
   console.log(
     `emojis: online=${emojis.length}, pending=${pendingEmojiItems.length}, categories=${emojiCategoryFiles.length}`
   );
+}
+
+function assertNoTextDefaultEmojiSymbolOverlaps(symbols, emojis) {
+  const overlaps = findTextDefaultEmojiSymbolOverlaps(symbols, emojis);
+  if (overlaps.length === 0) return;
+
+  const sample = overlaps.slice(0, 10).map((item) => `${item.symbol} ${item.name}`).join(', ');
+  throw new Error(`Text-default Emoji found in symbols (${overlaps.length}): ${sample}`);
 }
 
 function getItems(data, fileName) {

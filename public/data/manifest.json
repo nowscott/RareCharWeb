@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-11T07:48:32.940Z",
+  "generatedAt": "2026-08-11T10:41:01.993Z",
   "datasets": {
     "symbols": {
       "version": "v1.6.3",
-      "online": 5046,
+      "online": 4965,
       "pending": 0,
-      "total": 5046
+      "total": 4965
     },
     "emojis": {
       "version": "v1.2.3",
@@ -22,7 +22,7 @@
         {
           "id": "标点",
           "name": "标点",
-          "count": 218,
+          "count": 214,
           "file": "symbols/by-category/标点.json"
         },
         {
@@ -40,7 +40,7 @@
         {
           "id": "环保",
           "name": "环保",
-          "count": 12,
+          "count": 11,
           "file": "symbols/by-category/环保.json"
         },
         {
@@ -52,7 +52,7 @@
         {
           "id": "箭头",
           "name": "箭头",
-          "count": 602,
+          "count": 589,
           "file": "symbols/by-category/箭头.json"
         },
         {
@@ -70,7 +70,7 @@
         {
           "id": "其他",
           "name": "其他",
-          "count": 397,
+          "count": 386,
           "file": "symbols/by-category/其他.json"
         },
         {
@@ -82,7 +82,7 @@
         {
           "id": "数学",
           "name": "数学",
-          "count": 1666,
+          "count": 1665,
           "file": "symbols/by-category/数学.json"
         },
         {
@@ -94,20 +94,14 @@
         {
           "id": "天气",
           "name": "天气",
-          "count": 6,
+          "count": 2,
           "file": "symbols/by-category/天气.json"
         },
         {
           "id": "天文",
           "name": "天文",
-          "count": 54,
+          "count": 51,
           "file": "symbols/by-category/天文.json"
-        },
-        {
-          "id": "危险",
-          "name": "危险",
-          "count": 4,
-          "file": "symbols/by-category/危险.json"
         },
         {
           "id": "希腊",
@@ -118,7 +112,7 @@
         {
           "id": "信仰",
           "name": "信仰",
-          "count": 20,
+          "count": 13,
           "file": "symbols/by-category/信仰.json"
         },
         {
@@ -130,13 +124,13 @@
         {
           "id": "形状",
           "name": "形状",
-          "count": 576,
+          "count": 555,
           "file": "symbols/by-category/形状.json"
         },
         {
           "id": "性别",
           "name": "性别",
-          "count": 14,
+          "count": 11,
           "file": "symbols/by-category/性别.json"
         },
         {
@@ -148,13 +142,13 @@
         {
           "id": "娱乐",
           "name": "娱乐",
-          "count": 243,
+          "count": 238,
           "file": "symbols/by-category/娱乐.json"
         },
         {
           "id": "字母",
           "name": "字母",
-          "count": 333,
+          "count": 327,
           "file": "symbols/by-category/字母.json"
         }
       ]

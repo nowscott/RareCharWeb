@@ -3,6 +3,7 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { getEmojiKeys, isTextDefaultEmojiSymbol } from './emoji-boundary.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const rootDir = join(__dirname, '..');
@@ -156,12 +157,18 @@ async function updateEmojiData({ dryRun, maxNew, delayMs }) {
 }
 
 async function updateSymbolData({ dryRun, maxNew, delayMs }) {
-  const [onlineData, pendingData] = await Promise.all([
+  const [onlineData, pendingData, emojiData, pendingEmojiData] = await Promise.all([
     readJson(symbolItemsPath),
-    readJson(pendingSymbolPath)
+    readJson(pendingSymbolPath),
+    readJson(emojiItemsPath),
+    readJson(pendingEmojiPath)
   ]);
   const online = getItems(onlineData, 'symbols/items.json');
   const pending = getItems(pendingData, 'pending/symbols.json');
+  const emojiKeys = getEmojiKeys([
+    ...getItems(emojiData, 'emojis/items.json'),
+    ...getItems(pendingEmojiData, 'pending/emojis.json')
+  ]);
   const existing = new Set([...online, ...pending].map((item) => item.symbol));
   const additions = [];
   let fetched = 0;
@@ -172,6 +179,7 @@ async function updateSymbolData({ dryRun, maxNew, delayMs }) {
     const page = await fetchSymblBlock(block);
     for (const item of page.items) {
       fetched += 1;
+      if (isTextDefaultEmojiSymbol(item.symbol, emojiKeys)) continue;
       if (existing.has(item.symbol)) continue;
       existing.add(item.symbol);
       additions.push(item);
