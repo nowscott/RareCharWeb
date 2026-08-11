@@ -171,8 +171,11 @@ body {
 
 .stable-glass-card {
   border-radius: 1.5rem;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
 }
 
+.stable-glass-pill,
 .stable-glass-status {
   border-radius: 9999px;
 }
@@ -240,12 +243,6 @@ body {
   backdrop-filter: blur(14px) saturate(140%);
 }
 
-html.is-lenis-scrolling .stable-glass-card,
-html.lenis-scrolling .stable-glass-card {
-  -webkit-backdrop-filter: none;
-  backdrop-filter: none;
-}
-
 @media (prefers-color-scheme: dark) {
   .liquid-page::after {
     background:
@@ -265,7 +262,7 @@ html.lenis-scrolling .stable-glass-card {
     box-shadow: none;
   }
 
-  .category-chip-shell:hover {
+  .category-chip-shell:not(.category-chip-active):hover {
     background: rgba(30, 41, 59, 0.42);
     border-color: rgba(255, 255, 255, 0.38);
   }
@@ -383,7 +380,7 @@ html.lenis-scrolling .stable-glass-card {
   transition: background-color 120ms ease, border-color 120ms ease, color 120ms ease, transform 120ms ease;
 }
 
-.category-chip-shell:hover {
+.category-chip-shell:not(.category-chip-active):hover {
   background: rgba(255, 255, 255, 0.38);
   border-color: rgba(255, 255, 255, 0.84);
 }

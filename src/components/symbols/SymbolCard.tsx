@@ -26,7 +26,7 @@ const SymbolCard: React.FC<SymbolCardProps> = ({ symbol, onSelect }) => {
     <LiquidGlassSurface
       variant="card"
       onClick={() => onSelect?.(symbol)}
-      className="liquid-card p-3 sm:p-4 flex flex-col items-center justify-center cursor-pointer h-28 sm:h-32 relative group touch-manipulation"
+      className="liquid-card p-3 sm:p-4 flex flex-col items-center justify-center cursor-pointer h-24 sm:h-32 relative group touch-manipulation"
     >
       {variantCount > 0 && (
         <span className="absolute left-1.5 top-1.5 sm:left-2 sm:top-2 rounded-full bg-orange-100/80 px-2 py-0.5 text-[10px] font-medium text-orange-700 shadow-sm backdrop-blur-md dark:bg-orange-900/50 dark:text-orange-200">

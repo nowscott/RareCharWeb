@@ -222,11 +222,55 @@ function VirtualSymbolGrid({
   }, [restoredState, virtualizer]);
 
   useEffect(() => {
-    return () => {
+    let isLeavingRoute = false;
+
+    const saveCurrentState = () => {
       saveVirtualScrollState(layoutIdentity, {
         offset: lastUserScrollOffsetRef.current,
         measurements: virtualizer.takeSnapshot()
       });
+    };
+
+    const handleDocumentClick = (event: MouseEvent) => {
+      if (
+        event.button !== 0 ||
+        event.metaKey ||
+        event.ctrlKey ||
+        event.shiftKey ||
+        event.altKey ||
+        !(event.target instanceof Element)
+      ) {
+        return;
+      }
+
+      const anchor = event.target.closest<HTMLAnchorElement>('a[href]');
+      if (!anchor || anchor.target === '_blank' || anchor.hasAttribute('download')) return;
+
+      const destination = new URL(anchor.href, window.location.href);
+      if (destination.origin !== window.location.origin || destination.href === window.location.href) {
+        return;
+      }
+
+      // Next resets native scroll before unmounting the old route. Snapshot first
+      // so the cleanup does not replace the real position with zero.
+      isLeavingRoute = true;
+      saveCurrentState();
+    };
+
+    const handleHistoryNavigation = () => {
+      isLeavingRoute = true;
+      saveCurrentState();
+    };
+
+    document.addEventListener('click', handleDocumentClick, true);
+    window.addEventListener('popstate', handleHistoryNavigation);
+    window.addEventListener('pagehide', handleHistoryNavigation);
+
+    return () => {
+      document.removeEventListener('click', handleDocumentClick, true);
+      window.removeEventListener('popstate', handleHistoryNavigation);
+      window.removeEventListener('pagehide', handleHistoryNavigation);
+      if (!isLeavingRoute) saveCurrentState();
     };
   }, [layoutIdentity, virtualizer]);
 

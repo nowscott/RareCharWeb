@@ -9,10 +9,9 @@ export interface SymbolData {
   notes: string;
   variants?: SymbolVariantData[];
   _variantBaseSymbol?: string;
-  // 预计算字段 — 服务端填充，客户端搜索直接读取
-  _namePinyin?: string;
-  _notesPinyin?: string;
-  _searchTermsPinyin?: string[];
+  // 服务端搜索索引字段，输出客户端前会被剔除
+  _searchPinyin?: string[];
+  _searchSourceIds?: string[];
 }
 
 export interface SymbolVariantData {
