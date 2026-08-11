@@ -1,3 +1,11 @@
+## [1.14.1](https://github.com/nowscott/RareCharWeb/compare/v1.14.0...v1.14.1) (2026-08-11)
+
+
+### 问题修复
+
+* **页面导航:** 恢复符号、Emoji 和关于页的可视链接预取，避免首次点击后才下载目标页面资源造成明显等待
+
+
 ## [1.14.0](https://github.com/nowscott/RareCharWeb/compare/v1.13.9...v1.14.0) (2026-08-11)
 
 
