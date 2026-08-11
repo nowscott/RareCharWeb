@@ -1,6 +1,6 @@
 {
   "category": "形状",
-  "total": 576,
+  "total": 555,
   "items": [
     {
       "id": "symbol-25a0-299",
@@ -173,40 +173,6 @@
       "notes": "▩ 是一个内部带有交叉条纹（水平、垂直及对角线条纹）的方块，形成十字形图案。用于表示特殊状态或作为装饰性符号。"
     },
     {
-      "id": "symbol-25aa-309",
-      "symbol": "▪",
-      "name": "小实心方块",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "小实心方块",
-        "形状",
-        "25AA",
-        "U+25AA",
-        "Black Small Square",
-        "Geometric Shapes"
-      ],
-      "notes": "▪ 是一个较小的黑色实心方块，常用于项目符号、列表标记或作为强调符号。"
-    },
-    {
-      "id": "symbol-25ab-310",
-      "symbol": "▫",
-      "name": "小空心方块",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "小空心方块",
-        "形状",
-        "25AB",
-        "U+25AB",
-        "White Small Square",
-        "Geometric Shapes"
-      ],
-      "notes": "▫ 是一个较小的白色空心方块，常用于项目符号、列表标记或装饰性用途。"
-    },
-    {
       "id": "symbol-25ac-311",
       "symbol": "▬",
       "name": "实心矩形",
@@ -377,23 +343,6 @@
       "notes": "▵ 是一个较小的空心上三角形，通常用于装饰或图形标记。"
     },
     {
-      "id": "symbol-25b6-321",
-      "symbol": "▶",
-      "name": "实心右三角",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "实心右三角",
-        "形状",
-        "25B6",
-        "U+25B6",
-        "Play Button",
-        "Geometric Shapes"
-      ],
-      "notes": "▶ 是一个实心右三角形，常用于播放按钮、指示方向或表示前进。"
-    },
-    {
       "id": "symbol-25b7-322",
       "symbol": "▷",
       "name": "空心右三角",
@@ -545,23 +494,6 @@
         "Geometric Shapes"
       ],
       "notes": "▿ 是一个较小的空心下三角形，用于装饰或图形标记。"
-    },
-    {
-      "id": "symbol-25c0-331",
-      "symbol": "◀",
-      "name": "实心左三角",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "实心左三角",
-        "形状",
-        "25C0",
-        "U+25C0",
-        "Reverse Button",
-        "Geometric Shapes"
-      ],
-      "notes": "◀ 是一个实心左三角形，常用于播放按钮、方向指示或返回的标志。"
     },
     {
       "id": "symbol-25c1-332",
@@ -2666,40 +2598,6 @@
         "Geometric Shapes"
       ],
       "notes": "◺ 是下部左三角形的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-25fb-4038",
-      "symbol": "◻",
-      "name": "白色中等方形",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "白色中等方形",
-        "White Medium Square",
-        "形状",
-        "25FB",
-        "U+25FB",
-        "Geometric Shapes"
-      ],
-      "notes": "◻ 是白色中等方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-25fc-4039",
-      "symbol": "◼",
-      "name": "黑色中等方形",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "黑色中等方形",
-        "Black Medium Square",
-        "形状",
-        "25FC",
-        "U+25FC",
-        "Geometric Shapes"
-      ],
-      "notes": "◼ 是黑色中等方形的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
       "id": "symbol-25fd-4040",
@@ -6993,22 +6891,6 @@
       "notes": "✁ 是上部刀刃剪刀的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
-      "id": "symbol-2702-4308",
-      "symbol": "✂",
-      "name": "剪刀",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "剪刀",
-        "Scissors",
-        "形状",
-        "2702",
-        "U+2702"
-      ],
-      "notes": "✂ 是剪刀的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
       "id": "symbol-2703-4309",
       "symbol": "✃",
       "name": "下刃剪刀",
@@ -7089,38 +6971,6 @@
       "notes": "✇ 是磁带驱动器的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
-      "id": "symbol-2708-4314",
-      "symbol": "✈",
-      "name": "飞机",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "飞机",
-        "Airplane",
-        "形状",
-        "2708",
-        "U+2708"
-      ],
-      "notes": "✈ 是飞机的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-2709-4315",
-      "symbol": "✉",
-      "name": "信封",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "信封",
-        "Envelope",
-        "形状",
-        "2709",
-        "U+2709"
-      ],
-      "notes": "✉ 是信封的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
       "id": "symbol-270a-4316",
       "symbol": "✊",
       "name": "举起的拳头",
@@ -7153,38 +7003,6 @@
       "notes": "✋ 是举起的手的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
-      "id": "symbol-270c-4318",
-      "symbol": "✌",
-      "name": "胜利手势",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "胜利手势",
-        "Victory Hand",
-        "形状",
-        "270C",
-        "U+270C"
-      ],
-      "notes": "✌ 是胜利手势的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-270d-4319",
-      "symbol": "✍",
-      "name": "书写的手",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "书写的手",
-        "Writing Hand",
-        "形状",
-        "270D",
-        "U+270D"
-      ],
-      "notes": "✍ 是书写的手的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
       "id": "symbol-270e-4320",
       "symbol": "✎",
       "name": "下部右铅笔",
@@ -7199,22 +7017,6 @@
         "U+270E"
       ],
       "notes": "✎ 是下部右铅笔的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-270f-4321",
-      "symbol": "✏",
-      "name": "铅笔",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "铅笔",
-        "Pencil",
-        "形状",
-        "270F",
-        "U+270F"
-      ],
-      "notes": "✏ 是铅笔的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
       "id": "symbol-2710-4322",
@@ -7249,22 +7051,6 @@
       "notes": "✑ 是白色笔尖的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
-      "id": "symbol-2712-4324",
-      "symbol": "✒",
-      "name": "黑色笔尖",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "黑色笔尖",
-        "Black Nib",
-        "形状",
-        "2712",
-        "U+2712"
-      ],
-      "notes": "✒ 是黑色笔尖的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
       "id": "symbol-2713-4325",
       "symbol": "✓",
       "name": "对勾",
@@ -7281,22 +7067,6 @@
       "notes": "✓ 是对勾的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
-      "id": "symbol-2714-4326",
-      "symbol": "✔",
-      "name": "对勾",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "对勾",
-        "Check Mark",
-        "形状",
-        "2714",
-        "U+2714"
-      ],
-      "notes": "✔ 是对勾的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
       "id": "symbol-2715-4327",
       "symbol": "✕",
       "name": "乘号叉",
@@ -7311,22 +7081,6 @@
         "U+2715"
       ],
       "notes": "✕ 是乘号叉的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-2716-4328",
-      "symbol": "✖",
-      "name": "粗乘号叉",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "粗乘号叉",
-        "Multiply",
-        "形状",
-        "2716",
-        "U+2716"
-      ],
-      "notes": "✖ 是粗乘号叉的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
       "id": "symbol-2717-4329",
@@ -7745,38 +7499,6 @@
       "notes": "✲ 是空心星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
-      "id": "symbol-2733-4355",
-      "symbol": "✳",
-      "name": "八辐星号",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "八辐星号",
-        "Eight-Spoked Asterisk",
-        "形状",
-        "2733",
-        "U+2733"
-      ],
-      "notes": "✳ 是八辐星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-2734-4356",
-      "symbol": "✴",
-      "name": "八-尖角星形",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "八-尖角星形",
-        "Eight-Pointed Star",
-        "形状",
-        "2734",
-        "U+2734"
-      ],
-      "notes": "✴ 是八-尖角星形的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
       "id": "symbol-2735-4357",
       "symbol": "✵",
       "name": "八尖角风车星形",
@@ -8017,22 +7739,6 @@
       "notes": "❃ 是粗泪滴辐风车星号的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
-      "id": "symbol-2744-4372",
-      "symbol": "❄",
-      "name": "雪花",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "雪花",
-        "Snowflake",
-        "形状",
-        "2744",
-        "U+2744"
-      ],
-      "notes": "❄ 是雪花的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
       "id": "symbol-2745-4373",
       "symbol": "❅",
       "name": "紧密三叶雪花",
@@ -8063,22 +7769,6 @@
         "U+2746"
       ],
       "notes": "❆ 是粗人字形雪花的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-2747-4375",
-      "symbol": "❇",
-      "name": "闪光符号",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "闪光符号",
-        "Sparkle",
-        "形状",
-        "2747",
-        "U+2747"
-      ],
-      "notes": "❇ 是闪光符号的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
       "id": "symbol-2748-4376",
@@ -8511,38 +8201,6 @@
         "U+2762"
       ],
       "notes": "❢ 是粗感叹号装饰的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-2763-4403",
-      "symbol": "❣",
-      "name": "心形感叹号",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "心形感叹号",
-        "Heart Exclamation",
-        "形状",
-        "2763",
-        "U+2763"
-      ],
-      "notes": "❣ 是心形感叹号的 Unicode 图形字符，可用于图标、标记和文本排版。"
-    },
-    {
-      "id": "symbol-2764-4404",
-      "symbol": "❤",
-      "name": "红心",
-      "category": [
-        "形状"
-      ],
-      "searchTerms": [
-        "红心",
-        "Red Heart",
-        "形状",
-        "2764",
-        "U+2764"
-      ],
-      "notes": "❤ 是红心的 Unicode 图形字符，可用于图标、标记和文本排版。"
     },
     {
       "id": "symbol-2765-4405",

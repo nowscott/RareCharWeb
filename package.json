@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "eslint .",
     "data:build": "node scripts/build-data.mjs",
+    "data:migrate-text-emojis": "node scripts/migrate-text-default-emojis.mjs",
     "data:promote-emojis": "node scripts/promote-pending-emojis.mjs",
     "data:enrich-missing-emojis": "node scripts/enrich-missing-emojis.mjs",
     "data:enrich-emoji-tones": "node scripts/enrich-emoji-skin-tones.mjs",

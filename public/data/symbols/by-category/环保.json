@@ -1,6 +1,6 @@
 {
   "category": "环保",
-  "total": 12,
+  "total": 11,
   "items": [
     {
       "id": "symbol-2672-410",
@@ -161,23 +161,6 @@
         "Miscellaneous Symbols"
       ],
       "notes": "♺ 表示“塑料回收标志”，用于指示塑料制品是可回收的。这一标志通常伴随数字或缩写（如PET、HDPE等），用于进一步说明塑料的种类和回收特性，有助于分类回收和循环利用。"
-    },
-    {
-      "id": "symbol-267b-419",
-      "symbol": "♻",
-      "name": "回收",
-      "category": [
-        "环保"
-      ],
-      "searchTerms": [
-        "回收",
-        "环保",
-        "267B",
-        "U+267B",
-        "Recycling Symbol",
-        "Miscellaneous Symbols"
-      ],
-      "notes": "♻ 表示“循环利用”或“回收标志”，常用于提示某物品由可回收材料制成，或该物品可进行回收处理。它是全球通用的环保标志，象征资源的可持续循环利用。"
     },
     {
       "id": "symbol-267c-420",

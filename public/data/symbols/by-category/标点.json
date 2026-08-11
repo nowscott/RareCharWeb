@@ -1,6 +1,6 @@
 {
   "category": "标点",
-  "total": 218,
+  "total": 214,
   "items": [
     {
       "id": "symbol-a1-2",
@@ -719,24 +719,6 @@
       "notes": "※ 是参考标记，Unicode 编码为 U+203B，属于General Punctuation字符，适合在专业排版、校勘或文本标注场景中使用。"
     },
     {
-      "id": "symbol-203c-1071",
-      "symbol": "‼",
-      "name": "双感叹号",
-      "category": [
-        "标点"
-      ],
-      "searchTerms": [
-        "双感叹号",
-        "标点",
-        "Double Exclamation Mark",
-        "General Punctuation",
-        "203C",
-        "U+203C",
-        "感叹号"
-      ],
-      "notes": "‼ 是双感叹号，Unicode 编码为 U+203C，用于表示疑问、惊叹或两种语气叠加的标点效果。"
-    },
-    {
       "id": "symbol-203d-1072",
       "symbol": "‽",
       "name": "问叹号",
@@ -947,25 +929,6 @@
         "感叹号"
       ],
       "notes": "⁈ 是问号感叹号，Unicode 编码为 U+2048，用于表示疑问、惊叹或两种语气叠加的标点效果。"
-    },
-    {
-      "id": "symbol-2049-1084",
-      "symbol": "⁉",
-      "name": "感叹号问号",
-      "category": [
-        "标点"
-      ],
-      "searchTerms": [
-        "感叹号问号",
-        "标点",
-        "Exclamation Question Mark",
-        "General Punctuation",
-        "2049",
-        "U+2049",
-        "问号",
-        "感叹号"
-      ],
-      "notes": "⁉ 是感叹号问号，Unicode 编码为 U+2049，用于表示疑问、惊叹或两种语气叠加的标点效果。"
     },
     {
       "id": "symbol-204a-1085",
@@ -3678,25 +3641,6 @@
       "notes": "〯 是韩文双点声调符，Unicode 编码为 U+302F，用于历史韩文文本或语言学材料中的声调标注。"
     },
     {
-      "id": "symbol-3030-1245",
-      "symbol": "〰",
-      "name": "波浪破折号",
-      "category": [
-        "标点"
-      ],
-      "searchTerms": [
-        "波浪破折号",
-        "标点",
-        "Wavy Dash",
-        "CJK Symbols and Punctuation",
-        "3030",
-        "U+3030",
-        "破折号",
-        "连字符"
-      ],
-      "notes": "〰 是波浪破折号，Unicode 编码为 U+3030，常用于中文、日文或其他东亚文本的标点、括注和排版标记。"
-    },
-    {
       "id": "symbol-3031-1246",
       "symbol": "〱",
       "name": "竖排假名重复符",
@@ -3865,23 +3809,6 @@
         "U+303C"
       ],
       "notes": "〼 是升合标记，Unicode 编码为 U+303C，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
-    },
-    {
-      "id": "symbol-303d-1258",
-      "symbol": "〽",
-      "name": "庵点",
-      "category": [
-        "标点"
-      ],
-      "searchTerms": [
-        "庵点",
-        "标点",
-        "Part Alternation Mark",
-        "CJK Symbols and Punctuation",
-        "303D",
-        "U+303D"
-      ],
-      "notes": "〽 是庵点，Unicode 编码为 U+303D，常用于中文、日文或其他东亚文本的排版、标注和特殊分隔。"
     },
     {
       "id": "symbol-303e-1259",

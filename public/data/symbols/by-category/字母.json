@@ -1,6 +1,6 @@
 {
   "category": "字母",
-  "total": 333,
+  "total": 327,
   "items": [
     {
       "id": "symbol-2133-216",
@@ -1152,23 +1152,6 @@
         "数学字母"
       ],
       "notes": "ℴ 是花体小写 O，Unicode 编码为 U+2134，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
-    },
-    {
-      "id": "symbol-2139-1304",
-      "symbol": "ℹ",
-      "name": "信息符号",
-      "category": [
-        "字母"
-      ],
-      "searchTerms": [
-        "信息符号",
-        "字母",
-        "Information",
-        "Letterlike Symbols",
-        "2139",
-        "U+2139"
-      ],
-      "notes": "ℹ 是信息符号，Unicode 编码为 U+2139，属于类字母符号，常用于数学排版、专业标记或装饰性字母表示。"
     },
     {
       "id": "symbol-213a-1305",
@@ -2380,28 +2363,6 @@
         "圈号"
       ],
       "notes": "Ⓛ 是带圈大写字母 L，Unicode 编码为 U+24C1，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
-    },
-    {
-      "id": "symbol-24c2-1431",
-      "symbol": "Ⓜ",
-      "name": "带圈字母 M",
-      "category": [
-        "字母"
-      ],
-      "searchTerms": [
-        "带圈字母 M",
-        "字母",
-        "Circled M",
-        "Enclosed Alphanumerics",
-        "24C2",
-        "U+24C2",
-        "英文字母",
-        "拉丁字母",
-        "字母编号",
-        "带圈",
-        "圈号"
-      ],
-      "notes": "Ⓜ 是带圈字母 M，Unicode 编码为 U+24C2，适合用于字母编号、索引标记、图例标签或装饰性拉丁字母排版。"
     },
     {
       "id": "symbol-24c3-1432",
@@ -5116,44 +5077,6 @@
       "notes": "🅭 是带圈 CC，Unicode 编码为 U+1F16D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
     },
     {
-      "id": "symbol-1f170-1605",
-      "symbol": "🅰",
-      "name": "A 按钮",
-      "category": [
-        "字母"
-      ],
-      "searchTerms": [
-        "A 按钮",
-        "字母",
-        "Enclosed Alphanumeric Supplement",
-        "1F170",
-        "U+1F170",
-        "拉丁字母",
-        "按钮",
-        "标签"
-      ],
-      "notes": "🅰 是 A 按钮，Unicode 编码为 U+1F170，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
-    },
-    {
-      "id": "symbol-1f171-1606",
-      "symbol": "🅱",
-      "name": "B 按钮",
-      "category": [
-        "字母"
-      ],
-      "searchTerms": [
-        "B 按钮",
-        "字母",
-        "Enclosed Alphanumeric Supplement",
-        "1F171",
-        "U+1F171",
-        "拉丁字母",
-        "按钮",
-        "标签"
-      ],
-      "notes": "🅱 是 B 按钮，Unicode 编码为 U+1F171，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
-    },
-    {
       "id": "symbol-1f172-1607",
       "symbol": "🅲",
       "name": "反白方框大写字母 C",
@@ -5380,44 +5303,6 @@
         "标签"
       ],
       "notes": "🅽 是反白方框大写字母 N，Unicode 编码为 U+1F17D，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
-    },
-    {
-      "id": "symbol-1f17e-1619",
-      "symbol": "🅾",
-      "name": "O 按钮",
-      "category": [
-        "字母"
-      ],
-      "searchTerms": [
-        "O 按钮",
-        "字母",
-        "Enclosed Alphanumeric Supplement",
-        "1F17E",
-        "U+1F17E",
-        "拉丁字母",
-        "按钮",
-        "标签"
-      ],
-      "notes": "🅾 是 O 按钮，Unicode 编码为 U+1F17E，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
-    },
-    {
-      "id": "symbol-1f17f-1620",
-      "symbol": "🅿",
-      "name": "P 按钮",
-      "category": [
-        "字母"
-      ],
-      "searchTerms": [
-        "P 按钮",
-        "字母",
-        "Enclosed Alphanumeric Supplement",
-        "1F17F",
-        "U+1F17F",
-        "拉丁字母",
-        "按钮",
-        "标签"
-      ],
-      "notes": "🅿 是 P 按钮，Unicode 编码为 U+1F17F，适合用于字母标签、按钮标识、图例编号或装饰性拉丁字母排版。"
     },
     {
       "id": "symbol-1f180-1621",
